@@ -1,0 +1,45 @@
+name: Build multilingual search-intent dataset
+on:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/build_multilingual_dataset.py"
+      - "Processing/selected_sources_for_3_languages.csv"
+      - ".github/workflows/build_multilingual.yml"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install translation tooling
+        run: |
+          python -m pip install 'transformers>=4.41,<5' 'torch>=2.2,<3' 'sentencepiece>=0.1.99' 'sacremoses>=0.1'
+      - name: Translate
+        env:
+          HF_HUB_DISABLE_TELEMETRY: "1"
+          TOKENIZERS_PARALLELISM: "false"
+        run: python scripts/build_multilingual_dataset.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: search-queries-multilingual
+          path: |
+            Ready/queries_multilingual.csv
+            Ready/queries_provenance.csv
+            Ready/quality_report.json
+            Ready/README.md
+      - name: Publish result
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add Ready/queries_multilingual.csv Ready/queries_provenance.csv Ready/quality_report.json Ready/README.md
+          if ! git diff --cached --quiet; then
+            git commit -m "Build multilingual queries from real RU source [skip ci]"
+            git push
+          fi
