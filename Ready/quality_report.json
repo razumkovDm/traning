@@ -1,0 +1,139 @@
+{
+  "target_rows": 6300,
+  "source": "Bukvarix processed exports",
+  "source_collected_at": null,
+  "models": {
+    "uk": "Helsinki-NLP/opus-mt-ru-uk",
+    "en": "Helsinki-NLP/opus-mt-ru-en"
+  },
+  "counts": {
+    "INFORMATIONAL": {
+      "ru": {
+        "rows": 300,
+        "target": 300,
+        "missing": 0
+      },
+      "uk": {
+        "rows": 300,
+        "target": 300,
+        "missing": 0
+      },
+      "en": {
+        "rows": 300,
+        "target": 300,
+        "missing": 0
+      }
+    },
+    "COMMERCIAL": {
+      "ru": {
+        "rows": 300,
+        "target": 300,
+        "missing": 0
+      },
+      "uk": {
+        "rows": 300,
+        "target": 300,
+        "missing": 0
+      },
+      "en": {
+        "rows": 300,
+        "target": 300,
+        "missing": 0
+      }
+    },
+    "TRANSACTIONAL": {
+      "ru": {
+        "rows": 300,
+        "target": 300,
+        "missing": 0
+      },
+      "uk": {
+        "rows": 300,
+        "target": 300,
+        "missing": 0
+      },
+      "en": {
+        "rows": 300,
+        "target": 300,
+        "missing": 0
+      }
+    },
+    "NAVIGATIONAL": {
+      "ru": {
+        "rows": 300,
+        "target": 300,
+        "missing": 0
+      },
+      "uk": {
+        "rows": 300,
+        "target": 300,
+        "missing": 0
+      },
+      "en": {
+        "rows": 300,
+        "target": 300,
+        "missing": 0
+      }
+    },
+    "LOCAL": {
+      "ru": {
+        "rows": 300,
+        "target": 300,
+        "missing": 0
+      },
+      "uk": {
+        "rows": 300,
+        "target": 300,
+        "missing": 0
+      },
+      "en": {
+        "rows": 295,
+        "target": 300,
+        "missing": 5
+      }
+    },
+    "MIXED": {
+      "ru": {
+        "rows": 300,
+        "target": 300,
+        "missing": 0
+      },
+      "uk": {
+        "rows": 300,
+        "target": 300,
+        "missing": 0
+      },
+      "en": {
+        "rows": 300,
+        "target": 300,
+        "missing": 0
+      }
+    },
+    "UNKNOWN": {
+      "ru": {
+        "rows": 300,
+        "target": 300,
+        "missing": 0
+      },
+      "uk": {
+        "rows": 300,
+        "target": 300,
+        "missing": 0
+      },
+      "en": {
+        "rows": 32,
+        "target": 300,
+        "missing": 268
+      }
+    }
+  },
+  "warnings": [
+    "Generated translations require manual QA, especially entities, slang and ambiguous intent.",
+    "UNKNOWN cannot be semantically translated: keyboard-mash adaptation is explicitly marked.",
+    "Source collection date unknown; collected_at is deliberately blank.",
+    "RU sources are taken from the user-provided Bukvarix export; UK/EN translations are derived, not observed searches.",
+    "Missing source queries are not fabricated; consult missing_rows and class counts."
+  ],
+  "total_rows": 6027,
+  "missing_rows": 273
+}
