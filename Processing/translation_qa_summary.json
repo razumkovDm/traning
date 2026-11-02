@@ -1,0 +1,38 @@
+{
+  "run": "Initial heuristic QA, not exhaustive human review",
+  "totalRows": 6027,
+  "rowsWithFlags": 1348,
+  "reasonCounts": {
+    "lost_intent_marker": 558,
+    "overly_short_translation": 43,
+    "suspicious_media_character": 22,
+    "duplicate_translated_query": 73,
+    "mixed_two_intents_not_visible": 79,
+    "keyboard_adaptation_not_translation": 632,
+    "source_may_be_classifiable": 18
+  },
+  "groups": {
+    "INFORMATIONAL:ru": 300,
+    "INFORMATIONAL:uk": 300,
+    "INFORMATIONAL:en": 300,
+    "COMMERCIAL:ru": 300,
+    "COMMERCIAL:uk": 300,
+    "COMMERCIAL:en": 300,
+    "TRANSACTIONAL:ru": 300,
+    "TRANSACTIONAL:uk": 300,
+    "TRANSACTIONAL:en": 300,
+    "NAVIGATIONAL:ru": 300,
+    "NAVIGATIONAL:uk": 300,
+    "NAVIGATIONAL:en": 300,
+    "LOCAL:ru": 300,
+    "LOCAL:uk": 300,
+    "LOCAL:en": 295,
+    "MIXED:ru": 300,
+    "MIXED:uk": 300,
+    "MIXED:en": 300,
+    "UNKNOWN:ru": 300,
+    "UNKNOWN:uk": 300,
+    "UNKNOWN:en": 32
+  },
+  "advice": "Flags are indicators. A non-flagged translation is not necessarily correct; manual semantic review is still necessary."
+}
