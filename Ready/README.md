@@ -1,11 +1,11 @@
-# Multilingual search-intent dataset
+# Результаты выборки
 
-queries_multilingual.csv follows example/queries_example.csv (text;language;collected_at;class_example).
+**Внимание:** `Ready/queries_ru_7_classes.csv` содержит предварительно отобранные 2 100 оригинальных запросов из Букварикса, по 300 на класс. Правила отбора и тематические метки ещё требуют проверки. `Ready/queries_ru_with_frequency.csv` хранит частотность этих оригиналов.
 
-queries_provenance.csv maps every translated row to its original Russian Bukvarix phrase and exact frequency.
+Большая многоязычная выгрузка (6 027 строк) подготовлена автоматически, но проверка выявила заметные ошибки в RU→UK и RU→EN переводах, и не все исходные запросы однозначно соответствуют классу. Поэтому она помещена в папку `Processing/`, **а не здесь**:
 
-quality_report.json provides class/language counts and shortfalls.
+- `Processing/queries_multilingual_draft.csv`
+- `Processing/queries_provenance_draft.csv`
+- `Processing/quality_report_draft.json`
 
-Ukrainian and English rows are OPUS-MT translations and are not observed search queries; human review required.
-
-UNKNOWN strings are keyboard adapted rather than translated. Original collection dates are unknown and are left blank.
+Нельзя использовать черновик как готовую обучающую выборку без ручной языковой и классификационной проверки. Требуемый размер 6 300 не достигнут: недостаёт 273 строк, включая в основном UNKNOWN. Исходные CSV не содержат достоверную дату сбора, поэтому столбец collected_at оставлен пустым.
