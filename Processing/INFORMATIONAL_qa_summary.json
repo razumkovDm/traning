@@ -1,0 +1,88 @@
+{
+  "source_commit": "9d85dc60c5c3bc26f01dcb44e25e56868c8361ad",
+  "class": "INFORMATIONAL",
+  "counts": {
+    "ru": 300,
+    "uk": 300,
+    "en": 300
+  },
+  "prior_qa": {
+    "uk": 60,
+    "en": 84
+  },
+  "review_status_counts": {
+    "ru": {
+      "RU_SOURCE_ORIGINAL": 293,
+      "RU_CLASS_REVIEW": 7
+    },
+    "uk": {
+      "TRANSLATION_CONFIRMED_WRONG": 12,
+      "MT_UNVALIDATED": 223,
+      "TRANSLATION_RISK": 65
+    },
+    "en": {
+      "MT_UNVALIDATED": 199,
+      "TRANSLATION_CONFIRMED_WRONG": 13,
+      "TRANSLATION_RISK": 88
+    }
+  },
+  "auto_flag_counts": {
+    "ru": {
+      "POSSIBLE_COMMERCIAL_INTENT": 7
+    },
+    "uk": {
+      "MANUALLY_CONFIRMED_TRANSLATION_ERROR": 12,
+      "ORIGINAL_QA_lost_intent_marker": 59,
+      "QUANTITY_QUESTION_MAY_BE_LOST": 37,
+      "WHEN_QUESTION_MAY_BE_LOST": 14,
+      "PURPOSE_QUESTION_MAY_BE_LOST": 15,
+      "WHERE_QUESTION_MAY_BE_LOST": 1,
+      "NUMERIC_TOKEN_CHANGED_POSSIBLY": 2,
+      "ORIGINAL_QA_overly_short_translation": 1,
+      "DEFINITION_QUESTION_MAY_BE_LOST": 1
+    },
+    "en": {
+      "MANUALLY_CONFIRMED_TRANSLATION_ERROR": 13,
+      "ORIGINAL_QA_lost_intent_marker": 80,
+      "QUANTITY_QUESTION_MAY_BE_LOST": 52,
+      "WHERE_QUESTION_MAY_BE_LOST": 3,
+      "ORIGINAL_QA_overly_short_translation": 2,
+      "WHEN_QUESTION_MAY_BE_LOST": 15,
+      "ORIGINAL_QA_suspicious_media_character": 5,
+      "CORRUPT_OUTPUT_SYMBOLS": 5,
+      "PURPOSE_QUESTION_MAY_BE_LOST": 8,
+      "DEFINITION_QUESTION_MAY_BE_LOST": 4,
+      "DUPLICATE_TRANSLATED_TEXT": 2
+    }
+  },
+  "topic_counts": {
+    "ru": {
+      "quantity": 96,
+      "time": 82,
+      "purpose": 60,
+      "medical": 42,
+      "entertainment": 34
+    },
+    "uk": {
+      "quantity": 123,
+      "time": 59,
+      "purpose": 67,
+      "medical": 38,
+      "entertainment": 18
+    },
+    "en": {
+      "quantity": 114,
+      "time": 66,
+      "purpose": 54,
+      "medical": 31,
+      "entertainment": 35
+    }
+  },
+  "manual_confirmed_error_examples": 25,
+  "rows_with_any_qa_flag": 185,
+  "limitations": [
+    "Heuristic markers can falsely flag valid translations.",
+    "Non-flagged translations are not manually validated.",
+    "This report audits only INFORMATIONAL; original datasets untouched."
+  ]
+}
