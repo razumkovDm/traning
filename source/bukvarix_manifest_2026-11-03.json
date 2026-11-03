@@ -1,0 +1,171 @@
+{
+  "note": "Original CSV sources extracted from user-provided Bukvarix ZIP. Long filenames normalized; original_filename preserved. UTF-8/CSV bytes unchanged.",
+  "archive_sha256": "531900570b25ea51183371435f88e1350b019e6eacba955c0ce3ef235093e8aa",
+  "source_files": 9,
+  "source_classes": [
+    "COMMERCIAL",
+    "INFORMATIONAL",
+    "LOCAL",
+    "MIXED",
+    "NAVIGATIONAL",
+    "TRANSACTIONAL"
+  ],
+  "total_queries": 2440940,
+  "total_bytes": 196813372,
+  "entries": [
+    {
+      "category": "COMMERCIAL",
+      "filename": "gmsk_expertcen.ru.csv",
+      "original_filename": "gmsk_expertcen.ru.csv",
+      "path": "COMMERCIAL/gmsk_expertcen.ru.csv",
+      "size_bytes": 35412844,
+      "rows": 418555,
+      "sha256": "dd6b7e4a7479cc78d36504b4e5ae9ba2e1faf1d00010cbc70eca1d8091175f80",
+      "columns": [
+        "Ключевое слово",
+        "Результатов в Google",
+        "Слов",
+        "Символов",
+        "Частотность Весь мир",
+        "\"!Частотность !Весь !мир\"",
+        "Позиция в выдаче Google"
+      ]
+    },
+    {
+      "category": "COMMERCIAL",
+      "filename": "gmsk_vyboroved.ru.csv",
+      "original_filename": "gmsk_vyboroved.ru.csv",
+      "path": "COMMERCIAL/gmsk_vyboroved.ru.csv",
+      "size_bytes": 14064765,
+      "rows": 163586,
+      "sha256": "03758598148fb0dd34e6d5802515acb792ede19a3f22bdbb5caeff2697b0078f",
+      "columns": [
+        "Ключевое слово",
+        "Результатов в Google",
+        "Слов",
+        "Символов",
+        "Частотность Весь мир",
+        "\"!Частотность !Весь !мир\"",
+        "Позиция в выдаче Google"
+      ]
+    },
+    {
+      "category": "INFORMATIONAL",
+      "filename": "gmsk_nkj.ru.csv",
+      "original_filename": "gmsk_nkj.ru.csv",
+      "path": "INFORMATIONAL/gmsk_nkj.ru.csv",
+      "size_bytes": 69065863,
+      "rows": 934705,
+      "sha256": "d9126c36587e935148331f77a5b13b32caa8804ad9d36e018cbfe7421c162ce5",
+      "columns": [
+        "Ключевое слово",
+        "Результатов в Google",
+        "Слов",
+        "Символов",
+        "Частотность Весь мир",
+        "\"!Частотность !Весь !мир\"",
+        "Позиция в выдаче Google"
+      ]
+    },
+    {
+      "category": "INFORMATIONAL",
+      "filename": "gmsk_pochemuha.ru.csv",
+      "original_filename": "gmsk_pochemuha.ru.csv",
+      "path": "INFORMATIONAL/gmsk_pochemuha.ru.csv",
+      "size_bytes": 700189,
+      "rows": 8564,
+      "sha256": "7a42ece61cc8f95531a6417d8c8df0eb983f94465afc212cdf83b14587cb4bd5",
+      "columns": [
+        "Ключевое слово",
+        "Результатов в Google",
+        "Слов",
+        "Символов",
+        "Частотность Весь мир",
+        "\"!Частотность !Весь !мир\"",
+        "Позиция в выдаче Google"
+      ]
+    },
+    {
+      "category": "INFORMATIONAL",
+      "filename": "rus_lifehacker.ru.csv",
+      "original_filename": "rus_lifehacker.ru.csv",
+      "path": "INFORMATIONAL/rus_lifehacker.ru.csv",
+      "size_bytes": 29218722,
+      "rows": 347478,
+      "sha256": "c95a143cd652bc0172440302744a824e97c2a3de88f3317dee2aa3f5374bb8fe",
+      "columns": [
+        "Ключевое слово",
+        "Результатов в Яндексе",
+        "Слов",
+        "Символов",
+        "Частотность Весь мир",
+        "\"!Частотность !Весь !мир\"",
+        "Позиция в выдаче Яндекса"
+      ]
+    },
+    {
+      "category": "LOCAL",
+      "filename": "bukvarix_LOCAL.csv",
+      "original_filename": "!рядом +со !мной... (ключевые слова - 9 искать, 5 исключать)[Точная=100..max,Слов=2..max].csv",
+      "path": "LOCAL/bukvarix_LOCAL.csv",
+      "size_bytes": 3599840,
+      "rows": 50723,
+      "sha256": "f0ada60c73d7f931ab20a49f13df3e43dcadebe6d616c05ddca694b8929624aa",
+      "columns": [
+        "Ключевое слово",
+        "Слов",
+        "Символов",
+        "Частотность Весь мир",
+        "\"!Частотность !Весь !мир\""
+      ]
+    },
+    {
+      "category": "MIXED",
+      "filename": "bukvarix_MIXED.csv",
+      "original_filename": "(обзор_отзывы_сравнение) (цена_стоимость_купить_заказать)... (ключевые слова - 48 искать, 0 исключать)[Точная=10..max,Слов=2..max].csv",
+      "path": "MIXED/bukvarix_MIXED.csv",
+      "size_bytes": 13568904,
+      "rows": 126191,
+      "sha256": "f9870772a83dc48a8948ffbed77f4d38b27e13dfee4505c714e3817414add0e5",
+      "columns": [
+        "Ключевое слово",
+        "Слов",
+        "Символов",
+        "Частотность Весь мир",
+        "\"!Частотность !Весь !мир\""
+      ]
+    },
+    {
+      "category": "NAVIGATIONAL",
+      "filename": "bukvarix_NAVIGATIONAL.csv",
+      "original_filename": "!официальный !сайт... (ключевые слова - 12 искать, 1 исключать)[Точная=100..max,Слов=2..max].csv",
+      "path": "NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv",
+      "size_bytes": 21853696,
+      "rows": 251299,
+      "sha256": "e41a38ecf6d4c61158898e57903170ac0237904c212c51a8a5dd06ea09a0e75f",
+      "columns": [
+        "Ключевое слово",
+        "Слов",
+        "Символов",
+        "Частотность Весь мир",
+        "\"!Частотность !Весь !мир\""
+      ]
+    },
+    {
+      "category": "TRANSACTIONAL",
+      "filename": "bukvarix_TRANSACTIONAL.csv",
+      "original_filename": "(купить_заказать_приобрести_оплатить_оформить_забронировать_бронировать_записаться_арендовать_снять_нанять_вызвать_доставить_скачать_загрузить....csv",
+      "path": "TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv",
+      "size_bytes": 9328549,
+      "rows": 139839,
+      "sha256": "000c191dda27a254593d494acb956ffbb2e6bf0bfb41f88056e41a399c7f3c43",
+      "columns": [
+        "Ключевое слово",
+        "Слов",
+        "Символов",
+        "Частотность Весь мир",
+        "\"!Частотность !Весь !мир\""
+      ]
+    }
+  ]
+}
