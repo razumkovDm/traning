@@ -1,0 +1,210 @@
+{
+  "source_class": "COMMERCIAL",
+  "source_rows": 582141,
+  "original_selected": 900,
+  "retained": 729,
+  "replaced": 171,
+  "cleaned": 900,
+  "language_allocation": {
+    "ru": 300,
+    "en": 300,
+    "uk": 300
+  },
+  "source_split": {
+    "COMMERCIAL/gmsk_vyboroved.ru.csv": 216,
+    "COMMERCIAL/gmsk_expertcen.ru.csv": 684
+  },
+  "topic_counts": {
+    "audio_video": 48,
+    "auto_motorcycle": 45,
+    "beauty_skincare": 56,
+    "cleaning_home": 42,
+    "climate_heat": 48,
+    "clothes_shoes": 44,
+    "computers_laptops": 55,
+    "construction_tools": 50,
+    "gaming_entertainment": 37,
+    "garden_country": 40,
+    "health_devices": 37,
+    "home_furniture": 45,
+    "kids_family": 48,
+    "kitchen_large": 45,
+    "kitchen_small": 55,
+    "office_study": 12,
+    "outdoor_sports": 45,
+    "pets": 25,
+    "phones_tablets": 55,
+    "photo_camera": 30,
+    "renovation_materials": 38
+  },
+  "topic_by_language": {
+    "phones_tablets": {
+      "ru": 18,
+      "uk": 19,
+      "en": 18
+    },
+    "computers_laptops": {
+      "ru": 18,
+      "uk": 18,
+      "en": 19
+    },
+    "audio_video": {
+      "ru": 16,
+      "uk": 16,
+      "en": 16
+    },
+    "photo_camera": {
+      "ru": 10,
+      "uk": 10,
+      "en": 10
+    },
+    "kitchen_large": {
+      "ru": 15,
+      "uk": 15,
+      "en": 15
+    },
+    "kitchen_small": {
+      "ru": 18,
+      "uk": 18,
+      "en": 19
+    },
+    "cleaning_home": {
+      "ru": 14,
+      "uk": 14,
+      "en": 14
+    },
+    "climate_heat": {
+      "ru": 16,
+      "uk": 16,
+      "en": 16
+    },
+    "construction_tools": {
+      "ru": 16,
+      "uk": 17,
+      "en": 17
+    },
+    "renovation_materials": {
+      "ru": 13,
+      "uk": 12,
+      "en": 13
+    },
+    "home_furniture": {
+      "ru": 15,
+      "uk": 15,
+      "en": 15
+    },
+    "auto_motorcycle": {
+      "ru": 15,
+      "uk": 15,
+      "en": 15
+    },
+    "beauty_skincare": {
+      "ru": 19,
+      "uk": 19,
+      "en": 18
+    },
+    "clothes_shoes": {
+      "ru": 15,
+      "uk": 14,
+      "en": 15
+    },
+    "health_devices": {
+      "ru": 13,
+      "uk": 12,
+      "en": 12
+    },
+    "kids_family": {
+      "ru": 16,
+      "uk": 16,
+      "en": 16
+    },
+    "gaming_entertainment": {
+      "ru": 12,
+      "uk": 13,
+      "en": 12
+    },
+    "outdoor_sports": {
+      "ru": 15,
+      "uk": 15,
+      "en": 15
+    },
+    "garden_country": {
+      "ru": 14,
+      "uk": 13,
+      "en": 13
+    },
+    "pets": {
+      "ru": 8,
+      "uk": 9,
+      "en": 8
+    },
+    "office_study": {
+      "ru": 4,
+      "uk": 4,
+      "en": 4
+    }
+  },
+  "style_by_language": {
+    "comparison": {
+      "ru": 34,
+      "uk": 35,
+      "en": 34
+    },
+    "reviews": {
+      "ru": 60,
+      "uk": 58,
+      "en": 59
+    },
+    "choice": {
+      "ru": 90,
+      "uk": 91,
+      "en": 92
+    },
+    "rankings": {
+      "ru": 93,
+      "uk": 94,
+      "en": 92
+    },
+    "criteria": {
+      "ru": 23,
+      "uk": 22,
+      "en": 23
+    }
+  },
+  "removal_reasons": {
+    "ambiguous_or_informational_intent": 11,
+    "low_distinctive_content": 16,
+    "weak_commercial_intent": 32,
+    "topic_mismatch": 82,
+    "near_duplicate": 6,
+    "topic_false_positive": 15,
+    "off_intent_or_medication_advice": 9
+  },
+  "candidate_rows_by_topic": {
+    "kitchen_large": 2907,
+    "kitchen_small": 2585,
+    "cleaning_home": 2676,
+    "construction_tools": 1721,
+    "beauty_skincare": 6293,
+    "health_devices": 827,
+    "computers_laptops": 2246,
+    "garden_country": 1049,
+    "audio_video": 1870,
+    "outdoor_sports": 1179,
+    "kids_family": 1210,
+    "auto_motorcycle": 1699,
+    "phones_tablets": 2634,
+    "climate_heat": 1409,
+    "home_furniture": 1723,
+    "renovation_materials": 737,
+    "pets": 925,
+    "gaming_entertainment": 356,
+    "clothes_shoes": 805,
+    "photo_camera": 472,
+    "office_study": 212
+  },
+  "original_sha256": "6ef37ce65056879e8427a2eb634d93f0db9468effdfc570b6e4c60f9b8924bb9",
+  "cleaned_sha256": "0633f8398185d97df95562deb6eb92bb219e59be872b1495359a9103db24d09d",
+  "max_candidate_scan_per_source": 104999,
+  "candidate_pool_scan_is_full": false
+}
