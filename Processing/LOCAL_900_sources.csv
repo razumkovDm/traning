@@ -1,0 +1,901 @@
+class;source_ru;exact_frequency;broad_frequency;source_file;source_record;topic;target_assignment
+LOCAL;стоматология рядом со мной;3601;11467;LOCAL/bukvarix_LOCAL.csv;13487;near_dental;en
+LOCAL;стоматология рядом;4145;27990;LOCAL/bukvarix_LOCAL.csv;21;near_dental;uk
+LOCAL;стоматология рядом со мной показать;1189;3289;LOCAL/bukvarix_LOCAL.csv;30220;near_dental;ru
+LOCAL;детская стоматология рядом;288;1692;LOCAL/bukvarix_LOCAL.csv;4443;near_dental;uk
+LOCAL;стоматология рядом со мной показать цены адрес;248;533;LOCAL/bukvarix_LOCAL.csv;44771;near_dental;ru
+LOCAL;стоматология краснодар рядом со мной;140;264;LOCAL/bukvarix_LOCAL.csv;35440;near_dental;ru
+LOCAL;стоматология доктор рядом минск;135;178;LOCAL/bukvarix_LOCAL.csv;26902;near_dental;en
+LOCAL;стоматология рядом со мной показать цены адрес недорого;152;208;LOCAL/bukvarix_LOCAL.csv;48410;near_dental;en
+LOCAL;стоматология рядом со мной недорого;117;944;LOCAL/bukvarix_LOCAL.csv;33121;near_dental;uk
+LOCAL;стоматология рядом со мной недорого но качественно;115;229;LOCAL/bukvarix_LOCAL.csv;45652;near_dental;uk
+LOCAL;зоомагазин рядом;2406;10671;LOCAL/bukvarix_LOCAL.csv;50;near_pets;en
+LOCAL;ветклиника рядом;2002;10185;LOCAL/bukvarix_LOCAL.csv;51;near_pets;en
+LOCAL;ветеринарная клиника рядом;1729;9017;LOCAL/bukvarix_LOCAL.csv;2427;near_pets;uk
+LOCAL;ветклиника рядом со мной на карте;1457;2739;LOCAL/bukvarix_LOCAL.csv;38804;near_pets;en
+LOCAL;зоомагазин рядом со мной на карте;1454;2491;LOCAL/bukvarix_LOCAL.csv;38795;near_pets;en
+LOCAL;зоомагазин рядом со мной;873;4556;LOCAL/bukvarix_LOCAL.csv;13870;near_pets;ru
+LOCAL;ветеринарная клиника рядом со мной на карте;1057;2025;LOCAL/bukvarix_LOCAL.csv;44337;near_pets;uk
+LOCAL;ветеринарная аптека рядом;432;1472;LOCAL/bukvarix_LOCAL.csv;3157;near_pets;ru
+LOCAL;груминг рядом;290;2223;LOCAL/bukvarix_LOCAL.csv;500;near_pets;ru
+LOCAL;зоотовары рядом;212;692;LOCAL/bukvarix_LOCAL.csv;680;near_pets;en
+LOCAL;ветеринарная клиника круглосуточно рядом;177;1021;LOCAL/bukvarix_LOCAL.csv;17591;near_pets;uk
+LOCAL;груминг рядом со мной для собак;171;320;LOCAL/bukvarix_LOCAL.csv;41273;near_pets;ru
+LOCAL;ветклиника рядом зеленоград;147;267;LOCAL/bukvarix_LOCAL.csv;8179;near_pets;uk
+LOCAL;ветеринарка рядом со мной на карте;122;169;LOCAL/bukvarix_LOCAL.csv;40593;near_pets;ru
+LOCAL;ветклиника краснодар рядом;114;320;LOCAL/bukvarix_LOCAL.csv;6513;near_pets;uk
+LOCAL;магазин для животных зоомагазин рядом со мной;118;122;LOCAL/bukvarix_LOCAL.csv;45622;near_pets;en
+LOCAL;ветклиника круглосуточная рядом;111;647;LOCAL/bukvarix_LOCAL.csv;9789;near_pets;ru
+LOCAL;ветеринар рядом;119;928;LOCAL/bukvarix_LOCAL.csv;1135;near_pets;uk
+LOCAL;нотариус рядом со мной;7934;19604;LOCAL/bukvarix_LOCAL.csv;13435;near_public;ru
+LOCAL;нотариус рядом;6475;36466;LOCAL/bukvarix_LOCAL.csv;8;near_public;ru
+LOCAL;мфц рядом со мной;2501;7517;LOCAL/bukvarix_LOCAL.csv;13508;near_public;en
+LOCAL;мфц рядом;2380;18096;LOCAL/bukvarix_LOCAL.csv;65;near_public;ru
+LOCAL;нотариус рядом со мной показать;1342;4346;LOCAL/bukvarix_LOCAL.csv;30204;near_public;ru
+LOCAL;мфц ближайший;1225;17349;LOCAL/bukvarix_LOCAL.csv;413;near_public;en
+LOCAL;натариус или нотариус рядом со мной на карте;1251;1327;LOCAL/bukvarix_LOCAL.csv;48002;near_public;ru
+LOCAL;нотариус краснодар рядом со мной;599;953;LOCAL/bukvarix_LOCAL.csv;30451;near_public;en
+LOCAL;нотариус рядом со мной краснодар;599;953;LOCAL/bukvarix_LOCAL.csv;33332;near_public;en
+LOCAL;нотариус ростов на дону рядом со мной;439;496;LOCAL/bukvarix_LOCAL.csv;44511;near_public;en
+LOCAL;нотариус рядом со мной ростов на дону;425;487;LOCAL/bukvarix_LOCAL.csv;46863;near_public;uk
+LOCAL;нотариус краснодар рядом;305;1540;LOCAL/bukvarix_LOCAL.csv;3684;near_public;uk
+LOCAL;пенсионный фонд ближайший;301;1780;LOCAL/bukvarix_LOCAL.csv;9261;near_public;uk
+LOCAL;ближайший пенсионный фонд;282;1843;LOCAL/bukvarix_LOCAL.csv;4253;near_public;uk
+LOCAL;нотариусы рядом со мной на карте;259;4759;LOCAL/bukvarix_LOCAL.csv;39335;near_public;ru
+LOCAL;загс рядом со мной ближайший;200;368;LOCAL/bukvarix_LOCAL.csv;35387;near_public;en
+LOCAL;отделение полиции рядом со мной;195;709;LOCAL/bukvarix_LOCAL.csv;31603;near_public;en
+LOCAL;нотариус рядом со мной показать адрес и часы;174;409;LOCAL/bukvarix_LOCAL.csv;48327;near_public;uk
+LOCAL;ближайший военкомат;164;2178;LOCAL/bukvarix_LOCAL.csv;1031;near_public;uk
+LOCAL;нотариус рядом со мной новосибирск;132;167;LOCAL/bukvarix_LOCAL.csv;33075;near_public;ru
+LOCAL;сдэк рядом;2871;20913;LOCAL/bukvarix_LOCAL.csv;39;near_parcel;uk
+LOCAL;сдэк рядом со мной;1743;8265;LOCAL/bukvarix_LOCAL.csv;13584;near_parcel;en
+LOCAL;почта россии рядом со мной;1468;5248;LOCAL/bukvarix_LOCAL.csv;30201;near_parcel;uk
+LOCAL;ближайший сдэк;1630;19804;LOCAL/bukvarix_LOCAL.csv;94;near_parcel;uk
+LOCAL;озон рядом;1577;25231;LOCAL/bukvarix_LOCAL.csv;90;near_parcel;ru
+LOCAL;почта россии рядом;1421;9924;LOCAL/bukvarix_LOCAL.csv;2529;near_parcel;en
+LOCAL;озон рядом со мной;833;8992;LOCAL/bukvarix_LOCAL.csv;13910;near_parcel;uk
+LOCAL;пункт выдачи озон рядом со мной;553;3934;LOCAL/bukvarix_LOCAL.csv;40925;near_parcel;ru
+LOCAL;озон пункт выдачи рядом со мной;534;4000;LOCAL/bukvarix_LOCAL.csv;42612;near_parcel;en
+LOCAL;озон рядом со мной пункт выдачи;534;4000;LOCAL/bukvarix_LOCAL.csv;39022;near_parcel;en
+LOCAL;озон ближайший;590;18331;LOCAL/bukvarix_LOCAL.csv;624;near_parcel;ru
+LOCAL;ближайший озон пункт выдачи;466;4075;LOCAL/bukvarix_LOCAL.csv;22901;near_parcel;uk
+LOCAL;почта россии на карте рядом со мной;501;1391;LOCAL/bukvarix_LOCAL.csv;46227;near_parcel;uk
+LOCAL;сдэк рядом со мной ближайший сдэк;455;2524;LOCAL/bukvarix_LOCAL.csv;43489;near_parcel;ru
+LOCAL;яндекс маркет рядом со мной;407;2033;LOCAL/bukvarix_LOCAL.csv;30556;near_parcel;uk
+LOCAL;сдэк ближайший пункт;449;4615;LOCAL/bukvarix_LOCAL.csv;3721;near_parcel;en
+LOCAL;вайлдберриз рядом со мной;349;1956;LOCAL/bukvarix_LOCAL.csv;14642;near_parcel;uk
+LOCAL;отделение почты россии рядом со мной;406;1315;LOCAL/bukvarix_LOCAL.csv;39019;near_parcel;en
+LOCAL;банкомат озон банка рядом со мной на карте;403;450;LOCAL/bukvarix_LOCAL.csv;48062;near_parcel;ru
+LOCAL;озон рядом со мной пункт;295;5220;LOCAL/bukvarix_LOCAL.csv;31277;near_parcel;uk
+LOCAL;банкомат озон рядом со мной;292;1307;LOCAL/bukvarix_LOCAL.csv;35254;near_parcel;en
+LOCAL;ближайший ко мне сдэк пункт выдачи;314;408;LOCAL/bukvarix_LOCAL.csv;43718;near_parcel;en
+LOCAL;озон пункт выдачи часы работы рядом со мной;324;496;LOCAL/bukvarix_LOCAL.csv;49271;near_parcel;en
+LOCAL;почтовое отделение рядом со мной на карте;296;614;LOCAL/bukvarix_LOCAL.csv;44631;near_parcel;ru
+LOCAL;режим работы озон пункт выдачи рядом со мной;309;343;LOCAL/bukvarix_LOCAL.csv;48171;near_parcel;ru
+LOCAL;отделение почты рядом со мной на карте;239;831;LOCAL/bukvarix_LOCAL.csv;44794;near_parcel;uk
+LOCAL;время работы озон пункт выдачи рядом со мной;253;416;LOCAL/bukvarix_LOCAL.csv;48195;near_parcel;ru
+LOCAL;яндекс маркет ближайший пункт выдачи;170;952;LOCAL/bukvarix_LOCAL.csv;34496;near_parcel;ru
+LOCAL;время работы валберис пункт выдачи рядом со мной;175;210;LOCAL/bukvarix_LOCAL.csv;48414;near_parcel;en
+LOCAL;яндекс доставка пункт выдачи рядом со мной;160;424;LOCAL/bukvarix_LOCAL.csv;46556;near_parcel;uk
+LOCAL;сдэк краснодар адреса рядом со мной;139;193;LOCAL/bukvarix_LOCAL.csv;40296;near_parcel;en
+LOCAL;пункт яндекс маркет рядом со мной;135;1152;LOCAL/bukvarix_LOCAL.csv;40382;near_parcel;uk
+LOCAL;пункт выдачи яндекс рядом;114;2277;LOCAL/bukvarix_LOCAL.csv;23569;near_parcel;ru
+LOCAL;валберис пункт выдачи рядом со мной;119;766;LOCAL/bukvarix_LOCAL.csv;44014;near_parcel;ru
+LOCAL;пункт выдачи вайлдберриз часы работы рядом со мной;139;159;LOCAL/bukvarix_LOCAL.csv;48836;near_parcel;ru
+LOCAL;ближайший сортировочный центр wildberries;104;356;LOCAL/bukvarix_LOCAL.csv;19328;near_parcel;uk
+LOCAL;пункты выдачи вайлдберриз на карте рядом со мной;118;408;LOCAL/bukvarix_LOCAL.csv;49164;near_parcel;ru
+LOCAL;ближайший вб пункт выдачи от меня;107;129;LOCAL/bukvarix_LOCAL.csv;41854;near_parcel;en
+LOCAL;заправки рядом;6175;63363;LOCAL/bukvarix_LOCAL.csv;18;near_auto;ru
+LOCAL;автосервис рядом со мной;3407;13684;LOCAL/bukvarix_LOCAL.csv;13483;near_auto;ru
+LOCAL;шиномонтаж рядом;3573;18703;LOCAL/bukvarix_LOCAL.csv;49;near_auto;ru
+LOCAL;эвакуатор рядом со мной;2083;6192;LOCAL/bukvarix_LOCAL.csv;13564;near_auto;uk
+LOCAL;эвакуатор рядом со мной недорого;1800;3054;LOCAL/bukvarix_LOCAL.csv;30183;near_auto;uk
+LOCAL;автозапчасти рядом;1942;11859;LOCAL/bukvarix_LOCAL.csv;66;near_auto;uk
+LOCAL;лукойл заправка рядом;1639;7224;LOCAL/bukvarix_LOCAL.csv;2886;near_auto;ru
+LOCAL;автомойка рядом;1568;11050;LOCAL/bukvarix_LOCAL.csv;92;near_auto;uk
+LOCAL;роснефть азс на карте рядом со мной;1238;1933;LOCAL/bukvarix_LOCAL.csv;44610;near_auto;en
+LOCAL;роснефть заправки на карте рядом со мной;1203;2483;LOCAL/bukvarix_LOCAL.csv;44396;near_auto;uk
+LOCAL;азс на карте рядом со мной;845;2967;LOCAL/bukvarix_LOCAL.csv;41643;near_auto;ru
+LOCAL;автозаправки рядом со мной на карте;757;1528;LOCAL/bukvarix_LOCAL.csv;38854;near_auto;ru
+LOCAL;сто рядом;717;6987;LOCAL/bukvarix_LOCAL.csv;238;near_auto;ru
+LOCAL;азс рядом со мной на карте ближайшие заправки;744;1175;LOCAL/bukvarix_LOCAL.csv;48012;near_auto;ru
+LOCAL;заправка бензина рядом со мной на карте;653;1920;LOCAL/bukvarix_LOCAL.csv;44374;near_auto;uk
+LOCAL;заправки татнефть на карте рядом со мной;589;1056;LOCAL/bukvarix_LOCAL.csv;44904;near_auto;en
+LOCAL;заправка газпром рядом;480;1722;LOCAL/bukvarix_LOCAL.csv;3207;near_auto;en
+LOCAL;заправка газовая рядом;469;3762;LOCAL/bukvarix_LOCAL.csv;11679;near_auto;en
+LOCAL;заправка кондиционера в автомобиле рядом со мной на карте;568;612;LOCAL/bukvarix_LOCAL.csv;49670;near_auto;en
+LOCAL;грузовой шиномонтаж рядом;461;1447;LOCAL/bukvarix_LOCAL.csv;3572;near_auto;ru
+LOCAL;автоэлектрик рядом со мной;357;1710;LOCAL/bukvarix_LOCAL.csv;14608;near_auto;uk
+LOCAL;бензозаправки рядом со мной на карте;387;641;LOCAL/bukvarix_LOCAL.csv;39046;near_auto;en
+LOCAL;татнефть азс на карте рядом со мной;410;576;LOCAL/bukvarix_LOCAL.csv;45274;near_auto;en
+LOCAL;магазин автозапчастей рядом со мной;327;2416;LOCAL/bukvarix_LOCAL.csv;30780;near_auto;ru
+LOCAL;техосмотр рядом;385;2247;LOCAL/bukvarix_LOCAL.csv;369;near_auto;ru
+LOCAL;заправка газпромнефть ближайшая рядом со мной;335;673;LOCAL/bukvarix_LOCAL.csv;39132;near_auto;uk
+LOCAL;автомойка самообслуживания рядом;337;1338;LOCAL/bukvarix_LOCAL.csv;3499;near_auto;ru
+LOCAL;эвакуатор рядом со мной недорого круглосуточно;307;470;LOCAL/bukvarix_LOCAL.csv;39201;near_auto;uk
+LOCAL;заправка картриджей для принтера рядом со мной;267;802;LOCAL/bukvarix_LOCAL.csv;44724;near_auto;uk
+LOCAL;заправка газовых баллонов рядом со мной на карте;274;783;LOCAL/bukvarix_LOCAL.csv;48142;near_auto;uk
+LOCAL;пропан заправка рядом;235;2917;LOCAL/bukvarix_LOCAL.csv;5714;near_auto;ru
+LOCAL;эвакуатор рядом со мной вызвать;206;295;LOCAL/bukvarix_LOCAL.csv;37741;near_auto;ru
+LOCAL;заправить кондиционер в машине рядом со мной;234;282;LOCAL/bukvarix_LOCAL.csv;44805;near_auto;ru
+LOCAL;автосервис екатеринбург рядом со мной;186;243;LOCAL/bukvarix_LOCAL.csv;32318;near_auto;uk
+LOCAL;ближайшие заправки от моего местоположения на карте;243;363;LOCAL/bukvarix_LOCAL.csv;44781;near_auto;en
+LOCAL;азс роснефть на карте рядом со мной ближайшие заправки;244;253;LOCAL/bukvarix_LOCAL.csv;49735;near_auto;en
+LOCAL;шиномонтаж круглосуточно рядом со мной на карте;201;361;LOCAL/bukvarix_LOCAL.csv;46592;near_auto;ru
+LOCAL;пропан рядом со мной газовая заправка;183;905;LOCAL/bukvarix_LOCAL.csv;42696;near_auto;en
+LOCAL;шиномонтаж рядом со мной выездной;160;388;LOCAL/bukvarix_LOCAL.csv;34023;near_auto;en
+LOCAL;лукойл азс на карте рядом со мной;176;393;LOCAL/bukvarix_LOCAL.csv;46555;near_auto;en
+LOCAL;метан заправка рядом;167;565;LOCAL/bukvarix_LOCAL.csv;8728;near_auto;uk
+LOCAL;заправить газовый баллон рядом со мной на карте;187;550;LOCAL/bukvarix_LOCAL.csv;48284;near_auto;en
+LOCAL;автозаправки газпромнефть рядом со мной на карте;169;172;LOCAL/bukvarix_LOCAL.csv;45092;near_auto;uk
+LOCAL;мойка машин рядом со мной;142;808;LOCAL/bukvarix_LOCAL.csv;32419;near_auto;en
+LOCAL;эвакуатор вызвать недорого рядом со мной;150;168;LOCAL/bukvarix_LOCAL.csv;42165;near_auto;en
+LOCAL;рядом газ заправка;151;2216;LOCAL/bukvarix_LOCAL.csv;11694;near_auto;uk
+LOCAL;заправка тебойл рядом со мной на карте;151;195;LOCAL/bukvarix_LOCAL.csv;45252;near_auto;en
+LOCAL;заправка азс ближайшая местоположение от меня на карте;177;196;LOCAL/bukvarix_LOCAL.csv;48312;near_auto;uk
+LOCAL;заправка автокондиционеров рядом со мной;119;628;LOCAL/bukvarix_LOCAL.csv;33032;near_auto;uk
+LOCAL;газ пропан заправка рядом со мной на карте;150;177;LOCAL/bukvarix_LOCAL.csv;48910;near_auto;ru
+LOCAL;шиномонтаж 24 часа рядом;119;423;LOCAL/bukvarix_LOCAL.csv;18742;near_auto;en
+LOCAL;где заправить кондиционер автомобиля рядом со мной;133;250;LOCAL/bukvarix_LOCAL.csv;45403;near_auto;en
+LOCAL;аптека рядом;19620;115293;LOCAL/bukvarix_LOCAL.csv;5;near_medical;ru
+LOCAL;круглосуточная аптека рядом;4282;19119;LOCAL/bukvarix_LOCAL.csv;2335;near_medical;ru
+LOCAL;травмпункт рядом;2677;11857;LOCAL/bukvarix_LOCAL.csv;40;near_medical;uk
+LOCAL;травмпункт взрослый рядом со мной;2028;3699;LOCAL/bukvarix_LOCAL.csv;35032;near_medical;uk
+LOCAL;доктор рядом;2118;15922;LOCAL/bukvarix_LOCAL.csv;58;near_medical;en
+LOCAL;аптека 24 часа рядом;1556;3848;LOCAL/bukvarix_LOCAL.csv;13652;near_medical;en
+LOCAL;вет клиника рядом со мной;743;876;LOCAL/bukvarix_LOCAL.csv;30289;near_medical;en
+LOCAL;поликлиника рядом;792;16353;LOCAL/bukvarix_LOCAL.csv;225;near_medical;uk
+LOCAL;ветаптека рядом;685;3207;LOCAL/bukvarix_LOCAL.csv;228;near_medical;ru
+LOCAL;ветеренарная клиника рядом;603;1139;LOCAL/bukvarix_LOCAL.csv;2844;near_medical;en
+LOCAL;доктор рядом саратов;578;1686;LOCAL/bukvarix_LOCAL.csv;2875;near_medical;ru
+LOCAL;доктор рядом саратов перспективная;507;890;LOCAL/bukvarix_LOCAL.csv;14222;near_medical;en
+LOCAL;детский травмпункт рядом;403;1304;LOCAL/bukvarix_LOCAL.csv;6612;near_medical;en
+LOCAL;апрель рядом со мной аптека;334;745;LOCAL/bukvarix_LOCAL.csv;36224;near_medical;ru
+LOCAL;доктор рядом хабаровск;327;831;LOCAL/bukvarix_LOCAL.csv;3521;near_medical;uk
+LOCAL;узи рядом со мной;262;2902;LOCAL/bukvarix_LOCAL.csv;15134;near_medical;uk
+LOCAL;аптека рядом с моим местоположением;305;896;LOCAL/bukvarix_LOCAL.csv;30927;near_medical;en
+LOCAL;клиника рядом;328;28956;LOCAL/bukvarix_LOCAL.csv;455;near_medical;ru
+LOCAL;доктор рядом томск;295;915;LOCAL/bukvarix_LOCAL.csv;3783;near_medical;uk
+LOCAL;рядом больница;315;24447;LOCAL/bukvarix_LOCAL.csv;1988;near_medical;en
+LOCAL;анализы сдать рядом;274;3713;LOCAL/bukvarix_LOCAL.csv;9913;near_medical;uk
+LOCAL;мрт рядом со мной;213;1195;LOCAL/bukvarix_LOCAL.csv;15678;near_medical;ru
+LOCAL;детская поликлиника рядом;257;2507;LOCAL/bukvarix_LOCAL.csv;4541;near_medical;uk
+LOCAL;доктор рядом телемедицина;247;438;LOCAL/bukvarix_LOCAL.csv;4106;near_medical;uk
+LOCAL;доктор рядом курган;238;727;LOCAL/bukvarix_LOCAL.csv;4432;near_medical;en
+LOCAL;дежурная аптека рядом;233;1008;LOCAL/bukvarix_LOCAL.csv;4386;near_medical;en
+LOCAL;ночная аптека рядом со мной;202;526;LOCAL/bukvarix_LOCAL.csv;32665;near_medical;ru
+LOCAL;взрослая поликлиника рядом со мной;186;977;LOCAL/bukvarix_LOCAL.csv;35562;near_medical;ru
+LOCAL;анализы рядом со мной;165;3912;LOCAL/bukvarix_LOCAL.csv;16547;near_medical;en
+LOCAL;круглосуточный травмпункт рядом со мной взрослый;181;385;LOCAL/bukvarix_LOCAL.csv;44158;near_medical;ru
+LOCAL;чехов доктор рядом;181;479;LOCAL/bukvarix_LOCAL.csv;11127;near_medical;uk
+LOCAL;доктор рядом томск 79 гвардейской;150;285;LOCAL/bukvarix_LOCAL.csv;32243;near_medical;uk
+LOCAL;вет аптека рядом со мной;132;184;LOCAL/bukvarix_LOCAL.csv;32662;near_medical;ru
+LOCAL;дежурная аптека рядом со мной круглосуточная;138;320;LOCAL/bukvarix_LOCAL.csv;40885;near_medical;ru
+LOCAL;клиника доктор рядом;138;1256;LOCAL/bukvarix_LOCAL.csv;7939;near_medical;ru
+LOCAL;медцентр рядом;149;2013;LOCAL/bukvarix_LOCAL.csv;944;near_medical;ru
+LOCAL;рядом лаборатория;148;3759;LOCAL/bukvarix_LOCAL.csv;2146;near_medical;uk
+LOCAL;аптека столички рядом;130;1285;LOCAL/bukvarix_LOCAL.csv;6368;near_medical;en
+LOCAL;гинеколог рядом со мной;107;355;LOCAL/bukvarix_LOCAL.csv;18878;near_medical;uk
+LOCAL;лор рядом;135;1713;LOCAL/bukvarix_LOCAL.csv;1066;near_medical;ru
+LOCAL;доктор рядом дальнереченск;118;337;LOCAL/bukvarix_LOCAL.csv;6708;near_medical;en
+LOCAL;дыхательная гимнастика после ковида доктор рядом;118;119;LOCAL/bukvarix_LOCAL.csv;40668;near_medical;en
+LOCAL;зооаптека рядом со мной на карте;105;158;LOCAL/bukvarix_LOCAL.csv;41047;near_medical;uk
+LOCAL;аптека 24 часа рядом со мной круглосуточно;111;220;LOCAL/bukvarix_LOCAL.csv;45721;near_medical;uk
+LOCAL;аптека круглая суточная рядом со мной;100;112;LOCAL/bukvarix_LOCAL.csv;41173;near_medical;en
+LOCAL;лаборатория для сдачи анализов рядом со мной;102;192;LOCAL/bukvarix_LOCAL.csv;46446;near_medical;en
+LOCAL;аптека ортопедическая рядом со мной на карте;101;145;LOCAL/bukvarix_LOCAL.csv;46650;near_medical;ru
+LOCAL;мрт тамбов советская рядом с ашаном;100;174;LOCAL/bukvarix_LOCAL.csv;41183;near_medical;uk
+LOCAL;парикмахерская рядом;41214;100371;LOCAL/bukvarix_LOCAL.csv;2;near_beauty;uk
+LOCAL;маникюр рядом со мной;4821;16994;LOCAL/bukvarix_LOCAL.csv;13455;near_beauty;uk
+LOCAL;барбершоп рядом;3769;8910;LOCAL/bukvarix_LOCAL.csv;22;near_beauty;en
+LOCAL;салон красоты рядом;2659;15111;LOCAL/bukvarix_LOCAL.csv;2360;near_beauty;en
+LOCAL;педикюр рядом со мной;1919;8786;LOCAL/bukvarix_LOCAL.csv;13565;near_beauty;en
+LOCAL;мужская парикмахерская рядом;1738;7130;LOCAL/bukvarix_LOCAL.csv;4291;near_beauty;ru
+LOCAL;солярий рядом со мной на карте;1576;2445;LOCAL/bukvarix_LOCAL.csv;38790;near_beauty;en
+LOCAL;рядом массаж;1044;11053;LOCAL/bukvarix_LOCAL.csv;1049;near_beauty;ru
+LOCAL;наращивание ресниц рядом со мной;688;2412;LOCAL/bukvarix_LOCAL.csv;30314;near_beauty;uk
+LOCAL;женская парикмахерская рядом со мной на карте;717;1465;LOCAL/bukvarix_LOCAL.csv;47075;near_beauty;en
+LOCAL;массаж рядом со мной цены;428;572;LOCAL/bukvarix_LOCAL.csv;30521;near_beauty;en
+LOCAL;маникюр сделать рядом со мной;289;1045;LOCAL/bukvarix_LOCAL.csv;34954;near_beauty;uk
+LOCAL;маникюр онлайн запись рядом со мной;305;443;LOCAL/bukvarix_LOCAL.csv;42433;near_beauty;en
+LOCAL;салон маникюра рядом со мной;279;1434;LOCAL/bukvarix_LOCAL.csv;30997;near_beauty;ru
+LOCAL;парикмахерская рядом со мной краснодар;210;440;LOCAL/bukvarix_LOCAL.csv;35550;near_beauty;uk
+LOCAL;маникюр педикюр рядом со мной;205;1104;LOCAL/bukvarix_LOCAL.csv;32099;near_beauty;ru
+LOCAL;парикмахерская рядом эконом;216;1275;LOCAL/bukvarix_LOCAL.csv;12137;near_beauty;en
+LOCAL;уфа парикмахерская рядом со мной;191;364;LOCAL/bukvarix_LOCAL.csv;36396;near_beauty;ru
+LOCAL;массаж рядом с домом;197;281;LOCAL/bukvarix_LOCAL.csv;15899;near_beauty;ru
+LOCAL;парикмахерская рядом казань;209;793;LOCAL/bukvarix_LOCAL.csv;8947;near_beauty;en
+LOCAL;парикмахерская омск рядом со мной;180;335;LOCAL/bukvarix_LOCAL.csv;33987;near_beauty;en
+LOCAL;педикюр сделать рядом со мной;178;531;LOCAL/bukvarix_LOCAL.csv;36131;near_beauty;uk
+LOCAL;парикмахерская рядом детская;196;689;LOCAL/bukvarix_LOCAL.csv;9888;near_beauty;en
+LOCAL;парикмахерская рядом со мной мужская стрижка на карте;219;387;LOCAL/bukvarix_LOCAL.csv;49501;near_beauty;uk
+LOCAL;парикмахерская рядом ижевск;188;555;LOCAL/bukvarix_LOCAL.csv;12656;near_beauty;ru
+LOCAL;тюмень парикмахерская рядом со мной;164;334;LOCAL/bukvarix_LOCAL.csv;36840;near_beauty;uk
+LOCAL;парикмахерская минск рядом;183;447;LOCAL/bukvarix_LOCAL.csv;4858;near_beauty;uk
+LOCAL;стрижка рядом со мной;148;2722;LOCAL/bukvarix_LOCAL.csv;16994;near_beauty;uk
+LOCAL;парикмахерская рядом со мной челябинск;159;330;LOCAL/bukvarix_LOCAL.csv;32704;near_beauty;ru
+LOCAL;салон парикмахерская рядом со мной на карте;176;438;LOCAL/bukvarix_LOCAL.csv;45048;near_beauty;ru
+LOCAL;косметология рядом со мной;134;445;LOCAL/bukvarix_LOCAL.csv;17544;near_beauty;uk
+LOCAL;парикмахерская рядом со мной на карте женская стрижка цены;197;268;LOCAL/bukvarix_LOCAL.csv;49777;near_beauty;uk
+LOCAL;тайский массаж рядом;154;454;LOCAL/bukvarix_LOCAL.csv;5455;near_beauty;ru
+LOCAL;парикмахерская рядом со мной красноярск;136;313;LOCAL/bukvarix_LOCAL.csv;35389;near_beauty;ru
+LOCAL;солярий екатеринбург рядом со мной;134;158;LOCAL/bukvarix_LOCAL.csv;33025;near_beauty;en
+LOCAL;записаться на маникюр онлайн рядом со мной;156;205;LOCAL/bukvarix_LOCAL.csv;45505;near_beauty;en
+LOCAL;парикмахерская рядом со мной новосибирск;124;225;LOCAL/bukvarix_LOCAL.csv;36561;near_beauty;uk
+LOCAL;солярий тюмень рядом со мной;123;145;LOCAL/bukvarix_LOCAL.csv;33070;near_beauty;en
+LOCAL;ламинирование ресниц рядом со мной;122;382;LOCAL/bukvarix_LOCAL.csv;32892;near_beauty;ru
+LOCAL;ресницы сделать рядом со мной;122;316;LOCAL/bukvarix_LOCAL.csv;36462;near_beauty;uk
+LOCAL;маникюрный салон рядом со мной на карте;137;222;LOCAL/bukvarix_LOCAL.csv;45367;near_beauty;ru
+LOCAL;парикмахерская рядом со мной барнаул;116;176;LOCAL/bukvarix_LOCAL.csv;36334;near_beauty;ru
+LOCAL;банкомат сбербанка рядом со мной;8311;28354;LOCAL/bukvarix_LOCAL.csv;30134;near_banks;ru
+LOCAL;сбербанк рядом со мной;4287;45142;LOCAL/bukvarix_LOCAL.csv;13471;near_banks;uk
+LOCAL;банкомат рядом;4269;130627;LOCAL/bukvarix_LOCAL.csv;32;near_banks;ru
+LOCAL;втб банкомат рядом со мной;2926;11036;LOCAL/bukvarix_LOCAL.csv;30290;near_banks;en
+LOCAL;тинькофф банкомат рядом;2063;7328;LOCAL/bukvarix_LOCAL.csv;3196;near_banks;uk
+LOCAL;банкомат альфа банк рядом;1898;9904;LOCAL/bukvarix_LOCAL.csv;13664;near_banks;ru
+LOCAL;ближайший банк альфа банк;1541;13277;LOCAL/bukvarix_LOCAL.csv;22087;near_banks;uk
+LOCAL;ближайший банк втб;1546;10642;LOCAL/bukvarix_LOCAL.csv;2774;near_banks;ru
+LOCAL;банкомат сбер рядом;1474;7903;LOCAL/bukvarix_LOCAL.csv;2646;near_banks;uk
+LOCAL;банкомат т банка рядом;1161;6784;LOCAL/bukvarix_LOCAL.csv;13734;near_banks;uk
+LOCAL;отделение сбербанка рядом со мной на карте;1165;2647;LOCAL/bukvarix_LOCAL.csv;44330;near_banks;en
+LOCAL;втб рядом;1044;35962;LOCAL/bukvarix_LOCAL.csv;151;near_banks;uk
+LOCAL;сбербанк ближайший офис;740;3649;LOCAL/bukvarix_LOCAL.csv;4141;near_banks;uk
+LOCAL;отделение банка втб рядом со мной;714;1813;LOCAL/bukvarix_LOCAL.csv;41279;near_banks;en
+LOCAL;ближайший офис альфа банк;493;2947;LOCAL/bukvarix_LOCAL.csv;18454;near_banks;en
+LOCAL;обмен валюты рядом;527;3304;LOCAL/bukvarix_LOCAL.csv;2942;near_banks;uk
+LOCAL;офис втб рядом со мной на карте;534;1308;LOCAL/bukvarix_LOCAL.csv;44466;near_banks;en
+LOCAL;банк ближайший;491;53701;LOCAL/bukvarix_LOCAL.csv;1843;near_banks;ru
+LOCAL;альфа банкомат рядом со мной;390;5716;LOCAL/bukvarix_LOCAL.csv;30693;near_banks;en
+LOCAL;отделение втб рядом со мной на карте;434;1249;LOCAL/bukvarix_LOCAL.csv;44503;near_banks;ru
+LOCAL;совкомбанк рядом;443;5228;LOCAL/bukvarix_LOCAL.csv;329;near_banks;ru
+LOCAL;банкомат газпромбанк рядом;403;2474;LOCAL/bukvarix_LOCAL.csv;3335;near_banks;ru
+LOCAL;банкоматы тбанк на карте рядом со мной;385;587;LOCAL/bukvarix_LOCAL.csv;46102;near_banks;en
+LOCAL;банкомат псб рядом;363;1672;LOCAL/bukvarix_LOCAL.csv;4390;near_banks;uk
+LOCAL;ближайший банк втб офис;257;1978;LOCAL/bukvarix_LOCAL.csv;27255;near_banks;uk
+LOCAL;сбербанк терминал рядом;271;1696;LOCAL/bukvarix_LOCAL.csv;4589;near_banks;en
+LOCAL;банк псб ближайший;225;2010;LOCAL/bukvarix_LOCAL.csv;11069;near_banks;en
+LOCAL;россельхозбанк банкомат рядом;206;1061;LOCAL/bukvarix_LOCAL.csv;10378;near_banks;ru
+LOCAL;банкомат альфабанк рядом со мной на карте;205;253;LOCAL/bukvarix_LOCAL.csv;44917;near_banks;en
+LOCAL;газпромбанк рядом со мной;155;2604;LOCAL/bukvarix_LOCAL.csv;16806;near_banks;en
+LOCAL;втб терминал рядом со мной;165;544;LOCAL/bukvarix_LOCAL.csv;33078;near_banks;uk
+LOCAL;терминалы сбербанка рядом со мной на карте;184;566;LOCAL/bukvarix_LOCAL.csv;45001;near_banks;uk
+LOCAL;банкомат круглосуточно рядом;173;2075;LOCAL/bukvarix_LOCAL.csv;5343;near_banks;ru
+LOCAL;банкомат каспи рядом;171;342;LOCAL/bukvarix_LOCAL.csv;9546;near_banks;ru
+LOCAL;ближайший совкомбанк офис;171;995;LOCAL/bukvarix_LOCAL.csv;12615;near_banks;en
+LOCAL;отделение альфа банка рядом;150;2161;LOCAL/bukvarix_LOCAL.csv;16939;near_banks;en
+LOCAL;банкомат райффайзен банка рядом со мной;155;246;LOCAL/bukvarix_LOCAL.csv;40079;near_banks;uk
+LOCAL;офис сбербанка рядом со мной на карте режим работы;183;200;LOCAL/bukvarix_LOCAL.csv;49794;near_banks;ru
+LOCAL;офис отп банк ближайший;138;510;LOCAL/bukvarix_LOCAL.csv;20500;near_banks;uk
+LOCAL;банкомат 24 часа рядом;137;515;LOCAL/bukvarix_LOCAL.csv;18316;near_banks;uk
+LOCAL;россельхозбанк рядом со мной;122;1087;LOCAL/bukvarix_LOCAL.csv;17936;near_banks;en
+LOCAL;ближайший тинькофф банк;143;1299;LOCAL/bukvarix_LOCAL.csv;7954;near_banks;ru
+LOCAL;ближайший мтс банк;139;879;LOCAL/bukvarix_LOCAL.csv;7721;near_banks;en
+LOCAL;круглосуточно банкомат сбербанка рядом со мной;130;869;LOCAL/bukvarix_LOCAL.csv;43582;near_banks;ru
+LOCAL;банкомат совкомбанк рядом;134;1197;LOCAL/bukvarix_LOCAL.csv;8404;near_banks;uk
+LOCAL;банк отп ближайший;131;1458;LOCAL/bukvarix_LOCAL.csv;13142;near_banks;ru
+LOCAL;сбербанкомат рядом со мной;108;153;LOCAL/bukvarix_LOCAL.csv;18758;near_banks;en
+LOCAL;кафе рядом со мной;7656;19453;LOCAL/bukvarix_LOCAL.csv;13433;near_food_drink;en
+LOCAL;столовая рядом;3728;32510;LOCAL/bukvarix_LOCAL.csv;24;near_food_drink;uk
+LOCAL;шаурма рядом;3720;12633;LOCAL/bukvarix_LOCAL.csv;19;near_food_drink;en
+LOCAL;рестораны рядом со мной;1704;8209;LOCAL/bukvarix_LOCAL.csv;13618;near_food_drink;uk
+LOCAL;где поесть рядом;1752;21099;LOCAL/bukvarix_LOCAL.csv;2477;near_food_drink;uk
+LOCAL;еда рядом;1543;16024;LOCAL/bukvarix_LOCAL.csv;84;near_food_drink;en
+LOCAL;суши рядом;1381;11670;LOCAL/bukvarix_LOCAL.csv;106;near_food_drink;ru
+LOCAL;кофейня рядом;1264;8350;LOCAL/bukvarix_LOCAL.csv;121;near_food_drink;uk
+LOCAL;покушать рядом;995;12698;LOCAL/bukvarix_LOCAL.csv;159;near_food_drink;ru
+LOCAL;бургер кинг рядом;918;4874;LOCAL/bukvarix_LOCAL.csv;2652;near_food_drink;en
+LOCAL;кофе рядом;961;9378;LOCAL/bukvarix_LOCAL.csv;171;near_food_drink;ru
+LOCAL;пицца рядом;870;12495;LOCAL/bukvarix_LOCAL.csv;194;near_food_drink;uk
+LOCAL;роллы рядом;705;7872;LOCAL/bukvarix_LOCAL.csv;229;near_food_drink;en
+LOCAL;камчатка рядом смоленск суши;537;564;LOCAL/bukvarix_LOCAL.csv;25552;near_food_drink;uk
+LOCAL;караоке рядом;551;3948;LOCAL/bukvarix_LOCAL.csv;263;near_food_drink;uk
+LOCAL;пекарня рядом;539;3573;LOCAL/bukvarix_LOCAL.csv;264;near_food_drink;uk
+LOCAL;пиццерия рядом;505;3620;LOCAL/bukvarix_LOCAL.csv;286;near_food_drink;ru
+LOCAL;камчатка рядом роллы смоленск;406;496;LOCAL/bukvarix_LOCAL.csv;22628;near_food_drink;en
+LOCAL;кафе и рестораны рядом;335;6075;LOCAL/bukvarix_LOCAL.csv;15131;near_food_drink;ru
+LOCAL;додо пицца рядом;326;2952;LOCAL/bukvarix_LOCAL.csv;3548;near_food_drink;uk
+LOCAL;рядом халяль кафе;233;952;LOCAL/bukvarix_LOCAL.csv;12791;near_food_drink;en
+LOCAL;заказать пиццу рядом со мной с доставкой;239;2133;LOCAL/bukvarix_LOCAL.csv;46828;near_food_drink;en
+LOCAL;кондитерская рядом со мной;180;726;LOCAL/bukvarix_LOCAL.csv;16231;near_food_drink;en
+LOCAL;велозапчасти для велосипеда рядом со мной;180;192;LOCAL/bukvarix_LOCAL.csv;39804;near_food_drink;uk
+LOCAL;купить шаурму рядом со мной;164;621;LOCAL/bukvarix_LOCAL.csv;32275;near_food_drink;ru
+LOCAL;ресторан грузинский рядом;171;1773;LOCAL/bukvarix_LOCAL.csv;13130;near_food_drink;ru
+LOCAL;пицца на заказ с доставкой рядом со мной;181;277;LOCAL/bukvarix_LOCAL.csv;49202;near_food_drink;ru
+LOCAL;шаурма с доставкой рядом со мной;147;479;LOCAL/bukvarix_LOCAL.csv;41987;near_food_drink;ru
+LOCAL;суши с доставкой рядом со мной;143;797;LOCAL/bukvarix_LOCAL.csv;41983;near_food_drink;en
+LOCAL;где можно рядом поесть;130;2688;LOCAL/bukvarix_LOCAL.csv;29589;near_food_drink;ru
+LOCAL;ближайший бургер кинг от моего местоположения;151;225;LOCAL/bukvarix_LOCAL.csv;40130;near_food_drink;en
+LOCAL;магазин запчастей для велосипеда рядом со мной;142;148;LOCAL/bukvarix_LOCAL.csv;45309;near_food_drink;en
+LOCAL;роллы суши рядом;135;1528;LOCAL/bukvarix_LOCAL.csv;10578;near_food_drink;uk
+LOCAL;шаурмечная рядом;142;554;LOCAL/bukvarix_LOCAL.csv;975;near_food_drink;uk
+LOCAL;роллы заказать с доставкой рядом со мной;131;899;LOCAL/bukvarix_LOCAL.csv;46229;near_food_drink;ru
+LOCAL;роллы рядом со мной с доставкой;121;1177;LOCAL/bukvarix_LOCAL.csv;40936;near_food_drink;en
+LOCAL;где можно покушать рядом;114;1862;LOCAL/bukvarix_LOCAL.csv;20436;near_food_drink;ru
+LOCAL;всегда не могут быть рядом люди караоке;127;166;LOCAL/bukvarix_LOCAL.csv;47968;near_food_drink;uk
+LOCAL;камчатка рядом роллы;108;646;LOCAL/bukvarix_LOCAL.csv;8205;near_food_drink;en
+LOCAL;столовая кафе рядом;105;2506;LOCAL/bukvarix_LOCAL.csv;10297;near_food_drink;uk
+LOCAL;кафе рядом со мной на карте санкт петербурга;117;201;LOCAL/bukvarix_LOCAL.csv;48606;near_food_drink;ru
+LOCAL;паб рядом;110;936;LOCAL/bukvarix_LOCAL.csv;1252;near_food_drink;ru
+LOCAL;пятерочка рядом;5812;38913;LOCAL/bukvarix_LOCAL.csv;33;near_retail;uk
+LOCAL;магазины рядом;5796;365278;LOCAL/bukvarix_LOCAL.csv;29;near_retail;en
+LOCAL;магазин строительный рядом;4214;14633;LOCAL/bukvarix_LOCAL.csv;5664;near_retail;en
+LOCAL;магнит рядом;3552;33110;LOCAL/bukvarix_LOCAL.csv;45;near_retail;ru
+LOCAL;магазин рыболовный рядом;3220;10956;LOCAL/bukvarix_LOCAL.csv;4687;near_retail;en
+LOCAL;магазин круглосуточный рядом;3094;19046;LOCAL/bukvarix_LOCAL.csv;2937;near_retail;en
+LOCAL;цветы рядом со мной;2480;10106;LOCAL/bukvarix_LOCAL.csv;13494;near_retail;uk
+LOCAL;фикс прайс рядом;2938;15698;LOCAL/bukvarix_LOCAL.csv;2320;near_retail;ru
+LOCAL;магнит косметик рядом;1703;7123;LOCAL/bukvarix_LOCAL.csv;2471;near_retail;ru
+LOCAL;цветочный магазин рядом;1680;10132;LOCAL/bukvarix_LOCAL.csv;2452;near_retail;ru
+LOCAL;магазин сантехники рядом;1281;7215;LOCAL/bukvarix_LOCAL.csv;2540;near_retail;uk
+LOCAL;красное белое рядом;1188;12446;LOCAL/bukvarix_LOCAL.csv;2547;near_retail;uk
+LOCAL;продуктовый магазин рядом;1139;13350;LOCAL/bukvarix_LOCAL.csv;2709;near_retail;ru
+LOCAL;хозяйственный магазин рядом;1038;5114;LOCAL/bukvarix_LOCAL.csv;2599;near_retail;ru
+LOCAL;чижик рядом со мной;820;2913;LOCAL/bukvarix_LOCAL.csv;13916;near_retail;en
+LOCAL;автомагазин рядом;1006;5704;LOCAL/bukvarix_LOCAL.csv;148;near_retail;uk
+LOCAL;пятерочка магазин рядом;901;8445;LOCAL/bukvarix_LOCAL.csv;4306;near_retail;ru
+LOCAL;продукты рядом;957;19061;LOCAL/bukvarix_LOCAL.csv;176;near_retail;uk
+LOCAL;магазин продуктов рядом;858;22650;LOCAL/bukvarix_LOCAL.csv;2750;near_retail;en
+LOCAL;магазин рядом со мной 24 часа;791;1859;LOCAL/bukvarix_LOCAL.csv;42075;near_retail;en
+LOCAL;купить цветы рядом;804;5362;LOCAL/bukvarix_LOCAL.csv;3022;near_retail;en
+LOCAL;рядом магазин одежды;754;8671;LOCAL/bukvarix_LOCAL.csv;9765;near_retail;uk
+LOCAL;табачный магазин рядом;731;2769;LOCAL/bukvarix_LOCAL.csv;2777;near_retail;en
+LOCAL;торговый центр рядом;701;25238;LOCAL/bukvarix_LOCAL.csv;2792;near_retail;uk
+LOCAL;дикси рядом со мной;543;1854;LOCAL/bukvarix_LOCAL.csv;14156;near_retail;en
+LOCAL;пятерочка режим работы рядом со мной;624;2974;LOCAL/bukvarix_LOCAL.csv;39027;near_retail;uk
+LOCAL;рядом магнит магазин;639;6871;LOCAL/bukvarix_LOCAL.csv;11152;near_retail;ru
+LOCAL;цветочный рядом;665;15854;LOCAL/bukvarix_LOCAL.csv;232;near_retail;ru
+LOCAL;магазин светофор рядом;599;3286;LOCAL/bukvarix_LOCAL.csv;3450;near_retail;en
+LOCAL;магазин электроники рядом;538;1913;LOCAL/bukvarix_LOCAL.csv;2919;near_retail;uk
+LOCAL;перекресток рядом;529;5210;LOCAL/bukvarix_LOCAL.csv;270;near_retail;en
+LOCAL;магазин фикс прайс на карте рядом со мной;528;1452;LOCAL/bukvarix_LOCAL.csv;48070;near_retail;en
+LOCAL;магазин цветов рядом;460;4615;LOCAL/bukvarix_LOCAL.csv;3021;near_retail;ru
+LOCAL;ближайший магазин чижик;449;2009;LOCAL/bukvarix_LOCAL.csv;3515;near_retail;uk
+LOCAL;канцелярский магазин рядом;443;1350;LOCAL/bukvarix_LOCAL.csv;3059;near_retail;en
+LOCAL;магнит рядом режим работы;371;1971;LOCAL/bukvarix_LOCAL.csv;22107;near_retail;uk
+LOCAL;рынок рядом со мной;326;2817;LOCAL/bukvarix_LOCAL.csv;14740;near_retail;ru
+LOCAL;лента рядом;416;7311;LOCAL/bukvarix_LOCAL.csv;355;near_retail;ru
+LOCAL;магнит рядом со мной часы работы;364;1432;LOCAL/bukvarix_LOCAL.csv;39528;near_retail;uk
+LOCAL;мясной магазин рядом;343;1676;LOCAL/bukvarix_LOCAL.csv;3482;near_retail;ru
+LOCAL;часы работы пятерочки рядом со мной;322;1563;LOCAL/bukvarix_LOCAL.csv;39168;near_retail;en
+LOCAL;супермаркет рядом;342;4687;LOCAL/bukvarix_LOCAL.csv;441;near_retail;ru
+LOCAL;пивной магазин рядом;308;1453;LOCAL/bukvarix_LOCAL.csv;3649;near_retail;uk
+LOCAL;магазин красное белое ближайший;281;1316;LOCAL/bukvarix_LOCAL.csv;26657;near_retail;ru
+LOCAL;рынок строительный рядом со мной на карте;312;437;LOCAL/bukvarix_LOCAL.csv;46987;near_retail;ru
+LOCAL;рыбаловный магазин рядом;290;490;LOCAL/bukvarix_LOCAL.csv;3764;near_retail;uk
+LOCAL;рыбный магазин рядом;287;1278;LOCAL/bukvarix_LOCAL.csv;3771;near_retail;ru
+LOCAL;магазин ночной рядом со мной;251;1231;LOCAL/bukvarix_LOCAL.csv;36430;near_retail;uk
+LOCAL;вело магазины рядом;280;527;LOCAL/bukvarix_LOCAL.csv;3801;near_retail;en
+LOCAL;рядом строй магазин;262;1019;LOCAL/bukvarix_LOCAL.csv;12463;near_retail;en
+LOCAL;магазин для рыбалки рядом;241;1495;LOCAL/bukvarix_LOCAL.csv;15547;near_retail;ru
+LOCAL;ткани магазин рядом;254;2281;LOCAL/bukvarix_LOCAL.csv;9781;near_retail;uk
+LOCAL;магазин электрики рядом;253;1437;LOCAL/bukvarix_LOCAL.csv;3991;near_retail;uk
+LOCAL;график работы пятерочки рядом со мной;237;742;LOCAL/bukvarix_LOCAL.csv;39426;near_retail;en
+LOCAL;крепеж магазин рядом;238;1351;LOCAL/bukvarix_LOCAL.csv;6698;near_retail;uk
+LOCAL;магазин табак рядом со мной;208;657;LOCAL/bukvarix_LOCAL.csv;32481;near_retail;uk
+LOCAL;рыбацкий магазин рядом;226;911;LOCAL/bukvarix_LOCAL.csv;4197;near_retail;en
+LOCAL;авто магазин рядом;219;1144;LOCAL/bukvarix_LOCAL.csv;4381;near_retail;en
+LOCAL;книжный магазин рядом;217;1617;LOCAL/bukvarix_LOCAL.csv;4316;near_retail;ru
+LOCAL;ближайший лемана про магазин;199;587;LOCAL/bukvarix_LOCAL.csv;20976;near_retail;ru
+LOCAL;магазин техники рядом;214;2732;LOCAL/bukvarix_LOCAL.csv;4376;near_retail;ru
+LOCAL;режим работы фикс прайс рядом;213;610;LOCAL/bukvarix_LOCAL.csv;32160;near_retail;uk
+LOCAL;соколов ближайший магазин;209;924;LOCAL/bukvarix_LOCAL.csv;10459;near_retail;en
+LOCAL;кинотеатр рядом со мной;949;2193;LOCAL/bukvarix_LOCAL.csv;13838;near_leisure;ru
+LOCAL;кинотеатр рядом;890;16470;LOCAL/bukvarix_LOCAL.csv;181;near_leisure;en
+LOCAL;церковь рядом со мной;507;1560;LOCAL/bukvarix_LOCAL.csv;14247;near_leisure;uk
+LOCAL;парк рядом со мной;425;2212;LOCAL/bukvarix_LOCAL.csv;14429;near_leisure;en
+LOCAL;библиотека рядом со мной;405;1332;LOCAL/bukvarix_LOCAL.csv;14454;near_leisure;uk
+LOCAL;церковь рядом;432;16129;LOCAL/bukvarix_LOCAL.csv;326;near_leisure;en
+LOCAL;аквапарк рядом со мной;312;633;LOCAL/bukvarix_LOCAL.csv;14837;near_leisure;uk
+LOCAL;рядом бильярд;381;1441;LOCAL/bukvarix_LOCAL.csv;1993;near_leisure;en
+LOCAL;кинотеатры рядом со мной;284;2193;LOCAL/bukvarix_LOCAL.csv;14975;near_leisure;ru
+LOCAL;храм рядом со мной;280;1429;LOCAL/bukvarix_LOCAL.csv;14996;near_leisure;en
+LOCAL;библиотека рядом;362;7480;LOCAL/bukvarix_LOCAL.csv;390;near_leisure;ru
+LOCAL;аквапарк рядом;355;15034;LOCAL/bukvarix_LOCAL.csv;408;near_leisure;uk
+LOCAL;парк рядом;351;97447;LOCAL/bukvarix_LOCAL.csv;433;near_leisure;uk
+LOCAL;рядом парк;351;95717;LOCAL/bukvarix_LOCAL.csv;1964;near_leisure;ru
+LOCAL;парк галицкого в краснодаре гостиницы рядом;320;1146;LOCAL/bukvarix_LOCAL.csv;39194;near_leisure;ru
+LOCAL;парк галицкого в краснодаре отели рядом;316;1685;LOCAL/bukvarix_LOCAL.csv;39288;near_leisure;ru
+LOCAL;кинотеатры рядом;312;16470;LOCAL/bukvarix_LOCAL.csv;461;near_leisure;en
+LOCAL;зоопарк рядом со мной;186;524;LOCAL/bukvarix_LOCAL.csv;16090;near_leisure;ru
+LOCAL;рядом мечеть;217;4108;LOCAL/bukvarix_LOCAL.csv;2108;near_leisure;uk
+LOCAL;парк лога гостиницы рядом;176;409;LOCAL/bukvarix_LOCAL.csv;16455;near_leisure;ru
+LOCAL;парк галицкого в краснодаре снять квартиру посуточно рядом;229;1097;LOCAL/bukvarix_LOCAL.csv;48217;near_leisure;en
+LOCAL;боулинг рядом;181;1197;LOCAL/bukvarix_LOCAL.csv;793;near_leisure;en
+LOCAL;библиотека детская рядом со мной;143;257;LOCAL/bukvarix_LOCAL.csv;35439;near_leisure;ru
+LOCAL;парк галицкого отели рядом;145;3036;LOCAL/bukvarix_LOCAL.csv;17223;near_leisure;uk
+LOCAL;зоопарк контактный рядом;119;817;LOCAL/bukvarix_LOCAL.csv;13321;near_leisure;ru
+LOCAL;снять квартиру в новосибирске рядом с зоопарком посуточно;147;171;LOCAL/bukvarix_LOCAL.csv;49628;near_leisure;en
+LOCAL;снять квартиру посуточно в казани рядом с аквапарком ривьера;156;177;LOCAL/bukvarix_LOCAL.csv;50311;near_leisure;uk
+LOCAL;ближайший парк аттракционов;107;705;LOCAL/bukvarix_LOCAL.csv;6847;near_leisure;en
+LOCAL;снять квартиру в новосибирске рядом с аквапарком посуточно;106;117;LOCAL/bukvarix_LOCAL.csv;49180;near_leisure;uk
+LOCAL;бассейн рядом со мной;1022;5948;LOCAL/bukvarix_LOCAL.csv;13771;near_fitness;ru
+LOCAL;бассейн рядом;776;60982;LOCAL/bukvarix_LOCAL.csv;224;near_fitness;uk
+LOCAL;спортзал рядом;683;4202;LOCAL/bukvarix_LOCAL.csv;230;near_fitness;ru
+LOCAL;фитнес рядом со мной;458;3313;LOCAL/bukvarix_LOCAL.csv;14303;near_fitness;uk
+LOCAL;тренажерный зал рядом;539;3067;LOCAL/bukvarix_LOCAL.csv;2941;near_fitness;ru
+LOCAL;тренажерный зал рядом со мной;457;1222;LOCAL/bukvarix_LOCAL.csv;30515;near_fitness;en
+LOCAL;фитнес клуб рядом со мной;450;1418;LOCAL/bukvarix_LOCAL.csv;30495;near_fitness;uk
+LOCAL;сауна рядом со мной с бассейном;404;892;LOCAL/bukvarix_LOCAL.csv;39086;near_fitness;en
+LOCAL;сауна с бассейном рядом со мной;404;892;LOCAL/bukvarix_LOCAL.csv;42176;near_fitness;ru
+LOCAL;фитнес клуб рядом;352;3460;LOCAL/bukvarix_LOCAL.csv;3437;near_fitness;uk
+LOCAL;фитнес рядом;378;9065;LOCAL/bukvarix_LOCAL.csv;382;near_fitness;en
+LOCAL;рядом фитнес клуб;344;3302;LOCAL/bukvarix_LOCAL.csv;11557;near_fitness;ru
+LOCAL;бассейн рядом со мной на карте;302;1153;LOCAL/bukvarix_LOCAL.csv;39230;near_fitness;uk
+LOCAL;открытый бассейн рядом со мной;178;364;LOCAL/bukvarix_LOCAL.csv;32463;near_fitness;en
+LOCAL;бассейн взрослый рядом со мной;119;274;LOCAL/bukvarix_LOCAL.csv;37887;near_fitness;en
+LOCAL;детский бассейн рядом;123;763;LOCAL/bukvarix_LOCAL.csv;8177;near_fitness;ru
+LOCAL;бассейн рядом со мной для детей;113;315;LOCAL/bukvarix_LOCAL.csv;42290;near_fitness;uk
+LOCAL;спортзалы рядом;121;4202;LOCAL/bukvarix_LOCAL.csv;1126;near_fitness;uk
+LOCAL;фитнес зал рядом;108;875;LOCAL/bukvarix_LOCAL.csv;7260;near_fitness;ru
+LOCAL;снять жилье в соль илецке рядом с озерами с бассейном;157;180;LOCAL/bukvarix_LOCAL.csv;50391;near_fitness;en
+LOCAL;гостиница рядом;3050;171768;LOCAL/bukvarix_LOCAL.csv;37;near_hotels;en
+LOCAL;архипо осиповка отели с бассейном рядом с морем;2872;3649;LOCAL/bukvarix_LOCAL.csv;47994;near_hotels;en
+LOCAL;кабардинка отели с бассейном рядом с морем;2536;4929;LOCAL/bukvarix_LOCAL.csv;44310;near_hotels;uk
+LOCAL;отель рядом;1049;237513;LOCAL/bukvarix_LOCAL.csv;149;near_hotels;uk
+LOCAL;хостел рядом;881;25126;LOCAL/bukvarix_LOCAL.csv;182;near_hotels;en
+LOCAL;адлер отели недорого рядом с морем;653;968;LOCAL/bukvarix_LOCAL.csv;38872;near_hotels;en
+LOCAL;отели в турции все включено рядом с морем;757;1389;LOCAL/bukvarix_LOCAL.csv;48009;near_hotels;ru
+LOCAL;отели геленджик с бассейном рядом с морем;667;2940;LOCAL/bukvarix_LOCAL.csv;44619;near_hotels;ru
+LOCAL;ольгинка отели с бассейном рядом с морем;618;809;LOCAL/bukvarix_LOCAL.csv;44386;near_hotels;ru
+LOCAL;дивеево гостиницы забронировать рядом с монастырем;538;546;LOCAL/bukvarix_LOCAL.csv;38915;near_hotels;en
+LOCAL;отели рядом с шереметьево;388;2469;LOCAL/bukvarix_LOCAL.csv;14532;near_hotels;ru
+LOCAL;отели рядом с парком галицкого в краснодаре;469;1376;LOCAL/bukvarix_LOCAL.csv;44743;near_hotels;uk
+LOCAL;гостиница рядом с шереметьево;349;2507;LOCAL/bukvarix_LOCAL.csv;14667;near_hotels;uk
+LOCAL;отели лазаревское с бассейном рядом с морем;428;1990;LOCAL/bukvarix_LOCAL.csv;44481;near_hotels;en
+LOCAL;шереметьево отели рядом с аэропортом;346;1313;LOCAL/bukvarix_LOCAL.csv;33543;near_hotels;ru
+LOCAL;отели в адлере с бассейном рядом с морем;393;570;LOCAL/bukvarix_LOCAL.csv;48083;near_hotels;uk
+LOCAL;дивноморское отели с бассейном рядом с морем;363;637;LOCAL/bukvarix_LOCAL.csv;46267;near_hotels;uk
+LOCAL;соль илецк отели рядом с озерами;317;1032;LOCAL/bukvarix_LOCAL.csv;39495;near_hotels;uk
+LOCAL;29 ekim mahallesi sokak bursa хостелы рядом;329;329;LOCAL/bukvarix_LOCAL.csv;44561;near_hotels;ru
+LOCAL;отели в сочи рядом с морем с бассейном;352;770;LOCAL/bukvarix_LOCAL.csv;49269;near_hotels;en
+LOCAL;отели геленджика рядом с морем недорого;294;536;LOCAL/bukvarix_LOCAL.csv;39241;near_hotels;ru
+LOCAL;соль илецк гостиницы рядом с озерами;288;1232;LOCAL/bukvarix_LOCAL.csv;39273;near_hotels;uk
+LOCAL;гостиница рядом с аэропортом внуково;258;1167;LOCAL/bukvarix_LOCAL.csv;33194;near_hotels;uk
+LOCAL;гостиница рядом со мной недорого на сутки;268;535;LOCAL/bukvarix_LOCAL.csv;44708;near_hotels;ru
+LOCAL;гостиница рядом с аэропортом сочи;246;883;LOCAL/bukvarix_LOCAL.csv;31745;near_hotels;en
+LOCAL;шереметьево гостиница рядом с аэропортом;230;1576;LOCAL/bukvarix_LOCAL.csv;35598;near_hotels;en
+LOCAL;ателье рядом со мной;1988;8829;LOCAL/bukvarix_LOCAL.csv;13568;near_home_services;ru
+LOCAL;ателье рядом;2267;15088;LOCAL/bukvarix_LOCAL.csv;57;near_home_services;uk
+LOCAL;ателье рядом со мной на карте;1522;2634;LOCAL/bukvarix_LOCAL.csv;38798;near_home_services;en
+LOCAL;ломбард рядом со мной;1278;4257;LOCAL/bukvarix_LOCAL.csv;13684;near_home_services;uk
+LOCAL;ломбард рядом;1481;8502;LOCAL/bukvarix_LOCAL.csv;98;near_home_services;ru
+LOCAL;ремонт обуви рядом;1208;6599;LOCAL/bukvarix_LOCAL.csv;2548;near_home_services;uk
+LOCAL;ремонт обуви рядом со мной;709;4134;LOCAL/bukvarix_LOCAL.csv;30295;near_home_services;en
+LOCAL;сантехника рядом;730;10440;LOCAL/bukvarix_LOCAL.csv;211;near_home_services;ru
+LOCAL;сантехника рядом со мной;506;5250;LOCAL/bukvarix_LOCAL.csv;14205;near_home_services;uk
+LOCAL;фотоателье рядом со мной на карте;568;799;LOCAL/bukvarix_LOCAL.csv;38904;near_home_services;uk
+LOCAL;ломбард ближайший;536;2770;LOCAL/bukvarix_LOCAL.csv;1311;near_home_services;en
+LOCAL;ателье рядом по ремонту одежды рядом со мной;488;1658;LOCAL/bukvarix_LOCAL.csv;49280;near_home_services;ru
+LOCAL;химчистка рядом;429;3574;LOCAL/bukvarix_LOCAL.csv;346;near_home_services;ru
+LOCAL;ломбард золото сдать рядом со мной;239;273;LOCAL/bukvarix_LOCAL.csv;42377;near_home_services;ru
+LOCAL;ремонт бытовой техники рядом;211;1336;LOCAL/bukvarix_LOCAL.csv;15717;near_home_services;en
+LOCAL;прачечная рядом;204;2216;LOCAL/bukvarix_LOCAL.csv;703;near_home_services;uk
+LOCAL;фотосалон рядом;192;1529;LOCAL/bukvarix_LOCAL.csv;764;near_home_services;en
+LOCAL;ателье рядом со мной на карте швейное;185;229;LOCAL/bukvarix_LOCAL.csv;46077;near_home_services;uk
+LOCAL;прачечная самообслуживания рядом со мной;139;696;LOCAL/bukvarix_LOCAL.csv;32515;near_home_services;ru
+LOCAL;ломбард рядом со мной золото;123;414;LOCAL/bukvarix_LOCAL.csv;33336;near_home_services;en
+LOCAL;ателье рядом со мной краснодар;121;175;LOCAL/bukvarix_LOCAL.csv;35626;near_home_services;uk
+LOCAL;авто электрик рядом;124;278;LOCAL/bukvarix_LOCAL.csv;6211;near_home_services;ru
+LOCAL;телемастерская ремонт телевизоров рядом со мной;119;144;LOCAL/bukvarix_LOCAL.csv;40687;near_home_services;en
+LOCAL;юрист рядом;121;1599;LOCAL/bukvarix_LOCAL.csv;1130;near_home_services;en
+LOCAL;ателье рязань рядом;101;197;LOCAL/bukvarix_LOCAL.csv;7243;near_home_services;ru
+LOCAL;школа рядом со мной;303;3049;LOCAL/bukvarix_LOCAL.csv;14921;near_education;uk
+LOCAL;автошкола рядом;386;2563;LOCAL/bukvarix_LOCAL.csv;366;near_education;ru
+LOCAL;автошкола рядом со мной;279;816;LOCAL/bukvarix_LOCAL.csv;15031;near_education;ru
+LOCAL;детский сад рядом со мной;270;1296;LOCAL/bukvarix_LOCAL.csv;31045;near_education;uk
+LOCAL;школа рядом;317;46463;LOCAL/bukvarix_LOCAL.csv;459;near_education;en
+LOCAL;школы рядом со мной;234;3049;LOCAL/bukvarix_LOCAL.csv;15453;near_education;en
+LOCAL;детский сад рядом;239;8474;LOCAL/bukvarix_LOCAL.csv;4225;near_education;ru
+LOCAL;рядом детский сад;214;7959;LOCAL/bukvarix_LOCAL.csv;12099;near_education;uk
+LOCAL;школы рядом со мной на карте;199;811;LOCAL/bukvarix_LOCAL.csv;39638;near_education;en
+LOCAL;колледжи рядом со мной;161;1416;LOCAL/bukvarix_LOCAL.csv;16621;near_education;en
+LOCAL;школы рядом;206;46461;LOCAL/bukvarix_LOCAL.csv;695;near_education;uk
+LOCAL;садик рядом со мной;133;832;LOCAL/bukvarix_LOCAL.csv;17528;near_education;uk
+LOCAL;колледж рядом со мной;128;1416;LOCAL/bukvarix_LOCAL.csv;17851;near_education;ru
+LOCAL;колледжи после 9 класса рядом со мной;134;470;LOCAL/bukvarix_LOCAL.csv;47708;near_education;en
+LOCAL;детский сад частный рядом со мной;109;257;LOCAL/bukvarix_LOCAL.csv;42678;near_education;ru
+LOCAL;фетхие аэропорт ближайший;577;1127;LOCAL/bukvarix_LOCAL.csv;3280;near_transport;uk
+LOCAL;мармарис ближайший аэропорт;500;1285;LOCAL/bukvarix_LOCAL.csv;5394;near_transport;uk
+LOCAL;остров мечты какое рядом метро;317;671;LOCAL/bukvarix_LOCAL.csv;37509;near_transport;en
+LOCAL;ближайший аэропорт к анапе;265;711;LOCAL/bukvarix_LOCAL.csv;15512;near_transport;uk
+LOCAL;каппадокия ближайший аэропорт;246;477;LOCAL/bukvarix_LOCAL.csv;9544;near_transport;en
+LOCAL;ближайший аэропорт байкал;236;748;LOCAL/bukvarix_LOCAL.csv;12805;near_transport;en
+LOCAL;вокзал восточный какое метро рядом;226;1213;LOCAL/bukvarix_LOCAL.csv;34850;near_transport;en
+LOCAL;метро рядом фуд сити;209;600;LOCAL/bukvarix_LOCAL.csv;28142;near_transport;ru
+LOCAL;каш ближайший аэропорт;215;1095;LOCAL/bukvarix_LOCAL.csv;6314;near_transport;ru
+LOCAL;ближайший аэропорт каш турция;188;570;LOCAL/bukvarix_LOCAL.csv;27792;near_transport;en
+LOCAL;аэропорт кисловодск ближайший;196;483;LOCAL/bukvarix_LOCAL.csv;12844;near_transport;en
+LOCAL;стоянка внуково рядом с аэропортом;195;459;LOCAL/bukvarix_LOCAL.csv;31766;near_transport;uk
+LOCAL;минеральные воды парковка рядом с аэропортом;210;379;LOCAL/bukvarix_LOCAL.csv;42887;near_transport;ru
+LOCAL;архыз ближайший аэропорт;190;387;LOCAL/bukvarix_LOCAL.csv;8184;near_transport;en
+LOCAL;кемер аэропорт ближайший;188;728;LOCAL/bukvarix_LOCAL.csv;6720;near_transport;uk
+LOCAL;метро с красной площадью рядом;187;988;LOCAL/bukvarix_LOCAL.csv;37207;near_transport;ru
+LOCAL;ближайший открытый аэропорт к ростову на дону;217;389;LOCAL/bukvarix_LOCAL.csv;47388;near_transport;uk
+LOCAL;казанский вокзал метро какое рядом;182;556;LOCAL/bukvarix_LOCAL.csv;34365;near_transport;uk
+LOCAL;кушадасы аэропорт ближайший;179;331;LOCAL/bukvarix_LOCAL.csv;7861;near_transport;ru
+LOCAL;ближайший аэропорт бодрум;167;456;LOCAL/bukvarix_LOCAL.csv;13043;near_transport;ru
+LOCAL;исаакиевский собор метро рядом;153;516;LOCAL/bukvarix_LOCAL.csv;16988;near_transport;uk
+LOCAL;ближайший к ростову аэропорт;152;1383;LOCAL/bukvarix_LOCAL.csv;25691;near_transport;ru
+LOCAL;патриаршие пруды метро рядом;152;394;LOCAL/bukvarix_LOCAL.csv;16904;near_transport;ru
+LOCAL;метро рядом с метро кантемировская;157;600;LOCAL/bukvarix_LOCAL.csv;37829;near_transport;en
+LOCAL;парковка рядом;116;22008;LOCAL/bukvarix_LOCAL.csv;1159;near_parking;uk
+LOCAL;жд вокзал анапа адрес;789;1280;LOCAL/bukvarix_LOCAL.csv;14389;address_transport;en
+LOCAL;сочи аэропорт адрес;790;1892;LOCAL/bukvarix_LOCAL.csv;7470;address_transport;uk
+LOCAL;самара жд вокзал адрес;628;1229;LOCAL/bukvarix_LOCAL.csv;16847;address_transport;ru
+LOCAL;новороссийск жд вокзал адрес;579;1277;LOCAL/bukvarix_LOCAL.csv;16150;address_transport;uk
+LOCAL;уфа жд вокзал адрес;561;961;LOCAL/bukvarix_LOCAL.csv;17711;address_transport;en
+LOCAL;жд вокзал екатеринбург адрес;507;1242;LOCAL/bukvarix_LOCAL.csv;14624;address_transport;ru
+LOCAL;сочи жд вокзал адрес;493;996;LOCAL/bukvarix_LOCAL.csv;17597;address_transport;ru
+LOCAL;адрес симферополь жд вокзал;479;1029;LOCAL/bukvarix_LOCAL.csv;26389;address_transport;en
+LOCAL;столичный автовокзал казань адрес;450;599;LOCAL/bukvarix_LOCAL.csv;20340;address_transport;uk
+LOCAL;адрес жд вокзал адлер;446;935;LOCAL/bukvarix_LOCAL.csv;22714;address_transport;en
+LOCAL;краснодар аэропорт адрес;463;1261;LOCAL/bukvarix_LOCAL.csv;7608;address_transport;en
+LOCAL;саратов автовокзал адрес;426;1124;LOCAL/bukvarix_LOCAL.csv;8073;address_transport;ru
+LOCAL;главный автовокзал ростов на дону адрес;452;760;LOCAL/bukvarix_LOCAL.csv;39430;address_transport;uk
+LOCAL;пермь автовокзал адрес;412;939;LOCAL/bukvarix_LOCAL.csv;7738;address_transport;uk
+LOCAL;вокзал воронеж 1 адрес жд;400;775;LOCAL/bukvarix_LOCAL.csv;36711;address_transport;en
+LOCAL;казанский вокзал адрес;400;1974;LOCAL/bukvarix_LOCAL.csv;3227;address_transport;uk
+LOCAL;казань аэропорт адрес;388;961;LOCAL/bukvarix_LOCAL.csv;7994;address_transport;en
+LOCAL;южный автовокзал уфа адрес;358;571;LOCAL/bukvarix_LOCAL.csv;16239;address_transport;uk
+LOCAL;шереметьево аэропорт адрес;530;1699;LOCAL/bukvarix_LOCAL.csv;7891;address_transport;ru
+LOCAL;краснодар вокзал краснодар 1 адрес;378;883;LOCAL/bukvarix_LOCAL.csv;37650;address_transport;en
+LOCAL;южный автовокзал екатеринбург адрес;343;587;LOCAL/bukvarix_LOCAL.csv;15761;address_transport;ru
+LOCAL;тюмень жд вокзал адрес;341;605;LOCAL/bukvarix_LOCAL.csv;20632;address_transport;en
+LOCAL;автовокзал пригородный ростов на дону адрес;380;701;LOCAL/bukvarix_LOCAL.csv;41590;address_transport;ru
+LOCAL;красноярск жд вокзал адрес;322;684;LOCAL/bukvarix_LOCAL.csv;21983;address_transport;uk
+LOCAL;новосибирск жд вокзал адрес;321;1158;LOCAL/bukvarix_LOCAL.csv;21151;address_transport;ru
+LOCAL;ростов жд вокзал адрес главный;329;990;LOCAL/bukvarix_LOCAL.csv;36698;address_transport;ru
+LOCAL;центральный автовокзал воронеж адрес;297;541;LOCAL/bukvarix_LOCAL.csv;17431;address_transport;ru
+LOCAL;жд вокзал ижевск адрес;290;444;LOCAL/bukvarix_LOCAL.csv;16016;address_transport;uk
+LOCAL;боткинская больница адрес;1014;4139;LOCAL/bukvarix_LOCAL.csv;2642;address_medical;en
+LOCAL;больница 7 донецк днр адрес;934;1092;LOCAL/bukvarix_LOCAL.csv;30379;address_medical;en
+LOCAL;уфа больница 22 адрес;498;748;LOCAL/bukvarix_LOCAL.csv;24090;address_medical;ru
+LOCAL;адрес бсмп рязань;397;822;LOCAL/bukvarix_LOCAL.csv;10324;address_medical;uk
+LOCAL;бсмп 2 адрес ростов на дону;401;624;LOCAL/bukvarix_LOCAL.csv;43085;address_medical;ru
+LOCAL;больница мариинская санкт петербург адрес;365;689;LOCAL/bukvarix_LOCAL.csv;36524;address_medical;uk
+LOCAL;детская морозовская больница адрес;449;1148;LOCAL/bukvarix_LOCAL.csv;21793;address_medical;uk
+LOCAL;33 больница нижний новгород адрес;336;514;LOCAL/bukvarix_LOCAL.csv;32472;address_medical;uk
+LOCAL;адрес бсмп ульяновск;330;688;LOCAL/bukvarix_LOCAL.csv;11894;address_medical;ru
+LOCAL;юдина больница адрес;458;2538;LOCAL/bukvarix_LOCAL.csv;10806;address_medical;ru
+LOCAL;областная больница адрес челябинск;303;950;LOCAL/bukvarix_LOCAL.csv;26146;address_medical;en
+LOCAL;екатеринбург 23 больница адрес;300;587;LOCAL/bukvarix_LOCAL.csv;26496;address_medical;uk
+LOCAL;взрослый травмпункт вологда круглосуточно адрес;314;393;LOCAL/bukvarix_LOCAL.csv;37712;address_medical;ru
+LOCAL;саратов 3 советская больница адрес;297;547;LOCAL/bukvarix_LOCAL.csv;36078;address_medical;ru
+LOCAL;рдкб уфа адрес детская больница;281;334;LOCAL/bukvarix_LOCAL.csv;31095;address_medical;en
+LOCAL;областная больница ростов на дону 2 адрес;328;621;LOCAL/bukvarix_LOCAL.csv;47429;address_medical;en
+LOCAL;адрес бсмп красноярск;249;480;LOCAL/bukvarix_LOCAL.csv;11018;address_medical;en
+LOCAL;покровская больница санкт петербург адрес;239;404;LOCAL/bukvarix_LOCAL.csv;31226;address_medical;uk
+LOCAL;школа 63 липецк адрес;3260;3931;LOCAL/bukvarix_LOCAL.csv;13546;address_education;en
+LOCAL;школа 1409 адрес;1093;3566;LOCAL/bukvarix_LOCAL.csv;2664;address_education;ru
+LOCAL;ранхигс адрес;1115;16727;LOCAL/bukvarix_LOCAL.csv;140;address_education;uk
+LOCAL;рудн адрес;1055;5183;LOCAL/bukvarix_LOCAL.csv;160;address_education;ru
+LOCAL;57 школа чебоксары адрес;494;560;LOCAL/bukvarix_LOCAL.csv;15868;address_education;en
+LOCAL;школа 48 воронеж адрес;463;542;LOCAL/bukvarix_LOCAL.csv;15635;address_education;uk
+LOCAL;47 школа нижний новгород адрес;399;477;LOCAL/bukvarix_LOCAL.csv;34795;address_education;en
+LOCAL;51 школа калуга адрес;369;484;LOCAL/bukvarix_LOCAL.csv;18549;address_education;en
+LOCAL;мирэа адрес;570;4300;LOCAL/bukvarix_LOCAL.csv;275;address_education;uk
+LOCAL;школа поколение краснодар адрес;328;470;LOCAL/bukvarix_LOCAL.csv;15346;address_education;ru
+LOCAL;технологический колледж рязань адрес;306;401;LOCAL/bukvarix_LOCAL.csv;15003;address_education;en
+LOCAL;самарский государственный колледж адрес;300;864;LOCAL/bukvarix_LOCAL.csv;14908;address_education;uk
+LOCAL;ранхигс колледж адрес;415;2849;LOCAL/bukvarix_LOCAL.csv;4899;address_education;ru
+LOCAL;адрес музей фаберже в санкт петербурге;898;1857;LOCAL/bukvarix_LOCAL.csv;42873;address_culture;ru
+LOCAL;новосибирск зоопарк адрес;524;1189;LOCAL/bukvarix_LOCAL.csv;5935;address_culture;en
+LOCAL;адрес втб арена;675;1473;LOCAL/bukvarix_LOCAL.csv;11078;address_culture;ru
+LOCAL;адрес вднх;728;7773;LOCAL/bukvarix_LOCAL.csv;877;address_culture;en
+LOCAL;зоопарк пермь новый адрес;444;1014;LOCAL/bukvarix_LOCAL.csv;16728;address_culture;uk
+LOCAL;эрмитаж санкт петербург адрес;427;928;LOCAL/bukvarix_LOCAL.csv;16386;address_culture;en
+LOCAL;театриум на серпуховке адрес;554;829;LOCAL/bukvarix_LOCAL.csv;14171;address_culture;ru
+LOCAL;ривьера казань аквапарк адрес;389;580;LOCAL/bukvarix_LOCAL.csv;21931;address_culture;ru
+LOCAL;зоопарк адрес екатеринбург;414;1505;LOCAL/bukvarix_LOCAL.csv;11357;address_culture;uk
+LOCAL;зоопарк адрес санкт петербург;370;1550;LOCAL/bukvarix_LOCAL.csv;25481;address_culture;uk
+LOCAL;адрес екатеринбург арена;392;933;LOCAL/bukvarix_LOCAL.csv;11378;address_culture;uk
+LOCAL;ска арена адрес санкт петербург;379;549;LOCAL/bukvarix_LOCAL.csv;35575;address_culture;en
+LOCAL;мореон аквапарк адрес;526;1307;LOCAL/bukvarix_LOCAL.csv;3874;address_culture;ru
+LOCAL;адрес геленджик арена;362;491;LOCAL/bukvarix_LOCAL.csv;10266;address_culture;en
+LOCAL;пермь зоопарк адрес;340;1843;LOCAL/bukvarix_LOCAL.csv;8253;address_culture;ru
+LOCAL;новосибирск аквапарк адрес;333;847;LOCAL/bukvarix_LOCAL.csv;9523;address_culture;en
+LOCAL;аквапарк тамбов адрес;331;1401;LOCAL/bukvarix_LOCAL.csv;3609;address_culture;uk
+LOCAL;санкт петербург русский музей адрес;323;846;LOCAL/bukvarix_LOCAL.csv;36292;address_culture;uk
+LOCAL;белая дача мега адрес;566;1242;LOCAL/bukvarix_LOCAL.csv;23572;address_retail;uk
+LOCAL;челябинск золотое яблоко адрес;404;574;LOCAL/bukvarix_LOCAL.csv;21814;address_retail;ru
+LOCAL;адрес авиапарк;605;2618;LOCAL/bukvarix_LOCAL.csv;1848;address_retail;ru
+LOCAL;лемана про нижний новгород адрес;315;427;LOCAL/bukvarix_LOCAL.csv;31077;address_retail;en
+LOCAL;самара золотое яблоко адрес;289;555;LOCAL/bukvarix_LOCAL.csv;20666;address_retail;en
+LOCAL;казань мега адрес;308;849;LOCAL/bukvarix_LOCAL.csv;10265;address_retail;uk
+LOCAL;казань золотое яблоко адрес;277;786;LOCAL/bukvarix_LOCAL.csv;23464;address_retail;ru
+LOCAL;химки мега адрес;299;619;LOCAL/bukvarix_LOCAL.csv;10202;address_retail;ru
+LOCAL;иркутск золотое яблоко адрес;272;451;LOCAL/bukvarix_LOCAL.csv;22726;address_retail;en
+LOCAL;золотое яблоко краснодар адрес;264;738;LOCAL/bukvarix_LOCAL.csv;15546;address_retail;uk
+LOCAL;уфа золотое яблоко адрес;252;579;LOCAL/bukvarix_LOCAL.csv;24009;address_retail;en
+LOCAL;ярославль золотое яблоко адрес;238;597;LOCAL/bukvarix_LOCAL.csv;22308;address_retail;en
+LOCAL;геленджик золотое яблоко адрес;234;544;LOCAL/bukvarix_LOCAL.csv;24109;address_retail;uk
+LOCAL;тц галерея санкт петербург адрес;251;387;LOCAL/bukvarix_LOCAL.csv;31404;address_retail;ru
+LOCAL;склад вб краснодар адрес;2262;5802;LOCAL/bukvarix_LOCAL.csv;13624;address_parcel;uk
+LOCAL;вайлдберриз склад пенза адрес;1836;3780;LOCAL/bukvarix_LOCAL.csv;18528;address_parcel;ru
+LOCAL;склад вб волгоград адрес;1433;2398;LOCAL/bukvarix_LOCAL.csv;13762;address_parcel;ru
+LOCAL;электросталь вб склад адрес;1874;2685;LOCAL/bukvarix_LOCAL.csv;14206;address_parcel;ru
+LOCAL;электросталь вайлдберриз склад адрес;1471;2302;LOCAL/bukvarix_LOCAL.csv;16311;address_parcel;ru
+LOCAL;пенза склад вб адрес;975;2020;LOCAL/bukvarix_LOCAL.csv;21152;address_parcel;en
+LOCAL;оренбург склад озон адрес;935;1568;LOCAL/bukvarix_LOCAL.csv;18268;address_parcel;uk
+LOCAL;склад вб краснодар тихорецкая адрес;954;1160;LOCAL/bukvarix_LOCAL.csv;30247;address_parcel;uk
+LOCAL;адрес сдэк;1325;229507;LOCAL/bukvarix_LOCAL.csv;102;address_parcel;en
+LOCAL;краснодар склад валберис адрес;765;2063;LOCAL/bukvarix_LOCAL.csv;23739;address_parcel;uk
+LOCAL;рязань вб склад адрес;753;1684;LOCAL/bukvarix_LOCAL.csv;18206;address_parcel;ru
+LOCAL;рязань вайлдберриз склад адрес;734;1556;LOCAL/bukvarix_LOCAL.csv;16298;address_parcel;uk
+LOCAL;склад вб воронеж адрес;701;1227;LOCAL/bukvarix_LOCAL.csv;14471;address_parcel;en
+LOCAL;склад валберис пенза адрес;692;1033;LOCAL/bukvarix_LOCAL.csv;14024;address_parcel;en
+LOCAL;мосгорсуд адрес;842;1633;LOCAL/bukvarix_LOCAL.csv;208;address_public;ru
+LOCAL;верховный суд рф адрес;599;2460;LOCAL/bukvarix_LOCAL.csv;14112;address_public;ru
+LOCAL;арбитражный суд краснодарского края адрес;367;585;LOCAL/bukvarix_LOCAL.csv;30705;address_public;uk
+LOCAL;генеральная прокуратура рф адрес;421;1898;LOCAL/bukvarix_LOCAL.csv;14441;address_public;uk
+LOCAL;адрес арбитражный суд ростовской области;308;556;LOCAL/bukvarix_LOCAL.csv;37238;address_public;ru
+LOCAL;адрес налоговая 46;417;1949;LOCAL/bukvarix_LOCAL.csv;11842;address_public;uk
+LOCAL;арбитражный суд самарской области адрес;267;375;LOCAL/bukvarix_LOCAL.csv;31074;address_public;uk
+LOCAL;фнс россии адрес;368;3648;LOCAL/bukvarix_LOCAL.csv;3558;address_public;en
+LOCAL;адрес арбитражный суд свердловской области;354;715;LOCAL/bukvarix_LOCAL.csv;37365;address_public;en
+LOCAL;администрация президента адрес;344;3014;LOCAL/bukvarix_LOCAL.csv;3510;address_public;en
+LOCAL;адрес парк галицкого в краснодаре;2163;3736;LOCAL/bukvarix_LOCAL.csv;34199;address_leisure;uk
+LOCAL;парк галицкого адрес;1488;6824;LOCAL/bukvarix_LOCAL.csv;2500;address_leisure;ru
+LOCAL;сочи парк адрес;779;3861;LOCAL/bukvarix_LOCAL.csv;2793;address_leisure;en
+LOCAL;москино кинопарк адрес;1003;1831;LOCAL/bukvarix_LOCAL.csv;7006;address_leisure;en
+LOCAL;адрес сочи парк отель;511;1016;LOCAL/bukvarix_LOCAL.csv;21570;address_leisure;ru
+LOCAL;самарские термы адрес;526;892;LOCAL/bukvarix_LOCAL.csv;2967;address_leisure;uk
+LOCAL;парк сосенки в царицыно адрес;683;980;LOCAL/bukvarix_LOCAL.csv;30315;address_leisure;en
+LOCAL;исторический сквер екатеринбург адрес;447;563;LOCAL/bukvarix_LOCAL.csv;14355;address_leisure;uk
+LOCAL;санкт петербург ботанический сад адрес;457;1375;LOCAL/bukvarix_LOCAL.csv;36588;address_leisure;ru
+LOCAL;адрес мазапарк казань;444;558;LOCAL/bukvarix_LOCAL.csv;10750;address_leisure;en
+LOCAL;гостиницы нижнего новгорода на карте цены и адреса;254;263;LOCAL/bukvarix_LOCAL.csv;48175;address_hotel;ru
+LOCAL;октябрьская гостиница санкт петербург адрес;196;299;LOCAL/bukvarix_LOCAL.csv;37401;address_hotel;en
+LOCAL;санкт петербург отель адрес;155;4593;LOCAL/bukvarix_LOCAL.csv;26086;address_hotel;ru
+LOCAL;отель гранд анапа адрес;114;190;LOCAL/bukvarix_LOCAL.csv;28783;address_hotel;ru
+LOCAL;фиолето анапа адрес отель;112;143;LOCAL/bukvarix_LOCAL.csv;23544;address_hotel;en
+LOCAL;зенит анапа отель адрес;101;145;LOCAL/bukvarix_LOCAL.csv;26614;address_hotel;uk
+LOCAL;санкт петербург гостиница россия адрес;105;184;LOCAL/bukvarix_LOCAL.csv;37594;address_hotel;uk
+LOCAL;юсуповский дворец в санкт петербурге адрес;558;1096;LOCAL/bukvarix_LOCAL.csv;38942;address_other_named;ru
+LOCAL;дворец впечатлений казань адрес;458;660;LOCAL/bukvarix_LOCAL.csv;14475;address_other_named;ru
+LOCAL;уфа дворец борьбы адрес;247;388;LOCAL/bukvarix_LOCAL.csv;23815;address_other_named;en
+LOCAL;юсуповский дворец адрес;275;1851;LOCAL/bukvarix_LOCAL.csv;3921;address_other_named;uk
+LOCAL;адрес дворец молодежи екатеринбург;167;266;LOCAL/bukvarix_LOCAL.csv;28326;address_other_named;uk
+LOCAL;адрес дворец молодежи уфа;148;205;LOCAL/bukvarix_LOCAL.csv;28354;address_other_named;en
+LOCAL;спортивный квартал архангел михаил екатеринбург адрес;172;211;LOCAL/bukvarix_LOCAL.csv;39862;address_other_named;uk
+LOCAL;дворец на яузе адрес;204;449;LOCAL/bukvarix_LOCAL.csv;15913;address_other_named;en
+LOCAL;98 автобус севастополь маршрут;2192;4395;LOCAL/bukvarix_LOCAL.csv;13823;transit_city;en
+LOCAL;61 троллейбус маршрут чебоксары;846;3197;LOCAL/bukvarix_LOCAL.csv;23082;transit_city;ru
+LOCAL;воронеж маршрут автобуса 95;826;1618;LOCAL/bukvarix_LOCAL.csv;23374;transit_city;en
+LOCAL;93 автобус маршрут самара;798;2209;LOCAL/bukvarix_LOCAL.csv;24686;transit_city;ru
+LOCAL;маршрут 22 автобуса ижевск;770;1676;LOCAL/bukvarix_LOCAL.csv;13998;transit_city;ru
+LOCAL;оренбург маршрут автобуса 10;738;1992;LOCAL/bukvarix_LOCAL.csv;23748;transit_city;en
+LOCAL;маршрут 21 автобуса дзержинск;732;1661;LOCAL/bukvarix_LOCAL.csv;14129;transit_city;uk
+LOCAL;45 автобус маршрут казань;726;2448;LOCAL/bukvarix_LOCAL.csv;22757;transit_city;en
+LOCAL;55 автобус волгоград маршрут;663;1726;LOCAL/bukvarix_LOCAL.csv;14443;transit_city;uk
+LOCAL;64 автобус екатеринбург маршрут;663;1520;LOCAL/bukvarix_LOCAL.csv;14404;transit_city;uk
+LOCAL;76 автобус санкт петербург маршрут;710;1463;LOCAL/bukvarix_LOCAL.csv;36586;transit_city;ru
+LOCAL;маршрут 78 автобус саратов;623;2171;LOCAL/bukvarix_LOCAL.csv;24828;transit_city;ru
+LOCAL;трамвай 5 краснодар маршрут;621;2049;LOCAL/bukvarix_LOCAL.csv;14647;transit_city;ru
+LOCAL;маршрут 31 петрозаводск автобуса;578;1623;LOCAL/bukvarix_LOCAL.csv;25896;transit_city;en
+LOCAL;тольятти маршрут автобуса 2;563;1165;LOCAL/bukvarix_LOCAL.csv;23098;transit_city;ru
+LOCAL;10 маршрут автобуса пермь;536;1489;LOCAL/bukvarix_LOCAL.csv;26113;transit_city;en
+LOCAL;маршрут автобуса 33 иркутск;510;548;LOCAL/bukvarix_LOCAL.csv;24747;transit_city;en
+LOCAL;троллейбус 60 новочебоксарск чебоксары маршрут;542;1280;LOCAL/bukvarix_LOCAL.csv;37085;transit_city;ru
+LOCAL;пенза маршрут 130 автобуса;493;1670;LOCAL/bukvarix_LOCAL.csv;24698;transit_city;en
+LOCAL;маршрут автобуса 5 архангельск;482;1297;LOCAL/bukvarix_LOCAL.csv;19716;transit_city;ru
+LOCAL;тамбов маршрут автобуса 50;451;1039;LOCAL/bukvarix_LOCAL.csv;25140;transit_city;en
+LOCAL;15а волгоград маршрут троллейбус;446;852;LOCAL/bukvarix_LOCAL.csv;25734;transit_city;uk
+LOCAL;маршрут 10 автобуса набережные челны;476;1229;LOCAL/bukvarix_LOCAL.csv;30811;transit_city;en
+LOCAL;уфа 51 автобус маршрут;407;1513;LOCAL/bukvarix_LOCAL.csv;23747;transit_city;ru
+LOCAL;ярославль автобус 8 маршрут;400;1310;LOCAL/bukvarix_LOCAL.csv;26360;transit_city;en
+LOCAL;маршрут 17 автобус рязань;396;1056;LOCAL/bukvarix_LOCAL.csv;26397;transit_city;uk
+LOCAL;7 троллейбус челябинск маршрут;392;909;LOCAL/bukvarix_LOCAL.csv;20260;transit_city;ru
+LOCAL;маршрут 31 автобуса брянск;369;1320;LOCAL/bukvarix_LOCAL.csv;14903;transit_city;uk
+LOCAL;маршрут автобуса 71 хабаровск;369;775;LOCAL/bukvarix_LOCAL.csv;22554;transit_city;uk
+LOCAL;22 трамвай ульяновск маршрут;361;940;LOCAL/bukvarix_LOCAL.csv;18806;transit_city;en
+LOCAL;73 автобус тольятти на карте онлайн;414;566;LOCAL/bukvarix_LOCAL.csv;39106;transit_city;en
+LOCAL;расписание автобусов курган 29 маршрут;380;548;LOCAL/bukvarix_LOCAL.csv;30620;transit_city;ru
+LOCAL;автобус 61 екатеринбург маршрут онлайн;377;506;LOCAL/bukvarix_LOCAL.csv;32635;transit_city;en
+LOCAL;автобус 23 саранск маршрут;347;1095;LOCAL/bukvarix_LOCAL.csv;21917;transit_city;en
+LOCAL;маршрут 1 автобуса вологда;347;1228;LOCAL/bukvarix_LOCAL.csv;17571;transit_city;uk
+LOCAL;2 трамвай нижний новгород маршрут;371;951;LOCAL/bukvarix_LOCAL.csv;36601;transit_city;en
+LOCAL;31 автобус казань маршрут онлайн;371;549;LOCAL/bukvarix_LOCAL.csv;30745;transit_city;en
+LOCAL;белгород маршрут 33 автобуса;340;790;LOCAL/bukvarix_LOCAL.csv;26446;transit_city;ru
+LOCAL;автобус 103 омск маршрут онлайн;359;522;LOCAL/bukvarix_LOCAL.csv;33563;transit_city;uk
+LOCAL;550 автобус сочи маршрут;328;908;LOCAL/bukvarix_LOCAL.csv;18595;transit_city;en
+LOCAL;483 автобус челябинск маршрут расписание;353;463;LOCAL/bukvarix_LOCAL.csv;30704;transit_city;ru
+LOCAL;трамвай 3 калининград маршрут;321;1007;LOCAL/bukvarix_LOCAL.csv;16140;transit_city;ru
+LOCAL;83 автобус маршрут тула;320;932;LOCAL/bukvarix_LOCAL.csv;25730;transit_city;uk
+LOCAL;мурманск маршрут автобуса 18;316;503;LOCAL/bukvarix_LOCAL.csv;27454;transit_city;uk
+LOCAL;маршрут автобуса 45 омск;313;1482;LOCAL/bukvarix_LOCAL.csv;23087;transit_city;uk
+LOCAL;маршрут автобуса 18 сургут;308;787;LOCAL/bukvarix_LOCAL.csv;20901;transit_city;en
+LOCAL;киров маршрут автобуса 2;307;888;LOCAL/bukvarix_LOCAL.csv;25144;transit_city;ru
+LOCAL;маршрут 7 трамвай барнаул;298;828;LOCAL/bukvarix_LOCAL.csv;25943;transit_city;uk
+LOCAL;маршрут автобуса 11 томск;286;624;LOCAL/bukvarix_LOCAL.csv;23491;transit_city;ru
+LOCAL;маршрут 50 автобуса красноярск;282;904;LOCAL/bukvarix_LOCAL.csv;16389;transit_city;en
+LOCAL;маршрут 62 автобуса пермь остановки;287;431;LOCAL/bukvarix_LOCAL.csv;30939;transit_city;uk
+LOCAL;смоленск маршрут автобуса 50;264;911;LOCAL/bukvarix_LOCAL.csv;28444;transit_city;uk
+LOCAL;автобус 75 самара маршрут расписание;276;391;LOCAL/bukvarix_LOCAL.csv;35023;transit_city;uk
+LOCAL;троллейбус 10а волгоград маршрут;248;682;LOCAL/bukvarix_LOCAL.csv;17766;transit_city;uk
+LOCAL;уфа 51а автобус маршрут;247;693;LOCAL/bukvarix_LOCAL.csv;28514;transit_city;ru
+LOCAL;автобус 92 ростов на дону маршрут онлайн;306;347;LOCAL/bukvarix_LOCAL.csv;46203;transit_city;ru
+LOCAL;автобус 40 ростов на дону маршрут;279;891;LOCAL/bukvarix_LOCAL.csv;40895;transit_city;ru
+LOCAL;саратов автобус 11а маршрут;236;570;LOCAL/bukvarix_LOCAL.csv;26489;transit_city;en
+LOCAL;троллейбус 24 новосибирск маршрут;229;648;LOCAL/bukvarix_LOCAL.csv;17001;transit_city;ru
+LOCAL;ставрополь маршрут троллейбуса 4;226;682;LOCAL/bukvarix_LOCAL.csv;23299;transit_city;en
+LOCAL;94 автобус маршрут курган;221;526;LOCAL/bukvarix_LOCAL.csv;28590;transit_city;en
+LOCAL;псков маршрут автобуса 55;217;476;LOCAL/bukvarix_LOCAL.csv;28218;transit_city;ru
+LOCAL;автобус 284 саратов энгельс маршрут;230;745;LOCAL/bukvarix_LOCAL.csv;36520;transit_city;en
+LOCAL;магнитогорск маршрут автобуса 65;212;826;LOCAL/bukvarix_LOCAL.csv;23589;transit_city;uk
+LOCAL;ярославль автобус 97с маршрут;211;412;LOCAL/bukvarix_LOCAL.csv;26834;transit_city;ru
+LOCAL;маршрут нижний новгород автобус 40 с остановками;264;451;LOCAL/bukvarix_LOCAL.csv;47774;transit_city;en
+LOCAL;маршрут автобуса 3 кострома;206;604;LOCAL/bukvarix_LOCAL.csv;21372;transit_city;en
+LOCAL;тюмень маршрут автобуса 2;206;505;LOCAL/bukvarix_LOCAL.csv;27457;transit_city;ru
+LOCAL;автобус 211 маршрут остановки и расписание санкт петербург;269;295;LOCAL/bukvarix_LOCAL.csv;48152;transit_city;uk
+LOCAL;маршрут троллейбуса 1 чита;195;606;LOCAL/bukvarix_LOCAL.csv;18499;transit_city;en
+LOCAL;маршрут 117 автобуса астрахань;194;408;LOCAL/bukvarix_LOCAL.csv;17322;transit_city;uk
+LOCAL;автобус 8 тольятти расписание маршрут;208;282;LOCAL/bukvarix_LOCAL.csv;36251;transit_city;en
+LOCAL;калуга маршрут 4 автобуса;189;395;LOCAL/bukvarix_LOCAL.csv;26835;transit_city;ru
+LOCAL;автобус 57а уфа маршрут;186;511;LOCAL/bukvarix_LOCAL.csv;23511;transit_city;ru
+LOCAL;маршрут автобуса 15 владивосток;176;549;LOCAL/bukvarix_LOCAL.csv;21263;transit_city;en
+LOCAL;маршрут автобуса 5 геленджик;172;627;LOCAL/bukvarix_LOCAL.csv;20766;transit_city;ru
+LOCAL;автобус 84 екатеринбург маршрут остановки и расписание;217;217;LOCAL/bukvarix_LOCAL.csv;44863;transit_city;uk
+LOCAL;ростов на дону автобус 85а маршрут;198;495;LOCAL/bukvarix_LOCAL.csv;42662;transit_city;uk
+LOCAL;5 троллейбус симферополь маршрут;169;319;LOCAL/bukvarix_LOCAL.csv;23167;transit_city;ru
+LOCAL;маршрут автобуса 30 благовещенск;169;278;LOCAL/bukvarix_LOCAL.csv;24145;transit_city;uk
+LOCAL;109 автобус анапа сукко маршрут расписание;197;224;LOCAL/bukvarix_LOCAL.csv;42065;transit_city;uk
+LOCAL;челябинск автобус 17а маршрут;167;422;LOCAL/bukvarix_LOCAL.csv;27130;transit_city;ru
+LOCAL;15 маршрут автобуса сыктывкар;166;412;LOCAL/bukvarix_LOCAL.csv;29066;transit_city;uk
+LOCAL;23 автобус маршрут владимир;164;367;LOCAL/bukvarix_LOCAL.csv;27498;transit_city;ru
+LOCAL;маршрут 114 автобуса анапа;164;755;LOCAL/bukvarix_LOCAL.csv;20725;transit_city;en
+LOCAL;онлайн маршрут красноярск 6 автобус;177;267;LOCAL/bukvarix_LOCAL.csv;38259;transit_city;uk
+LOCAL;18а автобус саратов маршрут;163;423;LOCAL/bukvarix_LOCAL.csv;22272;transit_city;uk
+LOCAL;оренбург маршрут автобуса 80н;160;646;LOCAL/bukvarix_LOCAL.csv;28128;transit_city;ru
+LOCAL;трамвай 5 уфа маршрут онлайн;169;267;LOCAL/bukvarix_LOCAL.csv;35136;transit_city;uk
+LOCAL;маршрут автобуса 25 волгоград с остановками;178;293;LOCAL/bukvarix_LOCAL.csv;41663;transit_city;uk
+LOCAL;автобус 21 самара маршрут остановки и расписание;190;191;LOCAL/bukvarix_LOCAL.csv;44979;transit_city;uk
+LOCAL;маршрут 10к троллейбуса севастополь;150;331;LOCAL/bukvarix_LOCAL.csv;20779;transit_city;ru
+LOCAL;72 маршрутка новосибирск маршрут онлайн;162;197;LOCAL/bukvarix_LOCAL.csv;32051;transit_city;en
+LOCAL;17 автобус омск маршрут расписание;158;320;LOCAL/bukvarix_LOCAL.csv;32112;transit_city;en
+LOCAL;тверь автобус 208 маршрут;142;402;LOCAL/bukvarix_LOCAL.csv;24906;transit_city;uk
+LOCAL;маршрут 87 автобуса новокузнецк;138;292;LOCAL/bukvarix_LOCAL.csv;18453;transit_city;en
+LOCAL;автобус 21 киров маршрут и расписание;158;175;LOCAL/bukvarix_LOCAL.csv;40073;transit_city;uk
+LOCAL;18 трамвай нижний новгород маршрут онлайн;157;157;LOCAL/bukvarix_LOCAL.csv;40101;transit_city;ru
+LOCAL;курск маршрут автобуса 46;133;502;LOCAL/bukvarix_LOCAL.csv;28606;transit_city;uk
+LOCAL;маршрут автобуса 338 балашиха;131;365;LOCAL/bukvarix_LOCAL.csv;26039;transit_city;en
+LOCAL;маршрут автобуса 55 нижнекамск;131;344;LOCAL/bukvarix_LOCAL.csv;24041;transit_city;uk
+LOCAL;маршрут 14а автобуса челябинск;130;295;LOCAL/bukvarix_LOCAL.csv;19729;transit_city;ru
+LOCAL;автобус 39а тула маршрут расписание;139;143;LOCAL/bukvarix_LOCAL.csv;35058;transit_city;en
+LOCAL;автобус 66 магнитогорск расписание и маршрут;149;158;LOCAL/bukvarix_LOCAL.csv;41892;transit_city;en
+LOCAL;автобус 71с ярославль маршрут;127;257;LOCAL/bukvarix_LOCAL.csv;24787;transit_city;ru
+LOCAL;зеленоград маршрут автобуса 32;125;417;LOCAL/bukvarix_LOCAL.csv;26545;transit_city;uk
+LOCAL;маршрут 401 автобуса дзержинск нижний новгород;146;277;LOCAL/bukvarix_LOCAL.csv;40343;transit_city;uk
+LOCAL;маршрут автобуса 28 петрозаводск с остановками;142;186;LOCAL/bukvarix_LOCAL.csv;42046;transit_city;en
+LOCAL;маршрут 535 автобуса адлер;121;467;LOCAL/bukvarix_LOCAL.csv;19771;transit_city;ru
+LOCAL;автобус 7п йошкар ола маршрут;130;323;LOCAL/bukvarix_LOCAL.csv;33649;transit_city;uk
+LOCAL;как добраться до петергофа;3667;25061;LOCAL/bukvarix_LOCAL.csv;13460;directions;uk
+LOCAL;как добраться до петергофа из санкт петербурга самостоятельно;4083;5663;LOCAL/bukvarix_LOCAL.csv;47991;directions;en
+LOCAL;как добраться до шереметьево;2974;68304;LOCAL/bukvarix_LOCAL.csv;13514;directions;ru
+LOCAL;как добраться до советской улицы;2656;3144;LOCAL/bukvarix_LOCAL.csv;30157;directions;uk
+LOCAL;как добраться до абхазии;1457;17659;LOCAL/bukvarix_LOCAL.csv;13645;directions;ru
+LOCAL;как добраться до аэропорта шереметьево;1480;20272;LOCAL/bukvarix_LOCAL.csv;30209;directions;ru
+LOCAL;парк хуамин как добраться;1099;4170;LOCAL/bukvarix_LOCAL.csv;13766;directions;en
+LOCAL;как добраться из тбилиси в батуми;1279;1813;LOCAL/bukvarix_LOCAL.csv;38880;directions;en
+LOCAL;голубые озера татарстан как добраться;1172;1229;LOCAL/bukvarix_LOCAL.csv;30215;directions;en
+LOCAL;как добраться до калининграда;1015;19119;LOCAL/bukvarix_LOCAL.csv;13786;directions;uk
+LOCAL;с шереметьево до казанского вокзала как добраться;1266;3040;LOCAL/bukvarix_LOCAL.csv;46433;directions;ru
+LOCAL;как добраться до кронштадта из санкт петербурга;1251;2652;LOCAL/bukvarix_LOCAL.csv;44329;directions;ru
+LOCAL;аптекарский огород как добраться;983;2257;LOCAL/bukvarix_LOCAL.csv;13794;directions;uk
+LOCAL;дивеево как добраться;1020;17113;LOCAL/bukvarix_LOCAL.csv;2595;directions;en
+LOCAL;как добраться до аэропорта внуково;1014;12690;LOCAL/bukvarix_LOCAL.csv;30238;directions;ru
+LOCAL;как добраться до аэропорта домодедово;994;10178;LOCAL/bukvarix_LOCAL.csv;30286;directions;ru
+LOCAL;дивеевский монастырь как добраться;918;1385;LOCAL/bukvarix_LOCAL.csv;13831;directions;ru
+LOCAL;ксения петербургская как добраться в питере;1023;1276;LOCAL/bukvarix_LOCAL.csv;38832;directions;uk
+LOCAL;как добраться до геленджика;872;19360;LOCAL/bukvarix_LOCAL.csv;13861;directions;uk
+LOCAL;сочи геленджик как добраться;857;3490;LOCAL/bukvarix_LOCAL.csv;14210;directions;ru
+LOCAL;с ярославского вокзала до шереметьево как добраться;1030;2100;LOCAL/bukvarix_LOCAL.csv;46199;directions;en
+LOCAL;усадьба архангельское как добраться;812;2311;LOCAL/bukvarix_LOCAL.csv;13987;directions;en
+LOCAL;кусково как добраться;784;5155;LOCAL/bukvarix_LOCAL.csv;2739;directions;en
+LOCAL;с шереметьево до павелецкого вокзала как добраться;913;1995;LOCAL/bukvarix_LOCAL.csv;46720;directions;uk
+LOCAL;как добраться до крыма;689;10442;LOCAL/bukvarix_LOCAL.csv;14023;directions;ru
+LOCAL;как добраться до садовода;674;6204;LOCAL/bukvarix_LOCAL.csv;14013;directions;uk
+LOCAL;музей заповедник царицыно как добраться;727;1484;LOCAL/bukvarix_LOCAL.csv;30325;directions;uk
+LOCAL;зеленый театр вднх как добраться;721;1201;LOCAL/bukvarix_LOCAL.csv;30326;directions;en
+LOCAL;как на поезде добраться до геленджика;776;3210;LOCAL/bukvarix_LOCAL.csv;41698;directions;uk
+LOCAL;как добраться до архыза;660;3951;LOCAL/bukvarix_LOCAL.csv;14017;directions;en
+LOCAL;краснодар геленджик как добраться;660;2593;LOCAL/bukvarix_LOCAL.csv;14237;directions;en
+LOCAL;как добраться из выборга до санкт петербурга;828;1555;LOCAL/bukvarix_LOCAL.csv;47010;directions;uk
+LOCAL;парк зарядье как добраться;634;2780;LOCAL/bukvarix_LOCAL.csv;14071;directions;uk
+LOCAL;проложить маршрут пешком от и до;725;2383;LOCAL/bukvarix_LOCAL.csv;42360;directions;en
+LOCAL;крепость орешек как добраться;613;2790;LOCAL/bukvarix_LOCAL.csv;14109;directions;uk
+LOCAL;как добраться до анапы;610;14921;LOCAL/bukvarix_LOCAL.csv;14070;directions;en
+LOCAL;как с шереметьево добраться до восточного вокзала;766;2069;LOCAL/bukvarix_LOCAL.csv;46719;directions;uk
+LOCAL;патриот парк как добраться;605;5802;LOCAL/bukvarix_LOCAL.csv;25112;directions;en
+LOCAL;с ленинградского вокзала до шереметьево как добраться;742;1560;LOCAL/bukvarix_LOCAL.csv;46332;directions;ru
+LOCAL;остров мечты как добраться;581;4587;LOCAL/bukvarix_LOCAL.csv;14121;directions;ru
+LOCAL;оптина пустынь как добраться;571;2737;LOCAL/bukvarix_LOCAL.csv;14114;directions;uk
+LOCAL;как добраться из калининграда в зеленоградск;664;1381;LOCAL/bukvarix_LOCAL.csv;38926;directions;ru
+LOCAL;как добраться до внуково;566;24662;LOCAL/bukvarix_LOCAL.csv;14140;directions;ru
+LOCAL;как добраться до алтая;563;4398;LOCAL/bukvarix_LOCAL.csv;14150;directions;uk
+LOCAL;из питера до петергофа как добраться;652;1304;LOCAL/bukvarix_LOCAL.csv;42588;directions;ru
+LOCAL;как добраться до валаама;552;3147;LOCAL/bukvarix_LOCAL.csv;14155;directions;en
+LOCAL;как добраться из шереметьево в домодедово;645;1064;LOCAL/bukvarix_LOCAL.csv;39532;directions;en
+LOCAL;остров мечты парк развлечений как добраться;620;672;LOCAL/bukvarix_LOCAL.csv;38885;directions;uk
+LOCAL;как добраться до байкала;521;4641;LOCAL/bukvarix_LOCAL.csv;14194;directions;en
+LOCAL;с шереметьево до курского вокзала как добраться;646;1323;LOCAL/bukvarix_LOCAL.csv;46884;directions;uk
+LOCAL;с шереметьево до киевского вокзала как добраться;643;1549;LOCAL/bukvarix_LOCAL.csv;47072;directions;en
+LOCAL;как добраться до домодедово;500;23322;LOCAL/bukvarix_LOCAL.csv;14235;directions;ru
+LOCAL;кронштадт как добраться;534;11998;LOCAL/bukvarix_LOCAL.csv;2918;directions;en
+LOCAL;нижний новгород дивеево как добраться;532;2630;LOCAL/bukvarix_LOCAL.csv;30472;directions;en
+LOCAL;шереметьево внуково как добраться;484;4208;LOCAL/bukvarix_LOCAL.csv;15289;directions;ru
+LOCAL;царское село как добраться из санкт петербурга;609;3079;LOCAL/bukvarix_LOCAL.csv;44392;directions;uk
+LOCAL;маршрут пешком от и до;510;5517;LOCAL/bukvarix_LOCAL.csv;33039;directions;ru
+LOCAL;соловецкие острова как добраться;469;1797;LOCAL/bukvarix_LOCAL.csv;14282;directions;en
+LOCAL;казань голубые озера как добраться;505;1515;LOCAL/bukvarix_LOCAL.csv;32301;directions;ru
+LOCAL;как добраться севкабель порт;467;1560;LOCAL/bukvarix_LOCAL.csv;26639;directions;ru
+LOCAL;как добраться из сочи в абхазию;543;1189;LOCAL/bukvarix_LOCAL.csv;39178;directions;ru
+LOCAL;третьяковская галерея как добраться;464;3284;LOCAL/bukvarix_LOCAL.csv;14316;directions;en
+LOCAL;как добраться от и до в екатеринбурге;585;1358;LOCAL/bukvarix_LOCAL.csv;44402;directions;ru
+LOCAL;из минска в гродно как добраться;541;913;LOCAL/bukvarix_LOCAL.csv;40367;directions;en
+LOCAL;как добраться из аэропорта сочи в сочи;582;1577;LOCAL/bukvarix_LOCAL.csv;46929;directions;uk
+LOCAL;нижегородская канатная дорога как добраться;497;552;LOCAL/bukvarix_LOCAL.csv;30437;directions;uk
+LOCAL;усадьба кусково как добраться;448;3205;LOCAL/bukvarix_LOCAL.csv;14703;directions;ru
+LOCAL;геленджик анапа как добраться;444;2061;LOCAL/bukvarix_LOCAL.csv;15350;directions;ru
+LOCAL;как добраться до карелии;441;3962;LOCAL/bukvarix_LOCAL.csv;14374;directions;en
+LOCAL;как добраться до кабардинки;437;5974;LOCAL/bukvarix_LOCAL.csv;14384;directions;ru
+LOCAL;как добраться аэропорт жуковский;436;5905;LOCAL/bukvarix_LOCAL.csv;25110;directions;uk
+LOCAL;как добраться до суздаля;434;3649;LOCAL/bukvarix_LOCAL.csv;14358;directions;ru
+LOCAL;как добраться до царского села;461;3395;LOCAL/bukvarix_LOCAL.csv;30474;directions;en
+LOCAL;шанхай пекин как добраться;423;1826;LOCAL/bukvarix_LOCAL.csv;18164;directions;uk
+LOCAL;из минска в брест как добраться;488;883;LOCAL/bukvarix_LOCAL.csv;40695;directions;en
+LOCAL;финский залив санкт петербург как добраться;487;992;LOCAL/bukvarix_LOCAL.csv;38973;directions;ru
+LOCAL;валаам как добраться;449;6822;LOCAL/bukvarix_LOCAL.csv;3066;directions;uk
+LOCAL;суздаль владимир как добраться;415;1669;LOCAL/bukvarix_LOCAL.csv;24070;directions;uk
+LOCAL;как добраться из калининграда в светлогорск;483;1027;LOCAL/bukvarix_LOCAL.csv;39096;directions;uk
+LOCAL;покровское стрешнево усадьба как добраться;445;950;LOCAL/bukvarix_LOCAL.csv;36293;directions;uk
+LOCAL;янтарный калининград как добраться;411;2867;LOCAL/bukvarix_LOCAL.csv;21019;directions;uk
+LOCAL;капотня как добраться;438;970;LOCAL/bukvarix_LOCAL.csv;3065;directions;uk
+LOCAL;как добраться на вднх на метро;470;5436;LOCAL/bukvarix_LOCAL.csv;43065;directions;en
+LOCAL;как добраться до дагестана;399;2746;LOCAL/bukvarix_LOCAL.csv;14474;directions;ru
+LOCAL;как добраться до ейска;390;5148;LOCAL/bukvarix_LOCAL.csv;14494;directions;en
+LOCAL;елагин остров как добраться;385;1201;LOCAL/bukvarix_LOCAL.csv;14510;directions;en
+LOCAL;как из аэропорта калининграда добраться до калининграда;473;1066;LOCAL/bukvarix_LOCAL.csv;46788;directions;ru
+LOCAL;парк малевича как добраться;372;983;LOCAL/bukvarix_LOCAL.csv;14564;directions;ru
+LOCAL;сортавала петрозаводск как добраться;372;1337;LOCAL/bukvarix_LOCAL.csv;20927;directions;en
+LOCAL;кремль в измайлово как добраться;395;527;LOCAL/bukvarix_LOCAL.csv;30593;directions;uk
+LOCAL;мцд 4 схема станций на карте;2517;3191;LOCAL/bukvarix_LOCAL.csv;38771;landmark_map;uk
+LOCAL;мцк схема станций на карте;1969;2665;LOCAL/bukvarix_LOCAL.csv;30166;landmark_map;en
+LOCAL;бкл схема станций на карте;1590;2005;LOCAL/bukvarix_LOCAL.csv;30195;landmark_map;uk
+LOCAL;рублево архангельская линия на карте метро;1635;2965;LOCAL/bukvarix_LOCAL.csv;41560;landmark_map;en
+LOCAL;сочи парк на карте сочи;1270;2869;LOCAL/bukvarix_LOCAL.csv;35256;landmark_map;en
+LOCAL;метро санкт петербурга схема на карте;1311;4319;LOCAL/bukvarix_LOCAL.csv;39755;landmark_map;uk
+LOCAL;банкоматы втб на карте;1095;28736;LOCAL/bukvarix_LOCAL.csv;14044;landmark_map;en
+LOCAL;аптека на карте;990;63857;LOCAL/bukvarix_LOCAL.csv;2636;landmark_map;uk
+LOCAL;метро котельники на карте;863;2776;LOCAL/bukvarix_LOCAL.csv;14047;landmark_map;ru
+LOCAL;внуково аэропорт на карте;830;2866;LOCAL/bukvarix_LOCAL.csv;14831;landmark_map;uk
+LOCAL;метро звенигородская на карте метро;884;2735;LOCAL/bukvarix_LOCAL.csv;36346;landmark_map;uk
+LOCAL;парк галицкого в краснодаре на карте;941;1966;LOCAL/bukvarix_LOCAL.csv;38834;landmark_map;ru
+LOCAL;банкоматы сбербанка на карте;798;61413;LOCAL/bukvarix_LOCAL.csv;13919;landmark_map;en
+LOCAL;парк 300 летия санкт петербурга на карте;955;1304;LOCAL/bukvarix_LOCAL.csv;44347;landmark_map;uk
+LOCAL;санкт петербург вокзал ладожский на карте;867;2117;LOCAL/bukvarix_LOCAL.csv;42518;landmark_map;uk
+LOCAL;шереметьево аэропорт на карте;737;5087;LOCAL/bukvarix_LOCAL.csv;15178;landmark_map;en
+LOCAL;вднх на карте;793;11980;LOCAL/bukvarix_LOCAL.csv;2728;landmark_map;uk
+LOCAL;отели санкт петербурга на карте;772;8569;LOCAL/bukvarix_LOCAL.csv;30311;landmark_map;uk
+LOCAL;отель точка на карте сортавала;747;941;LOCAL/bukvarix_LOCAL.csv;32951;landmark_map;en
+LOCAL;отели на карте сочи;663;4563;LOCAL/bukvarix_LOCAL.csv;21908;landmark_map;en
+LOCAL;метро питера схема в санкт петербурге на карте со станциями;978;1077;LOCAL/bukvarix_LOCAL.csv;50478;landmark_map;ru
+LOCAL;парк галицкого на карте;611;5067;LOCAL/bukvarix_LOCAL.csv;14067;landmark_map;ru
+LOCAL;ховрино метро на карте метро;653;2355;LOCAL/bukvarix_LOCAL.csv;36106;landmark_map;ru
+LOCAL;банкоматы тинькофф на карте;590;16298;LOCAL/bukvarix_LOCAL.csv;14403;landmark_map;ru
+LOCAL;октябрьская площадь екатеринбург на карте;617;665;LOCAL/bukvarix_LOCAL.csv;30351;landmark_map;ru
+LOCAL;саларьево метро на карте;562;2084;LOCAL/bukvarix_LOCAL.csv;16932;landmark_map;uk
+LOCAL;гостиницы санкт петербурга на карте города с ценами;764;872;LOCAL/bukvarix_LOCAL.csv;48008;landmark_map;en
+LOCAL;селигерская на карте метро;557;1379;LOCAL/bukvarix_LOCAL.csv;23277;landmark_map;ru
+LOCAL;отели на карте;602;137272;LOCAL/bukvarix_LOCAL.csv;2828;landmark_map;en
+LOCAL;тбанк банкоматы на карте;552;2620;LOCAL/bukvarix_LOCAL.csv;16429;landmark_map;ru
+LOCAL;тюмень комарово парк на карте;589;826;LOCAL/bukvarix_LOCAL.csv;35307;landmark_map;ru
+LOCAL;сочи жд вокзал на карте;577;1114;LOCAL/bukvarix_LOCAL.csv;31551;landmark_map;en
+LOCAL;метро владыкино на карте;523;891;LOCAL/bukvarix_LOCAL.csv;14370;landmark_map;uk
+LOCAL;жуковский аэропорт на карте;521;1295;LOCAL/bukvarix_LOCAL.csv;16354;landmark_map;en
+LOCAL;банкоматы т банк на карте;557;9347;LOCAL/bukvarix_LOCAL.csv;31191;landmark_map;ru
+LOCAL;сбер банкоматы на карте;514;14373;LOCAL/bukvarix_LOCAL.csv;15677;landmark_map;uk
+LOCAL;сочи аэропорт на карте;514;1192;LOCAL/bukvarix_LOCAL.csv;20319;landmark_map;ru
+LOCAL;аэропорты на карте россии;513;1542;LOCAL/bukvarix_LOCAL.csv;17260;landmark_map;ru
+LOCAL;отель точка на карте;509;3230;LOCAL/bukvarix_LOCAL.csv;16465;landmark_map;ru
+LOCAL;метро домодедовская на карте метро;549;1600;LOCAL/bukvarix_LOCAL.csv;35843;landmark_map;en
