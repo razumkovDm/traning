@@ -1,0 +1,901 @@
+class;source_ru;exact_frequency;broad_frequency;source_file;source_record;intent_combination;target_assignment
+MIXED;ржд официальный сайт купить билеты на поезд;62617;265846;MIXED/bukvarix_MIXED.csv;48908;NAVIGATIONAL+TRANSACTIONAL/tickets;ru
+MIXED;авиасейлс купить авиабилеты официальный сайт;29194;45190;MIXED/bukvarix_MIXED.csv;11188;NAVIGATIONAL+TRANSACTIONAL/tickets;ru
+MIXED;купить жд билеты онлайн ржд официальный сайт;23234;31048;MIXED/bukvarix_MIXED.csv;48911;NAVIGATIONAL+TRANSACTIONAL/tickets;uk
+MIXED;зоопарк москва официальный сайт купить билеты;13867;15079;MIXED/bukvarix_MIXED.csv;26079;NAVIGATIONAL+TRANSACTIONAL/tickets;en
+MIXED;ржд официальный сайт купить билеты на поезд онлайн;12730;50956;MIXED/bukvarix_MIXED.csv;76134;NAVIGATIONAL+TRANSACTIONAL/tickets;en
+MIXED;остров мечты москва официальный сайт купить билеты билет;13220;16955;MIXED/bukvarix_MIXED.csv;76133;NAVIGATIONAL+TRANSACTIONAL/tickets;uk
+MIXED;таврия поезд купить билет официальный сайт;11845;16439;MIXED/bukvarix_MIXED.csv;26074;NAVIGATIONAL+TRANSACTIONAL/tickets;uk
+MIXED;петергоф купить билеты онлайн официальный сайт;7672;12122;MIXED/bukvarix_MIXED.csv;26078;NAVIGATIONAL+TRANSACTIONAL/tickets;ru
+MIXED;туту ру жд билеты купить на поезд официальный сайт;6427;10433;MIXED/bukvarix_MIXED.csv;96885;NAVIGATIONAL+TRANSACTIONAL/tickets;en
+MIXED;победа официальный сайт авиакомпания купить билеты;6205;13762;MIXED/bukvarix_MIXED.csv;26795;NAVIGATIONAL+TRANSACTIONAL/tickets;ru
+MIXED;аэрофлот официальный сайт купить билеты онлайн на самолет;5490;9507;MIXED/bukvarix_MIXED.csv;76137;NAVIGATIONAL+TRANSACTIONAL/tickets;uk
+MIXED;билеты аэрофлот купить онлайн официальный сайт;5273;17374;MIXED/bukvarix_MIXED.csv;26355;NAVIGATIONAL+TRANSACTIONAL/tickets;en
+MIXED;авиасейлс купить авиабилеты официальный сайт на самолет;5281;15410;MIXED/bukvarix_MIXED.csv;48926;NAVIGATIONAL+TRANSACTIONAL/tickets;en
+MIXED;ржд пассажирам официальный сайт купить билеты;5248;11298;MIXED/bukvarix_MIXED.csv;26084;NAVIGATIONAL+TRANSACTIONAL/tickets;ru
+MIXED;ютейр ру официальный сайт купить авиабилеты;5039;5655;MIXED/bukvarix_MIXED.csv;26082;NAVIGATIONAL+TRANSACTIONAL/tickets;ru
+MIXED;гранд экспресс сервис официальный сайт купить билеты;4587;11849;MIXED/bukvarix_MIXED.csv;49408;NAVIGATIONAL+TRANSACTIONAL/tickets;uk
+MIXED;купить билеты ржд официальный сайт онлайн на поезд без комиссии;4272;25610;MIXED/bukvarix_MIXED.csv;111333;NAVIGATIONAL+TRANSACTIONAL/tickets;uk
+MIXED;эрмитаж официальный сайт санкт петербург купить билет онлайн;3877;7592;MIXED/bukvarix_MIXED.csv;76141;NAVIGATIONAL+TRANSACTIONAL/tickets;uk
+MIXED;смартавиа официальный сайт купить авиабилеты;3907;5109;MIXED/bukvarix_MIXED.csv;11194;NAVIGATIONAL+TRANSACTIONAL/tickets;ru
+MIXED;уральские авиалинии официальный сайт купить авиабилеты;3504;5342;MIXED/bukvarix_MIXED.csv;26089;NAVIGATIONAL+TRANSACTIONAL/tickets;en
+MIXED;аэрофлот купить билет на самолет официальный сайт;2596;19056;MIXED/bukvarix_MIXED.csv;50854;NAVIGATIONAL+TRANSACTIONAL/tickets;en
+MIXED;авиасейлс официальный сайт купить билеты на самолет;2579;12470;MIXED/bukvarix_MIXED.csv;48937;NAVIGATIONAL+TRANSACTIONAL/tickets;en
+MIXED;победа авиакомпания официальный сайт купить билеты на самолет;2503;5180;MIXED/bukvarix_MIXED.csv;76158;NAVIGATIONAL+TRANSACTIONAL/tickets;en
+MIXED;авиабилеты аэрофлот официальный сайт купить;2491;8541;MIXED/bukvarix_MIXED.csv;11732;NAVIGATIONAL+TRANSACTIONAL/tickets;ru
+MIXED;авиасейлс официальный сайт купить билеты на самолет дешево авиабилеты онлайн;2258;2570;MIXED/bukvarix_MIXED.csv;110610;NAVIGATIONAL+TRANSACTIONAL/tickets;en
+MIXED;авиакомпания ямал официальный сайт купить билеты;2118;3798;MIXED/bukvarix_MIXED.csv;26107;NAVIGATIONAL+TRANSACTIONAL/tickets;ru
+MIXED;жд билеты купить ржд официальный сайт на поезд цены и расписание;2122;2497;MIXED/bukvarix_MIXED.csv;118710;NAVIGATIONAL+TRANSACTIONAL/tickets;en
+MIXED;авиасейлс купить авиабилеты официальный сайт на самолет дешевые прямые рейсы;2039;4097;MIXED/bukvarix_MIXED.csv;110617;NAVIGATIONAL+TRANSACTIONAL/tickets;uk
+MIXED;купить билет победа на самолет на официальный сайт;1836;11310;MIXED/bukvarix_MIXED.csv;76498;NAVIGATIONAL+TRANSACTIONAL/tickets;ru
+MIXED;театр моссовета официальный сайт купить билеты;1903;2009;MIXED/bukvarix_MIXED.csv;26096;NAVIGATIONAL+TRANSACTIONAL/tickets;uk
+MIXED;ред вингс авиабилеты купить официальный сайт;1835;2413;MIXED/bukvarix_MIXED.csv;26106;NAVIGATIONAL+TRANSACTIONAL/tickets;ru
+MIXED;нордвинд авиакомпания купить официальный сайт;1784;3751;MIXED/bukvarix_MIXED.csv;11204;NAVIGATIONAL+TRANSACTIONAL/tickets;ru
+MIXED;онлайн билеты на автобус купить официальный сайт;1472;10789;MIXED/bukvarix_MIXED.csv;51291;NAVIGATIONAL+TRANSACTIONAL/tickets;uk
+MIXED;победа официальный сайт купить авиабилеты;1640;5663;MIXED/bukvarix_MIXED.csv;11254;NAVIGATIONAL+TRANSACTIONAL/tickets;uk
+MIXED;авиасейлс официальный сайт купить билеты на самолет дешево;1431;7133;MIXED/bukvarix_MIXED.csv;76185;NAVIGATIONAL+TRANSACTIONAL/tickets;en
+MIXED;авиасейлс официальный сайт купить билеты онлайн;1506;3180;MIXED/bukvarix_MIXED.csv;26103;NAVIGATIONAL+TRANSACTIONAL/tickets;ru
+MIXED;гранд сервис экспресс официальный сайт купить билеты на поезд в крым;1502;2909;MIXED/bukvarix_MIXED.csv;118713;NAVIGATIONAL+TRANSACTIONAL/tickets;en
+MIXED;билеты ржд официальный сайт купить билеты на поезд москва;1268;13623;MIXED/bukvarix_MIXED.csv;99285;NAVIGATIONAL+TRANSACTIONAL/tickets;uk
+MIXED;авиакомпания азимут официальный сайт купить билеты;1310;3002;MIXED/bukvarix_MIXED.csv;26945;NAVIGATIONAL+TRANSACTIONAL/tickets;uk
+MIXED;московский зоопарк официальный сайт купить билеты;1295;2348;MIXED/bukvarix_MIXED.csv;26110;NAVIGATIONAL+TRANSACTIONAL/tickets;uk
+MIXED;речной порт казань официальный сайт купить билеты;1288;1358;MIXED/bukvarix_MIXED.csv;48951;NAVIGATIONAL+TRANSACTIONAL/tickets;ru
+MIXED;купить билет русское лото онлайн официальный сайт;1178;3939;MIXED/bukvarix_MIXED.csv;52632;NAVIGATIONAL+TRANSACTIONAL/tickets;en
+MIXED;авиабилеты купить дешевые авиабилеты официальный сайт;1053;18144;MIXED/bukvarix_MIXED.csv;30734;NAVIGATIONAL+TRANSACTIONAL/tickets;ru
+MIXED;ред вингс официальный сайт купить билеты;1183;2524;MIXED/bukvarix_MIXED.csv;26109;NAVIGATIONAL+TRANSACTIONAL/tickets;uk
+MIXED;купить билеты екатерининский дворец официальный сайт;1139;2907;MIXED/bukvarix_MIXED.csv;29814;NAVIGATIONAL+TRANSACTIONAL/tickets;uk
+MIXED;большой театр билеты купить официальный сайт;1101;3293;MIXED/bukvarix_MIXED.csv;26987;NAVIGATIONAL+TRANSACTIONAL/tickets;ru
+MIXED;авиабилеты купить онлайн официальный сайт;1113;9652;MIXED/bukvarix_MIXED.csv;11222;NAVIGATIONAL+TRANSACTIONAL/tickets;en
+MIXED;остров мечты купить билеты онлайн официальный сайт;1103;2013;MIXED/bukvarix_MIXED.csv;48955;NAVIGATIONAL+TRANSACTIONAL/tickets;uk
+MIXED;гранд экспресс официальный сайт купить билеты на поезд;1043;3910;MIXED/bukvarix_MIXED.csv;76182;NAVIGATIONAL+TRANSACTIONAL/tickets;en
+MIXED;ржд официальный сайт официальный пассажирам билеты купить на поезд;1008;3684;MIXED/bukvarix_MIXED.csv;97363;NAVIGATIONAL+TRANSACTIONAL/tickets;en
+MIXED;сайт русское лото официальный сайт купить билет;953;5377;MIXED/bukvarix_MIXED.csv;51807;NAVIGATIONAL+TRANSACTIONAL/tickets;uk
+MIXED;авиакомпания победа купить авиабилеты официальный сайт;982;1415;MIXED/bukvarix_MIXED.csv;26224;NAVIGATIONAL+TRANSACTIONAL/tickets;en
+MIXED;нордвинд авиакомпания купить официальный сайт билеты на самолет;988;1151;MIXED/bukvarix_MIXED.csv;80246;NAVIGATIONAL+TRANSACTIONAL/tickets;ru
+MIXED;музей мирового океана калининград официальный сайт купить билет;954;1287;MIXED/bukvarix_MIXED.csv;76188;NAVIGATIONAL+TRANSACTIONAL/tickets;ru
+MIXED;билеты на поезд ржд официальный сайт купить дальнего следования;887;3718;MIXED/bukvarix_MIXED.csv;98822;NAVIGATIONAL+TRANSACTIONAL/tickets;en
+MIXED;авиакомпания победа официальный сайт купить билеты на самолет онлайн дешево;960;1084;MIXED/bukvarix_MIXED.csv;111149;NAVIGATIONAL+TRANSACTIONAL/tickets;uk
+MIXED;ржд официальный сайт купить билеты на ласточку;870;4298;MIXED/bukvarix_MIXED.csv;49009;NAVIGATIONAL+TRANSACTIONAL/tickets;en
+MIXED;ржд официальный сайт купить билет на электричку;881;3535;MIXED/bukvarix_MIXED.csv;54534;NAVIGATIONAL+TRANSACTIONAL/tickets;uk
+MIXED;гранд экспресс официальный сайт купить билеты;762;17434;MIXED/bukvarix_MIXED.csv;26139;NAVIGATIONAL+TRANSACTIONAL/tickets;ru
+MIXED;купить авиабилет ютэйр официальный сайт;909;2654;MIXED/bukvarix_MIXED.csv;13585;NAVIGATIONAL+TRANSACTIONAL/tickets;en
+MIXED;оао ржд купить билеты официальный сайт;811;3218;MIXED/bukvarix_MIXED.csv;27411;NAVIGATIONAL+TRANSACTIONAL/tickets;en
+MIXED;кунсткамера санкт петербург официальный сайт купить билет;834;1706;MIXED/bukvarix_MIXED.csv;48974;NAVIGATIONAL+TRANSACTIONAL/tickets;en
+MIXED;авиабилеты купить на самолет официальный сайт;663;31678;MIXED/bukvarix_MIXED.csv;26167;NAVIGATIONAL+TRANSACTIONAL/tickets;uk
+MIXED;останкинская башня официальный сайт купить билет;762;1662;MIXED/bukvarix_MIXED.csv;26142;NAVIGATIONAL+TRANSACTIONAL/tickets;ru
+MIXED;официальный сайт ямал купить билет на самолет;738;2528;MIXED/bukvarix_MIXED.csv;56031;NAVIGATIONAL+TRANSACTIONAL/tickets;uk
+MIXED;эрмитаж официальный сайт купить билет онлайн;671;9750;MIXED/bukvarix_MIXED.csv;26157;NAVIGATIONAL+TRANSACTIONAL/tickets;en
+MIXED;туту ру жд билеты купить на поезд официальный сайт дешево;782;800;MIXED/bukvarix_MIXED.csv;110641;NAVIGATIONAL+TRANSACTIONAL/tickets;ru
+MIXED;на самолет купить билеты онлайн официальный сайт;624;20377;MIXED/bukvarix_MIXED.csv;53286;NAVIGATIONAL+TRANSACTIONAL/tickets;uk
+MIXED;цирк на вернадского купить билеты официальный сайт;726;2029;MIXED/bukvarix_MIXED.csv;49279;NAVIGATIONAL+TRANSACTIONAL/tickets;ru
+MIXED;купить билеты ржд официальный сайт личный кабинет;728;1919;MIXED/bukvarix_MIXED.csv;53423;NAVIGATIONAL+TRANSACTIONAL/tickets;ru
+MIXED;туту ру авиабилеты купить на самолет официальный сайт;735;1408;MIXED/bukvarix_MIXED.csv;76204;NAVIGATIONAL+TRANSACTIONAL/tickets;ru
+MIXED;купить билеты на самолет туту ру официальный сайт;708;2212;MIXED/bukvarix_MIXED.csv;76211;NAVIGATIONAL+TRANSACTIONAL/tickets;en
+MIXED;сны пушкина лужники купить билеты официальный сайт;758;771;MIXED/bukvarix_MIXED.csv;48979;NAVIGATIONAL+TRANSACTIONAL/tickets;en
+MIXED;северсталь авиа официальный сайт купить билет;733;1216;MIXED/bukvarix_MIXED.csv;26152;NAVIGATIONAL+TRANSACTIONAL/tickets;ru
+MIXED;петропавловская крепость официальный сайт купить билет;721;1253;MIXED/bukvarix_MIXED.csv;26151;NAVIGATIONAL+TRANSACTIONAL/tickets;uk
+MIXED;речной порт чебоксары официальный сайт купить билеты;732;812;MIXED/bukvarix_MIXED.csv;48983;NAVIGATIONAL+TRANSACTIONAL/tickets;ru
+MIXED;купить авиабилеты на самолет аэрофлот официальный сайт;662;1952;MIXED/bukvarix_MIXED.csv;49255;NAVIGATIONAL+TRANSACTIONAL/tickets;uk
+MIXED;цирк никулина купить билеты официальный сайт;662;1781;MIXED/bukvarix_MIXED.csv;31443;NAVIGATIONAL+TRANSACTIONAL/tickets;ru
+MIXED;лахта центр в санкт петербурге официальный сайт купить билет на смотровую площадку;693;787;MIXED/bukvarix_MIXED.csv;122650;NAVIGATIONAL+TRANSACTIONAL/tickets;en
+MIXED;азимут авиабилеты купить официальный сайт;717;1549;MIXED/bukvarix_MIXED.csv;11302;NAVIGATIONAL+TRANSACTIONAL/tickets;uk
+MIXED;новосибирск автовокзал официальный сайт купить билеты;656;1647;MIXED/bukvarix_MIXED.csv;27783;NAVIGATIONAL+TRANSACTIONAL/tickets;en
+MIXED;купить билет на самолет на официальный сайт дешево;550;15300;MIXED/bukvarix_MIXED.csv;80378;NAVIGATIONAL+TRANSACTIONAL/tickets;uk
+MIXED;официальный сайт руслайн авиабилеты купить;725;829;MIXED/bukvarix_MIXED.csv;13243;NAVIGATIONAL+TRANSACTIONAL/tickets;uk
+MIXED;цирк запашных купить билеты москва официальный сайт;661;945;MIXED/bukvarix_MIXED.csv;48997;NAVIGATIONAL+TRANSACTIONAL/tickets;uk
+MIXED;жд билеты официальный сайт купить билеты онлайн на поезд;595;2467;MIXED/bukvarix_MIXED.csv;100002;NAVIGATIONAL+TRANSACTIONAL/tickets;en
+MIXED;ждбилеты ру купить официальный сайт ржд билет;647;672;MIXED/bukvarix_MIXED.csv;49006;NAVIGATIONAL+TRANSACTIONAL/tickets;uk
+MIXED;исаакиевский собор официальный сайт купить билеты;614;1468;MIXED/bukvarix_MIXED.csv;26202;NAVIGATIONAL+TRANSACTIONAL/tickets;en
+MIXED;царское село санкт петербург официальный сайт купить билеты;622;1109;MIXED/bukvarix_MIXED.csv;76221;NAVIGATIONAL+TRANSACTIONAL/tickets;uk
+MIXED;оао ржд официальный сайт пассажирам купить билет;619;1154;MIXED/bukvarix_MIXED.csv;49011;NAVIGATIONAL+TRANSACTIONAL/tickets;uk
+MIXED;аэрофлот официальный сайт купить билеты субсидированные;590;2205;MIXED/bukvarix_MIXED.csv;26238;NAVIGATIONAL+TRANSACTIONAL/tickets;en
+MIXED;туту ру жд купить билеты на поезд официальный сайт онлайн;602;1579;MIXED/bukvarix_MIXED.csv;112141;NAVIGATIONAL+TRANSACTIONAL/tickets;en
+MIXED;билеты ржд официальный сайт туту купить;546;6233;MIXED/bukvarix_MIXED.csv;27194;NAVIGATIONAL+TRANSACTIONAL/tickets;ru
+MIXED;ticket rzd ru официальный сайт ржд купить билет;606;777;MIXED/bukvarix_MIXED.csv;76218;NAVIGATIONAL+TRANSACTIONAL/tickets;ru
+MIXED;скс авто официальный сайт купить билеты на автобус;588;1039;MIXED/bukvarix_MIXED.csv;76225;NAVIGATIONAL+TRANSACTIONAL/tickets;en
+MIXED;авиабилеты аэрофлот официальный сайт купить билеты онлайн;591;865;MIXED/bukvarix_MIXED.csv;49015;NAVIGATIONAL+TRANSACTIONAL/tickets;uk
+MIXED;авиабилеты купить ямал официальный сайт;610;1324;MIXED/bukvarix_MIXED.csv;14581;NAVIGATIONAL+TRANSACTIONAL/tickets;en
+MIXED;авиасейлс официальный сайт купить дешевые авиабилеты;485;10843;MIXED/bukvarix_MIXED.csv;29564;NAVIGATIONAL+TRANSACTIONAL/tickets;ru
+MIXED;купить авиабилеты на самолет онлайн официальный сайт;502;4135;MIXED/bukvarix_MIXED.csv;49045;NAVIGATIONAL+TRANSACTIONAL/tickets;uk
+MIXED;росбилет ру официальный сайт купить билет на автобус;561;689;MIXED/bukvarix_MIXED.csv;76232;NAVIGATIONAL+TRANSACTIONAL/tickets;ru
+MIXED;купить ржд билеты на сайте ржд онлайн официальный сайт;415;52470;MIXED/bukvarix_MIXED.csv;97072;NAVIGATIONAL+TRANSACTIONAL/tickets;en
+MIXED;туту ржд купить билеты на поезд официальный сайт;494;3215;MIXED/bukvarix_MIXED.csv;80385;NAVIGATIONAL+TRANSACTIONAL/tickets;ru
+MIXED;екатерининский дворец купить билеты официальный сайт онлайн;527;1091;MIXED/bukvarix_MIXED.csv;55061;NAVIGATIONAL+TRANSACTIONAL/tickets;ru
+MIXED;купить билет северречфлот ханты мансийск официальный сайт;543;564;MIXED/bukvarix_MIXED.csv;50220;NAVIGATIONAL+TRANSACTIONAL/tickets;ru
+MIXED;нордвинд официальный сайт купить авиабилеты;581;612;MIXED/bukvarix_MIXED.csv;11250;NAVIGATIONAL+TRANSACTIONAL/tickets;uk
+MIXED;остров мечты купить билеты официальный сайт;428;15811;MIXED/bukvarix_MIXED.csv;26543;NAVIGATIONAL+TRANSACTIONAL/tickets;ru
+MIXED;купить билет на самолет северсталь на официальный сайт;517;889;MIXED/bukvarix_MIXED.csv;77980;NAVIGATIONAL+TRANSACTIONAL/tickets;en
+MIXED;лахта центр в санкт петербурге официальный сайт купить билет;494;1577;MIXED/bukvarix_MIXED.csv;97026;NAVIGATIONAL+TRANSACTIONAL/tickets;ru
+MIXED;айкос купить официальный сайт цены акции и скидки;4327;6587;MIXED/bukvarix_MIXED.csv;76144;NAVIGATIONAL+TRANSACTIONAL/shopping;ru
+MIXED;валдбериес интернет магазин купить официальный сайт;2387;5113;MIXED/bukvarix_MIXED.csv;26092;NAVIGATIONAL+TRANSACTIONAL/shopping;ru
+MIXED;валдбериес интернет магазин купить официальный сайт каталог с ценами и фото товаров;1216;1235;MIXED/bukvarix_MIXED.csv;122648;NAVIGATIONAL+TRANSACTIONAL/shopping;en
+MIXED;официальный сайт лукойл купить масло;1090;1756;MIXED/bukvarix_MIXED.csv;13070;NAVIGATIONAL+TRANSACTIONAL/shopping;en
+MIXED;стэндофф 2 официальный сайт купить голду;786;811;MIXED/bukvarix_MIXED.csv;26136;NAVIGATIONAL+TRANSACTIONAL/shopping;ru
+MIXED;купить робуксы в роблокс официальный сайт;755;976;MIXED/bukvarix_MIXED.csv;26164;NAVIGATIONAL+TRANSACTIONAL/shopping;en
+MIXED;велосипед стелс официальный сайт купить;751;842;MIXED/bukvarix_MIXED.csv;11540;NAVIGATIONAL+TRANSACTIONAL/shopping;ru
+MIXED;уральские авиалинии официальный сайт купить;587;7497;MIXED/bukvarix_MIXED.csv;11244;NAVIGATIONAL+TRANSACTIONAL/shopping;uk
+MIXED;озон купить интернет магазин официальный сайт;570;1983;MIXED/bukvarix_MIXED.csv;27928;NAVIGATIONAL+TRANSACTIONAL/shopping;uk
+MIXED;кроксы купить оригинал сайт официальный;651;841;MIXED/bukvarix_MIXED.csv;12301;NAVIGATIONAL+TRANSACTIONAL/shopping;en
+MIXED;cns сумки купить официальный сайт;660;676;MIXED/bukvarix_MIXED.csv;11238;NAVIGATIONAL+TRANSACTIONAL/shopping;uk
+MIXED;кофе тести купить официальный сайт;626;860;MIXED/bukvarix_MIXED.csv;11371;NAVIGATIONAL+TRANSACTIONAL/shopping;en
+MIXED;ижавиа купить официальный сайт ижевск;590;987;MIXED/bukvarix_MIXED.csv;11246;NAVIGATIONAL+TRANSACTIONAL/shopping;uk
+MIXED;циан москва официальный сайт москва купить квартиру вторичка;502;1583;MIXED/bukvarix_MIXED.csv;84031;NAVIGATIONAL+TRANSACTIONAL/shopping;ru
+MIXED;купить номера на авто московская область официальный сайт;539;544;MIXED/bukvarix_MIXED.csv;76235;NAVIGATIONAL+TRANSACTIONAL/shopping;uk
+MIXED;авито санкт петербург официальный сайт купить;491;1210;MIXED/bukvarix_MIXED.csv;26241;NAVIGATIONAL+TRANSACTIONAL/shopping;en
+MIXED;страховка онлайн осаго купить официальный сайт;480;1262;MIXED/bukvarix_MIXED.csv;26197;NAVIGATIONAL+TRANSACTIONAL/shopping;uk
+MIXED;roblox купить робуксы официальный сайт;534;599;MIXED/bukvarix_MIXED.csv;12677;NAVIGATIONAL+TRANSACTIONAL/shopping;uk
+MIXED;купить пептиды хавинсона официальный сайт;507;642;MIXED/bukvarix_MIXED.csv;12905;NAVIGATIONAL+TRANSACTIONAL/shopping;uk
+MIXED;купить майнкрафт лицензию на пк официальный сайт;458;571;MIXED/bukvarix_MIXED.csv;49104;NAVIGATIONAL+TRANSACTIONAL/shopping;ru
+MIXED;купить часы ракета официальный сайт;399;540;MIXED/bukvarix_MIXED.csv;11976;NAVIGATIONAL+TRANSACTIONAL/shopping;uk
+MIXED;восток часы купить официальный сайт;369;739;MIXED/bukvarix_MIXED.csv;17102;NAVIGATIONAL+TRANSACTIONAL/shopping;ru
+MIXED;мирена спираль купить официальный сайт;373;583;MIXED/bukvarix_MIXED.csv;11751;NAVIGATIONAL+TRANSACTIONAL/shopping;ru
+MIXED;эрмитаж санкт петербург официальный сайт купить;273;11819;MIXED/bukvarix_MIXED.csv;27893;NAVIGATIONAL+TRANSACTIONAL/shopping;uk
+MIXED;тандыр амфора официальный сайт купить;370;377;MIXED/bukvarix_MIXED.csv;11319;NAVIGATIONAL+TRANSACTIONAL/shopping;uk
+MIXED;квадроцикл сокол купить официальный сайт;357;379;MIXED/bukvarix_MIXED.csv;11327;NAVIGATIONAL+TRANSACTIONAL/shopping;en
+MIXED;минако официальный сайт электровелосипед купить;353;368;MIXED/bukvarix_MIXED.csv;11324;NAVIGATIONAL+TRANSACTIONAL/shopping;ru
+MIXED;лотерея мечталлион официальный сайт купить проверить;326;337;MIXED/bukvarix_MIXED.csv;26309;NAVIGATIONAL+TRANSACTIONAL/shopping;ru
+MIXED;валдерис магазин интернет официальный сайт каталог купить;323;325;MIXED/bukvarix_MIXED.csv;49240;NAVIGATIONAL+TRANSACTIONAL/shopping;en
+MIXED;тамми танука купить официальный сайт;339;351;MIXED/bukvarix_MIXED.csv;11326;NAVIGATIONAL+TRANSACTIONAL/shopping;uk
+MIXED;часы луч купить официальный сайт;326;389;MIXED/bukvarix_MIXED.csv;13945;NAVIGATIONAL+TRANSACTIONAL/shopping;ru
+MIXED;аст издательство официальный сайт купить книги;303;331;MIXED/bukvarix_MIXED.csv;27118;NAVIGATIONAL+TRANSACTIONAL/shopping;en
+MIXED;аквалайф ионизатор воды купить официальный сайт;303;324;MIXED/bukvarix_MIXED.csv;26345;NAVIGATIONAL+TRANSACTIONAL/shopping;ru
+MIXED;доктор зубарева витамины купить официальный сайт;302;324;MIXED/bukvarix_MIXED.csv;26347;NAVIGATIONAL+TRANSACTIONAL/shopping;ru
+MIXED;сесдерма косметика официальный сайт купить;313;348;MIXED/bukvarix_MIXED.csv;11337;NAVIGATIONAL+TRANSACTIONAL/shopping;uk
+MIXED;тести кофе в зернах купить официальный сайт;282;354;MIXED/bukvarix_MIXED.csv;61495;NAVIGATIONAL+TRANSACTIONAL/shopping;uk
+MIXED;кристина косметика официальный сайт купить;305;364;MIXED/bukvarix_MIXED.csv;11357;NAVIGATIONAL+TRANSACTIONAL/shopping;en
+MIXED;time to grow купить официальный сайт;278;299;MIXED/bukvarix_MIXED.csv;26393;NAVIGATIONAL+TRANSACTIONAL/shopping;en
+MIXED;холодильник бирюса купить в красноярске официальный сайт;268;384;MIXED/bukvarix_MIXED.csv;49346;NAVIGATIONAL+TRANSACTIONAL/shopping;uk
+MIXED;bulmer одежда купить официальный сайт;296;302;MIXED/bukvarix_MIXED.csv;11347;NAVIGATIONAL+TRANSACTIONAL/shopping;uk
+MIXED;ножи кизляр купить официальный сайт;287;343;MIXED/bukvarix_MIXED.csv;11356;NAVIGATIONAL+TRANSACTIONAL/shopping;uk
+MIXED;ожд ржд официальный сайт купить;265;1072;MIXED/bukvarix_MIXED.csv;11374;NAVIGATIONAL+TRANSACTIONAL/shopping;en
+MIXED;часы константин чайкин купить официальный сайт;263;290;MIXED/bukvarix_MIXED.csv;32780;NAVIGATIONAL+TRANSACTIONAL/shopping;ru
+MIXED;луиза спаньоли купить официальный сайт;282;302;MIXED/bukvarix_MIXED.csv;11364;NAVIGATIONAL+TRANSACTIONAL/shopping;uk
+MIXED;партнер семена купить официальный сайт;274;440;MIXED/bukvarix_MIXED.csv;11378;NAVIGATIONAL+TRANSACTIONAL/shopping;en
+MIXED;ямал аэро официальный сайт купить;258;940;MIXED/bukvarix_MIXED.csv;11380;NAVIGATIONAL+TRANSACTIONAL/shopping;ru
+MIXED;тульский самовар официальный сайт завода купить;256;275;MIXED/bukvarix_MIXED.csv;26434;NAVIGATIONAL+TRANSACTIONAL/shopping;uk
+MIXED;мерч димы масленникова купить официальный сайт;241;301;MIXED/bukvarix_MIXED.csv;26525;NAVIGATIONAL+TRANSACTIONAL/shopping;uk
+MIXED;викисьюз выкройки купить официальный сайт;262;263;MIXED/bukvarix_MIXED.csv;11377;NAVIGATIONAL+TRANSACTIONAL/shopping;ru
+MIXED;зубарева витамины купить официальный сайт;247;607;MIXED/bukvarix_MIXED.csv;11640;NAVIGATIONAL+TRANSACTIONAL/shopping;en
+MIXED;буйские удобрения официальный сайт купить в розницу;238;266;MIXED/bukvarix_MIXED.csv;49457;NAVIGATIONAL+TRANSACTIONAL/shopping;en
+MIXED;botrois одежда купить официальный сайт;256;256;MIXED/bukvarix_MIXED.csv;11381;NAVIGATIONAL+TRANSACTIONAL/shopping;en
+MIXED;ювт аэро официальный сайт купить;225;1676;MIXED/bukvarix_MIXED.csv;11427;NAVIGATIONAL+TRANSACTIONAL/shopping;uk
+MIXED;издательство эксмо официальный сайт купить книги;230;339;MIXED/bukvarix_MIXED.csv;36562;NAVIGATIONAL+TRANSACTIONAL/shopping;ru
+MIXED;плеяна косметика купить официальный сайт;245;247;MIXED/bukvarix_MIXED.csv;11391;NAVIGATIONAL+TRANSACTIONAL/shopping;en
+MIXED;шульц велосипеды купить официальный сайт;237;391;MIXED/bukvarix_MIXED.csv;11399;NAVIGATIONAL+TRANSACTIONAL/shopping;ru
+MIXED;купить звезду на небе официальный сайт;217;373;MIXED/bukvarix_MIXED.csv;26512;NAVIGATIONAL+TRANSACTIONAL/shopping;ru
+MIXED;циан официальный сайт москва купить;204;2723;MIXED/bukvarix_MIXED.csv;11449;NAVIGATIONAL+TRANSACTIONAL/shopping;ru
+MIXED;табера кофе купить официальный сайт;233;325;MIXED/bukvarix_MIXED.csv;11401;NAVIGATIONAL+TRANSACTIONAL/shopping;uk
+MIXED;купить волгу новую в салоне официальный сайт;217;224;MIXED/bukvarix_MIXED.csv;49526;NAVIGATIONAL+TRANSACTIONAL/shopping;en
+MIXED;своя культура одежда купить официальный сайт;216;235;MIXED/bukvarix_MIXED.csv;26517;NAVIGATIONAL+TRANSACTIONAL/shopping;en
+MIXED;ипсум витамины купить дзидзария официальный сайт;212;214;MIXED/bukvarix_MIXED.csv;26533;NAVIGATIONAL+TRANSACTIONAL/shopping;ru
+MIXED;егор крид официальный сайт мерч купить;188;961;MIXED/bukvarix_MIXED.csv;28279;NAVIGATIONAL+TRANSACTIONAL/shopping;en
+MIXED;тренажер бубновского купить официальный сайт;220;308;MIXED/bukvarix_MIXED.csv;11418;NAVIGATIONAL+TRANSACTIONAL/shopping;ru
+MIXED;gerry weber одежда купить интернет магазин официальный сайт;204;204;MIXED/bukvarix_MIXED.csv;76787;NAVIGATIONAL+TRANSACTIONAL/shopping;en
+MIXED;скс авто официальный сайт купить;192;1765;MIXED/bukvarix_MIXED.csv;11458;NAVIGATIONAL+TRANSACTIONAL/shopping;uk
+MIXED;авточехлы автопилот официальный сайт купить;217;274;MIXED/bukvarix_MIXED.csv;18302;NAVIGATIONAL+TRANSACTIONAL/shopping;uk
+MIXED;сомон эйр официальный сайт купить;202;746;MIXED/bukvarix_MIXED.csv;11446;NAVIGATIONAL+TRANSACTIONAL/shopping;en
+MIXED;автострахование онлайн купить осаго официальный сайт;202;211;MIXED/bukvarix_MIXED.csv;29004;NAVIGATIONAL+TRANSACTIONAL/shopping;ru
+MIXED;пеноулик купить официальный сайт производителя;211;345;MIXED/bukvarix_MIXED.csv;11433;NAVIGATIONAL+TRANSACTIONAL/shopping;ru
+MIXED;александр богданов одежда купить официальный сайт;200;201;MIXED/bukvarix_MIXED.csv;26561;NAVIGATIONAL+TRANSACTIONAL/shopping;ru
+MIXED;рыбец 64 купить рыбу официальный сайт;199;212;MIXED/bukvarix_MIXED.csv;26566;NAVIGATIONAL+TRANSACTIONAL/shopping;ru
+MIXED;вайлберис купить интернет магазин каталог владивосток официальный сайт товаров с ценами;199;199;MIXED/bukvarix_MIXED.csv;118817;NAVIGATIONAL+TRANSACTIONAL/shopping;en
+MIXED;карепрост для ресниц купить оригинал официальный сайт;196;211;MIXED/bukvarix_MIXED.csv;49604;NAVIGATIONAL+TRANSACTIONAL/shopping;ru
+MIXED;lkurbandress официальный сайт одежда женская купить;195;195;MIXED/bukvarix_MIXED.csv;26572;NAVIGATIONAL+TRANSACTIONAL/shopping;uk
+MIXED;алиса колонка купить официальный сайт;205;267;MIXED/bukvarix_MIXED.csv;11455;NAVIGATIONAL+TRANSACTIONAL/shopping;en
+MIXED;купить юси в пубг мобайл официальный сайт;190;214;MIXED/bukvarix_MIXED.csv;49633;NAVIGATIONAL+TRANSACTIONAL/shopping;en
+MIXED;лодка гладиатор купить официальный сайт;202;281;MIXED/bukvarix_MIXED.csv;11444;NAVIGATIONAL+TRANSACTIONAL/shopping;uk
+MIXED;ремингтон одежда для охоты купить официальный сайт;188;204;MIXED/bukvarix_MIXED.csv;49647;NAVIGATIONAL+TRANSACTIONAL/shopping;uk
+MIXED;нитки пнк им кирова купить официальный сайт;188;195;MIXED/bukvarix_MIXED.csv;61073;NAVIGATIONAL+TRANSACTIONAL/shopping;uk
+MIXED;консо одежда официальный сайт купить;200;200;MIXED/bukvarix_MIXED.csv;11453;NAVIGATIONAL+TRANSACTIONAL/shopping;en
+MIXED;юси пабг купить мобайл официальный сайт;172;394;MIXED/bukvarix_MIXED.csv;36823;NAVIGATIONAL+TRANSACTIONAL/shopping;en
+MIXED;осаго росгосстрах официальный сайт купить страховой полис онлайн;176;202;MIXED/bukvarix_MIXED.csv;76951;NAVIGATIONAL+TRANSACTIONAL/shopping;en
+MIXED;nfo омега 3 купить официальный сайт;176;184;MIXED/bukvarix_MIXED.csv;26636;NAVIGATIONAL+TRANSACTIONAL/shopping;ru
+MIXED;люсио официальный сайт интернет магазин купить;175;175;MIXED/bukvarix_MIXED.csv;26641;NAVIGATIONAL+TRANSACTIONAL/shopping;ru
+MIXED;автодор транспондер купить официальный сайт;184;289;MIXED/bukvarix_MIXED.csv;11864;NAVIGATIONAL+TRANSACTIONAL/shopping;en
+MIXED;топоры аника купить официальный сайт;186;234;MIXED/bukvarix_MIXED.csv;17663;NAVIGATIONAL+TRANSACTIONAL/shopping;ru
+MIXED;levissime косметика для лица купить официальный сайт;174;181;MIXED/bukvarix_MIXED.csv;49706;NAVIGATIONAL+TRANSACTIONAL/shopping;uk
+MIXED;kayros одежда из льна официальный сайт купить;174;176;MIXED/bukvarix_MIXED.csv;49709;NAVIGATIONAL+TRANSACTIONAL/shopping;en
+MIXED;павлопосадский платок купить официальный сайт;175;436;MIXED/bukvarix_MIXED.csv;11497;NAVIGATIONAL+TRANSACTIONAL/shopping;uk
+MIXED;daddy casino официальный сайт отзывы;481;482;MIXED/bukvarix_MIXED.csv;11263;NAVIGATIONAL+COMMERCIAL/reviews;ru
+MIXED;правильная косметика официальный сайт отзывы;457;457;MIXED/bukvarix_MIXED.csv;11275;NAVIGATIONAL+COMMERCIAL/reviews;uk
+MIXED;бет бум официальный сайт отзывы;402;403;MIXED/bukvarix_MIXED.csv;11304;NAVIGATIONAL+COMMERCIAL/reviews;ru
+MIXED;топ хотелс ру официальный сайт отзывы;302;315;MIXED/bukvarix_MIXED.csv;26346;NAVIGATIONAL+COMMERCIAL/reviews;ru
+MIXED;про докторов отзывы о врачах москва официальный сайт;255;394;MIXED/bukvarix_MIXED.csv;84057;NAVIGATIONAL+COMMERCIAL/reviews;en
+MIXED;отзовик ру официальный сайт отзывы покупателей;189;328;MIXED/bukvarix_MIXED.csv;26642;NAVIGATIONAL+COMMERCIAL/reviews;en
+MIXED;отзывы о врачах в москве официальный сайт;191;240;MIXED/bukvarix_MIXED.csv;49623;NAVIGATIONAL+COMMERCIAL/reviews;uk
+MIXED;университет синергия официальный сайт отзывы;180;316;MIXED/bukvarix_MIXED.csv;12849;NAVIGATIONAL+COMMERCIAL/reviews;ru
+MIXED;нордстар отель химки официальный сайт отзывы;172;172;MIXED/bukvarix_MIXED.csv;26652;NAVIGATIONAL+COMMERCIAL/reviews;uk
+MIXED;санаторий красный бор смоленск официальный сайт отзывы о санатории;163;167;MIXED/bukvarix_MIXED.csv;97804;NAVIGATIONAL+COMMERCIAL/reviews;en
+MIXED;про докторов омск сайт официальный отзывы о врачах;158;188;MIXED/bukvarix_MIXED.csv;77169;NAVIGATIONAL+COMMERCIAL/reviews;ru
+MIXED;лазурный берег анапа официальный сайт отзывы;157;200;MIXED/bukvarix_MIXED.csv;26718;NAVIGATIONAL+COMMERCIAL/reviews;ru
+MIXED;санаторий кристалл смоленск официальный сайт отзывы о санатории;156;168;MIXED/bukvarix_MIXED.csv;77107;NAVIGATIONAL+COMMERCIAL/reviews;ru
+MIXED;рябинушка санаторий анапа официальный сайт отзывы;150;157;MIXED/bukvarix_MIXED.csv;28341;NAVIGATIONAL+COMMERCIAL/reviews;ru
+MIXED;malina siberian официальный сайт отзывы;132;132;MIXED/bukvarix_MIXED.csv;11628;NAVIGATIONAL+COMMERCIAL/reviews;ru
+MIXED;страна души абхазия официальный сайт отзывы;105;242;MIXED/bukvarix_MIXED.csv;27040;NAVIGATIONAL+COMMERCIAL/reviews;en
+MIXED;аквалоо санаторий официальный сайт отзывы;115;184;MIXED/bukvarix_MIXED.csv;13030;NAVIGATIONAL+COMMERCIAL/reviews;en
+MIXED;отель европа абхазия гагра официальный сайт отзывы;108;124;MIXED/bukvarix_MIXED.csv;50339;NAVIGATIONAL+COMMERCIAL/reviews;ru
+MIXED;санаторий виктория ессентуки официальный сайт отзывы;102;171;MIXED/bukvarix_MIXED.csv;27496;NAVIGATIONAL+COMMERCIAL/reviews;en
+MIXED;софрино парк отель официальный сайт отзывы;104;125;MIXED/bukvarix_MIXED.csv;27167;NAVIGATIONAL+COMMERCIAL/reviews;ru
+MIXED;алушта санаторий славутич официальный сайт отзывы;100;175;MIXED/bukvarix_MIXED.csv;37949;NAVIGATIONAL+COMMERCIAL/reviews;uk
+MIXED;санаторий митино тверская область официальный сайт отзывы;99;102;MIXED/bukvarix_MIXED.csv;50450;NAVIGATIONAL+COMMERCIAL/reviews;ru
+MIXED;патриот отель подмосковье официальный сайт отзывы;98;98;MIXED/bukvarix_MIXED.csv;27123;NAVIGATIONAL+COMMERCIAL/reviews;en
+MIXED;целебные воды нальчик санаторий официальный сайт отзывы;95;119;MIXED/bukvarix_MIXED.csv;52676;NAVIGATIONAL+COMMERCIAL/reviews;en
+MIXED;красноусольск санаторий официальный сайт отзывы;99;103;MIXED/bukvarix_MIXED.csv;16332;NAVIGATIONAL+COMMERCIAL/reviews;ru
+MIXED;теплеево резорт официальный сайт отзывы;98;99;MIXED/bukvarix_MIXED.csv;11777;NAVIGATIONAL+COMMERCIAL/reviews;ru
+MIXED;про докторов воронеж официальный сайт отзывы;86;178;MIXED/bukvarix_MIXED.csv;27283;NAVIGATIONAL+COMMERCIAL/reviews;en
+MIXED;отель россиянка анапа официальный сайт отзывы;86;93;MIXED/bukvarix_MIXED.csv;30372;NAVIGATIONAL+COMMERCIAL/reviews;en
+MIXED;меавита курск дружбы 4 официальный сайт цены отзывы;86;86;MIXED/bukvarix_MIXED.csv;77776;NAVIGATIONAL+COMMERCIAL/reviews;ru
+MIXED;про докторов уфа официальный сайт отзывы о врачах;84;112;MIXED/bukvarix_MIXED.csv;77888;NAVIGATIONAL+COMMERCIAL/reviews;ru
+MIXED;банки ру официальный сайт отзывы написать;82;154;MIXED/bukvarix_MIXED.csv;27336;NAVIGATIONAL+COMMERCIAL/reviews;uk
+MIXED;криница унеча официальный сайт отзывы;89;89;MIXED/bukvarix_MIXED.csv;11852;NAVIGATIONAL+COMMERCIAL/reviews;uk
+MIXED;театр модерн официальный сайт отзывы;88;88;MIXED/bukvarix_MIXED.csv;11863;NAVIGATIONAL+COMMERCIAL/reviews;ru
+MIXED;нутрифарм официальный сайт каталог с ценами отзывы покупателей;80;87;MIXED/bukvarix_MIXED.csv;77876;NAVIGATIONAL+COMMERCIAL/reviews;en
+MIXED;санаторий кавказ нальчик официальный сайт отзывы отдыхающих;80;80;MIXED/bukvarix_MIXED.csv;52684;NAVIGATIONAL+COMMERCIAL/reviews;ru
+MIXED;духи рф интернет магазин официальный сайт отзывы;79;83;MIXED/bukvarix_MIXED.csv;50704;NAVIGATIONAL+COMMERCIAL/reviews;uk
+MIXED;алеан ольгинка официальный сайт отзывы;85;97;MIXED/bukvarix_MIXED.csv;12231;NAVIGATIONAL+COMMERCIAL/reviews;uk
+MIXED;парк отель джубга официальный сайт отзывы;75;104;MIXED/bukvarix_MIXED.csv;27862;NAVIGATIONAL+COMMERCIAL/reviews;en
+MIXED;про докторов саратов официальный сайт отзывы о врачах;75;97;MIXED/bukvarix_MIXED.csv;78096;NAVIGATIONAL+COMMERCIAL/reviews;ru
+MIXED;турфирма вокруг света москва официальный сайт отзывы;76;78;MIXED/bukvarix_MIXED.csv;50781;NAVIGATIONAL+COMMERCIAL/reviews;uk
+MIXED;сочи парк отель официальный сайт отзывы;71;152;MIXED/bukvarix_MIXED.csv;27700;NAVIGATIONAL+COMMERCIAL/reviews;ru
+MIXED;нальчик санаторий долинск официальный сайт отзывы отдыхающих;74;75;MIXED/bukvarix_MIXED.csv;53792;NAVIGATIONAL+COMMERCIAL/reviews;ru
+MIXED;виеда официальный сайт каталог отзывы;78;78;MIXED/bukvarix_MIXED.csv;11929;NAVIGATIONAL+COMMERCIAL/reviews;uk
+MIXED;завидово аквапарк официальный сайт отзывы;75;95;MIXED/bukvarix_MIXED.csv;13256;NAVIGATIONAL+COMMERCIAL/reviews;uk
+MIXED;глобал тренд нано бальзам официальный сайт цены казахстан отзывы;70;70;MIXED/bukvarix_MIXED.csv;98642;NAVIGATIONAL+COMMERCIAL/reviews;ru
+MIXED;сочи санаторий светлана официальный сайт отзывы;68;71;MIXED/bukvarix_MIXED.csv;28508;NAVIGATIONAL+COMMERCIAL/reviews;ru
+MIXED;горбилет санкт петербург официальный сайт отзывы;63;107;MIXED/bukvarix_MIXED.csv;27796;NAVIGATIONAL+COMMERCIAL/reviews;en
+MIXED;трипадвизор официальный сайт отзывы отели;70;75;MIXED/bukvarix_MIXED.csv;12010;NAVIGATIONAL+COMMERCIAL/reviews;ru
+MIXED;апсны гудаута абхазия официальный сайт отзывы;64;80;MIXED/bukvarix_MIXED.csv;27723;NAVIGATIONAL+COMMERCIAL/reviews;en
+MIXED;приветливый берег геленджик официальный сайт отзывы;64;79;MIXED/bukvarix_MIXED.csv;27705;NAVIGATIONAL+COMMERCIAL/reviews;en
+MIXED;азов ленд официальный сайт отзывы;70;70;MIXED/bukvarix_MIXED.csv;12009;NAVIGATIONAL+COMMERCIAL/reviews;en
+MIXED;санаторий москва крым керчь официальный сайт отзывы;64;69;MIXED/bukvarix_MIXED.csv;51371;NAVIGATIONAL+COMMERCIAL/reviews;ru
+MIXED;онлайн школа парта официальный сайт отзывы;62;109;MIXED/bukvarix_MIXED.csv;30200;NAVIGATIONAL+COMMERCIAL/reviews;en
+MIXED;мореа анапа отель официальный сайт отзывы;63;75;MIXED/bukvarix_MIXED.csv;27735;NAVIGATIONAL+COMMERCIAL/reviews;uk
+MIXED;санаторий дилуч анапа официальный сайт отзывы;61;75;MIXED/bukvarix_MIXED.csv;31045;NAVIGATIONAL+COMMERCIAL/reviews;en
+MIXED;русский лес санаторий владимирская область официальный сайт отзывы;57;174;MIXED/bukvarix_MIXED.csv;81453;NAVIGATIONAL+COMMERCIAL/reviews;ru
+MIXED;санаторий русь геленджик официальный сайт отзывы по соц путевкам;60;60;MIXED/bukvarix_MIXED.csv;99222;NAVIGATIONAL+COMMERCIAL/reviews;uk
+MIXED;санаторий дорохово в подмосковье официальный сайт отзывы;58;64;MIXED/bukvarix_MIXED.csv;51319;NAVIGATIONAL+COMMERCIAL/reviews;uk
+MIXED;санаторий дзержинского воронеж официальный сайт отзывы;56;60;MIXED/bukvarix_MIXED.csv;28002;NAVIGATIONAL+COMMERCIAL/reviews;en
+MIXED;санаторий ерино официальный сайт отзывы;59;87;MIXED/bukvarix_MIXED.csv;19108;NAVIGATIONAL+COMMERCIAL/reviews;uk
+MIXED;санаторий старая русса амакс официальный сайт отзывы;55;55;MIXED/bukvarix_MIXED.csv;51510;NAVIGATIONAL+COMMERCIAL/reviews;ru
+MIXED;отзывы спа гранд отель петергоф официальный сайт;53;53;MIXED/bukvarix_MIXED.csv;51452;NAVIGATIONAL+COMMERCIAL/reviews;ru
+MIXED;вернисаж санаторий кисловодск официальный сайт отзывы;52;64;MIXED/bukvarix_MIXED.csv;36366;NAVIGATIONAL+COMMERCIAL/reviews;en
+MIXED;витамир производитель официальный сайт отзывы;56;56;MIXED/bukvarix_MIXED.csv;12232;NAVIGATIONAL+COMMERCIAL/reviews;en
+MIXED;тесна санаторий кашира официальный сайт отзывы;51;52;MIXED/bukvarix_MIXED.csv;31066;NAVIGATIONAL+COMMERCIAL/reviews;ru
+MIXED;голубая волна санаторий алушта официальный сайт по социальной путевке отзывы отдыхающих;50;50;MIXED/bukvarix_MIXED.csv;119612;NAVIGATIONAL+COMMERCIAL/reviews;uk
+MIXED;отзывы ржд официальный сайт написать;49;231;MIXED/bukvarix_MIXED.csv;17183;NAVIGATIONAL+COMMERCIAL/reviews;uk
+MIXED;город мира анапа отель официальный сайт отзывы;48;87;MIXED/bukvarix_MIXED.csv;51950;NAVIGATIONAL+COMMERCIAL/reviews;en
+MIXED;талка виладж дивноморское официальный сайт отзывы;49;52;MIXED/bukvarix_MIXED.csv;28325;NAVIGATIONAL+COMMERCIAL/reviews;ru
+MIXED;циолковский самара официальный сайт отзывы;52;57;MIXED/bukvarix_MIXED.csv;12314;NAVIGATIONAL+COMMERCIAL/reviews;ru
+MIXED;волна си виладж анапа официальный сайт отзывы;48;48;MIXED/bukvarix_MIXED.csv;51702;NAVIGATIONAL+COMMERCIAL/reviews;en
+MIXED;голубая волна алушта официальный сайт отзывы;44;144;MIXED/bukvarix_MIXED.csv;28428;NAVIGATIONAL+COMMERCIAL/reviews;ru
+MIXED;пансионат сокол сочи официальный сайт отзывы;47;52;MIXED/bukvarix_MIXED.csv;28359;NAVIGATIONAL+COMMERCIAL/reviews;uk
+MIXED;щелыково санаторий официальный сайт костромская область отзывы;47;52;MIXED/bukvarix_MIXED.csv;57438;NAVIGATIONAL+COMMERCIAL/reviews;en
+MIXED;дубки воскресенск официальный сайт парк отель отзывы;47;49;MIXED/bukvarix_MIXED.csv;62667;NAVIGATIONAL+COMMERCIAL/reviews;en
+MIXED;банки ру отзывы альфа банк написать официальный сайт;47;47;MIXED/bukvarix_MIXED.csv;78792;NAVIGATIONAL+COMMERCIAL/reviews;en
+MIXED;санаторий мечта евпатория официальный сайт отзывы по соц путевкам;47;47;MIXED/bukvarix_MIXED.csv;99161;NAVIGATIONAL+COMMERCIAL/reviews;uk
+MIXED;банки ру официальный сайт отзывы клиентов;46;60;MIXED/bukvarix_MIXED.csv;28356;NAVIGATIONAL+COMMERCIAL/reviews;uk
+MIXED;абхазия отель страна души сухум официальный сайт отзывы и цены;46;46;MIXED/bukvarix_MIXED.csv;111795;NAVIGATIONAL+COMMERCIAL/reviews;uk
+MIXED;геленджик красная талка официальный сайт отзывы;45;59;MIXED/bukvarix_MIXED.csv;37736;NAVIGATIONAL+COMMERCIAL/reviews;uk
+MIXED;санаторий ай петри официальный сайт отзывы;42;143;MIXED/bukvarix_MIXED.csv;37674;NAVIGATIONAL+COMMERCIAL/reviews;uk
+MIXED;тараскуль санаторий тюмень официальный сайт отзывы;45;48;MIXED/bukvarix_MIXED.csv;28799;NAVIGATIONAL+COMMERCIAL/reviews;uk
+MIXED;клиника 308 в москве онкологическая больница официальный сайт цены и отзывы;45;45;MIXED/bukvarix_MIXED.csv;119201;NAVIGATIONAL+COMMERCIAL/reviews;uk
+MIXED;бургас сочи официальный сайт отзывы;47;77;MIXED/bukvarix_MIXED.csv;12442;NAVIGATIONAL+COMMERCIAL/reviews;en
+MIXED;родник пятигорск санаторий официальный сайт отзывы;44;55;MIXED/bukvarix_MIXED.csv;31534;NAVIGATIONAL+COMMERCIAL/reviews;uk
+MIXED;суздаль аквапарк официальный сайт отзывы;48;53;MIXED/bukvarix_MIXED.csv;15668;NAVIGATIONAL+COMMERCIAL/reviews;uk
+MIXED;дивотель дивноморское официальный сайт отзывы;48;49;MIXED/bukvarix_MIXED.csv;12416;NAVIGATIONAL+COMMERCIAL/reviews;uk
+MIXED;анапа парус санаторий официальный сайт отзывы;44;47;MIXED/bukvarix_MIXED.csv;38569;NAVIGATIONAL+COMMERCIAL/reviews;uk
+MIXED;отель нарт абхазия гагра официальный сайт отзывы;44;46;MIXED/bukvarix_MIXED.csv;52508;NAVIGATIONAL+COMMERCIAL/reviews;uk
+MIXED;мокша санаторий официальный сайт мордовия отзывы;42;91;MIXED/bukvarix_MIXED.csv;36343;NAVIGATIONAL+COMMERCIAL/reviews;uk
+MIXED;санаторий русь геленджик официальный сайт отзывы;42;87;MIXED/bukvarix_MIXED.csv;29608;NAVIGATIONAL+COMMERCIAL/reviews;en
+MIXED;лиса рулит автосалон официальный сайт отзывы;43;55;MIXED/bukvarix_MIXED.csv;28520;NAVIGATIONAL+COMMERCIAL/reviews;ru
+MIXED;фабрика уюта окна официальный сайт отзывы;43;49;MIXED/bukvarix_MIXED.csv;28523;NAVIGATIONAL+COMMERCIAL/reviews;ru
+MIXED;кусково музей усадьба официальный сайт отзывы;43;43;MIXED/bukvarix_MIXED.csv;28527;NAVIGATIONAL+COMMERCIAL/reviews;en
+MIXED;санаторий воробьево калужская область официальный сайт отзывы;40;119;MIXED/bukvarix_MIXED.csv;56465;NAVIGATIONAL+COMMERCIAL/reviews;en
+MIXED;санаторий свет маяка керчь официальный сайт отзывы;41;76;MIXED/bukvarix_MIXED.csv;54602;NAVIGATIONAL+COMMERCIAL/reviews;uk
+MIXED;санаторий красная гвоздика тюмень официальный сайт отзывы;42;47;MIXED/bukvarix_MIXED.csv;61815;NAVIGATIONAL+COMMERCIAL/reviews;en
+MIXED;южный ветер авиакомпания официальный сайт отзывы;42;44;MIXED/bukvarix_MIXED.csv;29766;NAVIGATIONAL+COMMERCIAL/reviews;en
+MIXED;пансионат гренада лазаревское официальный сайт отзывы;41;51;MIXED/bukvarix_MIXED.csv;28737;NAVIGATIONAL+COMMERCIAL/reviews;uk
+MIXED;домтелеком елизаветинская официальный сайт отзывы;45;45;MIXED/bukvarix_MIXED.csv;12492;NAVIGATIONAL+COMMERCIAL/reviews;en
+MIXED;кантри резорт подмосковье официальный сайт отзывы;41;48;MIXED/bukvarix_MIXED.csv;28616;NAVIGATIONAL+COMMERCIAL/reviews;uk
+MIXED;усадьба сукко официальный сайт отзывы;44;51;MIXED/bukvarix_MIXED.csv;13869;NAVIGATIONAL+COMMERCIAL/reviews;en
+MIXED;клиника доктора шишонина в москве цены и отзывы адреса и телефоны;158;183;MIXED/bukvarix_MIXED.csv;118857;LOCAL+COMMERCIAL/choices;uk
+MIXED;самогонный аппарат купить в спб рейтинг лучших;100;119;MIXED/bukvarix_MIXED.csv;50353;LOCAL+COMMERCIAL/choices;en
+MIXED;блефаропластика в екатеринбурге клиники цены и отзывы;99;101;MIXED/bukvarix_MIXED.csv;50373;LOCAL+COMMERCIAL/choices;ru
+MIXED;блефаропластика в воронеже цены и отзывы;85;109;MIXED/bukvarix_MIXED.csv;27303;LOCAL+COMMERCIAL/choices;en
+MIXED;клиника доктора шишонина в москве цены и отзывы;69;270;MIXED/bukvarix_MIXED.csv;78091;LOCAL+COMMERCIAL/choices;ru
+MIXED;тадалафил купить в спб в аптеке цена применение и отзывы;64;75;MIXED/bukvarix_MIXED.csv;111448;LOCAL+COMMERCIAL/choices;uk
+MIXED;купить холодильник в москве двухкамерный ноу фрост рейтинг лучших;60;103;MIXED/bukvarix_MIXED.csv;100380;LOCAL+COMMERCIAL/choices;ru
+MIXED;стоматология в можайске адреса цены и отзывы;56;56;MIXED/bukvarix_MIXED.csv;51340;LOCAL+COMMERCIAL/choices;en
+MIXED;купить парик из натуральных волос в москве после химиотерапии отзывы покупателей;52;52;MIXED/bukvarix_MIXED.csv;119133;LOCAL+COMMERCIAL/choices;en
+MIXED;мясорубка электрическая купить в спб рейтинг лучших;49;53;MIXED/bukvarix_MIXED.csv;51635;LOCAL+COMMERCIAL/choices;uk
+MIXED;блефаропластика в казани цены и отзывы;47;89;MIXED/bukvarix_MIXED.csv;28311;LOCAL+COMMERCIAL/choices;uk
+MIXED;блефаропластика в перми отзывы и цены;47;66;MIXED/bukvarix_MIXED.csv;28400;LOCAL+COMMERCIAL/choices;en
+MIXED;блефаропластика в волгограде цены и отзывы;47;58;MIXED/bukvarix_MIXED.csv;28319;LOCAL+COMMERCIAL/choices;ru
+MIXED;блефаропластика в самаре цены и отзывы;44;72;MIXED/bukvarix_MIXED.csv;28441;LOCAL+COMMERCIAL/choices;uk
+MIXED;блефаропластика в туле цены и отзывы;42;100;MIXED/bukvarix_MIXED.csv;28554;LOCAL+COMMERCIAL/choices;ru
+MIXED;купить сибирский сильник для суставов в москве в аптеке цена отзывы;43;43;MIXED/bukvarix_MIXED.csv;120770;LOCAL+COMMERCIAL/choices;ru
+MIXED;клиника имбамед в спб цены и отзывы;39;39;MIXED/bukvarix_MIXED.csv;54638;LOCAL+COMMERCIAL/choices;en
+MIXED;блефаропластика в туле лучшие хирурги цены и отзывы;37;38;MIXED/bukvarix_MIXED.csv;86861;LOCAL+COMMERCIAL/choices;uk
+MIXED;веримед наркологическая клиника в москве отзывы и цены;37;37;MIXED/bukvarix_MIXED.csv;79378;LOCAL+COMMERCIAL/choices;uk
+MIXED;где купить сувениры в казани недорого отзывы;34;45;MIXED/bukvarix_MIXED.csv;52715;LOCAL+COMMERCIAL/choices;ru
+MIXED;мрт в ставрополе адреса клиник цены отзывы;33;33;MIXED/bukvarix_MIXED.csv;52857;LOCAL+COMMERCIAL/choices;ru
+MIXED;где в питере купить сувениры недорого отзывы;31;32;MIXED/bukvarix_MIXED.csv;53835;LOCAL+COMMERCIAL/choices;uk
+MIXED;клиника артролайн челябинск адрес и отзывы;31;31;MIXED/bukvarix_MIXED.csv;37252;LOCAL+COMMERCIAL/choices;uk
+MIXED;тату в самаре цена и отзывы;30;45;MIXED/bukvarix_MIXED.csv;29527;LOCAL+COMMERCIAL/choices;uk
+MIXED;тайский массаж в красноярске адреса цены и отзывы;29;30;MIXED/bukvarix_MIXED.csv;80105;LOCAL+COMMERCIAL/choices;ru
+MIXED;утюг купить в москве хороший с отпаривателем рейтинг лучших;27;31;MIXED/bukvarix_MIXED.csv;100251;LOCAL+COMMERCIAL/choices;en
+MIXED;где купить сувениры в санкт петербурге недорого отзывы;27;28;MIXED/bukvarix_MIXED.csv;80375;LOCAL+COMMERCIAL/choices;en
+MIXED;электрический чайник купить в москве рейтинг лучших;26;45;MIXED/bukvarix_MIXED.csv;62062;LOCAL+COMMERCIAL/choices;uk
+MIXED;где в москве купить кухню недорого и качественно отзывы покупателей;26;36;MIXED/bukvarix_MIXED.csv;116796;LOCAL+COMMERCIAL/choices;ru
+MIXED;где купить матрас в москве рейтинг лучших;26;31;MIXED/bukvarix_MIXED.csv;53843;LOCAL+COMMERCIAL/choices;en
+MIXED;аквапарк в иркутске фото и цены отзывы адреса;26;26;MIXED/bukvarix_MIXED.csv;93285;LOCAL+COMMERCIAL/choices;en
+MIXED;блендер для смузи и коктейлей со стаканом купить в москве рейтинг лучших;26;26;MIXED/bukvarix_MIXED.csv;123057;LOCAL+COMMERCIAL/choices;ru
+MIXED;дегидратор купить в москве рейтинг лучших;26;26;MIXED/bukvarix_MIXED.csv;30133;LOCAL+COMMERCIAL/choices;ru
+MIXED;стоматология в бронницах цены и отзывы контакты и адреса;25;27;MIXED/bukvarix_MIXED.csv;100445;LOCAL+COMMERCIAL/choices;en
+MIXED;купить квартиру в москве на торгах у города отзывы;25;25;MIXED/bukvarix_MIXED.csv;108537;LOCAL+COMMERCIAL/choices;ru
+MIXED;где купить ноутбук в москве рейтинг магазинов;24;24;MIXED/bukvarix_MIXED.csv;54249;LOCAL+COMMERCIAL/choices;en
+MIXED;сделать блефаропластику в москве цены и отзывы;23;25;MIXED/bukvarix_MIXED.csv;54465;LOCAL+COMMERCIAL/choices;en
+MIXED;стоматология в воронеже адреса цены и отзывы;23;25;MIXED/bukvarix_MIXED.csv;54460;LOCAL+COMMERCIAL/choices;ru
+MIXED;блефаропластика в самаре верхних век цены и отзывы;23;24;MIXED/bukvarix_MIXED.csv;93783;LOCAL+COMMERCIAL/choices;ru
+MIXED;видеорегистратор автомобильный купить в москве хороший и недорогой цена и отзывы;23;23;MIXED/bukvarix_MIXED.csv;119679;LOCAL+COMMERCIAL/choices;uk
+MIXED;клиники глазные в нижнем новгороде отзывы и цены;23;23;MIXED/bukvarix_MIXED.csv;93916;LOCAL+COMMERCIAL/choices;en
+MIXED;где лучше купить айфон в спб отзывы покупателей;22;24;MIXED/bukvarix_MIXED.csv;81155;LOCAL+COMMERCIAL/choices;ru
+MIXED;химчистка ковров в москве с вывозом недорого и качественно отзывы и цены;21;33;MIXED/bukvarix_MIXED.csv;123166;LOCAL+COMMERCIAL/choices;uk
+MIXED;доктор ост в новосибирске цены и отзывы клиника;21;31;MIXED/bukvarix_MIXED.csv;92767;LOCAL+COMMERCIAL/choices;en
+MIXED;химчистка салона автомобиля в красноярске цена и адреса отзывы;21;23;MIXED/bukvarix_MIXED.csv;100922;LOCAL+COMMERCIAL/choices;en
+MIXED;газонокосилки купить в москве рейтинг лучшие модели электрические;21;21;MIXED/bukvarix_MIXED.csv;94205;LOCAL+COMMERCIAL/choices;uk
+MIXED;автоэлектрик в белгороде адреса и телефоны отзывы и цены;20;22;MIXED/bukvarix_MIXED.csv;101082;LOCAL+COMMERCIAL/choices;en
+MIXED;купить робот пылесос в москве с влажной уборкой рейтинг лучших;20;20;MIXED/bukvarix_MIXED.csv;112856;LOCAL+COMMERCIAL/choices;uk
+MIXED;рестораны в чехове московской области адреса отзывы;20;20;MIXED/bukvarix_MIXED.csv;55298;LOCAL+COMMERCIAL/choices;uk
+MIXED;блефаропластика в белгороде отзывы и цены;19;34;MIXED/bukvarix_MIXED.csv;31574;LOCAL+COMMERCIAL/choices;ru
+MIXED;санаторий нехама в казани цены отзывы;19;29;MIXED/bukvarix_MIXED.csv;31590;LOCAL+COMMERCIAL/choices;en
+MIXED;электробритва для мужчин купить в москве рейтинг лучших;19;26;MIXED/bukvarix_MIXED.csv;81767;LOCAL+COMMERCIAL/choices;uk
+MIXED;гладильная доска рейтинг лучших купить в москве;18;48;MIXED/bukvarix_MIXED.csv;69847;LOCAL+COMMERCIAL/choices;en
+MIXED;где купить айфон в москве оригинал новый дешево отзывы;19;19;MIXED/bukvarix_MIXED.csv;101250;LOCAL+COMMERCIAL/choices;ru
+MIXED;стоматология в наро фоминске цены отзывы и адреса;19;19;MIXED/bukvarix_MIXED.csv;81896;LOCAL+COMMERCIAL/choices;ru
+MIXED;стоматология все свои в самаре отзывы и цены;19;19;MIXED/bukvarix_MIXED.csv;81870;LOCAL+COMMERCIAL/choices;uk
+MIXED;оверлок купить в москве рейтинг лучших для дома;18;18;MIXED/bukvarix_MIXED.csv;82097;LOCAL+COMMERCIAL/choices;ru
+MIXED;робот пылесос купить в спб рейтинг;18;18;MIXED/bukvarix_MIXED.csv;31982;LOCAL+COMMERCIAL/choices;uk
+MIXED;блефаропластика в самаре цены и отзывы круговая;17;25;MIXED/bukvarix_MIXED.csv;56590;LOCAL+COMMERCIAL/choices;en
+MIXED;тату в москве рейтинг и цены салоны;17;20;MIXED/bukvarix_MIXED.csv;73347;LOCAL+COMMERCIAL/choices;ru
+MIXED;базальная имплантация зубов в москве цены и отзывы лучшие клиники;17;19;MIXED/bukvarix_MIXED.csv;113125;LOCAL+COMMERCIAL/choices;ru
+MIXED;блефаропластика в санкт петербурге цены и отзывы клиника;17;19;MIXED/bukvarix_MIXED.csv;82336;LOCAL+COMMERCIAL/choices;uk
+MIXED;сколько стоит блефаропластика в москве круговая цены и отзывы;17;18;MIXED/bukvarix_MIXED.csv;109411;LOCAL+COMMERCIAL/choices;ru
+MIXED;алтайский мед с мумие купить в москве цена и отзывы;17;17;MIXED/bukvarix_MIXED.csv;114996;LOCAL+COMMERCIAL/choices;ru
+MIXED;блефаропластика в калуге цены и отзывы;16;25;MIXED/bukvarix_MIXED.csv;32571;LOCAL+COMMERCIAL/choices;uk
+MIXED;рейтинг оптик в москве по качеству и цене;16;19;MIXED/bukvarix_MIXED.csv;82646;LOCAL+COMMERCIAL/choices;uk
+MIXED;розетки купить в москве рейтинг лучших;16;19;MIXED/bukvarix_MIXED.csv;32614;LOCAL+COMMERCIAL/choices;ru
+MIXED;газонокосилки аккумуляторные купить в москве рейтинг лучшие модели;16;18;MIXED/bukvarix_MIXED.csv;94860;LOCAL+COMMERCIAL/choices;ru
+MIXED;стоматология в лисках адреса и телефоны цены отзывы;16;17;MIXED/bukvarix_MIXED.csv;82677;LOCAL+COMMERCIAL/choices;ru
+MIXED;где купить хорошие саженцы плодовых деревьев в москве рейтинг питомников;16;16;MIXED/bukvarix_MIXED.csv;113281;LOCAL+COMMERCIAL/choices;uk
+MIXED;мунджаро для похудения купить в москве цена отзывы;16;16;MIXED/bukvarix_MIXED.csv;82756;LOCAL+COMMERCIAL/choices;uk
+MIXED;мясорубка электрическая рейтинг лучших для дома недорого купить в москве;16;16;MIXED/bukvarix_MIXED.csv;117956;LOCAL+COMMERCIAL/choices;uk
+MIXED;стоматология самара недорого и качественно цены отзывы и адреса;16;16;MIXED/bukvarix_MIXED.csv;101891;LOCAL+COMMERCIAL/choices;uk
+MIXED;робот газонокосилка купить в москве рейтинг лучших для дачи;15;30;MIXED/bukvarix_MIXED.csv;102031;LOCAL+COMMERCIAL/choices;uk
+MIXED;мясорубка электрическая рейтинг лучших купить в москве;15;24;MIXED/bukvarix_MIXED.csv;72477;LOCAL+COMMERCIAL/choices;en
+MIXED;стиральная машина купить в москве рейтинг лучших для дома;15;23;MIXED/bukvarix_MIXED.csv;102048;LOCAL+COMMERCIAL/choices;en
+MIXED;клиника доктора нобеля в ростове на дону отзывы и цены;15;21;MIXED/bukvarix_MIXED.csv;113375;LOCAL+COMMERCIAL/choices;uk
+MIXED;рейтинг ресторанов в москве цена качество;15;20;MIXED/bukvarix_MIXED.csv;33002;LOCAL+COMMERCIAL/choices;ru
+MIXED;стоматология в белгороде цены протезирование зубов отзывы;15;19;MIXED/bukvarix_MIXED.csv;73622;LOCAL+COMMERCIAL/choices;ru
+MIXED;блефаропластика в екатеринбурге цены отзывы;14;156;MIXED/bukvarix_MIXED.csv;15613;LOCAL+COMMERCIAL/choices;en
+MIXED;глазные клиники в воронеже адреса и отзывы цены;15;16;MIXED/bukvarix_MIXED.csv;83041;LOCAL+COMMERCIAL/choices;ru
+MIXED;глазные клиники в уфе адреса и цены уфа отзывы;15;15;MIXED/bukvarix_MIXED.csv;102155;LOCAL+COMMERCIAL/choices;en
+MIXED;гостиницы для собак в москве цены и рейтинг;15;15;MIXED/bukvarix_MIXED.csv;83125;LOCAL+COMMERCIAL/choices;ru
+MIXED;купить ноутбук в спб новый хороший рейтинг лучших производителей;15;15;MIXED/bukvarix_MIXED.csv;102132;LOCAL+COMMERCIAL/choices;en
+MIXED;массаж лица в калуге цены и отзывы;15;15;MIXED/bukvarix_MIXED.csv;57261;LOCAL+COMMERCIAL/choices;ru
+MIXED;плита газовая с газовой духовкой купить в москве 50 см рейтинг лучших;15;15;MIXED/bukvarix_MIXED.csv;124448;LOCAL+COMMERCIAL/choices;en
+MIXED;стоматология в пензе цены и отзывы адреса;15;15;MIXED/bukvarix_MIXED.csv;74697;LOCAL+COMMERCIAL/choices;en
+MIXED;клиника доктор ост в нижнем новгороде отзывы и цены;14;30;MIXED/bukvarix_MIXED.csv;102269;LOCAL+COMMERCIAL/choices;uk
+MIXED;купить ноутбук в спб новый хороший рейтинг;14;29;MIXED/bukvarix_MIXED.csv;57505;LOCAL+COMMERCIAL/choices;uk
+MIXED;где в москве купить велосипед отзывы;14;24;MIXED/bukvarix_MIXED.csv;37265;LOCAL+COMMERCIAL/choices;uk
+MIXED;где недорого купить цветы в москве отзывы;14;22;MIXED/bukvarix_MIXED.csv;72860;LOCAL+COMMERCIAL/choices;uk
+MIXED;клиника доктора длина в москве цены и отзывы;14;21;MIXED/bukvarix_MIXED.csv;83348;LOCAL+COMMERCIAL/choices;ru
+MIXED;где купить хороший диван в новосибирске отзывы;14;14;MIXED/bukvarix_MIXED.csv;57721;LOCAL+COMMERCIAL/choices;en
+MIXED;клиника зубы за один день в ростове на дону отзывы и цены;14;14;MIXED/bukvarix_MIXED.csv;123453;LOCAL+COMMERCIAL/choices;en
+MIXED;ремонт телевизоров в кургане адреса и телефоны отзывы и цены;14;14;MIXED/bukvarix_MIXED.csv;113617;LOCAL+COMMERCIAL/choices;ru
+MIXED;автоэлектрик в колпино адреса отзывы;15;15;MIXED/bukvarix_MIXED.csv;15483;LOCAL+COMMERCIAL/choices;en
+MIXED;купить реноватор в спб отзывы;15;15;MIXED/bukvarix_MIXED.csv;25531;LOCAL+COMMERCIAL/choices;uk
+MIXED;утюг купить в спб рейтинг;15;15;MIXED/bukvarix_MIXED.csv;15487;LOCAL+COMMERCIAL/choices;en
+MIXED;кузовной ремонт в калининграде цены и адреса отзывы;13;25;MIXED/bukvarix_MIXED.csv;83751;LOCAL+COMMERCIAL/choices;uk
+MIXED;глазные клиники в новосибирске адреса и цены и отзывы;13;15;MIXED/bukvarix_MIXED.csv;102627;LOCAL+COMMERCIAL/choices;en
+MIXED;интимная пластика в москве лучшие клиники отзывы и цены;13;15;MIXED/bukvarix_MIXED.csv;102619;LOCAL+COMMERCIAL/choices;en
+MIXED;подолог в хабаровске клиники отзывы цены и адреса;13;15;MIXED/bukvarix_MIXED.csv;83849;LOCAL+COMMERCIAL/choices;en
+MIXED;клиника по пересадке волос в москве цена и отзывы;13;14;MIXED/bukvarix_MIXED.csv;102635;LOCAL+COMMERCIAL/choices;uk
+MIXED;глазные клиники в пензе адреса и телефоны и отзывы;13;13;MIXED/bukvarix_MIXED.csv;102755;LOCAL+COMMERCIAL/choices;en
+MIXED;клиника доктор ост в уфе адреса и цены отзывы;13;13;MIXED/bukvarix_MIXED.csv;102741;LOCAL+COMMERCIAL/choices;ru
+MIXED;ноутбук купить в москве хороший и недорогой;1001;1911;MIXED/bukvarix_MIXED.csv;48959;LOCAL+TRANSACTIONAL/shopping;en
+MIXED;купить планшет в москве недорого но хороший;412;579;MIXED/bukvarix_MIXED.csv;49116;LOCAL+TRANSACTIONAL/shopping;ru
+MIXED;купить смартфон в волгограде недорогой но хороший;175;223;MIXED/bukvarix_MIXED.csv;50142;LOCAL+TRANSACTIONAL/shopping;en
+MIXED;купить белорусские рубли в санкт петербурге лучший курс;168;230;MIXED/bukvarix_MIXED.csv;76954;LOCAL+TRANSACTIONAL/shopping;uk
+MIXED;купить ноутбук недорогой но хороший в спб;154;200;MIXED/bukvarix_MIXED.csv;49829;LOCAL+TRANSACTIONAL/shopping;en
+MIXED;ноутбук купить в москве хороший;126;2345;MIXED/bukvarix_MIXED.csv;11817;LOCAL+TRANSACTIONAL/shopping;uk
+MIXED;смартфон купить в москве недорого но хороший;116;490;MIXED/bukvarix_MIXED.csv;56829;LOCAL+TRANSACTIONAL/shopping;uk
+MIXED;купить диван в москве от производителя хорошего качества;99;333;MIXED/bukvarix_MIXED.csv;80142;LOCAL+TRANSACTIONAL/shopping;en
+MIXED;бинокль купить в москве хороший;103;234;MIXED/bukvarix_MIXED.csv;12121;LOCAL+TRANSACTIONAL/shopping;en
+MIXED;где в москве лучше купить квартиру;84;469;MIXED/bukvarix_MIXED.csv;31465;LOCAL+TRANSACTIONAL/shopping;ru
+MIXED;купить билет на поезд ржд на официальном сайте без комиссии в спб;92;115;MIXED/bukvarix_MIXED.csv;122732;LOCAL+TRANSACTIONAL/shopping;uk
+MIXED;где в москве лучше купить айфон;83;284;MIXED/bukvarix_MIXED.csv;37110;LOCAL+TRANSACTIONAL/shopping;ru
+MIXED;купить утюг недорогой и хороший в москве;84;154;MIXED/bukvarix_MIXED.csv;50597;LOCAL+TRANSACTIONAL/shopping;en
+MIXED;купить планшет недорогой но хороший в спб;82;134;MIXED/bukvarix_MIXED.csv;50636;LOCAL+TRANSACTIONAL/shopping;ru
+MIXED;смартфон купить в казани недорогой но хороший;81;100;MIXED/bukvarix_MIXED.csv;52792;LOCAL+TRANSACTIONAL/shopping;en
+MIXED;где лучше купить айфон в спб;76;195;MIXED/bukvarix_MIXED.csv;27442;LOCAL+TRANSACTIONAL/shopping;ru
+MIXED;купить планшет в москве хороший;69;1406;MIXED/bukvarix_MIXED.csv;17082;LOCAL+TRANSACTIONAL/shopping;ru
+MIXED;купить остенил плюс в москве лучшая цена;75;75;MIXED/bukvarix_MIXED.csv;50794;LOCAL+TRANSACTIONAL/shopping;ru
+MIXED;нетбук купить в москве хороший и недорогой;73;89;MIXED/bukvarix_MIXED.csv;50835;LOCAL+TRANSACTIONAL/shopping;en
+MIXED;купить билеты в большой театр в москве москвы на официальном сайте;66;295;MIXED/bukvarix_MIXED.csv;119054;LOCAL+TRANSACTIONAL/shopping;en
+MIXED;смартфон купить в москве недорого по акции хороший и недорогой;69;125;MIXED/bukvarix_MIXED.csv;111403;LOCAL+TRANSACTIONAL/shopping;ru
+MIXED;купить юани в екатеринбурге лучший курс;65;224;MIXED/bukvarix_MIXED.csv;27678;LOCAL+TRANSACTIONAL/shopping;en
+MIXED;купить смартфон в самаре недорого хороший;67;108;MIXED/bukvarix_MIXED.csv;30794;LOCAL+TRANSACTIONAL/shopping;uk
+MIXED;купить бензопилу в спб недорого хорошего качества в спб;67;95;MIXED/bukvarix_MIXED.csv;98682;LOCAL+TRANSACTIONAL/shopping;uk
+MIXED;купить планшет в казани недорогой но хороший;67;82;MIXED/bukvarix_MIXED.csv;52487;LOCAL+TRANSACTIONAL/shopping;uk
+MIXED;планшет купить в екатеринбурге недорого хороший;64;158;MIXED/bukvarix_MIXED.csv;31260;LOCAL+TRANSACTIONAL/shopping;en
+MIXED;купить доллар в екатеринбурге лучший курс;56;363;MIXED/bukvarix_MIXED.csv;28706;LOCAL+TRANSACTIONAL/shopping;ru
+MIXED;купить евро в екатеринбурге лучший курс;55;385;MIXED/bukvarix_MIXED.csv;28842;LOCAL+TRANSACTIONAL/shopping;uk
+MIXED;купить триммер бензиновый в нижнем новгороде хороший и недорогой;61;66;MIXED/bukvarix_MIXED.csv;99719;LOCAL+TRANSACTIONAL/shopping;uk
+MIXED;ноутбук купить в москве хороший и недорогой для учебы и работы;60;77;MIXED/bukvarix_MIXED.csv;121116;LOCAL+TRANSACTIONAL/shopping;en
+MIXED;компьютер купить в москве хороший и недорогой;58;120;MIXED/bukvarix_MIXED.csv;51267;LOCAL+TRANSACTIONAL/shopping;uk
+MIXED;планшет купить в волгограде недорогой но хороший;59;88;MIXED/bukvarix_MIXED.csv;52798;LOCAL+TRANSACTIONAL/shopping;uk
+MIXED;купить планшет в краснодаре недорогой но хороший;59;72;MIXED/bukvarix_MIXED.csv;54345;LOCAL+TRANSACTIONAL/shopping;en
+MIXED;коллаген купить в москве лучший;63;94;MIXED/bukvarix_MIXED.csv;12104;LOCAL+TRANSACTIONAL/shopping;ru
+MIXED;где в спб купить хорошее мясо;58;86;MIXED/bukvarix_MIXED.csv;37707;LOCAL+TRANSACTIONAL/shopping;ru
+MIXED;смартфон купить в перми недорогой но хороший;58;72;MIXED/bukvarix_MIXED.csv;51313;LOCAL+TRANSACTIONAL/shopping;uk
+MIXED;купить мобильный телефон недорогой но хороший в москве;55;69;MIXED/bukvarix_MIXED.csv;78484;LOCAL+TRANSACTIONAL/shopping;ru
+MIXED;пролиа купить в москве лучшая цена в аптеках москвы;55;62;MIXED/bukvarix_MIXED.csv;98920;LOCAL+TRANSACTIONAL/shopping;uk
+MIXED;телевизор 50 дюймов купить в москве недорого хорошего качества;54;75;MIXED/bukvarix_MIXED.csv;99393;LOCAL+TRANSACTIONAL/shopping;ru
+MIXED;глюкометр купить в москве какой лучше;54;54;MIXED/bukvarix_MIXED.csv;28045;LOCAL+TRANSACTIONAL/shopping;ru
+MIXED;где в туле лучше купить тульский пряник;52;87;MIXED/bukvarix_MIXED.csv;52378;LOCAL+TRANSACTIONAL/shopping;en
+MIXED;планшет купить в туле недорогой но хороший;53;64;MIXED/bukvarix_MIXED.csv;54843;LOCAL+TRANSACTIONAL/shopping;uk
+MIXED;юань купить в москве лучший курс;50;72;MIXED/bukvarix_MIXED.csv;28179;LOCAL+TRANSACTIONAL/shopping;uk
+MIXED;ноутбук купить в екатеринбурге новый хороший недорогой;50;56;MIXED/bukvarix_MIXED.csv;51591;LOCAL+TRANSACTIONAL/shopping;uk
+MIXED;ноутбук купить в москве хороший и недорогой для работы новый;47;129;MIXED/bukvarix_MIXED.csv;111651;LOCAL+TRANSACTIONAL/shopping;en
+MIXED;утюг купить в спб недорого хороший;47;56;MIXED/bukvarix_MIXED.csv;37457;LOCAL+TRANSACTIONAL/shopping;ru
+MIXED;электрочайник купить в москве недорого хорошего качества;44;106;MIXED/bukvarix_MIXED.csv;53322;LOCAL+TRANSACTIONAL/shopping;uk
+MIXED;где купить чачу в сочи хорошую;45;63;MIXED/bukvarix_MIXED.csv;28868;LOCAL+TRANSACTIONAL/shopping;uk
+MIXED;смартфон хороший купить в москве;41;836;MIXED/bukvarix_MIXED.csv;19262;LOCAL+TRANSACTIONAL/shopping;en
+MIXED;где купить карту тройка в москве и как пользоваться;44;54;MIXED/bukvarix_MIXED.csv;99269;LOCAL+TRANSACTIONAL/shopping;uk
+MIXED;сотовый телефон купить в москве недорого но хороший;43;70;MIXED/bukvarix_MIXED.csv;82530;LOCAL+TRANSACTIONAL/shopping;uk
+MIXED;где лучше в туле купить пряники;42;93;MIXED/bukvarix_MIXED.csv;38006;LOCAL+TRANSACTIONAL/shopping;ru
+MIXED;купить утюг в москве недорого и хороший;42;83;MIXED/bukvarix_MIXED.csv;52014;LOCAL+TRANSACTIONAL/shopping;ru
+MIXED;где купить рыбу в москве хорошую;41;111;MIXED/bukvarix_MIXED.csv;36617;LOCAL+TRANSACTIONAL/shopping;uk
+MIXED;купить ноутбук в москве хороший для работы;36;469;MIXED/bukvarix_MIXED.csv;56823;LOCAL+TRANSACTIONAL/shopping;uk
+MIXED;диван купить в москве недорого хорошего качества;39;120;MIXED/bukvarix_MIXED.csv;52222;LOCAL+TRANSACTIONAL/shopping;ru
+MIXED;смартфон с хорошей камерой купить в спб;39;66;MIXED/bukvarix_MIXED.csv;52390;LOCAL+TRANSACTIONAL/shopping;ru
+MIXED;цирк в калуге купить билеты расписание;40;43;MIXED/bukvarix_MIXED.csv;28685;LOCAL+TRANSACTIONAL/shopping;ru
+MIXED;купить кнопочный мобильный телефон в спб недорогой но хороший;40;40;MIXED/bukvarix_MIXED.csv;100880;LOCAL+TRANSACTIONAL/shopping;ru
+MIXED;купить доллары в москве лучший курс;35;284;MIXED/bukvarix_MIXED.csv;30551;LOCAL+TRANSACTIONAL/shopping;ru
+MIXED;в краснодаре где лучше купить квартиру;36;159;MIXED/bukvarix_MIXED.csv;37960;LOCAL+TRANSACTIONAL/shopping;en
+MIXED;купить прихожую в коридор в москве хорошего качества;39;41;MIXED/bukvarix_MIXED.csv;79236;LOCAL+TRANSACTIONAL/shopping;en
+MIXED;планшет купить в воронеже недорогой но хороший;39;41;MIXED/bukvarix_MIXED.csv;57465;LOCAL+TRANSACTIONAL/shopping;uk
+MIXED;где в москве купить хороший мед;38;59;MIXED/bukvarix_MIXED.csv;36940;LOCAL+TRANSACTIONAL/shopping;ru
+MIXED;ливиал купить в москве лучшая цена;38;38;MIXED/bukvarix_MIXED.csv;28811;LOCAL+TRANSACTIONAL/shopping;en
+MIXED;где в москве купить хорошую клубнику;35;116;MIXED/bukvarix_MIXED.csv;33782;LOCAL+TRANSACTIONAL/shopping;ru
+MIXED;ром купить в москве хороший;40;57;MIXED/bukvarix_MIXED.csv;13445;LOCAL+TRANSACTIONAL/shopping;en
+MIXED;купить телефон в воронеже недорого новый хороший;36;36;MIXED/bukvarix_MIXED.csv;52528;LOCAL+TRANSACTIONAL/shopping;en
+MIXED;купить бинокль в москве хороший недорогой;35;54;MIXED/bukvarix_MIXED.csv;29026;LOCAL+TRANSACTIONAL/shopping;ru
+MIXED;ноутбук купить в спб для работы и учебы хороший недорогой;35;50;MIXED/bukvarix_MIXED.csv;111935;LOCAL+TRANSACTIONAL/shopping;ru
+MIXED;слуховой аппарат купить в москве для стариков недорогой но хороший;34;61;MIXED/bukvarix_MIXED.csv;111973;LOCAL+TRANSACTIONAL/shopping;en
+MIXED;моноблок купить в москве хороший и недорогой;34;54;MIXED/bukvarix_MIXED.csv;52697;LOCAL+TRANSACTIONAL/shopping;en
+MIXED;диван еврокнижка купить в москве хорошего качества;33;78;MIXED/bukvarix_MIXED.csv;52790;LOCAL+TRANSACTIONAL/shopping;uk
+MIXED;дом в краснодаре где лучше купить;32;96;MIXED/bukvarix_MIXED.csv;38444;LOCAL+TRANSACTIONAL/shopping;uk
+MIXED;купить инвестиционные монеты в москве по лучшей цене;34;34;MIXED/bukvarix_MIXED.csv;79867;LOCAL+TRANSACTIONAL/shopping;ru
+MIXED;анжелик купить в москве по лучшей цене;33;34;MIXED/bukvarix_MIXED.csv;52831;LOCAL+TRANSACTIONAL/shopping;en
+MIXED;купить телефон в краснодаре недорого новый хороший;31;49;MIXED/bukvarix_MIXED.csv;53072;LOCAL+TRANSACTIONAL/shopping;uk
+MIXED;купить евро лучший курс в москве;28;194;MIXED/bukvarix_MIXED.csv;38339;LOCAL+TRANSACTIONAL/shopping;en
+MIXED;где лучше купить сувениры в санкт петербурге;31;40;MIXED/bukvarix_MIXED.csv;53504;LOCAL+TRANSACTIONAL/shopping;en
+MIXED;утюг с парогенератором купить в москве самый лучший;31;39;MIXED/bukvarix_MIXED.csv;79842;LOCAL+TRANSACTIONAL/shopping;en
+MIXED;купить смартфон в нижнем новгороде недорого до 10000 рублей с хорошими отзывами;31;31;MIXED/bukvarix_MIXED.csv;122986;LOCAL+TRANSACTIONAL/shopping;en
+MIXED;топ молочный коктейль купить в спб;30;39;MIXED/bukvarix_MIXED.csv;30841;LOCAL+TRANSACTIONAL/shopping;uk
+MIXED;где в москве купить хорошую обувь;28;101;MIXED/bukvarix_MIXED.csv;38991;LOCAL+TRANSACTIONAL/shopping;uk
+MIXED;утюг с отпаривателем купить в москве хороший;28;98;MIXED/bukvarix_MIXED.csv;62267;LOCAL+TRANSACTIONAL/shopping;ru
+MIXED;молочный коктейль топ купить в москве;29;56;MIXED/bukvarix_MIXED.csv;29620;LOCAL+TRANSACTIONAL/shopping;en
+MIXED;купить сахар в екатеринбурге дешево 50 кг лучшая цена;30;32;MIXED/bukvarix_MIXED.csv;99994;LOCAL+TRANSACTIONAL/shopping;en
+MIXED;билеты в цирк в новосибирске цена расписание купить;29;44;MIXED/bukvarix_MIXED.csv;80073;LOCAL+TRANSACTIONAL/shopping;uk
+MIXED;купить планшет в калуге недорогой но хороший;29;39;MIXED/bukvarix_MIXED.csv;55466;LOCAL+TRANSACTIONAL/shopping;uk
+MIXED;где в санкт петербурге лучше купить квартиру;27;102;MIXED/bukvarix_MIXED.csv;61103;LOCAL+TRANSACTIONAL/shopping;uk
+MIXED;купить пылесос недорогой но хороший и мощный в екатеринбурге;29;34;MIXED/bukvarix_MIXED.csv;100052;LOCAL+TRANSACTIONAL/shopping;en
+MIXED;купить мужскую футболку хорошего качества в москве;29;31;MIXED/bukvarix_MIXED.csv;53380;LOCAL+TRANSACTIONAL/shopping;ru
+MIXED;триммер бензиновый для травы купить в спб недорогой и хороший;29;31;MIXED/bukvarix_MIXED.csv;112166;LOCAL+TRANSACTIONAL/shopping;uk
+MIXED;где в питере купить квартиру лучше;27;88;MIXED/bukvarix_MIXED.csv;39020;LOCAL+TRANSACTIONAL/shopping;ru
+MIXED;скрытые двери межкомнатные купить в москве хорошие под покраску;29;30;MIXED/bukvarix_MIXED.csv;100073;LOCAL+TRANSACTIONAL/shopping;ru
+MIXED;яндекс расписание жд билеты купить онлайн;333;336;MIXED/bukvarix_MIXED.csv;26304;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;en
+MIXED;поезд москва симферополь расписание купить билет;125;345;MIXED/bukvarix_MIXED.csv;27789;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;uk
+MIXED;купить билет на поезд ульяновск москва цена и расписание;112;169;MIXED/bukvarix_MIXED.csv;98398;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;uk
+MIXED;туту расписание поездов купить билет;107;1003;MIXED/bukvarix_MIXED.csv;11731;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;ru
+MIXED;купить билет на поезд ряжск москва расписание поездов;98;99;MIXED/bukvarix_MIXED.csv;78125;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;ru
+MIXED;купить билет на автобус москва анапа цена и расписание;92;95;MIXED/bukvarix_MIXED.csv;98832;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;ru
+MIXED;купить билет москва пермь на поезд цена и расписание;87;114;MIXED/bukvarix_MIXED.csv;102486;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;ru
+MIXED;купить билет на автобус москва симферополь прямой рейс цена и расписание;77;77;MIXED/bukvarix_MIXED.csv;119230;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;en
+MIXED;экспресс рязань москва расписание купить билеты;73;136;MIXED/bukvarix_MIXED.csv;27505;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;en
+MIXED;купить билет на поезд брест москва цена и расписание;73;102;MIXED/bukvarix_MIXED.csv;99894;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;en
+MIXED;купить билет на поезд москва астрахань цена и расписание;73;94;MIXED/bukvarix_MIXED.csv;99116;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;uk
+MIXED;купить билет на поезд минск санкт петербург расписание и цена;70;101;MIXED/bukvarix_MIXED.csv;112150;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;ru
+MIXED;купить билет на автобус мелитополь москва расписание цены;71;72;MIXED/bukvarix_MIXED.csv;80165;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;en
+MIXED;купить билет на автобус москва ставрополь саларьево автовокзал расписание;71;71;MIXED/bukvarix_MIXED.csv;98624;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;ru
+MIXED;купить билет москва санкт петербург на поезд сапсан расписание и цена;68;119;MIXED/bukvarix_MIXED.csv;120917;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;en
+MIXED;купить билет на автобус белгород россошь с автовокзала расписание;70;72;MIXED/bukvarix_MIXED.csv;98824;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;en
+MIXED;купить билет на автобус пермь чайковский онлайн расписание;69;70;MIXED/bukvarix_MIXED.csv;78728;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;en
+MIXED;купить билет на поезд москва краснодар расписание цена;62;116;MIXED/bukvarix_MIXED.csv;78963;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;en
+MIXED;купить билет на самолет москва баку прямой рейс дешево цена и расписание;62;108;MIXED/bukvarix_MIXED.csv;122786;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;uk
+MIXED;причал воробьевы горы расписание теплоходов купить билеты;63;77;MIXED/bukvarix_MIXED.csv;51131;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;ru
+MIXED;москва шуя ласточка расписание купить билет;60;76;MIXED/bukvarix_MIXED.csv;32460;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;uk
+MIXED;купить билет москва пятигорск на поезд цена и расписание;59;60;MIXED/bukvarix_MIXED.csv;99423;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;en
+MIXED;яндекс расписание жд билеты купить;56;411;MIXED/bukvarix_MIXED.csv;12224;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;ru
+MIXED;дельфинарий минск купить билеты цены расписание;57;60;MIXED/bukvarix_MIXED.csv;27932;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;uk
+MIXED;билет на автобус москва краснодар цена и расписание купить;54;97;MIXED/bukvarix_MIXED.csv;104869;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;ru
+MIXED;купить билет на автобус кызыл красноярск онлайн расписание;56;56;MIXED/bukvarix_MIXED.csv;78465;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;en
+MIXED;купить билет на поезд расписание поездов;39;9832;MIXED/bukvarix_MIXED.csv;36773;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;ru
+MIXED;купить билет на поезд москва волгоград с павелецкого вокзала цена билета расписание ржд;55;55;MIXED/bukvarix_MIXED.csv;124671;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;uk
+MIXED;цирк нижний новгород купить билеты цена и расписание;53;85;MIXED/bukvarix_MIXED.csv;78546;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;uk
+MIXED;расписание и билеты цппк купить билет на электричку;54;55;MIXED/bukvarix_MIXED.csv;78515;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;en
+MIXED;зарядье полет над москвой купить билет цена и расписание;52;78;MIXED/bukvarix_MIXED.csv;98994;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;en
+MIXED;купить билет на автобус москва геленджик цена и расписание;53;53;MIXED/bukvarix_MIXED.csv;98956;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;uk
+MIXED;купить билет на поезд красноярск новосибирск расписание цена;52;57;MIXED/bukvarix_MIXED.csv;80896;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;ru
+MIXED;цирк нижний тагил купить билеты цены расписание;50;85;MIXED/bukvarix_MIXED.csv;53646;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;en
+MIXED;купить билет на поезд москва ярославль расписание и цены;50;79;MIXED/bukvarix_MIXED.csv;100729;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;uk
+MIXED;купить билет на поезд гомель москва цена и расписание;51;58;MIXED/bukvarix_MIXED.csv;100869;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;ru
+MIXED;купить билет на автобус белгород курск автовокзал расписание;49;49;MIXED/bukvarix_MIXED.csv;86032;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;uk
+MIXED;купить билет на поезд орел москва цена и расписание;48;49;MIXED/bukvarix_MIXED.csv;99962;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;ru
+MIXED;купить билет на автобус санкт петербург минск расписание и цена;44;67;MIXED/bukvarix_MIXED.csv;114367;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;uk
+MIXED;жд билеты купить самара ташкент расписание цена;45;46;MIXED/bukvarix_MIXED.csv;51856;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;uk
+MIXED;купить билет на автобус москва сочи цена и расписание;44;44;MIXED/bukvarix_MIXED.csv;99282;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;ru
+MIXED;петрозаводск кижи метеор купить билет цена и расписание;42;42;MIXED/bukvarix_MIXED.csv;79047;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;ru
+MIXED;цирк в оренбурге купить билеты расписание сеансов;41;47;MIXED/bukvarix_MIXED.csv;52110;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;en
+MIXED;купить билет на автобус белокуриха барнаул онлайн расписание;41;41;MIXED/bukvarix_MIXED.csv;81993;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;uk
+MIXED;яндекс расписание электричек купить билет;41;111;MIXED/bukvarix_MIXED.csv;12603;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;en
+MIXED;купить билет на автобус россошь белгород с жд вокзала расписание;39;39;MIXED/bukvarix_MIXED.csv;111911;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;ru
+MIXED;поезд 123 новосибирск белгород расписание купить билет;38;40;MIXED/bukvarix_MIXED.csv;52423;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;ru
+MIXED;купить билет на поезд калуга санкт петербург расписание и цена;37;44;MIXED/bukvarix_MIXED.csv;111874;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;ru
+MIXED;купить билет на поезд санкт петербург тверь расписание и цена;37;40;MIXED/bukvarix_MIXED.csv;113720;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;en
+MIXED;жд билеты купить москва казань на поезд цена и расписание;36;58;MIXED/bukvarix_MIXED.csv;112990;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;uk
+MIXED;купить билет на самолет минск москва цена и расписание;37;37;MIXED/bukvarix_MIXED.csv;104247;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;en
+MIXED;планетарий москва купить билет расписание;37;129;MIXED/bukvarix_MIXED.csv;12767;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;uk
+MIXED;купить билет на автобус яндекс расписание;35;80;MIXED/bukvarix_MIXED.csv;39035;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;uk
+MIXED;тула москва электричка расписание купить билет;34;91;MIXED/bukvarix_MIXED.csv;32823;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;uk
+MIXED;купить билет на автобус луганск ростов на дону расписание автобусов;35;57;MIXED/bukvarix_MIXED.csv;113904;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;ru
+MIXED;купить билет владимир санкт петербург на поезд цена и расписание;34;38;MIXED/bukvarix_MIXED.csv;113917;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;uk
+MIXED;купить билет на поезд брянск санкт петербург расписание цена;34;35;MIXED/bukvarix_MIXED.csv;99754;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;en
+MIXED;жд билеты купить самара москва цена и расписание;32;56;MIXED/bukvarix_MIXED.csv;81716;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;en
+MIXED;электричка москва калуга 1 расписание экспресс купить билет;32;38;MIXED/bukvarix_MIXED.csv;79752;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;uk
+MIXED;купить билет на поезд москва душанбе цена и расписание;32;34;MIXED/bukvarix_MIXED.csv;99850;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;en
+MIXED;купить билет на поезд минск гродно цена и расписание;31;32;MIXED/bukvarix_MIXED.csv;101031;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;en
+MIXED;купить билет на автобус геленджик краснодар цена и расписание с автовокзала;30;52;MIXED/bukvarix_MIXED.csv;119512;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;en
+MIXED;полет над россией зарядье купить билет онлайн расписание;28;74;MIXED/bukvarix_MIXED.csv;80166;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;ru
+MIXED;купить билет на автобус михайловка волгоград автовокзал расписание;29;30;MIXED/bukvarix_MIXED.csv;81520;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;en
+MIXED;купить билет на поезд москва казань с казанского вокзала цена и расписание;29;30;MIXED/bukvarix_MIXED.csv;123014;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;en
+MIXED;купить билет до смоленска на поезд ласточка из москвы цена и расписание;29;29;MIXED/bukvarix_MIXED.csv;123072;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;uk
+MIXED;купить билет на автобус ярославль москва с автовокзала расписание;29;29;MIXED/bukvarix_MIXED.csv;100161;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;ru
+MIXED;купить билет на самолет калуга санкт петербург расписание;28;40;MIXED/bukvarix_MIXED.csv;80184;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;en
+MIXED;оао ржд купить билеты на поезд расписание наличие;28;36;MIXED/bukvarix_MIXED.csv;80197;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;uk
+MIXED;купить билет на автобус бердянск москва цена и расписание;28;29;MIXED/bukvarix_MIXED.csv;100902;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;en
+MIXED;ржд расписание купить билет ржд;21;6279;MIXED/bukvarix_MIXED.csv;20247;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;ru
+MIXED;туту расписание электричек купить билет;27;121;MIXED/bukvarix_MIXED.csv;13633;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;uk
+MIXED;купить билет на автобус мариуполь ростов на дону расписание и цена;27;27;MIXED/bukvarix_MIXED.csv;119662;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;ru
+MIXED;купить билет на поезд москва уфа расписание и цены;26;47;MIXED/bukvarix_MIXED.csv;100304;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;en
+MIXED;купить билет на автобус краснодар луганск расписание цена;26;38;MIXED/bukvarix_MIXED.csv;85295;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;en
+MIXED;билеты на поезд москва новороссийск цена и расписание жд купить;26;34;MIXED/bukvarix_MIXED.csv;112697;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;uk
+MIXED;купить билет на автобус гомель москва цена и расписание;26;28;MIXED/bukvarix_MIXED.csv;101374;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;uk
+MIXED;купить билет на автобус москва новороссийск цена и расписание;26;26;MIXED/bukvarix_MIXED.csv;100916;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;ru
+MIXED;речной трамвай москва купить билеты расписание;25;39;MIXED/bukvarix_MIXED.csv;30238;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;ru
+MIXED;купить билет курск москва на поезд ласточка расписание;24;60;MIXED/bukvarix_MIXED.csv;91492;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;ru
+MIXED;купить билет на автобус ярославль иваново автовокзал расписание;25;25;MIXED/bukvarix_MIXED.csv;80663;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;uk
+MIXED;купить билет на самолет санкт петербург калининград прямой рейс цена и расписание;25;25;MIXED/bukvarix_MIXED.csv;123083;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;ru
+MIXED;купить билет на автобус ставрополь ростов на дону автовокзал расписание;24;45;MIXED/bukvarix_MIXED.csv;113344;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;en
+MIXED;расписание автобусов онлайн купить билет;21;1023;MIXED/bukvarix_MIXED.csv;20575;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;ru
+MIXED;купить билет электричка нижний новгород казань расписание;24;42;MIXED/bukvarix_MIXED.csv;70288;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;uk
+MIXED;купить билет на поезд ржд москва анапа цена и расписание;24;30;MIXED/bukvarix_MIXED.csv;112451;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;uk
+MIXED;властелин балашов купить билет на автобус саратов расписание;24;29;MIXED/bukvarix_MIXED.csv;80785;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;ru
+MIXED;купить билет на поезд саратов махачкала расписание цена;24;26;MIXED/bukvarix_MIXED.csv;80788;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;en
+MIXED;купить билет на электричку ярославль москва расписание и цены;24;26;MIXED/bukvarix_MIXED.csv;100557;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;uk
+MIXED;псков спб ласточка купить билеты расписание;22;68;MIXED/bukvarix_MIXED.csv;38038;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;en
+MIXED;расписание электричек купить билет на электричку онлайн;22;51;MIXED/bukvarix_MIXED.csv;69681;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;ru
+MIXED;купить билет на поезд москва сызрань расписание цена;23;24;MIXED/bukvarix_MIXED.csv;83760;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;uk
+MIXED;туту жд билеты купить на поезд дальнего следования расписание и стоимость;21;91;MIXED/bukvarix_MIXED.csv;119733;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;uk
+MIXED;купить билет на поезд из ростова на дону в симферополь цена и расписание;23;23;MIXED/bukvarix_MIXED.csv;124816;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;ru
+MIXED;купить билет на поезд минск брест расписание поездов;23;23;MIXED/bukvarix_MIXED.csv;93911;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;uk
+MIXED;купить билет на поезд нижний москва нижний новгород расписание;20;161;MIXED/bukvarix_MIXED.csv;106100;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;uk
+MIXED;купить билет на поезд москва екатеринбург цена и расписание;22;35;MIXED/bukvarix_MIXED.csv;100748;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;ru
+MIXED;купить билет на поезд москва ставрополь расписание цена;21;60;MIXED/bukvarix_MIXED.csv;86838;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;en
+MIXED;жд билеты купить на поезд дешево плацкарт цена и расписание;22;26;MIXED/bukvarix_MIXED.csv;112619;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;uk
+MIXED;купить билет на поезд ласточка пермь екатеринбург расписание;21;47;MIXED/bukvarix_MIXED.csv;91910;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;ru
+MIXED;билет новосибирск новокузнецк купить на поезд расписание цена;22;23;MIXED/bukvarix_MIXED.csv;93973;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;ru
+MIXED;купить билет на автобус симферополь ялта с жд вокзала расписание;22;23;MIXED/bukvarix_MIXED.csv;112622;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;uk
+MIXED;анапа пенза поезд расписание купить билеты;22;22;MIXED/bukvarix_MIXED.csv;30898;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;en
+MIXED;сочи краснодар ласточка купить билет расписание;21;41;MIXED/bukvarix_MIXED.csv;44479;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;uk
+MIXED;ласточка тольятти самара купить билет расписание;21;31;MIXED/bukvarix_MIXED.csv;45266;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;en
+MIXED;купить билет на автобус ижевск чайковский автовокзал расписание;21;25;MIXED/bukvarix_MIXED.csv;84196;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;uk
+MIXED;купить билет на автобус пенза никольск автовокзал расписание;21;21;MIXED/bukvarix_MIXED.csv;82307;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;uk
+MIXED;оружейная палата купить московского кремля билеты стоимость расписание;21;21;MIXED/bukvarix_MIXED.csv;94290;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;en
+MIXED;стармакс кинотеатр красноярск на свободном купить билеты расписание;21;21;MIXED/bukvarix_MIXED.csv;81376;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;ru
+MIXED;купить билет москва дубна автобус расписание;20;33;MIXED/bukvarix_MIXED.csv;45023;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;uk
+MIXED;билет на поезд москва минск купить цена и расписание;20;32;MIXED/bukvarix_MIXED.csv;107978;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;en
+MIXED;туту ру жд билеты купить электричка расписание;20;32;MIXED/bukvarix_MIXED.csv;55199;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;uk
+MIXED;самолет иркутск усть илимск расписание купить билет;20;21;MIXED/bukvarix_MIXED.csv;55256;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;ru
+MIXED;билеты в цирк владивосток купить стоимость и расписание;20;20;MIXED/bukvarix_MIXED.csv;81597;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;ru
+MIXED;галактика кинотеатр уральск расписание купить билет;20;20;MIXED/bukvarix_MIXED.csv;31428;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;en
+MIXED;купить билет на поезд ржд брянск москва сидячий скорый цена расписание;20;20;MIXED/bukvarix_MIXED.csv;121139;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;en
+MIXED;цирк на цветном бульваре купить билеты цена и расписание москва;18;88;MIXED/bukvarix_MIXED.csv;116204;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;ru
+MIXED;купить билет на автобус вологда санкт петербург автовокзал расписание;19;22;MIXED/bukvarix_MIXED.csv;101221;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;ru
+MIXED;жд билеты купить пенза москва цена и расписание на поезд;19;21;MIXED/bukvarix_MIXED.csv;114922;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;ru
+MIXED;купить билет на поезд смоленск санкт петербург цена и расписание;19;21;MIXED/bukvarix_MIXED.csv;112923;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;uk
+MIXED;купить билет на поезд махачкала ростов на дону расписание и цена;19;19;MIXED/bukvarix_MIXED.csv;119884;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;en
+MIXED;москвариум на вднх купить билеты цена и расписание;18;38;MIXED/bukvarix_MIXED.csv;81996;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;ru
+MIXED;расписание ласточка екатеринбург нижний тагил купить билет;18;32;MIXED/bukvarix_MIXED.csv;63101;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;en
+MIXED;электричка москва рязань расписание купить билет;17;73;MIXED/bukvarix_MIXED.csv;38495;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;uk
+MIXED;тюмень тобольск электричка расписание купить билет;18;25;MIXED/bukvarix_MIXED.csv;45957;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;en
+MIXED;билет москва вязьма ласточка купить на поезд расписание;18;21;MIXED/bukvarix_MIXED.csv;94318;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;en
+MIXED;туту ру жд билеты расписание купить билеты;16;106;MIXED/bukvarix_MIXED.csv;68259;INFORMATIONAL+TRANSACTIONAL/schedule_ticket;ru
+MIXED;лада азимут фото и цены технические характеристики;3813;4086;MIXED/bukvarix_MIXED.csv;48917;INFORMATIONAL+COMMERCIAL/specs_price;ru
+MIXED;самсунг а 57 характеристики и цена;1784;1987;MIXED/bukvarix_MIXED.csv;26359;INFORMATIONAL+COMMERCIAL/specs_price;uk
+MIXED;хонор 600 про характеристики цена;1355;2090;MIXED/bukvarix_MIXED.csv;11385;INFORMATIONAL+COMMERCIAL/specs_price;ru
+MIXED;электромобиль атом цена и характеристики;1279;1384;MIXED/bukvarix_MIXED.csv;11213;INFORMATIONAL+COMMERCIAL/specs_price;uk
+MIXED;новая волга фото и цена характеристика;1085;1157;MIXED/bukvarix_MIXED.csv;26113;INFORMATIONAL+COMMERCIAL/specs_price;uk
+MIXED;хонор 600 лайт цена характеристики;792;1285;MIXED/bukvarix_MIXED.csv;11240;INFORMATIONAL+COMMERCIAL/specs_price;ru
+MIXED;хонор 600 характеристики цена;775;4862;MIXED/bukvarix_MIXED.csv;2564;INFORMATIONAL+COMMERCIAL/specs_price;uk
+MIXED;самсунг галакси с 26 ультра цена и характеристики;647;691;MIXED/bukvarix_MIXED.csv;76239;INFORMATIONAL+COMMERCIAL/specs_price;ru
+MIXED;волга к50 фото цена характеристики;695;753;MIXED/bukvarix_MIXED.csv;11375;INFORMATIONAL+COMMERCIAL/specs_price;uk
+MIXED;галакси а57 самсунг цена и характеристики;574;934;MIXED/bukvarix_MIXED.csv;26698;INFORMATIONAL+COMMERCIAL/specs_price;uk
+MIXED;лада искра характеристики технические фото и цены;532;718;MIXED/bukvarix_MIXED.csv;56817;INFORMATIONAL+COMMERCIAL/specs_price;ru
+MIXED;самсунг s26 цена и характеристики;491;1424;MIXED/bukvarix_MIXED.csv;11452;INFORMATIONAL+COMMERCIAL/specs_price;ru
+MIXED;хонор х9д 12 256 характеристики цена;466;527;MIXED/bukvarix_MIXED.csv;26210;INFORMATIONAL+COMMERCIAL/specs_price;uk
+MIXED;самсунг а37 характеристики и цена;487;609;MIXED/bukvarix_MIXED.csv;11276;INFORMATIONAL+COMMERCIAL/specs_price;en
+MIXED;москвич м90 цена характеристики;509;997;MIXED/bukvarix_MIXED.csv;2534;INFORMATIONAL+COMMERCIAL/specs_price;en
+MIXED;смартфоны самсунг все модели и цены и характеристики;426;515;MIXED/bukvarix_MIXED.csv;76292;INFORMATIONAL+COMMERCIAL/specs_price;ru
+MIXED;поко х8 про макс характеристики и цена;398;466;MIXED/bukvarix_MIXED.csv;49819;INFORMATIONAL+COMMERCIAL/specs_price;en
+MIXED;редми 15 характеристики и цена;367;3326;MIXED/bukvarix_MIXED.csv;11397;INFORMATIONAL+COMMERCIAL/specs_price;uk
+MIXED;реалми 16 про плюс цена и характеристики;357;410;MIXED/bukvarix_MIXED.csv;49582;INFORMATIONAL+COMMERCIAL/specs_price;en
+MIXED;волга к 40 характеристики цена;375;427;MIXED/bukvarix_MIXED.csv;11317;INFORMATIONAL+COMMERCIAL/specs_price;en
+MIXED;poco x8 pro характеристики и цена;302;731;MIXED/bukvarix_MIXED.csv;26407;INFORMATIONAL+COMMERCIAL/specs_price;en
+MIXED;самсунг а56 характеристики и цена;314;927;MIXED/bukvarix_MIXED.csv;11665;INFORMATIONAL+COMMERCIAL/specs_price;ru
+MIXED;азимут лада характеристики цена;301;5546;MIXED/bukvarix_MIXED.csv;2995;INFORMATIONAL+COMMERCIAL/specs_price;ru
+MIXED;а26 самсунг цена и характеристики;322;574;MIXED/bukvarix_MIXED.csv;15896;INFORMATIONAL+COMMERCIAL/specs_price;ru
+MIXED;москвич м70 характеристики цена;344;670;MIXED/bukvarix_MIXED.csv;2563;INFORMATIONAL+COMMERCIAL/specs_price;en
+MIXED;лада аура фото автомобиля цена и характеристики;279;319;MIXED/bukvarix_MIXED.csv;49328;INFORMATIONAL+COMMERCIAL/specs_price;en
+MIXED;самсунг s25 характеристики и цена;261;1471;MIXED/bukvarix_MIXED.csv;11516;INFORMATIONAL+COMMERCIAL/specs_price;uk
+MIXED;хатсан 125 характеристики мощность дальность цена;256;293;MIXED/bukvarix_MIXED.csv;26442;INFORMATIONAL+COMMERCIAL/specs_price;ru
+MIXED;honor robot phone цена и характеристики;251;289;MIXED/bukvarix_MIXED.csv;26450;INFORMATIONAL+COMMERCIAL/specs_price;en
+MIXED;миниэлектростанция yamaha ef5500efw цена и характеристики отзывы;244;289;MIXED/bukvarix_MIXED.csv;49429;INFORMATIONAL+COMMERCIAL/specs_price;en
+MIXED;хонор вин цена и характеристики;265;289;MIXED/bukvarix_MIXED.csv;11382;INFORMATIONAL+COMMERCIAL/specs_price;en
+MIXED;купить ноутбук в днс цены и характеристики;237;269;MIXED/bukvarix_MIXED.csv;49725;INFORMATIONAL+COMMERCIAL/specs_price;en
+MIXED;хуавей нова 15 про характеристики цена;211;463;MIXED/bukvarix_MIXED.csv;26904;INFORMATIONAL+COMMERCIAL/specs_price;ru
+MIXED;поко ф8 ультра характеристики и цена;216;243;MIXED/bukvarix_MIXED.csv;26816;INFORMATIONAL+COMMERCIAL/specs_price;uk
+MIXED;самсунг а32 характеристики цена;237;387;MIXED/bukvarix_MIXED.csv;2562;INFORMATIONAL+COMMERCIAL/specs_price;en
+MIXED;oneplus 15 характеристики цена;217;499;MIXED/bukvarix_MIXED.csv;2578;INFORMATIONAL+COMMERCIAL/specs_price;ru
+MIXED;honor x9d цена характеристики;218;348;MIXED/bukvarix_MIXED.csv;3240;INFORMATIONAL+COMMERCIAL/specs_price;en
+MIXED;смартфоны хонор все модели и цены и характеристики отзывы;189;220;MIXED/bukvarix_MIXED.csv;97677;INFORMATIONAL+COMMERCIAL/specs_price;uk
+MIXED;redmi 15c характеристики и цена;204;217;MIXED/bukvarix_MIXED.csv;13528;INFORMATIONAL+COMMERCIAL/specs_price;ru
+MIXED;ван плюс 15 характеристики и цена;186;244;MIXED/bukvarix_MIXED.csv;27457;INFORMATIONAL+COMMERCIAL/specs_price;en
+MIXED;хонор х8b цена и характеристики;200;211;MIXED/bukvarix_MIXED.csv;11451;INFORMATIONAL+COMMERCIAL/specs_price;ru
+MIXED;honor 600 pro характеристики и цена;183;211;MIXED/bukvarix_MIXED.csv;26619;INFORMATIONAL+COMMERCIAL/specs_price;en
+MIXED;х70 белджи комплектации и цены характеристики;172;281;MIXED/bukvarix_MIXED.csv;37114;INFORMATIONAL+COMMERCIAL/specs_price;uk
+MIXED;редми 15 про характеристики и цена и отзывы;171;299;MIXED/bukvarix_MIXED.csv;77660;INFORMATIONAL+COMMERCIAL/specs_price;uk
+MIXED;самсунг а17 цена и характеристики;184;267;MIXED/bukvarix_MIXED.csv;11533;INFORMATIONAL+COMMERCIAL/specs_price;uk
+MIXED;тенет т7 характеристики цена;190;567;MIXED/bukvarix_MIXED.csv;2602;INFORMATIONAL+COMMERCIAL/specs_price;uk
+MIXED;солярис нс кроссовер цена технические характеристики;168;179;MIXED/bukvarix_MIXED.csv;26667;INFORMATIONAL+COMMERCIAL/specs_price;uk
+MIXED;виво х300 ультра цена характеристики;173;215;MIXED/bukvarix_MIXED.csv;11893;INFORMATIONAL+COMMERCIAL/specs_price;ru
+MIXED;лодка пвх гладиатор 380 с нднд цена и характеристики;156;168;MIXED/bukvarix_MIXED.csv;97845;INFORMATIONAL+COMMERCIAL/specs_price;uk
+MIXED;инфиникс нот 60 про цена характеристики;141;533;MIXED/bukvarix_MIXED.csv;26849;INFORMATIONAL+COMMERCIAL/specs_price;uk
+MIXED;хонор x7d цена и характеристики;162;226;MIXED/bukvarix_MIXED.csv;11526;INFORMATIONAL+COMMERCIAL/specs_price;uk
+MIXED;лада искра фото автомобиля цена и характеристики;149;158;MIXED/bukvarix_MIXED.csv;49923;INFORMATIONAL+COMMERCIAL/specs_price;uk
+MIXED;реалми с 85 характеристики цена;149;410;MIXED/bukvarix_MIXED.csv;11757;INFORMATIONAL+COMMERCIAL/specs_price;uk
+MIXED;киа кх1 характеристики и цена;155;223;MIXED/bukvarix_MIXED.csv;11542;INFORMATIONAL+COMMERCIAL/specs_price;en
+MIXED;электроавтомобиль атом россия цена и характеристики;143;143;MIXED/bukvarix_MIXED.csv;26780;INFORMATIONAL+COMMERCIAL/specs_price;en
+MIXED;honor x7c характеристики и цена;153;167;MIXED/bukvarix_MIXED.csv;11558;INFORMATIONAL+COMMERCIAL/specs_price;uk
+MIXED;редми 13с характеристики и цена и отзывы;140;157;MIXED/bukvarix_MIXED.csv;49939;INFORMATIONAL+COMMERCIAL/specs_price;en
+MIXED;редми 15с характеристики и цена;148;240;MIXED/bukvarix_MIXED.csv;11820;INFORMATIONAL+COMMERCIAL/specs_price;en
+MIXED;хонор х8с характеристики и цена;148;217;MIXED/bukvarix_MIXED.csv;13621;INFORMATIONAL+COMMERCIAL/specs_price;ru
+MIXED;редми нот 15 цена и характеристики;120;1085;MIXED/bukvarix_MIXED.csv;28234;INFORMATIONAL+COMMERCIAL/specs_price;uk
+MIXED;самсунг а16 характеристики отзывы цена;143;260;MIXED/bukvarix_MIXED.csv;16288;INFORMATIONAL+COMMERCIAL/specs_price;ru
+MIXED;калоприемники виды цена и характеристики;142;152;MIXED/bukvarix_MIXED.csv;11590;INFORMATIONAL+COMMERCIAL/specs_price;uk
+MIXED;телефон самсунг а 56 характеристики цена и отзывы;131;138;MIXED/bukvarix_MIXED.csv;77252;INFORMATIONAL+COMMERCIAL/specs_price;ru
+MIXED;сяоми 15 цена и характеристики;131;444;MIXED/bukvarix_MIXED.csv;12715;INFORMATIONAL+COMMERCIAL/specs_price;ru
+MIXED;трехколесный электровелосипед для пожилых людей цена фото и характеристики;130;132;MIXED/bukvarix_MIXED.csv;98632;INFORMATIONAL+COMMERCIAL/specs_price;en
+MIXED;телефон редми 15 характеристики цена и отзывы;124;211;MIXED/bukvarix_MIXED.csv;53937;INFORMATIONAL+COMMERCIAL/specs_price;ru
+MIXED;солнечные панели для дома 220 вольт цена и характеристики;122;197;MIXED/bukvarix_MIXED.csv;98075;INFORMATIONAL+COMMERCIAL/specs_price;uk
+MIXED;хонор х7с характеристики цена и отзывы;122;145;MIXED/bukvarix_MIXED.csv;26907;INFORMATIONAL+COMMERCIAL/specs_price;ru
+MIXED;хуавей пура 80 ультра цена характеристики;117;197;MIXED/bukvarix_MIXED.csv;27173;INFORMATIONAL+COMMERCIAL/specs_price;uk
+MIXED;телефон редми ноут 15 про цена и характеристики;117;175;MIXED/bukvarix_MIXED.csv;77382;INFORMATIONAL+COMMERCIAL/specs_price;ru
+MIXED;реалми с85 цена характеристики;137;162;MIXED/bukvarix_MIXED.csv;2700;INFORMATIONAL+COMMERCIAL/specs_price;ru
+MIXED;а55 самсунг цена и характеристики;117;425;MIXED/bukvarix_MIXED.csv;18503;INFORMATIONAL+COMMERCIAL/specs_price;en
+MIXED;realme note 50 характеристики цена;125;148;MIXED/bukvarix_MIXED.csv;11653;INFORMATIONAL+COMMERCIAL/specs_price;en
+MIXED;poco f8 ultra цена характеристики;118;283;MIXED/bukvarix_MIXED.csv;16283;INFORMATIONAL+COMMERCIAL/specs_price;en
+MIXED;томат большая мамочка отзывы фото урожайность характеристика и отзывы цена;115;115;MIXED/bukvarix_MIXED.csv;111153;INFORMATIONAL+COMMERCIAL/specs_price;en
+MIXED;honor 600 lite характеристики цена;117;204;MIXED/bukvarix_MIXED.csv;12043;INFORMATIONAL+COMMERCIAL/specs_price;ru
+MIXED;редми 15 с 256гб цена и характеристики;107;161;MIXED/bukvarix_MIXED.csv;50257;INFORMATIONAL+COMMERCIAL/specs_price;en
+MIXED;собака самоед фото цена характеристики;114;159;MIXED/bukvarix_MIXED.csv;11689;INFORMATIONAL+COMMERCIAL/specs_price;uk
+MIXED;автомобиль белджи х50 характеристики и цены;105;125;MIXED/bukvarix_MIXED.csv;27044;INFORMATIONAL+COMMERCIAL/specs_price;uk
+MIXED;фольксваген лавида фото цена характеристики;114;115;MIXED/bukvarix_MIXED.csv;11700;INFORMATIONAL+COMMERCIAL/specs_price;ru
+MIXED;белджи х50 характеристики комплектации и цены;102;151;MIXED/bukvarix_MIXED.csv;27072;INFORMATIONAL+COMMERCIAL/specs_price;ru
+MIXED;хонор x9d цена характеристики;118;198;MIXED/bukvarix_MIXED.csv;2771;INFORMATIONAL+COMMERCIAL/specs_price;en
+MIXED;смартфоны хуавей все модели и цены и характеристики отзывы;104;105;MIXED/bukvarix_MIXED.csv;98217;INFORMATIONAL+COMMERCIAL/specs_price;ru
+MIXED;куго ф3 про макс характеристики цена;100;136;MIXED/bukvarix_MIXED.csv;27097;INFORMATIONAL+COMMERCIAL/specs_price;en
+MIXED;хонда везель технические характеристики цены;108;117;MIXED/bukvarix_MIXED.csv;11725;INFORMATIONAL+COMMERCIAL/specs_price;ru
+MIXED;тойота королла кросс характеристики технические комплектации и цены;100;101;MIXED/bukvarix_MIXED.csv;81954;INFORMATIONAL+COMMERCIAL/specs_price;en
+MIXED;новая лада азимут фото и цены характеристики автомобиль;98;98;MIXED/bukvarix_MIXED.csv;77601;INFORMATIONAL+COMMERCIAL/specs_price;ru
+MIXED;лада цена и комплектация и характеристики;86;653;MIXED/bukvarix_MIXED.csv;38217;INFORMATIONAL+COMMERCIAL/specs_price;en
+MIXED;тепофол утеплитель характеристики цена отзывы;103;122;MIXED/bukvarix_MIXED.csv;11750;INFORMATIONAL+COMMERCIAL/specs_price;uk
+MIXED;белгее х50 цена и характеристики отзывы;95;96;MIXED/bukvarix_MIXED.csv;27153;INFORMATIONAL+COMMERCIAL/specs_price;uk
+MIXED;мидокалм 150 мг инструкция по применению цена отзывы аналоги;19173;20011;MIXED/bukvarix_MIXED.csv;96871;INFORMATIONAL+COMMERCIAL/medicine_instructions_price;uk
+MIXED;форсига 10 мг инструкция по применению цена отзывы аналоги;13715;14069;MIXED/bukvarix_MIXED.csv;96875;INFORMATIONAL+COMMERCIAL/medicine_instructions_price;en
+MIXED;детралекс 1000 инструкция по применению цена отзывы аналоги;11718;12409;MIXED/bukvarix_MIXED.csv;76135;INFORMATIONAL+COMMERCIAL/medicine_instructions_price;ru
+MIXED;атаракс 25 мг инструкция по применению цена отзывы;10049;10340;MIXED/bukvarix_MIXED.csv;76136;INFORMATIONAL+COMMERCIAL/medicine_instructions_price;uk
+MIXED;дюспаталин 200 мг инструкция по применению цена отзывы аналоги;10019;10366;MIXED/bukvarix_MIXED.csv;96876;INFORMATIONAL+COMMERCIAL/medicine_instructions_price;uk
+MIXED;ребагит 100 мг инструкция по применению цена отзывы аналоги;9550;9802;MIXED/bukvarix_MIXED.csv;96873;INFORMATIONAL+COMMERCIAL/medicine_instructions_price;en
+MIXED;целекоксиб 200 мг инструкция по применению цена отзывы аналоги;9020;9954;MIXED/bukvarix_MIXED.csv;96870;INFORMATIONAL+COMMERCIAL/medicine_instructions_price;en
+MIXED;аэртал 100 мг инструкция по применению цена отзывы аналоги;8674;9073;MIXED/bukvarix_MIXED.csv;96869;INFORMATIONAL+COMMERCIAL/medicine_instructions_price;ru
+MIXED;бетагистин 24 мг инструкция по применению цена отзывы аналоги;8468;9275;MIXED/bukvarix_MIXED.csv;96872;INFORMATIONAL+COMMERCIAL/medicine_instructions_price;ru
+MIXED;урсосан 250 мг инструкция по применению цена отзывы аналоги;8345;8728;MIXED/bukvarix_MIXED.csv;96877;INFORMATIONAL+COMMERCIAL/medicine_instructions_price;en
+MIXED;сирдалуд 2 мг инструкция по применению цена отзывы аналоги;7898;8046;MIXED/bukvarix_MIXED.csv;96878;INFORMATIONAL+COMMERCIAL/medicine_instructions_price;en
+MIXED;амлодипин 5 мг инструкция по применению цена отзывы аналоги;7822;9032;MIXED/bukvarix_MIXED.csv;96868;INFORMATIONAL+COMMERCIAL/medicine_instructions_price;uk
+MIXED;целебрекс 200 мг инструкция по применению цена отзывы аналоги;7463;7777;MIXED/bukvarix_MIXED.csv;96867;INFORMATIONAL+COMMERCIAL/medicine_instructions_price;en
+MIXED;мексидол 5 мл уколы инструкция по применению цена отзывы аналоги;7371;7531;MIXED/bukvarix_MIXED.csv;110601;INFORMATIONAL+COMMERCIAL/medicine_instructions_price;en
+MIXED;глиатилин 400 мг инструкция по применению цена отзывы аналоги;6746;7345;MIXED/bukvarix_MIXED.csv;96874;INFORMATIONAL+COMMERCIAL/medicine_instructions_price;en
+MIXED;бетасерк 24 мг инструкция по применению цена отзывы аналоги;6148;6699;MIXED/bukvarix_MIXED.csv;96881;INFORMATIONAL+COMMERCIAL/medicine_instructions_price;uk
+MIXED;аркоксиа 90 мг инструкция по применению цена отзывы;5917;6212;MIXED/bukvarix_MIXED.csv;76139;INFORMATIONAL+COMMERCIAL/medicine_instructions_price;en
+MIXED;розувастатин 10 мг инструкция по применению цена отзывы аналоги;5854;6838;MIXED/bukvarix_MIXED.csv;96886;INFORMATIONAL+COMMERCIAL/medicine_instructions_price;uk
+MIXED;толперизон 150 мг инструкция по применению цена отзывы аналоги;5736;6203;MIXED/bukvarix_MIXED.csv;96879;INFORMATIONAL+COMMERCIAL/medicine_instructions_price;uk
+MIXED;тримедат 200 мг инструкция по применению цена отзывы;5678;5986;MIXED/bukvarix_MIXED.csv;76140;INFORMATIONAL+COMMERCIAL/medicine_instructions_price;en
+MIXED;цераксон 1000 мг инструкция по применению цена отзывы аналоги;5334;6316;MIXED/bukvarix_MIXED.csv;96882;INFORMATIONAL+COMMERCIAL/medicine_instructions_price;uk
+MIXED;венарус 1000 инструкция по применению цена отзывы аналоги;5209;5376;MIXED/bukvarix_MIXED.csv;76138;INFORMATIONAL+COMMERCIAL/medicine_instructions_price;ru
+MIXED;леркамен 10 мг инструкция по применению цена отзывы аналоги;5198;5517;MIXED/bukvarix_MIXED.csv;96880;INFORMATIONAL+COMMERCIAL/medicine_instructions_price;uk
+MIXED;капотен 25 мг инструкция по применению цена отзывы аналоги;4748;4861;MIXED/bukvarix_MIXED.csv;96891;INFORMATIONAL+COMMERCIAL/medicine_instructions_price;ru
+MIXED;омакор 1000 мг инструкция по применению цена отзывы аналоги;4724;4829;MIXED/bukvarix_MIXED.csv;96884;INFORMATIONAL+COMMERCIAL/medicine_instructions_price;ru
+MIXED;левофлоксацин 500 мг инструкция по применению цена отзывы;4572;5529;MIXED/bukvarix_MIXED.csv;76143;INFORMATIONAL+COMMERCIAL/medicine_instructions_price;uk
+MIXED;румалон уколы инструкция по применению цена отзывы;4470;5897;MIXED/bukvarix_MIXED.csv;48916;INFORMATIONAL+COMMERCIAL/medicine_instructions_price;ru
+MIXED;периндоприл 4 мг инструкция по применению цена отзывы аналоги;4487;4865;MIXED/bukvarix_MIXED.csv;96893;INFORMATIONAL+COMMERCIAL/medicine_instructions_price;ru
+MIXED;юперио 50 мг инструкция по применению цена отзывы аналоги;4471;5035;MIXED/bukvarix_MIXED.csv;96883;INFORMATIONAL+COMMERCIAL/medicine_instructions_price;uk
+MIXED;хонда нейро эвалар цена инструкция по применению отзывы аналоги цена таблетки;4451;4653;MIXED/bukvarix_MIXED.csv;118707;INFORMATIONAL+COMMERCIAL/medicine_instructions_price;ru
+MIXED;холин стронг инструкция по применению цена отзывы аналоги;4367;4820;MIXED/bukvarix_MIXED.csv;76142;INFORMATIONAL+COMMERCIAL/medicine_instructions_price;ru
+MIXED;конкор 5 мг инструкция по применению цена отзывы аналоги;4295;5281;MIXED/bukvarix_MIXED.csv;96889;INFORMATIONAL+COMMERCIAL/medicine_instructions_price;ru
+MIXED;лозартан 50 мг инструкция по применению цена отзывы аналоги;4111;9158;MIXED/bukvarix_MIXED.csv;96887;INFORMATIONAL+COMMERCIAL/medicine_instructions_price;ru
+MIXED;дипроспан уколы инструкция по применению цена отзывы;4104;4698;MIXED/bukvarix_MIXED.csv;48918;INFORMATIONAL+COMMERCIAL/medicine_instructions_price;ru
+MIXED;ганатон 50 мг инструкция по применению цена отзывы;4061;4828;MIXED/bukvarix_MIXED.csv;76147;INFORMATIONAL+COMMERCIAL/medicine_instructions_price;ru
+MIXED;дапаглифлозин 10 мг инструкция по применению цена отзывы аналоги;3945;4306;MIXED/bukvarix_MIXED.csv;96895;INFORMATIONAL+COMMERCIAL/medicine_instructions_price;ru
+MIXED;тадалафил 5 мг инструкция по применению цена отзывы;3839;4698;MIXED/bukvarix_MIXED.csv;76151;INFORMATIONAL+COMMERCIAL/medicine_instructions_price;en
+MIXED;валсартан 80 мг инструкция по применению цена отзывы аналоги;3850;4375;MIXED/bukvarix_MIXED.csv;96894;INFORMATIONAL+COMMERCIAL/medicine_instructions_price;en
+MIXED;силденафил 50 мг инструкция по применению цена отзывы;3864;4039;MIXED/bukvarix_MIXED.csv;76148;INFORMATIONAL+COMMERCIAL/medicine_instructions_price;ru
+MIXED;аксамон 20 мг инструкция по применению цена отзывы аналоги;3782;3919;MIXED/bukvarix_MIXED.csv;96890;INFORMATIONAL+COMMERCIAL/medicine_instructions_price;uk
+MIXED;эликвис 5 мг инструкция по применению цена отзывы аналоги;3745;4016;MIXED/bukvarix_MIXED.csv;96896;INFORMATIONAL+COMMERCIAL/medicine_instructions_price;en
+MIXED;холинг стронг инструкция по применению цена отзывы;3698;4785;MIXED/bukvarix_MIXED.csv;48921;INFORMATIONAL+COMMERCIAL/medicine_instructions_price;ru
+MIXED;алфлутоп уколы инструкция по применению цена отзывы;3650;5030;MIXED/bukvarix_MIXED.csv;48919;INFORMATIONAL+COMMERCIAL/medicine_instructions_price;en
+MIXED;фордиглиф 10 мг инструкция по применению цена отзывы аналоги;3679;3719;MIXED/bukvarix_MIXED.csv;96892;INFORMATIONAL+COMMERCIAL/medicine_instructions_price;ru
+MIXED;диацереин 50 мг инструкция по применению цена отзывы;3503;4263;MIXED/bukvarix_MIXED.csv;76146;INFORMATIONAL+COMMERCIAL/medicine_instructions_price;en
+MIXED;разо 20 мг инструкция по применению цена отзывы;3464;4227;MIXED/bukvarix_MIXED.csv;76149;INFORMATIONAL+COMMERCIAL/medicine_instructions_price;ru
+MIXED;хондрогард уколы инструкция по применению цена отзывы;3373;4035;MIXED/bukvarix_MIXED.csv;48923;INFORMATIONAL+COMMERCIAL/medicine_instructions_price;uk
+MIXED;ксарелто 20 мг инструкция по применению цена отзывы аналоги;3357;3483;MIXED/bukvarix_MIXED.csv;96901;INFORMATIONAL+COMMERCIAL/medicine_instructions_price;en
+MIXED;амитриптилин 25 мг инструкция по применению цена отзывы;3268;3710;MIXED/bukvarix_MIXED.csv;76150;INFORMATIONAL+COMMERCIAL/medicine_instructions_price;en
+MIXED;флориоза инструкция по применению цена отзывы аналоги таблетки;3182;3424;MIXED/bukvarix_MIXED.csv;76152;INFORMATIONAL+COMMERCIAL/medicine_instructions_price;uk
+MIXED;артоксан 20 мг уколы инструкция по применению цена отзывы аналоги;3173;3246;MIXED/bukvarix_MIXED.csv;110608;INFORMATIONAL+COMMERCIAL/medicine_instructions_price;uk
+MIXED;цитиколин 1000 мг инструкция по применению цена отзывы аналоги;2982;3516;MIXED/bukvarix_MIXED.csv;96902;INFORMATIONAL+COMMERCIAL/medicine_instructions_price;en
+MIXED;пиаскледин 300 инструкция по применению цена отзывы;2919;3440;MIXED/bukvarix_MIXED.csv;48930;INFORMATIONAL+COMMERCIAL/medicine_instructions_price;en
+MIXED;напроксен 550 мг инструкция по применению цена отзывы аналоги;2933;3014;MIXED/bukvarix_MIXED.csv;96903;INFORMATIONAL+COMMERCIAL/medicine_instructions_price;uk
+MIXED;флебодиа 600 инструкция по применению цена отзывы аналоги;2886;3466;MIXED/bukvarix_MIXED.csv;76153;INFORMATIONAL+COMMERCIAL/medicine_instructions_price;uk
+MIXED;кветиапин 25 мг инструкция по применению цена отзывы аналоги;2862;3052;MIXED/bukvarix_MIXED.csv;96899;INFORMATIONAL+COMMERCIAL/medicine_instructions_price;uk
+MIXED;престариум а 5 мг инструкция по применению цена отзывы аналоги;2795;2837;MIXED/bukvarix_MIXED.csv;110609;INFORMATIONAL+COMMERCIAL/medicine_instructions_price;uk
+MIXED;триттико 150 мг инструкция по применению цена отзывы аналоги;2722;2778;MIXED/bukvarix_MIXED.csv;96900;INFORMATIONAL+COMMERCIAL/medicine_instructions_price;uk
+MIXED;верошпирон 25 мг инструкция по применению цена отзывы аналоги;2659;2869;MIXED/bukvarix_MIXED.csv;96904;INFORMATIONAL+COMMERCIAL/medicine_instructions_price;en
+MIXED;вилдаглиптин 50 мг инструкция по применению цена отзывы аналоги;2600;2862;MIXED/bukvarix_MIXED.csv;96898;INFORMATIONAL+COMMERCIAL/medicine_instructions_price;ru
+MIXED;какой купить аэрогриль лучше для дома отзывы;979;3687;MIXED/bukvarix_MIXED.csv;54762;COMMERCIAL+TRANSACTIONAL/reviews_buy;en
+MIXED;алкодин капли цена отзывы где купить;629;640;MIXED/bukvarix_MIXED.csv;26166;COMMERCIAL+TRANSACTIONAL/reviews_buy;uk
+MIXED;аэрогриль какой лучше купить для дома отзывы покупателей;493;1893;MIXED/bukvarix_MIXED.csv;80676;COMMERCIAL+TRANSACTIONAL/reviews_buy;uk
+MIXED;какой аккумуляторный триммер лучше купить для дачи отзывы;462;664;MIXED/bukvarix_MIXED.csv;77142;COMMERCIAL+TRANSACTIONAL/reviews_buy;ru
+MIXED;какие купить подушки для сна с каким наполнителем лучше отзывы;392;662;MIXED/bukvarix_MIXED.csv;113874;COMMERCIAL+TRANSACTIONAL/reviews_buy;uk
+MIXED;какой глюкометр лучше купить для дома отзывы покупателей и врачей;366;451;MIXED/bukvarix_MIXED.csv;110738;COMMERCIAL+TRANSACTIONAL/reviews_buy;uk
+MIXED;тонометр какой лучше купить для дома автоматический отзывы врачей;275;457;MIXED/bukvarix_MIXED.csv;102449;COMMERCIAL+TRANSACTIONAL/reviews_buy;ru
+MIXED;какой электрический триммер лучше купить для дачи отзывы;272;305;MIXED/bukvarix_MIXED.csv;76567;COMMERCIAL+TRANSACTIONAL/reviews_buy;ru
+MIXED;какой лучше купить электровелосипед взрослому человеку отзывы;268;308;MIXED/bukvarix_MIXED.csv;52654;COMMERCIAL+TRANSACTIONAL/reviews_buy;uk
+MIXED;монастырская травница для суставов отзывы цена где купить;229;3074;MIXED/bukvarix_MIXED.csv;78193;COMMERCIAL+TRANSACTIONAL/reviews_buy;ru
+MIXED;какой лучше купить аэрогриль для дома отзывы покупателей с фото недорого;259;277;MIXED/bukvarix_MIXED.csv;119399;COMMERCIAL+TRANSACTIONAL/reviews_buy;en
+MIXED;витаслим реальные отзывы цена где купить;238;242;MIXED/bukvarix_MIXED.csv;26464;COMMERCIAL+TRANSACTIONAL/reviews_buy;uk
+MIXED;заказать отзывы на яндекс картах;246;380;MIXED/bukvarix_MIXED.csv;15298;COMMERCIAL+TRANSACTIONAL/reviews_buy;uk
+MIXED;папилофак от папиллом отзывы цена купить;228;329;MIXED/bukvarix_MIXED.csv;26493;COMMERCIAL+TRANSACTIONAL/reviews_buy;uk
+MIXED;какой дегидратор лучше купить для дома отзывы покупателей;222;246;MIXED/bukvarix_MIXED.csv;77497;COMMERCIAL+TRANSACTIONAL/reviews_buy;uk
+MIXED;крем здоровье алтая для суставов отзывы цена где купить;202;203;MIXED/bukvarix_MIXED.csv;97872;COMMERCIAL+TRANSACTIONAL/reviews_buy;en
+MIXED;тонометр отзывы какой купить лучше для дома;178;944;MIXED/bukvarix_MIXED.csv;57301;COMMERCIAL+TRANSACTIONAL/reviews_buy;uk
+MIXED;какой лучше глюкометр купить для дома отзывы;176;679;MIXED/bukvarix_MIXED.csv;59167;COMMERCIAL+TRANSACTIONAL/reviews_buy;en
+MIXED;аэрогриль купить на озоне цена и отзывы;185;221;MIXED/bukvarix_MIXED.csv;49662;COMMERCIAL+TRANSACTIONAL/reviews_buy;ru
+MIXED;какой опрыскиватель лучше купить для садового участка отзывы;182;282;MIXED/bukvarix_MIXED.csv;76891;COMMERCIAL+TRANSACTIONAL/reviews_buy;uk
+MIXED;какой купить вакууматор для дома лучше отзывы;163;437;MIXED/bukvarix_MIXED.csv;50297;COMMERCIAL+TRANSACTIONAL/reviews_buy;ru
+MIXED;что купить в нячанге во вьетнаме отзывы туристов;160;284;MIXED/bukvarix_MIXED.csv;79272;COMMERCIAL+TRANSACTIONAL/reviews_buy;uk
+MIXED;какой шланг для полива лучше купить на дачу отзывы;161;211;MIXED/bukvarix_MIXED.csv;97820;COMMERCIAL+TRANSACTIONAL/reviews_buy;uk
+MIXED;омега 3 какие лучше купить взрослым рейтинг;162;167;MIXED/bukvarix_MIXED.csv;61312;COMMERCIAL+TRANSACTIONAL/reviews_buy;ru
+MIXED;паровая швабра какую купить лучше для дома отзывы;148;491;MIXED/bukvarix_MIXED.csv;86269;COMMERCIAL+TRANSACTIONAL/reviews_buy;en
+MIXED;купить алкотестер для личного пользования на валберис цена и отзывы;155;155;MIXED/bukvarix_MIXED.csv;111034;COMMERCIAL+TRANSACTIONAL/reviews_buy;uk
+MIXED;какую колонку газовую лучше купить в квартиру отзывы специалистов;145;174;MIXED/bukvarix_MIXED.csv;104118;COMMERCIAL+TRANSACTIONAL/reviews_buy;ru
+MIXED;тирзетта можно ли купить без рецепта отзывы;139;285;MIXED/bukvarix_MIXED.csv;51433;COMMERCIAL+TRANSACTIONAL/reviews_buy;ru
+MIXED;какой фирмы аэрогриль лучше купить для дома отзывы;143;164;MIXED/bukvarix_MIXED.csv;77154;COMMERCIAL+TRANSACTIONAL/reviews_buy;ru
+MIXED;швейная машинка какую лучше купить для дома отзывы;128;140;MIXED/bukvarix_MIXED.csv;77283;COMMERCIAL+TRANSACTIONAL/reviews_buy;ru
+MIXED;какой купить холодильник для дома хороший отзывы;112;788;MIXED/bukvarix_MIXED.csv;50809;COMMERCIAL+TRANSACTIONAL/reviews_buy;uk
+MIXED;сушилка для овощей и фруктов купить на озон цена и отзывы;125;139;MIXED/bukvarix_MIXED.csv;118900;COMMERCIAL+TRANSACTIONAL/reviews_buy;uk
+MIXED;ключ для закатки банок какой купить лучше отзывы;120;123;MIXED/bukvarix_MIXED.csv;77349;COMMERCIAL+TRANSACTIONAL/reviews_buy;en
+MIXED;мультипекарь отзывы какую модель лучше купить;119;124;MIXED/bukvarix_MIXED.csv;26927;COMMERCIAL+TRANSACTIONAL/reviews_buy;en
+MIXED;отпариватель ручной для одежды какой лучше купить для дома отзывы покупателей;113;204;MIXED/bukvarix_MIXED.csv;120145;COMMERCIAL+TRANSACTIONAL/reviews_buy;ru
+MIXED;какой холодильник лучше купить для дома двухкамерный недорогой но хороший отзывы;116;118;MIXED/bukvarix_MIXED.csv;118914;COMMERCIAL+TRANSACTIONAL/reviews_buy;en
+MIXED;какой купить секатор садовый лучше отзывы;105;348;MIXED/bukvarix_MIXED.csv;37627;COMMERCIAL+TRANSACTIONAL/reviews_buy;en
+MIXED;какой купить вакууматор для дома лучше отзывы покупателей;108;223;MIXED/bukvarix_MIXED.csv;78048;COMMERCIAL+TRANSACTIONAL/reviews_buy;uk
+MIXED;стиральная машина отзывы какую купить рекомендации специалистов;113;113;MIXED/bukvarix_MIXED.csv;50319;COMMERCIAL+TRANSACTIONAL/reviews_buy;ru
+MIXED;какой автоклав лучше купить для домашнего консервирования отзывы покупателей;106;210;MIXED/bukvarix_MIXED.csv;98197;COMMERCIAL+TRANSACTIONAL/reviews_buy;uk
+MIXED;какой купить электровелосипед взрослый отзывы;105;476;MIXED/bukvarix_MIXED.csv;11740;COMMERCIAL+TRANSACTIONAL/reviews_buy;uk
+MIXED;какой робот мойщик окон лучше купить для дома отзывы;98;284;MIXED/bukvarix_MIXED.csv;98484;COMMERCIAL+TRANSACTIONAL/reviews_buy;en
+MIXED;клей космофен са 500 200 инструкция отзывы цена купить;154;165;MIXED/bukvarix_MIXED.csv;97860;COMMERCIAL+TRANSACTIONAL/reviews_buy;en
+MIXED;альбион клубника купить описание сорта фото отзывы;104;104;MIXED/bukvarix_MIXED.csv;50293;COMMERCIAL+TRANSACTIONAL/reviews_buy;en
+MIXED;какой холодильник лучше купить для дома двухкамерный ноу фрост отзывы покупателей;101;138;MIXED/bukvarix_MIXED.csv;118953;COMMERCIAL+TRANSACTIONAL/reviews_buy;en
+MIXED;клубника мурано описание сорта фото отзывы садоводов купить;102;102;MIXED/bukvarix_MIXED.csv;77541;COMMERCIAL+TRANSACTIONAL/reviews_buy;en
+MIXED;напольный кондиционер для дома купить на озон цена и отзывы;101;109;MIXED/bukvarix_MIXED.csv;111215;COMMERCIAL+TRANSACTIONAL/reviews_buy;uk
+MIXED;утюг купить какой лучше для дома отзывы покупателей;90;353;MIXED/bukvarix_MIXED.csv;79710;COMMERCIAL+TRANSACTIONAL/reviews_buy;en
+MIXED;какой дегидратор лучше купить для дома отзывы;88;344;MIXED/bukvarix_MIXED.csv;57885;COMMERCIAL+TRANSACTIONAL/reviews_buy;en
+MIXED;вибро платформа отзывы для похудения купить;94;106;MIXED/bukvarix_MIXED.csv;27168;COMMERCIAL+TRANSACTIONAL/reviews_buy;en
+MIXED;какую лодку пвх лучше купить для рыбалки отзывы;90;167;MIXED/bukvarix_MIXED.csv;77700;COMMERCIAL+TRANSACTIONAL/reviews_buy;uk
+MIXED;какой лучше купить мотоблок для дома в деревне отзывы владельцев;91;138;MIXED/bukvarix_MIXED.csv;114898;COMMERCIAL+TRANSACTIONAL/reviews_buy;uk
+MIXED;стиральная машина отзывы какую купить;84;1481;MIXED/bukvarix_MIXED.csv;12192;COMMERCIAL+TRANSACTIONAL/reviews_buy;en
+MIXED;холодильник какой лучше купить для дома отзывы покупателей двухкамерный;78;306;MIXED/bukvarix_MIXED.csv;99760;COMMERCIAL+TRANSACTIONAL/reviews_buy;ru
+MIXED;круговой обзор 360 градусов на авто купить;82;103;MIXED/bukvarix_MIXED.csv;50892;COMMERCIAL+TRANSACTIONAL/reviews_buy;ru
+MIXED;пылесос купить для дома какой лучше отзывы и цена;82;87;MIXED/bukvarix_MIXED.csv;98459;COMMERCIAL+TRANSACTIONAL/reviews_buy;ru
+MIXED;микротоки для лица купить аппарат для дома рейтинг лучших;81;85;MIXED/bukvarix_MIXED.csv;98556;COMMERCIAL+TRANSACTIONAL/reviews_buy;en
+MIXED;какой мелатонин лучше купить для сна отзывы врачей;79;83;MIXED/bukvarix_MIXED.csv;77891;COMMERCIAL+TRANSACTIONAL/reviews_buy;en
+MIXED;какой лучше купить генератор для частного дома бензиновый отзывы;77;107;MIXED/bukvarix_MIXED.csv;98639;COMMERCIAL+TRANSACTIONAL/reviews_buy;ru
+MIXED;клубника черный принц описание сорта фото отзывы садоводов купить;78;81;MIXED/bukvarix_MIXED.csv;98506;COMMERCIAL+TRANSACTIONAL/reviews_buy;en
+MIXED;какой телефон купить с хорошей камерой и батареей и памятью недорого отзывы;75;80;MIXED/bukvarix_MIXED.csv;122757;COMMERCIAL+TRANSACTIONAL/reviews_buy;ru
+MIXED;какие бактерии для септика лучше купить для частного дома отзывы;74;82;MIXED/bukvarix_MIXED.csv;111364;COMMERCIAL+TRANSACTIONAL/reviews_buy;en
+MIXED;какой марки холодильник лучше купить для дома отзывы специалистов двухкамерный;73;73;MIXED/bukvarix_MIXED.csv;111377;COMMERCIAL+TRANSACTIONAL/reviews_buy;ru
+MIXED;какой пароочиститель лучше купить для дома для уборки отзывы;68;141;MIXED/bukvarix_MIXED.csv;98835;COMMERCIAL+TRANSACTIONAL/reviews_buy;uk
+MIXED;купить моющий пылесос для дома какой лучше отзывы покупателей с фото цена;70;78;MIXED/bukvarix_MIXED.csv;122765;COMMERCIAL+TRANSACTIONAL/reviews_buy;ru
+MIXED;какой дровокол лучше купить для дома отзывы;68;85;MIXED/bukvarix_MIXED.csv;51899;COMMERCIAL+TRANSACTIONAL/reviews_buy;en
+MIXED;какой берберин лучше купить для похудения отзывы;66;75;MIXED/bukvarix_MIXED.csv;51050;COMMERCIAL+TRANSACTIONAL/reviews_buy;en
+MIXED;электрическая мясорубка отзывы какую купить;68;145;MIXED/bukvarix_MIXED.csv;12319;COMMERCIAL+TRANSACTIONAL/reviews_buy;en
+MIXED;аэрогриль какой лучше купить для дома недорогой но хороший отзывы;65;75;MIXED/bukvarix_MIXED.csv;111429;COMMERCIAL+TRANSACTIONAL/reviews_buy;uk
+MIXED;купить блендер погружной для кухни какой лучше выбрать отзывы;64;75;MIXED/bukvarix_MIXED.csv;98738;COMMERCIAL+TRANSACTIONAL/reviews_buy;ru
+MIXED;утюг купить какой лучше для дома отзывы;55;481;MIXED/bukvarix_MIXED.csv;61705;COMMERCIAL+TRANSACTIONAL/reviews_buy;ru
+MIXED;какой вакууматор лучше купить для дома недорогой и надежный отзывы покупателей;63;64;MIXED/bukvarix_MIXED.csv;119067;COMMERCIAL+TRANSACTIONAL/reviews_buy;ru
+MIXED;какую хлебопечку купить для дома советы и отзывы;61;103;MIXED/bukvarix_MIXED.csv;79468;COMMERCIAL+TRANSACTIONAL/reviews_buy;ru
+MIXED;какой автоклав купить для дома форум отзывы;63;63;MIXED/bukvarix_MIXED.csv;51159;COMMERCIAL+TRANSACTIONAL/reviews_buy;uk
+MIXED;какую стиральную машинку лучше купить для дома автомат отзывы владельцев;63;63;MIXED/bukvarix_MIXED.csv;111455;COMMERCIAL+TRANSACTIONAL/reviews_buy;ru
+MIXED;клематисы 3 группы обрезки лучшие сорта купить;515;570;MIXED/bukvarix_MIXED.csv;49086;COMMERCIAL+TRANSACTIONAL/ranking_buy;ru
+MIXED;наушники переводчики самые лучшие купить;155;176;MIXED/bukvarix_MIXED.csv;11551;COMMERCIAL+TRANSACTIONAL/ranking_buy;uk
+MIXED;ито гибриды пионов лучшие сорта купить;134;140;MIXED/bukvarix_MIXED.csv;26834;COMMERCIAL+TRANSACTIONAL/ranking_buy;uk
+MIXED;омега 3 купить лучшие производители;92;247;MIXED/bukvarix_MIXED.csv;11843;COMMERCIAL+TRANSACTIONAL/ranking_buy;uk
+MIXED;лучшие гербициды от сорняков сплошного действия для дачи купить;50;65;MIXED/bukvarix_MIXED.csv;99158;COMMERCIAL+TRANSACTIONAL/ranking_buy;uk
+MIXED;ито пионы лучшие сорта для подмосковья купить;49;49;MIXED/bukvarix_MIXED.csv;51641;COMMERCIAL+TRANSACTIONAL/ranking_buy;uk
+MIXED;для септика бактерии купить лучшие;40;624;MIXED/bukvarix_MIXED.csv;12631;COMMERCIAL+TRANSACTIONAL/ranking_buy;ru
+MIXED;виноград для подмосковья лучшие сорта неукрывной купить;35;65;MIXED/bukvarix_MIXED.csv;52591;COMMERCIAL+TRANSACTIONAL/ranking_buy;ru
+MIXED;лучшие крендели в выборге где купить;35;59;MIXED/bukvarix_MIXED.csv;29752;COMMERCIAL+TRANSACTIONAL/ranking_buy;en
+MIXED;клубника рассада лучшие сорта купить;38;53;MIXED/bukvarix_MIXED.csv;12733;COMMERCIAL+TRANSACTIONAL/ranking_buy;uk
+MIXED;купить комбо видеорегистраторы 3в1 самые лучшие;30;36;MIXED/bukvarix_MIXED.csv;29536;COMMERCIAL+TRANSACTIONAL/ranking_buy;en
+MIXED;стиральная машина купить днс лучшие;30;94;MIXED/bukvarix_MIXED.csv;13183;COMMERCIAL+TRANSACTIONAL/ranking_buy;en
+MIXED;лучшие протезы в кенши где купить;27;35;MIXED/bukvarix_MIXED.csv;37242;COMMERCIAL+TRANSACTIONAL/ranking_buy;ru
+MIXED;какие купить смарт часы мужские лучшие;23;306;MIXED/bukvarix_MIXED.csv;30548;COMMERCIAL+TRANSACTIONAL/ranking_buy;uk
+MIXED;купить айфон в курске лучшие цены;27;27;MIXED/bukvarix_MIXED.csv;29948;COMMERCIAL+TRANSACTIONAL/ranking_buy;en
+MIXED;какие купить смарт часы мужские лучшие недорогие;24;81;MIXED/bukvarix_MIXED.csv;54151;COMMERCIAL+TRANSACTIONAL/ranking_buy;uk
+MIXED;купить патчи для глаз от отеков и мешков под глазами лучшие;24;75;MIXED/bukvarix_MIXED.csv;121622;COMMERCIAL+TRANSACTIONAL/ranking_buy;uk
+MIXED;газовые горелки на баллончик с пьезоподжигом лучшие купить;25;40;MIXED/bukvarix_MIXED.csv;92201;COMMERCIAL+TRANSACTIONAL/ranking_buy;en
+MIXED;куры несушки лучшие породы для дома купить;25;31;MIXED/bukvarix_MIXED.csv;54018;COMMERCIAL+TRANSACTIONAL/ranking_buy;ru
+MIXED;купить телефон до 15 тысяч рублей топ 10;25;27;MIXED/bukvarix_MIXED.csv;80632;COMMERCIAL+TRANSACTIONAL/ranking_buy;ru
+MIXED;лучшие очки для ночного вождения автомобиля купить;24;28;MIXED/bukvarix_MIXED.csv;71675;COMMERCIAL+TRANSACTIONAL/ranking_buy;uk
+MIXED;где купить лучшие карты для гвинта в ведьмак 3;23;26;MIXED/bukvarix_MIXED.csv;100659;COMMERCIAL+TRANSACTIONAL/ranking_buy;uk
+MIXED;виноград для подмосковья лучшие сорта неукрывной купить саженцы в питомнике;22;23;MIXED/bukvarix_MIXED.csv;112630;COMMERCIAL+TRANSACTIONAL/ranking_buy;ru
+MIXED;какие купить смарт часы мужские лучшие недорогие наручные;21;28;MIXED/bukvarix_MIXED.csv;81309;COMMERCIAL+TRANSACTIONAL/ranking_buy;en
+MIXED;черевишня для подмосковья лучшие сорта самоплодные купить;21;23;MIXED/bukvarix_MIXED.csv;54948;COMMERCIAL+TRANSACTIONAL/ranking_buy;uk
+MIXED;лучшие кроссовки для бега мужские купить;20;41;MIXED/bukvarix_MIXED.csv;36967;COMMERCIAL+TRANSACTIONAL/ranking_buy;uk
+MIXED;розы флорибунда лучшие сорта купить;22;25;MIXED/bukvarix_MIXED.csv;24693;COMMERCIAL+TRANSACTIONAL/ranking_buy;ru
+MIXED;купить лучшие семена петунии в интернет магазине бренды;20;20;MIXED/bukvarix_MIXED.csv;94392;COMMERCIAL+TRANSACTIONAL/ranking_buy;ru
+MIXED;плеер купить для музыки лучшие модели;20;20;MIXED/bukvarix_MIXED.csv;31419;COMMERCIAL+TRANSACTIONAL/ranking_buy;uk
+MIXED;патчи от отеков под глазами лучшие купить;17;80;MIXED/bukvarix_MIXED.csv;56105;COMMERCIAL+TRANSACTIONAL/ranking_buy;en
+MIXED;кабачки семена лучшие сорта купить;20;20;MIXED/bukvarix_MIXED.csv;25061;COMMERCIAL+TRANSACTIONAL/ranking_buy;ru
+MIXED;осетинские пироги во владикавказе лучшие где купить;18;20;MIXED/bukvarix_MIXED.csv;55913;COMMERCIAL+TRANSACTIONAL/ranking_buy;en
+MIXED;купить валюту в бобруйске лучшие курсы;17;17;MIXED/bukvarix_MIXED.csv;32299;COMMERCIAL+TRANSACTIONAL/ranking_buy;uk
+MIXED;семена лука на перо лучшие сорта купить;16;16;MIXED/bukvarix_MIXED.csv;56779;COMMERCIAL+TRANSACTIONAL/ranking_buy;uk
+MIXED;тепловизионный прицел купить для охоты топ 10 лучших;15;15;MIXED/bukvarix_MIXED.csv;83077;COMMERCIAL+TRANSACTIONAL/ranking_buy;en
+MIXED;кастрюли эмалированные качественные купить лучшие производители;13;17;MIXED/bukvarix_MIXED.csv;33989;COMMERCIAL+TRANSACTIONAL/ranking_buy;en
+MIXED;патчи для глаз от отеков и мешков под глазами лучшие купить на вайлдберриз;13;13;MIXED/bukvarix_MIXED.csv;125032;COMMERCIAL+TRANSACTIONAL/ranking_buy;en
+MIXED;хендсфри для телефона на ухо купить топ 10;13;13;MIXED/bukvarix_MIXED.csv;83896;COMMERCIAL+TRANSACTIONAL/ranking_buy;en
+MIXED;купить термос для чая 1 литр самые лучшие;12;28;MIXED/bukvarix_MIXED.csv;84189;COMMERCIAL+TRANSACTIONAL/ranking_buy;ru
+MIXED;канадские розы лучшие сорта купить для сибири;12;15;MIXED/bukvarix_MIXED.csv;74688;COMMERCIAL+TRANSACTIONAL/ranking_buy;ru
+MIXED;купить хороший фен с ионизацией топ 10;12;15;MIXED/bukvarix_MIXED.csv;58871;COMMERCIAL+TRANSACTIONAL/ranking_buy;ru
+MIXED;купить топ 20 красных вин россии 23 года;12;12;MIXED/bukvarix_MIXED.csv;84400;COMMERCIAL+TRANSACTIONAL/ranking_buy;en
+MIXED;лучшие динамики в машину купить;10;213;MIXED/bukvarix_MIXED.csv;21935;COMMERCIAL+TRANSACTIONAL/ranking_buy;ru
+MIXED;купить термос для чая 1 литр самые лучшие на вайлдберриз;11;11;MIXED/bukvarix_MIXED.csv;114297;COMMERCIAL+TRANSACTIONAL/ranking_buy;ru
+MIXED;духи женские с феромонами купить самые лучшие;10;29;MIXED/bukvarix_MIXED.csv;71552;COMMERCIAL+TRANSACTIONAL/ranking_buy;en
+MIXED;самые лучшие электрические чайники по качеству купить;10;25;MIXED/bukvarix_MIXED.csv;72341;COMMERCIAL+TRANSACTIONAL/ranking_buy;en
+MIXED;витамины и минералы купить комплекс лучшие;10;16;MIXED/bukvarix_MIXED.csv;37543;COMMERCIAL+TRANSACTIONAL/ranking_buy;ru
+MIXED;пункт приема металлолома рядом со мной на карте цены и адреса график работы;66;73;MIXED/bukvarix_MIXED.csv;124645;LOCAL+INFORMATIONAL/hours_price;uk
+MIXED;музей восковых фигур в санкт петербурге на невском время работы цена билета;11;12;MIXED/bukvarix_MIXED.csv;123665;LOCAL+INFORMATIONAL/hours_price;ru
+MIXED;где находится океанариум в санкт петербурге адрес и цена билета режим работы;10;10;MIXED/bukvarix_MIXED.csv;123772;LOCAL+INFORMATIONAL/hours_price;en
