@@ -1,0 +1,901 @@
+class;source_ru;exact_frequency;broad_frequency;source_file;source_record;topic;target_assignment
+TRANSACTIONAL;запись на прием к врачу;47614;353005;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;92968;appointments;uk
+TRANSACTIONAL;записаться на прием к врачу;15742;148153;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;93014;appointments;uk
+TRANSACTIONAL;запись на прием;14135;807362;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;13300;appointments;ru
+TRANSACTIONAL;записаться в мфц;9894;89682;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;13154;appointments;en
+TRANSACTIONAL;запись в мфц;14826;83776;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;13485;appointments;uk
+TRANSACTIONAL;запись к врачу горздрав;11489;207326;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;56549;appointments;en
+TRANSACTIONAL;запись к врачу кубань онлайн на прием;14021;21632;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;132453;appointments;uk
+TRANSACTIONAL;запись к врачу доктор 71;6547;14266;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;93356;appointments;en
+TRANSACTIONAL;записаться на прием к приставу;2839;28618;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;93735;appointments;ru
+TRANSACTIONAL;запись на прием фссп;3287;15578;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;60435;appointments;en
+TRANSACTIONAL;запись в мфц санкт петербург;3548;5457;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;93254;appointments;en
+TRANSACTIONAL;запись на прием к врачу брянск инфо;4329;6097;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;131108;appointments;ru
+TRANSACTIONAL;записаться в мфц через госуслуги;1751;11413;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;93870;appointments;en
+TRANSACTIONAL;запись на прием к врачу старый оскол;4008;4966;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;130300;appointments;uk
+TRANSACTIONAL;запись к врачу горздрав санкт петербург;2653;14582;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;122181;appointments;ru
+TRANSACTIONAL;записаться в гибдд;960;43882;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;17467;appointments;ru
+TRANSACTIONAL;запись на прием к приставу;1767;18209;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;94243;appointments;ru
+TRANSACTIONAL;записаться на прием фссп;1154;14187;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;66001;appointments;ru
+TRANSACTIONAL;записаться в пенсионный фонд на прием;1617;9981;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;117837;appointments;uk
+TRANSACTIONAL;записаться в сфр на прием;1241;6662;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;97871;appointments;uk
+TRANSACTIONAL;записаться к приставу на прием онлайн фссп;1766;2019;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;130431;appointments;uk
+TRANSACTIONAL;запись в гибдд;1091;24272;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;16720;appointments;ru
+TRANSACTIONAL;запись на прием к врачу нижний новгород;2031;4566;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;130410;appointments;ru
+TRANSACTIONAL;запись врач 42 кемерово;939;16234;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;87137;appointments;uk
+TRANSACTIONAL;записаться в гибдд через госуслуги;579;16211;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;97000;appointments;ru
+TRANSACTIONAL;запись к врачу белгород на прием электронная регистратура;2221;3431;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;136060;appointments;uk
+TRANSACTIONAL;запись на прием к врачу ростов на дону;1724;6984;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;136020;appointments;ru
+TRANSACTIONAL;запись на прием в сфр;927;5361;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;97226;appointments;en
+TRANSACTIONAL;записаться на прием к приставам через госуслуги;824;5417;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;133807;appointments;uk
+TRANSACTIONAL;записаться на прием к врачу нижний новгород;941;2376;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;130901;appointments;uk
+TRANSACTIONAL;записаться фссп на прием к судебному приставу;797;3521;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;133615;appointments;ru
+TRANSACTIONAL;запись в мфц через госуслуги;864;4101;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;95306;appointments;uk
+TRANSACTIONAL;запись на прием в сфр пенсионный фонд;1272;1794;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;134872;appointments;en
+TRANSACTIONAL;запись на прием к врачу ленинградская область;1069;2917;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;130594;appointments;en
+TRANSACTIONAL;записаться в мфц нижний новгород;539;1537;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;97310;appointments;uk
+TRANSACTIONAL;записаться к врачу санкт петербург горздрав;687;2260;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;118545;appointments;en
+TRANSACTIONAL;записаться на прием к врачу старый оскол;709;1013;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;130912;appointments;en
+TRANSACTIONAL;записаться в гибдд на замену водительского удостоверения;606;1414;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;131294;appointments;ru
+TRANSACTIONAL;записаться на прием мфц онлайн;411;1871;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;116528;appointments;ru
+TRANSACTIONAL;записаться на регистрацию автомобиля в гибдд;550;2230;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;126018;appointments;en
+TRANSACTIONAL;записаться в сфр через госуслуги на прием;472;2289;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;135711;appointments;en
+TRANSACTIONAL;записаться на прием к приставу через сайт фссп;627;2809;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;136251;appointments;ru
+TRANSACTIONAL;записаться на прием к врачу ростов на дону;493;2897;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;136437;appointments;uk
+TRANSACTIONAL;записаться в пенсионный фонд через госуслуги на прием;433;2899;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;137634;appointments;en
+TRANSACTIONAL;записаться на прием к врачу ленинградская область;404;671;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;131932;appointments;en
+TRANSACTIONAL;купить айфон;58925;1589918;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;74;buy_electronics;ru
+TRANSACTIONAL;купить велосипед;51039;1034721;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;89;buy_electronics;uk
+TRANSACTIONAL;купить электросамокат;59188;354674;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;69;buy_electronics;uk
+TRANSACTIONAL;купить холодильник;45802;811159;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;96;buy_electronics;en
+TRANSACTIONAL;купить кондиционер;40331;664223;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;83;buy_electronics;uk
+TRANSACTIONAL;купить ноутбук;42258;394166;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;86;buy_electronics;ru
+TRANSACTIONAL;купить телевизор;27350;685454;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;133;buy_electronics;uk
+TRANSACTIONAL;купить айфон 17 про макс;26228;107104;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;92995;buy_electronics;ru
+TRANSACTIONAL;купить планшет;18724;200875;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;511;buy_electronics;en
+TRANSACTIONAL;купить самсунг телефон;19016;111720;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;16346;buy_electronics;en
+TRANSACTIONAL;купить компьютер;14160;196926;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;217;buy_electronics;ru
+TRANSACTIONAL;купить пк;11582;226240;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;241;buy_electronics;en
+TRANSACTIONAL;купить iphone 17 pro max;14354;35222;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;93668;buy_electronics;uk
+TRANSACTIONAL;купить пылесос;9018;396456;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;608;buy_electronics;ru
+TRANSACTIONAL;купить iphone 17;10472;95697;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;14309;buy_electronics;en
+TRANSACTIONAL;купить роутер;9640;141814;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;886;buy_electronics;en
+TRANSACTIONAL;купить 3д принтер;10876;29439;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;14806;buy_electronics;uk
+TRANSACTIONAL;купить самокат;7117;170091;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;1001;buy_electronics;ru
+TRANSACTIONAL;купить кнопочный телефон;7672;58470;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;15005;buy_electronics;en
+TRANSACTIONAL;купить монитор;5663;110925;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;938;buy_electronics;uk
+TRANSACTIONAL;купить игровой пк;6966;22759;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;14327;buy_electronics;en
+TRANSACTIONAL;купить смартфон самсунг;5935;39122;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;15221;buy_electronics;ru
+TRANSACTIONAL;купить андроид телефон;3986;26186;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;18739;buy_electronics;ru
+TRANSACTIONAL;купить напольный кондиционер для дома;3741;13597;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;95701;buy_electronics;ru
+TRANSACTIONAL;купить айфон нижний новгород;3368;15903;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;56097;buy_electronics;en
+TRANSACTIONAL;купить телефон хонор;2940;20233;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;16308;buy_electronics;uk
+TRANSACTIONAL;купить телефон хуавей;2890;12335;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;17495;buy_electronics;en
+TRANSACTIONAL;купить телефон мтс;2627;12914;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;37368;buy_electronics;uk
+TRANSACTIONAL;купить майнкрафт на пк;2751;8599;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;56494;buy_electronics;ru
+TRANSACTIONAL;купить трехколесный взрослый велосипед;2270;11732;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;83665;buy_electronics;uk
+TRANSACTIONAL;купить телефон редми;1949;20164;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;18206;buy_electronics;ru
+TRANSACTIONAL;купить телефон в рассрочку;1928;15752;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;57191;buy_electronics;en
+TRANSACTIONAL;купить телефон xiaomi;1765;10994;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;19078;buy_electronics;uk
+TRANSACTIONAL;купить телефон днс;1757;19099;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;25318;buy_electronics;uk
+TRANSACTIONAL;купить процессор;1467;47818;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;3376;buy_electronics;ru
+TRANSACTIONAL;купить взрослый велосипед мужской;1719;14609;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;81897;buy_electronics;uk
+TRANSACTIONAL;купить мобильный телефон;1499;26978;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;18822;buy_electronics;ru
+TRANSACTIONAL;купить умные часы;1640;16424;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;28951;buy_electronics;ru
+TRANSACTIONAL;купить телефон samsung;1549;12269;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;22711;buy_electronics;uk
+TRANSACTIONAL;купить спутниковый телефон;2020;4531;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;21138;buy_electronics;ru
+TRANSACTIONAL;купить складной взрослый велосипед;1762;6882;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;85561;buy_electronics;en
+TRANSACTIONAL;купить мини пк;1774;6336;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;23258;buy_electronics;uk
+TRANSACTIONAL;купить гта 6 на пк;1957;2825;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;95200;buy_electronics;uk
+TRANSACTIONAL;купить холодильник атлант двухкамерный;1484;11756;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;62770;buy_electronics;ru
+TRANSACTIONAL;купить смартфон хонор;1471;11943;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;23448;buy_electronics;en
+TRANSACTIONAL;купить телефон раскладушка;1391;10548;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;41783;buy_electronics;en
+TRANSACTIONAL;купить лазерный цветной принтер;1560;4569;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;85455;buy_electronics;ru
+TRANSACTIONAL;купить роутер вай фай;1309;10780;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;84128;buy_electronics;uk
+TRANSACTIONAL;купить xiaomi смартфон;1019;20845;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;51036;buy_electronics;ru
+TRANSACTIONAL;купить сотовый телефон;1202;14873;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;22665;buy_electronics;uk
+TRANSACTIONAL;купить кондиционер сплит система;1287;9432;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;79888;buy_electronics;en
+TRANSACTIONAL;купить хуавей смартфон;1352;6979;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;48452;buy_electronics;uk
+TRANSACTIONAL;купить телефон ксиоми;1303;6432;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;22780;buy_electronics;en
+TRANSACTIONAL;купить холодильник ноу фрост;1040;21045;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;69643;buy_electronics;ru
+TRANSACTIONAL;купить недорого смартфон;1003;22622;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;49944;buy_electronics;en
+TRANSACTIONAL;купить вертикальный пылесос беспроводной;1123;11073;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;81169;buy_electronics;uk
+TRANSACTIONAL;купить игры на пк;1181;8448;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;60382;buy_electronics;en
+TRANSACTIONAL;купить телефон сяоми;1169;6081;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;26730;buy_electronics;ru
+TRANSACTIONAL;купить холодильник в нижнем новгороде;1195;5382;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;95926;buy_electronics;en
+TRANSACTIONAL;купить телефон билайн;1155;6048;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;50371;buy_electronics;en
+TRANSACTIONAL;купить велосипед в нижнем новгороде;1158;4963;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;95233;buy_electronics;ru
+TRANSACTIONAL;купить робот пылесос для бассейна;1132;4710;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;99792;buy_electronics;uk
+TRANSACTIONAL;купить телефон техно;985;9803;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;24616;buy_electronics;uk
+TRANSACTIONAL;купить впн на пк;1323;1780;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;60301;buy_electronics;en
+TRANSACTIONAL;купить кондиционер напольный переносной для квартиры;1704;2337;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;118057;buy_electronics;en
+TRANSACTIONAL;купить смартфон honor;770;12676;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;31536;buy_electronics;en
+TRANSACTIONAL;купить кондиционер мобильный для дома;1107;3342;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;109546;buy_electronics;ru
+TRANSACTIONAL;купить электрический самокат взрослый;968;5662;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;89209;buy_electronics;en
+TRANSACTIONAL;купить пылесос моющий для дома;934;6593;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;110449;buy_electronics;uk
+TRANSACTIONAL;купить напольный кондиционер в новосибирске;1159;2061;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;102911;buy_electronics;ru
+TRANSACTIONAL;купить бензиновый триммер;18078;165437;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;15456;buy_fashion_beauty;en
+TRANSACTIONAL;купить триммер;6608;788221;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;824;buy_fashion_beauty;ru
+TRANSACTIONAL;купить аккумуляторный триммер;9511;111064;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;15052;buy_fashion_beauty;uk
+TRANSACTIONAL;купить электрический триммер;7638;75978;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;17193;buy_fashion_beauty;uk
+TRANSACTIONAL;купить аккумуляторный триммер для травы;7112;37479;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;95569;buy_fashion_beauty;uk
+TRANSACTIONAL;купить бензиновый триммер для травы;5393;21001;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;96399;buy_fashion_beauty;ru
+TRANSACTIONAL;купить триммер для травы электрический;4967;24293;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;102786;buy_fashion_beauty;en
+TRANSACTIONAL;купить духи;2986;311542;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;1483;buy_fashion_beauty;en
+TRANSACTIONAL;купить триммер для травы;2250;100869;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;57807;buy_fashion_beauty;uk
+TRANSACTIONAL;купить рюкзак;2125;105680;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;2309;buy_fashion_beauty;ru
+TRANSACTIONAL;купить дайсон фен;2610;11701;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;38055;buy_fashion_beauty;en
+TRANSACTIONAL;купить мужской рюкзак;2458;15254;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;38974;buy_fashion_beauty;ru
+TRANSACTIONAL;купить штиль триммер;1946;40381;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;47388;buy_fashion_beauty;ru
+TRANSACTIONAL;купить парфюм;1529;119463;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;2664;buy_fashion_beauty;en
+TRANSACTIONAL;купить фен дайсон оригинал;2784;4567;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;77072;buy_fashion_beauty;uk
+TRANSACTIONAL;купить фен строительный;2339;7992;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;33459;buy_fashion_beauty;uk
+TRANSACTIONAL;купить фен;1441;70053;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;3618;buy_fashion_beauty;ru
+TRANSACTIONAL;купить бензиновый триммер штиль;2008;9219;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;75337;buy_fashion_beauty;en
+TRANSACTIONAL;купить ирригатор для зубов;1790;7639;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;69806;buy_fashion_beauty;en
+TRANSACTIONAL;купить ирригатор;1435;22575;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;6117;buy_fashion_beauty;ru
+TRANSACTIONAL;купить стайлер дайсон;1774;6848;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;34824;buy_fashion_beauty;en
+TRANSACTIONAL;купить фен для волос;1289;10179;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;61741;buy_fashion_beauty;uk
+TRANSACTIONAL;купить триммер бензиновый 4 тактный;1314;6579;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;110563;buy_fashion_beauty;uk
+TRANSACTIONAL;купить бензиновый триммер чемпион;1174;5097;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;80608;buy_fashion_beauty;en
+TRANSACTIONAL;купить мужские духи;808;29091;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;38316;buy_fashion_beauty;ru
+TRANSACTIONAL;купить триммер бензиновый четырехтактный;1272;2600;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;83899;buy_fashion_beauty;uk
+TRANSACTIONAL;купить триммер бензиновый на озоне;1071;6140;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;102925;buy_fashion_beauty;ru
+TRANSACTIONAL;купить крем солантра;1178;3322;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;45815;buy_fashion_beauty;uk
+TRANSACTIONAL;купить крем чиз;1104;3382;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;46452;buy_fashion_beauty;ru
+TRANSACTIONAL;купить триммер хускварна;804;13228;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;30604;buy_fashion_beauty;en
+TRANSACTIONAL;купить аккумуляторный триммер на озоне;897;7249;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;108491;buy_fashion_beauty;en
+TRANSACTIONAL;купить бепантен крем;1024;3146;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;44353;buy_fashion_beauty;uk
+TRANSACTIONAL;купить бензиновый триммер патриот;919;4026;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;84199;buy_fashion_beauty;uk
+TRANSACTIONAL;купить аккумуляторный триммер макита;929;3764;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;78157;buy_fashion_beauty;ru
+TRANSACTIONAL;купить женский рюкзак;756;10179;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;40810;buy_fashion_beauty;ru
+TRANSACTIONAL;купить диван;31545;682839;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;361;buy_home_tools;ru
+TRANSACTIONAL;купить шины;17158;688567;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;191;buy_home_tools;en
+TRANSACTIONAL;купить кровать;14901;578279;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;198;buy_home_tools;en
+TRANSACTIONAL;купить унитаз;14385;256553;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;544;buy_home_tools;en
+TRANSACTIONAL;купить аккумулятор;10964;783030;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;369;buy_home_tools;en
+TRANSACTIONAL;купить линолеум;13421;149878;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;946;buy_home_tools;uk
+TRANSACTIONAL;купить матрас;10982;408720;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;524;buy_home_tools;ru
+TRANSACTIONAL;купить генератор;8111;375618;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;734;buy_home_tools;en
+TRANSACTIONAL;купить генератор бензиновый;11345;58430;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;15106;buy_home_tools;en
+TRANSACTIONAL;купить шкаф;7078;430784;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;650;buy_home_tools;uk
+TRANSACTIONAL;купить ламинат;8570;122577;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;1077;buy_home_tools;ru
+TRANSACTIONAL;купить шуруповерт аккумуляторный;9857;42386;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;14378;buy_home_tools;uk
+TRANSACTIONAL;купить обои;7232;166452;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;1124;buy_home_tools;uk
+TRANSACTIONAL;купить шуруповерт;6669;174164;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;671;buy_home_tools;ru
+TRANSACTIONAL;купить кресло кровать;7507;47723;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;15084;buy_home_tools;ru
+TRANSACTIONAL;купить перфоратор;6318;66052;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;1221;buy_home_tools;uk
+TRANSACTIONAL;купить угловой диван;6274;58391;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;15363;buy_home_tools;ru
+TRANSACTIONAL;купить бойлер;5177;87064;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;1765;buy_home_tools;en
+TRANSACTIONAL;купить резину;3637;450195;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;742;buy_home_tools;uk
+TRANSACTIONAL;купить стол кухонный;4933;47649;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;17839;buy_home_tools;ru
+TRANSACTIONAL;купить компьютерный стол;5019;31305;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;15631;buy_home_tools;uk
+TRANSACTIONAL;купить окна;2897;411491;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;2278;buy_home_tools;uk
+TRANSACTIONAL;купить теннисный стол;4379;23995;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;17117;buy_home_tools;uk
+TRANSACTIONAL;купить котел газовый;2930;134818;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;36545;buy_home_tools;en
+TRANSACTIONAL;купить генератор гибридный газ бензин;4016;10382;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;96534;buy_home_tools;ru
+TRANSACTIONAL;купить стол письменный;2922;30596;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;21390;buy_home_tools;uk
+TRANSACTIONAL;купить бильярдный стол;3294;12496;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;18039;buy_home_tools;en
+TRANSACTIONAL;купить стул;1435;220309;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;3948;buy_home_tools;en
+TRANSACTIONAL;купить обеденный стол;2098;25395;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;30904;buy_home_tools;uk
+TRANSACTIONAL;купить котел двухконтурный газовый настенный;1439;13951;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;111947;buy_home_tools;en
+TRANSACTIONAL;купить электрический духовой шкаф;1334;17480;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;78724;buy_home_tools;ru
+TRANSACTIONAL;купить аккумуляторный секатор;1446;9290;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;32394;buy_home_tools;uk
+TRANSACTIONAL;купить котел твердотопливный;1243;16850;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;34263;buy_home_tools;ru
+TRANSACTIONAL;купить дрель;1020;45988;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;6530;buy_home_tools;ru
+TRANSACTIONAL;купить шуруповерт макита;1145;12083;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;24935;buy_home_tools;en
+TRANSACTIONAL;купить диван в нижнем новгороде;1214;5505;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;95411;buy_home_tools;ru
+TRANSACTIONAL;купить генератор дизельный 5 квт;1342;3083;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;107754;buy_home_tools;uk
+TRANSACTIONAL;купить секатор садовый;1079;6541;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;27550;buy_home_tools;en
+TRANSACTIONAL;купить москитные сетки на окна;786;33651;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;107272;buy_home_tools;uk
+TRANSACTIONAL;купить диван кровать недорого;1019;8146;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;66429;buy_home_tools;en
+TRANSACTIONAL;купить генератор газовый для дома;1150;3806;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;114008;buy_home_tools;uk
+TRANSACTIONAL;купить стол складной туристический;1186;3034;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;83291;buy_home_tools;ru
+TRANSACTIONAL;купить генератор газовый для дома на природном газе;2178;3938;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;136839;buy_home_tools;uk
+TRANSACTIONAL;купить унитаз с бачком напольный;1030;5440;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;102339;buy_home_tools;ru
+TRANSACTIONAL;купить кровать 160х200 с подъемным механизмом;1413;5449;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;122833;buy_home_tools;en
+TRANSACTIONAL;купить генератор 5 квт бензиновый;1035;4836;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;113616;buy_home_tools;ru
+TRANSACTIONAL;купить стол круглый;785;20137;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;42177;buy_home_tools;en
+TRANSACTIONAL;купить аккумулятор литий железо фосфатный;1094;3163;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;112110;buy_home_tools;ru
+TRANSACTIONAL;купить матрас аскона 160х200;1116;2783;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;75075;buy_home_tools;ru
+TRANSACTIONAL;купить стул складной туристический;1059;3487;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;83836;buy_home_tools;ru
+TRANSACTIONAL;купить массажный стол;929;5967;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;31934;buy_home_tools;en
+TRANSACTIONAL;купить кровать двуспальная 160х200;893;6797;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;87489;buy_home_tools;uk
+TRANSACTIONAL;купить на озоне шуруповерт;850;8354;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;81647;buy_home_tools;uk
+TRANSACTIONAL;купить генератор для дома бензиновый;882;5672;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;113171;buy_home_tools;uk
+TRANSACTIONAL;купить сварочный стол;970;3206;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;37644;buy_home_tools;en
+TRANSACTIONAL;купить аквариум;2977;91681;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;1982;buy_kids_pets;uk
+TRANSACTIONAL;купить корм для собак;914;51347;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;62145;buy_kids_pets;en
+TRANSACTIONAL;купить корм molina;876;8777;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;35248;buy_kids_pets;ru
+TRANSACTIONAL;купить бравекто для собак;951;6669;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;78239;buy_kids_pets;en
+TRANSACTIONAL;купить симпарика для собак;909;7952;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;89940;buy_kids_pets;en
+TRANSACTIONAL;купить корм для кошек;608;66063;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;65742;buy_kids_pets;en
+TRANSACTIONAL;купить корм сухой для кошек;665;18824;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;112727;buy_kids_pets;en
+TRANSACTIONAL;купить корм molina для кошек;662;4221;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;113653;buy_kids_pets;uk
+TRANSACTIONAL;купить мультикан 8 для собак;628;2727;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;110760;buy_kids_pets;en
+TRANSACTIONAL;купить влажный корм для кошек;438;11546;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;105897;buy_kids_pets;ru
+TRANSACTIONAL;купить сухой корм для собак;420;10560;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;106032;buy_kids_pets;uk
+TRANSACTIONAL;купить уристоп для собак;592;1171;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;91907;buy_kids_pets;ru
+TRANSACTIONAL;купить корм alphapet для кошек;504;1172;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;115394;buy_kids_pets;ru
+TRANSACTIONAL;купить наполнитель для кошачьего туалета древесный;718;1835;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;126390;buy_kids_pets;en
+TRANSACTIONAL;купить корм для кошек молина;499;1511;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;115951;buy_kids_pets;uk
+TRANSACTIONAL;купить превикокс 227 для собак;551;752;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;115633;buy_kids_pets;uk
+TRANSACTIONAL;купить манеж детский;402;2634;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;51472;buy_kids_pets;uk
+TRANSACTIONAL;купить апоквел 16 мг для собак;652;1071;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;126446;buy_kids_pets;ru
+TRANSACTIONAL;купить шеба корм для кошек;428;1399;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;115198;buy_kids_pets;ru
+TRANSACTIONAL;купить корм для рыбок аквариумных;428;1327;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;107409;buy_kids_pets;ru
+TRANSACTIONAL;купить билет на поезд;318771;1764506;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;55337;buy_vehicle_property;ru
+TRANSACTIONAL;купить билет на самолет;345871;1113441;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;55336;buy_vehicle_property;ru
+TRANSACTIONAL;купить билет ржд;233221;1584329;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;13223;buy_vehicle_property;ru
+TRANSACTIONAL;купить билет на поезд ржд;161686;565927;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;92901;buy_vehicle_property;uk
+TRANSACTIONAL;купить билет на автобус;74245;677815;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;55332;buy_vehicle_property;uk
+TRANSACTIONAL;купить билет;36309;9600099;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;103;buy_vehicle_property;ru
+TRANSACTIONAL;купить авто;48015;1485509;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;311;buy_vehicle_property;ru
+TRANSACTIONAL;купить дом;28017;5205411;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;145;buy_vehicle_property;en
+TRANSACTIONAL;купить мотоцикл;30325;676506;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;117;buy_vehicle_property;ru
+TRANSACTIONAL;купить билет на поезд ржд на официальном;47609;343531;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;130264;buy_vehicle_property;en
+TRANSACTIONAL;купить билет на поезд ржд на официальном сайте;65988;279907;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;135958;buy_vehicle_property;uk
+TRANSACTIONAL;купить билет аэрофлот;26465;206709;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;14281;buy_vehicle_property;ru
+TRANSACTIONAL;купить авиабилет;15473;1503800;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;206;buy_vehicle_property;uk
+TRANSACTIONAL;купить авто в беларуси;22258;49301;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;55329;buy_vehicle_property;en
+TRANSACTIONAL;купить дачу;9682;1366315;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;294;buy_vehicle_property;en
+TRANSACTIONAL;купить билет на самолет авиасейлс;17974;41307;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;92878;buy_vehicle_property;ru
+TRANSACTIONAL;купить билет на электричку;14139;143077;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;55402;buy_vehicle_property;ru
+TRANSACTIONAL;купить аккаунт тг;17064;37761;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;13204;buy_vehicle_property;en
+TRANSACTIONAL;купить участок;9082;819955;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;400;buy_vehicle_property;en
+TRANSACTIONAL;купить билет на самолет дешево;12139;85202;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;92983;buy_vehicle_property;uk
+TRANSACTIONAL;купить билет ржд пассажирам;12004;34457;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;70128;buy_vehicle_property;uk
+TRANSACTIONAL;купить билет на поезд на туту;10414;164932;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;119190;buy_vehicle_property;uk
+TRANSACTIONAL;купить билет на самолет аэрофлот;8527;42354;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;93052;buy_vehicle_property;ru
+TRANSACTIONAL;купить гараж;5295;366702;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;732;buy_vehicle_property;uk
+TRANSACTIONAL;купить дом на колесах;8035;24456;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;56622;buy_vehicle_property;uk
+TRANSACTIONAL;купить авто в днр;7656;24747;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;55585;buy_vehicle_property;en
+TRANSACTIONAL;купить дом в ленинградской области;6740;45301;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;93157;buy_vehicle_property;uk
+TRANSACTIONAL;купить телеграм аккаунт;8192;15856;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;15404;buy_vehicle_property;ru
+TRANSACTIONAL;купить билет победа;6328;58791;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;20624;buy_vehicle_property;ru
+TRANSACTIONAL;купить дом в подмосковье;7139;28987;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;55640;buy_vehicle_property;ru
+TRANSACTIONAL;купить билет ржд официальный;3796;809525;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;58192;buy_vehicle_property;uk
+TRANSACTIONAL;купить стим аккаунт;6652;36483;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;16195;buy_vehicle_property;ru
+TRANSACTIONAL;купить тур;4636;233181;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;781;buy_vehicle_property;ru
+TRANSACTIONAL;купить онлайн билет на электричку;6898;28450;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;103802;buy_vehicle_property;ru
+TRANSACTIONAL;купить авто в крыму;7470;18455;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;55490;buy_vehicle_property;en
+TRANSACTIONAL;купить аккаунт телеграмм;7644;16253;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;13572;buy_vehicle_property;uk
+TRANSACTIONAL;купить дом в краснодаре;6847;25488;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;55598;buy_vehicle_property;uk
+TRANSACTIONAL;купить билет на самолет победа;6695;26355;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;93414;buy_vehicle_property;en
+TRANSACTIONAL;купить дом в краснодарском крае;4732;59461;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;93223;buy_vehicle_property;uk
+TRANSACTIONAL;купить дом в нижегородской области;4560;38258;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;93099;buy_vehicle_property;en
+TRANSACTIONAL;купить билет северречфлот;5572;12639;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;18501;buy_vehicle_property;ru
+TRANSACTIONAL;купить билет на самолет из санкт петербурга;6332;29576;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;130288;buy_vehicle_property;en
+TRANSACTIONAL;купить билет на ласточку;3930;61776;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;55993;buy_vehicle_property;en
+TRANSACTIONAL;купить билет русское лото;3367;19744;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;58332;buy_vehicle_property;uk
+TRANSACTIONAL;купить сервер;2749;56389;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;1738;buy_vehicle_property;uk
+TRANSACTIONAL;купить билет на самолет дешево онлайн;4890;13148;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;117783;buy_vehicle_property;en
+TRANSACTIONAL;купить билет авиасейлс;2620;59225;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;25735;buy_vehicle_property;en
+TRANSACTIONAL;купить дачу в ленинградской области;2920;20972;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;93392;buy_vehicle_property;ru
+TRANSACTIONAL;купить участок в ленинградской области;3000;16746;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;93463;buy_vehicle_property;en
+TRANSACTIONAL;купить билет туту;1774;244636;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;21445;buy_vehicle_property;ru
+TRANSACTIONAL;купить дом в донецке днр;3090;8627;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;93331;buy_vehicle_property;uk
+TRANSACTIONAL;купить аккаунт мир танков;3183;7260;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;56152;buy_vehicle_property;uk
+TRANSACTIONAL;купить билет уральские авиалинии;2947;9127;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;74210;buy_vehicle_property;uk
+TRANSACTIONAL;купить билет на сапсан;2468;20981;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;56377;buy_vehicle_property;en
+TRANSACTIONAL;купить дом в ростове на дону;3626;14079;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;117149;buy_vehicle_property;ru
+TRANSACTIONAL;купить номера цены авто;3159;3689;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;56185;buy_vehicle_property;uk
+TRANSACTIONAL;купить билет на самолет аэрофлот на официальный;3120;20474;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;132390;buy_vehicle_property;uk
+TRANSACTIONAL;купить билет планета океан калининград;2761;5729;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;106101;buy_vehicle_property;en
+TRANSACTIONAL;купить билет автовокзал;1463;135617;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;21368;buy_vehicle_property;ru
+TRANSACTIONAL;купить билет эрмитаж;1770;47460;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;34979;buy_vehicle_property;uk
+TRANSACTIONAL;купить билет авиа;1813;34032;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;16168;buy_vehicle_property;en
+TRANSACTIONAL;купить дом в рязанской области;2010;18131;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;93992;buy_vehicle_property;en
+TRANSACTIONAL;купить дом в свердловской области;1772;34100;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;93849;buy_vehicle_property;ru
+TRANSACTIONAL;купить дом в минской области;2266;9195;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;93719;buy_vehicle_property;en
+TRANSACTIONAL;купить дом в нижнем новгороде;2115;12435;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;93732;buy_vehicle_property;en
+TRANSACTIONAL;купить билет руки вверх волгоград;2141;11521;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;105404;buy_vehicle_property;uk
+TRANSACTIONAL;купить дом в минском районе;2153;9675;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;93631;buy_vehicle_property;en
+TRANSACTIONAL;купить билет ютэйр;2126;9149;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;28659;buy_vehicle_property;ru
+TRANSACTIONAL;купить авто в краснодарском крае;2153;8156;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;93730;buy_vehicle_property;en
+TRANSACTIONAL;купить дом в воронежской области;1716;26479;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;93988;buy_vehicle_property;ru
+TRANSACTIONAL;заказать такси;19131;295333;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;168;courier_taxi;uk
+TRANSACTIONAL;вызвать такси;13236;190674;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;213;courier_taxi;en
+TRANSACTIONAL;вызвать такси яндекс;6905;38820;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;14333;courier_taxi;uk
+TRANSACTIONAL;вызвать эвакуатор;5195;21223;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;632;courier_taxi;ru
+TRANSACTIONAL;заказать такси онлайн;3056;35799;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;15069;courier_taxi;en
+TRANSACTIONAL;заказать такси максим;1474;12765;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;21657;courier_taxi;ru
+TRANSACTIONAL;вызвать такси по телефону яндекс;1291;7676;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;112087;courier_taxi;uk
+TRANSACTIONAL;вызвать такси яндекс онлайн;1466;2141;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;68427;courier_taxi;ru
+TRANSACTIONAL;заказать эвакуатор;1007;5294;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;4005;courier_taxi;ru
+TRANSACTIONAL;доставка курьер;648;183218;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;10873;courier_taxi;ru
+TRANSACTIONAL;вызвать такси по телефону;586;16962;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;69297;courier_taxi;uk
+TRANSACTIONAL;вызвать такси максим;770;3471;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;22197;courier_taxi;en
+TRANSACTIONAL;заказать газель;559;11989;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;6364;courier_taxi;en
+TRANSACTIONAL;доставка пятерочка курьер;893;6063;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;46323;courier_taxi;uk
+TRANSACTIONAL;заказать такси по телефону;443;23002;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;70074;courier_taxi;uk
+TRANSACTIONAL;доставка такси;699;18889;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;10664;courier_taxi;en
+TRANSACTIONAL;заказать такси онлайн максим;581;2983;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;85620;courier_taxi;uk
+TRANSACTIONAL;заказать такси грузовое;498;4831;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;53715;courier_taxi;en
+TRANSACTIONAL;вызвать такси онлайн;500;3314;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;27222;courier_taxi;en
+TRANSACTIONAL;заказать такси нижний новгород;401;2135;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;83624;courier_taxi;ru
+TRANSACTIONAL;доставка яндекс;167064;867747;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;34;delivery_food_goods;en
+TRANSACTIONAL;доставка самокат;57121;199779;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;1132;delivery_food_goods;ru
+TRANSACTIONAL;заказать яндекс такси;26577;133535;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;14837;delivery_food_goods;en
+TRANSACTIONAL;доставка магнит;32586;187849;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;1016;delivery_food_goods;ru
+TRANSACTIONAL;доставка озон;26379;296340;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;678;delivery_food_goods;ru
+TRANSACTIONAL;доставка вкусвилл;26301;67358;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;2872;delivery_food_goods;ru
+TRANSACTIONAL;заказать суши;7335;151528;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;795;delivery_food_goods;ru
+TRANSACTIONAL;доставка сдэк;11061;157139;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;948;delivery_food_goods;en
+TRANSACTIONAL;заказать еду;6823;145168;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;284;delivery_food_goods;en
+TRANSACTIONAL;доставка яндекс еда;11633;85090;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;20657;delivery_food_goods;uk
+TRANSACTIONAL;заказать такси яндекс онлайн;8632;26317;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;62161;delivery_food_goods;en
+TRANSACTIONAL;доставка суши;6978;280095;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;791;delivery_food_goods;uk
+TRANSACTIONAL;доставка магнит на дом продуктов;8622;16040;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;103592;delivery_food_goods;en
+TRANSACTIONAL;доставка еда;4002;718043;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;6867;delivery_food_goods;en
+TRANSACTIONAL;заказать озон карту;3892;47453;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;15560;delivery_food_goods;uk
+TRANSACTIONAL;доставка яндекс отследить;5887;41347;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;36889;delivery_food_goods;ru
+TRANSACTIONAL;доставка бургер кинг;5820;35338;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;18532;delivery_food_goods;en
+TRANSACTIONAL;доставка яндекс маркет;4814;33966;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;16086;delivery_food_goods;en
+TRANSACTIONAL;доставка озон фреш;5116;16179;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;38412;delivery_food_goods;en
+TRANSACTIONAL;заказать воду;2131;92119;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;1309;delivery_food_goods;ru
+TRANSACTIONAL;доставка лекарств;2762;111403;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;1066;delivery_food_goods;ru
+TRANSACTIONAL;доставка ozon;2420;16190;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;10793;delivery_food_goods;en
+TRANSACTIONAL;заказать самокат;1402;17372;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;10633;delivery_food_goods;uk
+TRANSACTIONAL;доставка самокат до скольки работает;2458;5912;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;104659;delivery_food_goods;en
+TRANSACTIONAL;заказать воду старомытищинский источник;1597;1914;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;86364;delivery_food_goods;uk
+TRANSACTIONAL;заказать бургер кинг;1137;10751;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;28312;delivery_food_goods;ru
+TRANSACTIONAL;доставка магнит промокод на первый заказ;2042;5974;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;126898;delivery_food_goods;uk
+TRANSACTIONAL;доставка озон как отправить посылку;1403;5005;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;94915;delivery_food_goods;uk
+TRANSACTIONAL;доставка озон как оформить;722;10525;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;67257;delivery_food_goods;ru
+TRANSACTIONAL;заказать такси на определенное время яндекс такси;996;7761;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;133636;delivery_food_goods;ru
+TRANSACTIONAL;доставка самокат ростов на дону;1397;1818;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;111429;delivery_food_goods;ru
+TRANSACTIONAL;доставка сдэк сколько стоит;1022;8289;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;80719;delivery_food_goods;en
+TRANSACTIONAL;заказать воду увинская жемчужина ижевск;955;1076;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;109871;delivery_food_goods;en
+TRANSACTIONAL;доставка яндекс еда промокод;791;18656;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;81963;delivery_food_goods;ru
+TRANSACTIONAL;доставка яндекс личный кабинет;1049;2955;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;88338;delivery_food_goods;uk
+TRANSACTIONAL;заказать яндекс курьер;403;40030;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;55299;delivery_food_goods;uk
+TRANSACTIONAL;доставка посылок озон по россии;1097;2066;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;113322;delivery_food_goods;uk
+TRANSACTIONAL;доставка яндекс до скольки работает;898;4277;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;114671;delivery_food_goods;uk
+TRANSACTIONAL;доставка яндекс работа курьером;738;7715;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;90972;delivery_food_goods;uk
+TRANSACTIONAL;заказать вкусвилл;543;3578;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;12606;delivery_food_goods;uk
+TRANSACTIONAL;доставка суши нижний новгород;777;5554;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;65843;delivery_food_goods;uk
+TRANSACTIONAL;заказать воду тюмень 19 литров;645;1084;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;99773;delivery_food_goods;uk
+TRANSACTIONAL;доставка озон сколько стоит;734;4630;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;80357;delivery_food_goods;ru
+TRANSACTIONAL;доставка сдэк рассчитать стоимость доставки;546;18895;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;100447;delivery_food_goods;uk
+TRANSACTIONAL;доставка продуктов на дом самокат;586;10656;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;115863;delivery_food_goods;en
+TRANSACTIONAL;доставка яндекс отследить посылку по трек номеру;1085;2392;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;134626;delivery_food_goods;ru
+TRANSACTIONAL;заказать яндекс пей карту;506;2059;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;89776;delivery_food_goods;en
+TRANSACTIONAL;заказать карту озон банк дебетовую;447;3612;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;104883;delivery_food_goods;ru
+TRANSACTIONAL;заказать курьера сдэк;482;1919;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;38097;delivery_food_goods;ru
+TRANSACTIONAL;заказать доставку яндекс еда;414;3812;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;91237;delivery_food_goods;en
+TRANSACTIONAL;скачать роблокс;1291419;3395812;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;17;download_games;ru
+TRANSACTIONAL;скачать майнкрафт;531463;6207530;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;9;download_games;uk
+TRANSACTIONAL;скачать майнкрафт последняя версия;230989;578305;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;55405;download_games;en
+TRANSACTIONAL;скачать roblox;171907;423618;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;31;download_games;uk
+TRANSACTIONAL;скачать brawl stars;85413;218219;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;13331;download_games;uk
+TRANSACTIONAL;скачать minecraft;54075;475811;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;331;download_games;ru
+TRANSACTIONAL;скачать мод на майнкрафт;38513;1691575;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;55420;download_games;en
+TRANSACTIONAL;скачать роблокс последняя версия;52090;248742;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;55378;download_games;en
+TRANSACTIONAL;скачать лаунчер майнкрафт;42331;168619;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;13224;download_games;ru
+TRANSACTIONAL;скачать дельта роблокс;32882;149697;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;13448;download_games;ru
+TRANSACTIONAL;скачать geometry dash;22777;156162;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;13232;download_games;ru
+TRANSACTIONAL;скачать майнкрафт на андроид последняя версия;33074;152478;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;117559;download_games;ru
+TRANSACTIONAL;скачать скины майнкрафт;19829;201905;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;13270;download_games;ru
+TRANSACTIONAL;скачать майнкрафт на андроид;16586;337893;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;55502;download_games;en
+TRANSACTIONAL;скачать call of duty;11766;252776;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;55456;download_games;en
+TRANSACTIONAL;скачать шейдеры на майнкрафт;15804;90085;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;55511;download_games;ru
+TRANSACTIONAL;скачать майнкрафт бедрок;11989;240247;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;13451;download_games;en
+TRANSACTIONAL;скачать gta 5;12453;80883;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;13545;download_games;ru
+TRANSACTIONAL;скачать roblox com;14212;35424;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;21392;download_games;en
+TRANSACTIONAL;скачать майнкрафт на айфон;13495;68200;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;55466;download_games;ru
+TRANSACTIONAL;скачать роблокс студио;15257;31394;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;13268;download_games;en
+TRANSACTIONAL;скачать gta san andreas;12230;54249;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;55794;download_games;uk
+TRANSACTIONAL;скачать роблокс с читами;13209;52242;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;55595;download_games;uk
+TRANSACTIONAL;скачать дельта роблокс последняя версия;11825;51213;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;93123;download_games;en
+TRANSACTIONAL;скачать standoff 2;9517;67580;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;13778;download_games;en
+TRANSACTIONAL;скачать роблокс на ноутбук;11408;36272;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;55377;download_games;en
+TRANSACTIONAL;скачать мод на майнкрафт на хоррор;13925;68186;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;118611;download_games;uk
+TRANSACTIONAL;скачать легаси лаунчер майнкрафт;11025;21373;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;59784;download_games;en
+TRANSACTIONAL;скачать clash royale;9112;16611;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;14476;download_games;en
+TRANSACTIONAL;скачать мод на оружие на майнкрафт;9544;111270;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;122519;download_games;ru
+TRANSACTIONAL;скачать майнкрафт на телефон;5809;214539;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;55980;download_games;en
+TRANSACTIONAL;скачать call of duty modern warfare 2;8910;41323;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;130283;download_games;uk
+TRANSACTIONAL;скачать карту майнкрафт;4794;263512;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;13871;download_games;uk
+TRANSACTIONAL;скачать роблокс с официального сайта;7965;15198;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;93049;download_games;en
+TRANSACTIONAL;скачать последнюю версию brawl stars;6128;27190;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;97220;download_games;uk
+TRANSACTIONAL;скачать майнкрафт новая версия;5286;45648;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;56391;download_games;en
+TRANSACTIONAL;скачать clash of clans;6036;12091;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;56904;download_games;uk
+TRANSACTIONAL;скачать мод на майнкрафт на телефон;6081;101313;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;120013;download_games;uk
+TRANSACTIONAL;скачать minecraft последняя версия;4886;29663;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;55967;download_games;en
+TRANSACTIONAL;скачать genshin impact;5577;11885;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;18182;download_games;ru
+TRANSACTIONAL;скачать terraria;4589;18744;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;1938;download_games;uk
+TRANSACTIONAL;скачать мод на мебель на майнкрафт;6371;30294;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;124067;download_games;ru
+TRANSACTIONAL;скачать fortnite;4721;11905;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;1931;download_games;ru
+TRANSACTIONAL;скачать ресурс пак на майнкрафт;3781;31880;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;93143;download_games;ru
+TRANSACTIONAL;скачать cs go;3607;19656;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;14978;download_games;ru
+TRANSACTIONAL;скачать gta vice city;3536;20714;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;56977;download_games;uk
+TRANSACTIONAL;скачать мод на майнкрафт дженни мод;5139;19359;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;124613;download_games;uk
+TRANSACTIONAL;скачать один блок майнкрафт;3319;25889;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;68916;download_games;en
+TRANSACTIONAL;скачать текстур пак на майнкрафт;3152;29067;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;93367;download_games;uk
+TRANSACTIONAL;установить роблокс;4019;45435;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;1203;download_games;ru
+TRANSACTIONAL;скачать call of duty world at war;4154;9464;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;130399;download_games;ru
+TRANSACTIONAL;скачать роблокс мод меню;3008;15518;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;57364;download_games;uk
+TRANSACTIONAL;скачать мод на майнкрафт на машины;3612;24852;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;117489;download_games;en
+TRANSACTIONAL;скачать fifa;1677;72990;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;2874;download_games;en
+TRANSACTIONAL;скачать войс мод на майнкрафт;2511;8608;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;93460;download_games;uk
+TRANSACTIONAL;скачать call of duty black ops;2445;30317;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;117388;download_games;uk
+TRANSACTIONAL;скачать роблокс гугл плей;2440;5908;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;66102;download_games;en
+TRANSACTIONAL;скачать роблокс новая версия;2007;15116;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;59928;download_games;uk
+TRANSACTIONAL;скачать pubg mobile;1886;10835;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;20955;download_games;ru
+TRANSACTIONAL;скачать майнкрафт джава на телефон;1967;8501;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;96191;download_games;ru
+TRANSACTIONAL;скачать roblox последнюю версию;1445;17570;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;85429;download_games;uk
+TRANSACTIONAL;скачать скин майнкрафт для тлаунчер;2185;2988;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;93688;download_games;ru
+TRANSACTIONAL;скачать minecraft java edition;1707;6030;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;68623;download_games;en
+TRANSACTIONAL;скачать warface;1717;5183;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;3161;download_games;uk
+TRANSACTIONAL;скачать майнкрафт старая версия;1624;11909;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;59156;download_games;uk
+TRANSACTIONAL;скачать роблокс много робуксов;1575;12095;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;58817;download_games;ru
+TRANSACTIONAL;установить майнкрафт;1520;137750;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;2427;download_games;uk
+TRANSACTIONAL;скачать лаунчер на телефон майнкрафт;1741;5580;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;107814;download_games;ru
+TRANSACTIONAL;установить roblox;583;6678;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;8197;download_games;en
+TRANSACTIONAL;установить brawl stars;514;3452;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;28540;download_games;uk
+TRANSACTIONAL;скачать видео с ютуба;570339;871475;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;55327;download_media;uk
+TRANSACTIONAL;скачать видео с пинтерест;185210;262405;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;55366;download_media;uk
+TRANSACTIONAL;скачать по ссылке видео;118356;610030;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;55829;download_media;uk
+TRANSACTIONAL;скачать видео с инстаграм;120465;176158;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;55412;download_media;ru
+TRANSACTIONAL;скачать видео с тик тока;86542;142303;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;92934;download_media;en
+TRANSACTIONAL;скачать фильм на телефон;41543;1377712;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;55421;download_media;en
+TRANSACTIONAL;скачать видео с рутуба;57442;142794;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;55429;download_media;en
+TRANSACTIONAL;скачать сериал;18929;2678604;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;193;download_media;ru
+TRANSACTIONAL;скачать мультфильм;16912;593344;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;345;download_media;ru
+TRANSACTIONAL;скачать с инстаграма видео;12270;176134;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;59445;download_media;ru
+TRANSACTIONAL;скачать фильм коммерсант;9806;38392;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;13846;download_media;en
+TRANSACTIONAL;скачать живые обои;8878;64709;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;13685;download_media;ru
+TRANSACTIONAL;скачать видео с тиктока;10705;21629;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;55465;download_media;ru
+TRANSACTIONAL;скачать фильм человек паук новый день;12141;63337;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;117021;download_media;uk
+TRANSACTIONAL;скачать видео с лайка;9823;17199;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;55410;download_media;uk
+TRANSACTIONAL;скачать с твиттера видео;10249;12523;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;65131;download_media;uk
+TRANSACTIONAL;скачать видео с яндекса;6655;39967;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;55698;download_media;uk
+TRANSACTIONAL;скачать видео с инстаграмма;7353;15006;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;55621;download_media;en
+TRANSACTIONAL;скачать фильм майкл;5513;68534;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;14903;download_media;ru
+TRANSACTIONAL;скачать фильм обсессия;6694;21249;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;14718;download_media;ru
+TRANSACTIONAL;скачать карту;3056;1183114;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;813;download_media;en
+TRANSACTIONAL;скачать вк видео приложение;6437;20236;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;60882;download_media;ru
+TRANSACTIONAL;скачать обои на телефон;4910;57941;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;55849;download_media;uk
+TRANSACTIONAL;скачать видео с тик тока без водяного знака;11253;20983;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;135964;download_media;en
+TRANSACTIONAL;скачать фильм на анвап;4504;70947;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;55875;download_media;en
+TRANSACTIONAL;скачать видео с инсты;5652;11303;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;55670;download_media;en
+TRANSACTIONAL;скачать онлайн видео;3596;107609;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;35891;download_media;uk
+TRANSACTIONAL;скачать с одноклассников видео;5074;14120;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;58619;download_media;en
+TRANSACTIONAL;скачать видео с фейсбука;5295;10538;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;55757;download_media;uk
+TRANSACTIONAL;скачать с сайта видео;3997;37779;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;75083;download_media;ru
+TRANSACTIONAL;скачать рустор;201491;603730;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;21;download_software;ru
+TRANSACTIONAL;скачать стим;190129;538385;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;23;download_software;ru
+TRANSACTIONAL;скачать дискорд;155616;705019;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;45;download_software;ru
+TRANSACTIONAL;скачать сбербанк онлайн;168228;351066;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;13116;download_software;en
+TRANSACTIONAL;скачать vpn;110305;1738358;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;35;download_software;uk
+TRANSACTIONAL;скачать тикток мод;130460;347950;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;13392;download_software;en
+TRANSACTIONAL;скачать запрет дискорд;115319;374265;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;13228;download_software;ru
+TRANSACTIONAL;скачать запрет дискорд ютуб;95216;188160;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;55384;download_software;ru
+TRANSACTIONAL;скачать телеграм;84728;292010;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;53;download_software;ru
+TRANSACTIONAL;скачать яндекс музыка;63594;360768;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;13487;download_software;ru
+TRANSACTIONAL;скачать steam;66383;134219;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;368;download_software;ru
+TRANSACTIONAL;скачать яндекс браузер;52790;142371;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;13144;download_software;uk
+TRANSACTIONAL;скачать тикток;39446;589097;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;105;download_software;ru
+TRANSACTIONAL;скачать telegram;48533;103716;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;578;download_software;ru
+TRANSACTIONAL;скачать яндекс;32025;1238159;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;125;download_software;uk
+TRANSACTIONAL;скачать сбербанк онлайн на андроид;46774;100651;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;92904;download_software;en
+TRANSACTIONAL;скачать discord;35252;139318;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;485;download_software;uk
+TRANSACTIONAL;скачать тикток мод последняя версия;34120;154299;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;92947;download_software;uk
+TRANSACTIONAL;скачать рустор на андроид;33056;165662;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;55328;download_software;uk
+TRANSACTIONAL;скачать рутуб;28028;323123;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;287;download_software;en
+TRANSACTIONAL;скачать chrome;30252;72978;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;301;download_software;ru
+TRANSACTIONAL;скачать amnezia vpn;29052;52528;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;13795;download_software;uk
+TRANSACTIONAL;скачать adguard vpn;28016;61453;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;14149;download_software;ru
+TRANSACTIONAL;скачать radmin vpn;30228;39505;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;13420;download_software;ru
+TRANSACTIONAL;скачать max;21827;189577;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;152;download_software;en
+TRANSACTIONAL;скачать госуслуги;26302;125458;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;135;download_software;en
+TRANSACTIONAL;скачать obs studio;29482;34949;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;14326;download_software;en
+TRANSACTIONAL;скачать zapret discord youtube;25663;58264;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;55843;download_software;en
+TRANSACTIONAL;скачать word;20440;135491;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;167;download_software;uk
+TRANSACTIONAL;скачать чат gpt;22895;56704;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;13515;download_software;ru
+TRANSACTIONAL;скачать яндекс диск;22951;86543;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;13536;download_software;ru
+TRANSACTIONAL;скачать запрет дискорд ютуб гитхаб;24457;45357;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;92933;download_software;uk
+TRANSACTIONAL;скачать запрет дискорд гитхаб;22252;74038;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;55556;download_software;en
+TRANSACTIONAL;скачать с рутуб видео;18926;142794;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;60100;download_software;en
+TRANSACTIONAL;скачать zoom;20996;40294;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;1079;download_software;ru
+TRANSACTIONAL;скачать whatsapp;19317;51500;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;414;download_software;en
+TRANSACTIONAL;скачать ping vpn;19060;45850;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;13805;download_software;uk
+TRANSACTIONAL;скачать кинопоиск;18413;91578;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;187;download_software;uk
+TRANSACTIONAL;скачать capcut на пк;20452;24697;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;56720;download_software;uk
+TRANSACTIONAL;скачать яндекс навигатор;19507;53953;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;13839;download_software;ru
+TRANSACTIONAL;скачать google chrome;18476;27576;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;13737;download_software;en
+TRANSACTIONAL;скачать тинькофф;15694;88461;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;406;download_software;uk
+TRANSACTIONAL;скачать антивирус;14882;101794;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;207;download_software;uk
+TRANSACTIONAL;скачать vpn happ на пк;17740;21788;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;98276;download_software;ru
+TRANSACTIONAL;скачать chatgpt;15317;36413;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;885;download_software;uk
+TRANSACTIONAL;скачать яндекс такси;15180;62514;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;13525;download_software;uk
+TRANSACTIONAL;скачать браузер;10451;376255;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;240;download_software;uk
+TRANSACTIONAL;скачать excel;11843;71766;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;779;download_software;uk
+TRANSACTIONAL;скачать microsoft office;11995;57760;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;13728;download_software;en
+TRANSACTIONAL;скачать яндекс заправки;13993;36263;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;17734;download_software;uk
+TRANSACTIONAL;скачать браузер тор;14856;26205;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;18462;download_software;uk
+TRANSACTIONAL;скачать яндекс телемост;14333;25648;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;14631;download_software;ru
+TRANSACTIONAL;скачать proton vpn;13028;22281;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;15933;download_software;en
+TRANSACTIONAL;скачать яндекс карты;11126;63882;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;13915;download_software;ru
+TRANSACTIONAL;скачать vpn на андроид;7993;201618;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;56146;download_software;ru
+TRANSACTIONAL;скачать tiktok mod;11696;25363;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;17538;download_software;ru
+TRANSACTIONAL;скачать zapret discord;8734;72286;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;14104;download_software;en
+TRANSACTIONAL;скачать gpt chat;10645;25322;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;22888;download_software;ru
+TRANSACTIONAL;скачать опера браузер;11908;22838;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;16349;download_software;ru
+TRANSACTIONAL;скачать lagom vpn;9876;31811;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;15394;download_software;ru
+TRANSACTIONAL;скачать figma;11004;16586;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;3792;download_software;ru
+TRANSACTIONAL;скачать wps office;10374;17846;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;15612;download_software;en
+TRANSACTIONAL;скачать видео тикток;9450;44396;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;13442;download_software;ru
+TRANSACTIONAL;скачать тинькофф банк;10097;30812;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;13749;download_software;en
+TRANSACTIONAL;скачать powerpoint;8580;39515;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;1046;download_software;ru
+TRANSACTIONAL;скачать новый тикток;9054;34596;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;13691;download_software;uk
+TRANSACTIONAL;скачать иви;8147;47327;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;586;download_software;en
+TRANSACTIONAL;скачать rutube;7014;35648;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;1258;download_software;uk
+TRANSACTIONAL;скачать видео яндекс видео;6716;57954;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;70704;download_software;uk
+TRANSACTIONAL;скачать госуслуги моя школа;8271;19128;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;57776;download_software;en
+TRANSACTIONAL;скачать окко;6812;36538;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;991;download_software;ru
+TRANSACTIONAL;скачать photoshop;5774;45012;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;1720;download_software;en
+TRANSACTIONAL;скачать vpn tip top;6282;17116;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;75949;download_software;en
+TRANSACTIONAL;скачать браузер гугл;7070;15827;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;16204;download_software;en
+TRANSACTIONAL;скачать opera;5444;26884;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;2283;download_software;uk
+TRANSACTIONAL;скачать мод tiktok;5229;22203;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;30820;download_software;en
+TRANSACTIONAL;скачать яндекс мессенджер;6628;11053;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;17655;download_software;ru
+TRANSACTIONAL;скачать blender;4585;35953;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;2395;download_software;en
+TRANSACTIONAL;скачать rustore на андроид;3928;77685;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;56046;download_software;en
+TRANSACTIONAL;скачать хром браузер;5813;15737;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;16012;download_software;uk
+TRANSACTIONAL;скачать стим с официального сайта;6282;8004;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;93180;download_software;ru
+TRANSACTIONAL;скачать яндекс про;5409;15409;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;14697;download_software;ru
+TRANSACTIONAL;скачать госуслуги личный кабинет;5361;12298;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;55796;download_software;uk
+TRANSACTIONAL;скачать adobe premiere pro;4598;14214;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;59513;download_software;en
+TRANSACTIONAL;скачать adobe acrobat;3902;24217;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;16035;download_software;en
+TRANSACTIONAL;скачать яндекс гоу;4735;14820;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;15075;download_software;ru
+TRANSACTIONAL;скачать яндекс книги;3999;19140;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;18173;download_software;uk
+TRANSACTIONAL;скачать яндекс игры;3807;22998;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;14977;download_software;uk
+TRANSACTIONAL;скачать adobe reader;3593;15011;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;17457;download_software;en
+TRANSACTIONAL;скачать acrobat reader;3568;13283;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;37846;download_software;en
+TRANSACTIONAL;скачать vpn speed top;3794;8696;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;76998;download_software;uk
+TRANSACTIONAL;скачать яндекс заправки на андроид приложение;5348;14605;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;122877;download_software;uk
+TRANSACTIONAL;скачать приложение rustore;3301;14018;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;14270;download_software;uk
+TRANSACTIONAL;скачать zapret github discord;3036;20350;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;79595;download_software;uk
+TRANSACTIONAL;скачать vpn дядя ваня;3597;8067;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;69796;download_software;en
+TRANSACTIONAL;скачать видео по ссылке рутуб;3047;34632;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;94270;download_software;ru
+TRANSACTIONAL;скачать red shield vpn;3492;8192;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;66969;download_software;uk
+TRANSACTIONAL;скачать яндекс маркет;3498;12321;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;14947;download_software;en
+TRANSACTIONAL;установить vpn;3294;74604;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;1073;download_software;uk
+TRANSACTIONAL;скачать сбербанк онлайн на андроид с официального сайта;6099;16516;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;135980;download_software;en
+TRANSACTIONAL;скачать тинькофф банк приложение;3240;10769;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;79882;download_software;ru
+TRANSACTIONAL;скачать яндекс клавиатура;3358;8578;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;25302;download_software;uk
+TRANSACTIONAL;скачать vpn proxy master;3054;7574;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;61329;download_software;uk
+TRANSACTIONAL;скачать яндекс почта;3055;13415;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;21432;download_software;en
+TRANSACTIONAL;скачать free vpn fast;2718;7326;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;63477;download_software;en
+TRANSACTIONAL;установить яндекс;2383;220135;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;1829;download_software;ru
+TRANSACTIONAL;установить сбербанк онлайн;2643;39036;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;14717;download_software;ru
+TRANSACTIONAL;установить рустор;1646;34024;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;2045;download_software;en
+TRANSACTIONAL;установить госуслуги;1427;38896;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;2741;download_software;ru
+TRANSACTIONAL;установить max;1302;33560;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;4339;download_software;en
+TRANSACTIONAL;установить телеграм;1513;20633;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;3139;download_software;uk
+TRANSACTIONAL;установить стим;937;45414;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;4408;download_software;en
+TRANSACTIONAL;установить whatsapp;841;13696;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;4300;download_software;uk
+TRANSACTIONAL;установить rustore;697;18060;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;5543;download_software;en
+TRANSACTIONAL;установить рутуб;696;7237;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;6419;download_software;uk
+TRANSACTIONAL;установить сертификаты минцифры госуслуги;773;2403;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;59849;download_software;en
+TRANSACTIONAL;установить кинопоиск;563;11004;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;9454;download_software;uk
+TRANSACTIONAL;установить дискорд;476;16845;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;9799;download_software;en
+TRANSACTIONAL;установить приложение такси яндекс;576;5271;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;88118;download_software;ru
+TRANSACTIONAL;установить приложение тинькофф на айфон;524;1862;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;101592;download_software;ru
+TRANSACTIONAL;оформить осаго онлайн;12510;42859;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;14373;finance_forms;en
+TRANSACTIONAL;оформить осаго;6079;106363;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;681;finance_forms;uk
+TRANSACTIONAL;оформить осаго онлайн на автомобиль;6846;13688;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;96360;finance_forms;en
+TRANSACTIONAL;оформить кредит;3611;123125;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;1064;finance_forms;ru
+TRANSACTIONAL;оформить загранпаспорт;2215;66414;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;1493;finance_forms;en
+TRANSACTIONAL;оформить кредит онлайн;2542;18437;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;16247;finance_forms;uk
+TRANSACTIONAL;оформить займ;1885;25871;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;1888;finance_forms;ru
+TRANSACTIONAL;оформить есим мтс;2475;5754;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;19545;finance_forms;uk
+TRANSACTIONAL;оформить полис осаго;1933;20944;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;16623;finance_forms;ru
+TRANSACTIONAL;оформить полис осаго онлайн;2012;7560;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;61404;finance_forms;uk
+TRANSACTIONAL;оформить есим;1448;32704;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;2928;finance_forms;uk
+TRANSACTIONAL;оформить есим мегафон;2025;3991;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;22647;finance_forms;uk
+TRANSACTIONAL;получить инн;1705;86695;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;2232;finance_forms;ru
+TRANSACTIONAL;оформить загранпаспорт через госуслуги;1267;10710;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;57778;finance_forms;en
+TRANSACTIONAL;получить выписку из егрюл по инн;3133;4269;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;117183;finance_forms;uk
+TRANSACTIONAL;оформить есим билайн;1466;3068;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;23923;finance_forms;uk
+TRANSACTIONAL;получить эцп;1221;37424;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;2855;finance_forms;ru
+TRANSACTIONAL;оформить осаго онлайн на автомобиль недорого;1668;3758;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;122137;finance_forms;en
+TRANSACTIONAL;оформить есим онлайн;1036;7621;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;33355;finance_forms;uk
+TRANSACTIONAL;оформить страховку осаго на автомобиль онлайн;1587;2695;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;125345;finance_forms;en
+TRANSACTIONAL;оформить каско;696;15849;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;7675;finance_forms;en
+TRANSACTIONAL;получить загранпаспорт;820;64884;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;3867;finance_forms;en
+TRANSACTIONAL;оформить кредит совкомбанк;905;3056;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;45011;finance_forms;uk
+TRANSACTIONAL;оформить есим йота;1005;1647;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;32628;finance_forms;ru
+TRANSACTIONAL;оформить осаго росгосстрах;956;2085;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;52208;finance_forms;ru
+TRANSACTIONAL;оформить есим мегафон онлайн;1040;1283;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;78960;finance_forms;ru
+TRANSACTIONAL;получить эцп онлайн;1185;5794;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;24155;finance_forms;uk
+TRANSACTIONAL;получить эцп онлайн для физических лиц казахстан;1831;2169;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;130408;finance_forms;uk
+TRANSACTIONAL;получить кредит;635;70942;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;5134;finance_forms;ru
+TRANSACTIONAL;оформить есим миранда;788;1313;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;38329;finance_forms;en
+TRANSACTIONAL;оформить займ онлайн;605;4766;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;25211;finance_forms;en
+TRANSACTIONAL;оформить страховку осаго онлайн;591;5308;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;82639;finance_forms;ru
+TRANSACTIONAL;оформить есим онлайн билайн;757;863;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;89356;finance_forms;ru
+TRANSACTIONAL;получить паспорт в 14 лет;569;31243;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;97421;finance_forms;ru
+TRANSACTIONAL;получить займ;537;24949;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;6484;finance_forms;en
+TRANSACTIONAL;получить инн по паспорту для физ лиц;425;511;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;131761;finance_forms;en
+TRANSACTIONAL;пополнить стим;388227;741833;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;10;payments_topups;uk
+TRANSACTIONAL;пополнить баланс стим;32661;62080;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;13177;payments_topups;en
+TRANSACTIONAL;пополнить стим мтс;16211;20394;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;13518;payments_topups;uk
+TRANSACTIONAL;оплата цкад;18259;44708;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;335;payments_topups;ru
+TRANSACTIONAL;пополнить стим без комиссии;12482;19578;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;55400;payments_topups;ru
+TRANSACTIONAL;пополнить стим яндекс;9934;13980;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;13374;payments_topups;ru
+TRANSACTIONAL;оплата проезда мсд;12610;26473;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;21506;payments_topups;en
+TRANSACTIONAL;пополнить стим казахстан;7343;17455;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;13358;payments_topups;uk
+TRANSACTIONAL;пополнить steam;6066;17711;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;593;payments_topups;uk
+TRANSACTIONAL;пополнить стим тенге;6258;19983;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;13775;payments_topups;en
+TRANSACTIONAL;пополнить кошелек стим;5734;13606;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;13878;payments_topups;ru
+TRANSACTIONAL;пополнить стим аккаунт;5126;20649;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;14211;payments_topups;uk
+TRANSACTIONAL;оплата м12;6685;33711;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;616;payments_topups;uk
+TRANSACTIONAL;пополнить подорожник;4472;26002;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;927;payments_topups;ru
+TRANSACTIONAL;оплата мсд;4912;43469;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;684;payments_topups;en
+TRANSACTIONAL;оплата жкх;3756;116312;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;890;payments_topups;en
+TRANSACTIONAL;пополнить стим ггсел;4243;5413;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;15622;payments_topups;ru
+TRANSACTIONAL;пополнить стим купикод;4202;5406;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;15760;payments_topups;uk
+TRANSACTIONAL;оплата проезда м12;5481;13840;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;17875;payments_topups;ru
+TRANSACTIONAL;задонатить в стим;5372;12063;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;13558;payments_topups;ru
+TRANSACTIONAL;пополнить стим в россии;3126;19774;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;56227;payments_topups;en
+TRANSACTIONAL;оплата мсд по номеру автомобиля;4935;6976;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;93163;payments_topups;ru
+TRANSACTIONAL;оплатить штраф гибдд;2288;35606;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;14708;payments_topups;en
+TRANSACTIONAL;пополнить стим украина;3137;5641;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;14364;payments_topups;en
+TRANSACTIONAL;оплата проезда цкад;3942;15733;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;22765;payments_topups;uk
+TRANSACTIONAL;оплатить интернет;1661;139644;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;2061;payments_topups;ru
+TRANSACTIONAL;пополнить стим плеерок;3103;4039;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;17870;payments_topups;en
+TRANSACTIONAL;оплата цкад по номеру автомобиля;4163;6822;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;93127;payments_topups;ru
+TRANSACTIONAL;пополнить стим казахстан в тенге;2816;3493;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;93382;payments_topups;uk
+TRANSACTIONAL;оплатить яндекс плюс;1859;19017;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;16904;payments_topups;en
+TRANSACTIONAL;оплатить подписку яндекс плюс;2052;8872;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;67190;payments_topups;ru
+TRANSACTIONAL;пополнить подорожник онлайн;1914;10590;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;15843;payments_topups;uk
+TRANSACTIONAL;оплата м12 по номеру автомобиля;3071;7473;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;93432;payments_topups;ru
+TRANSACTIONAL;пополнить баланс билайн;1751;6703;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;22441;payments_topups;uk
+TRANSACTIONAL;пополнить счет феникс;1767;3812;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;17792;payments_topups;uk
+TRANSACTIONAL;оплатить стим;1260;13385;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;2281;payments_topups;ru
+TRANSACTIONAL;оплатить штраф по номеру постановления;1426;6646;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;94265;payments_topups;uk
+TRANSACTIONAL;пополнить баланс мтс;1144;8496;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;25380;payments_topups;en
+TRANSACTIONAL;оплатить проезд автодор;1203;4748;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;45436;payments_topups;en
+TRANSACTIONAL;оплата жкх личный кабинет;1657;5525;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;57088;payments_topups;uk
+TRANSACTIONAL;оплатить сплит яндекс;882;14408;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;44474;payments_topups;ru
+TRANSACTIONAL;пополнить счет мтс;989;6614;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;26021;payments_topups;ru
+TRANSACTIONAL;оплатить большие связи;1157;2839;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;42400;payments_topups;en
+TRANSACTIONAL;пополнить счет мкс;1138;2164;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;24943;payments_topups;en
+TRANSACTIONAL;оплатить налог;499;123682;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;7071;payments_topups;uk
+TRANSACTIONAL;пополнить счет миранда;999;2304;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;26091;payments_topups;ru
+TRANSACTIONAL;оплата платной дороги м12;1304;5002;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;57805;payments_topups;uk
+TRANSACTIONAL;пополнить баланс мегафон;867;4006;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;30526;payments_topups;en
+TRANSACTIONAL;оплатить проезд по мытищинской хорде;827;3954;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;95686;payments_topups;ru
+TRANSACTIONAL;оплатить билайн домашний интернет;828;2292;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;87225;payments_topups;uk
+TRANSACTIONAL;пополнить стим через яндекс;903;1305;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;59125;payments_topups;ru
+TRANSACTIONAL;пополнить интернет;485;30169;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;6315;payments_topups;ru
+TRANSACTIONAL;отправить посылку яндекс;781;21355;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;26889;payments_topups;uk
+TRANSACTIONAL;оплатить проезд по платной дороге;562;11417;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;98156;payments_topups;uk
+TRANSACTIONAL;оплатить задолженность за проезд;732;2818;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;60494;payments_topups;en
+TRANSACTIONAL;оплатить кредит совкомбанк;650;4381;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;39590;payments_topups;uk
+TRANSACTIONAL;оплатить интернет практика удомля;775;1540;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;78075;payments_topups;en
+TRANSACTIONAL;пополнить счет варфейс;807;1058;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;40318;payments_topups;en
+TRANSACTIONAL;пополнить стим донатов нет;776;1055;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;69436;payments_topups;en
+TRANSACTIONAL;пополнить счет билайн;617;2977;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;31674;payments_topups;ru
+TRANSACTIONAL;пополнить стим через мтс;691;1422;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;60866;payments_topups;uk
+TRANSACTIONAL;пополнить стим украинский аккаунт;693;1164;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;67123;payments_topups;ru
+TRANSACTIONAL;пополнить alipay;435;6763;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;8176;payments_topups;uk
+TRANSACTIONAL;пополнить счет мегафон;551;2840;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;34597;payments_topups;en
+TRANSACTIONAL;пополнить баланс теле2;471;3232;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;37253;payments_topups;en
+TRANSACTIONAL;пополнить счет 7 телеком;560;1095;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;66270;payments_topups;en
+TRANSACTIONAL;пополнить родная связь;482;2121;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;54725;payments_topups;ru
+TRANSACTIONAL;пополнить стим купи код;584;662;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;70063;payments_topups;uk
+TRANSACTIONAL;пополнить китайский аккаунт стим;555;831;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;71811;payments_topups;ru
+TRANSACTIONAL;пополнить стим плати маркет;566;719;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;72158;payments_topups;uk
+TRANSACTIONAL;пополнить баланс стим без комиссии;533;982;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;99790;payments_topups;en
+TRANSACTIONAL;оплата за интернет ростелеком по лицевому счету;1008;1543;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;134321;payments_topups;en
+TRANSACTIONAL;пополнить счет блек раша;519;822;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;79561;payments_topups;en
+TRANSACTIONAL;пополнить баланс миранда;477;1074;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;44045;payments_topups;ru
+TRANSACTIONAL;пополнить счет ростелеком;428;1696;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;43464;payments_topups;uk
+TRANSACTIONAL;пополнить стим без комиссии в россии;572;1428;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;121324;payments_topups;uk
+TRANSACTIONAL;пополнить баланс стим яндекс;481;607;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;66619;payments_topups;ru
+TRANSACTIONAL;оплата жкх рязань ргмэк онлайн;528;530;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;97349;payments_topups;en
+TRANSACTIONAL;оплата мобильной связи банковской картой;473;842;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;98030;payments_topups;en
+TRANSACTIONAL;оплата проезда по цкад по номеру;405;2452;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;125904;payments_topups;uk
+TRANSACTIONAL;зарегистрироваться на рейс аэрофлот;3637;12285;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;56580;registration;en
+TRANSACTIONAL;зарегистрироваться на рейс;1690;44833;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;15353;registration;uk
+TRANSACTIONAL;зарегистрироваться в вк;2091;11170;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;14770;registration;ru
+TRANSACTIONAL;зарегистрироваться стим;2043;11519;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;5598;registration;en
+TRANSACTIONAL;зарегистрироваться роблокс;1159;19082;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;12642;registration;uk
+TRANSACTIONAL;зарегистрироваться на рейс аэрофлот онлайн;1065;5136;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;102744;registration;ru
+TRANSACTIONAL;зарегистрироваться на рейс победа;1028;3298;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;61241;registration;ru
+TRANSACTIONAL;зарегистрироваться майкрософт;705;5990;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;11333;registration;uk
+TRANSACTIONAL;зарегистрироваться аэрофлот;500;16886;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;10665;registration;en
+TRANSACTIONAL;зарегистрироваться телеграм;477;7974;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;11359;registration;ru
+TRANSACTIONAL;зарегистрироваться вконтакте;483;2917;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;9977;registration;en
+TRANSACTIONAL;зарегистрироваться на рейс уральские авиалинии;515;1414;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;101982;registration;ru
+TRANSACTIONAL;зарегистрироваться дискорд;416;3979;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;12904;registration;uk
+TRANSACTIONAL;зарегистрироваться в программе аэрофлот бонус;407;540;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;115442;registration;uk
+TRANSACTIONAL;аренда авто;372227;770314;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;12;renting;uk
+TRANSACTIONAL;снять дом;4535;1041147;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;699;renting;ru
+TRANSACTIONAL;снять жилье геленджик;5210;50772;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;16315;renting;ru
+TRANSACTIONAL;снять жилье лазаревское;5032;38773;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;17151;renting;uk
+TRANSACTIONAL;снять жилье геленджик посуточно;5320;17109;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;67555;renting;uk
+TRANSACTIONAL;снять дом посуточно;3288;152361;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;14148;renting;uk
+TRANSACTIONAL;снять жилье кабардинка;4286;34854;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;19197;renting;uk
+TRANSACTIONAL;аренда авто калининград;5082;12333;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;13740;renting;en
+TRANSACTIONAL;аренда квартир;2313;756813;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;1405;renting;en
+TRANSACTIONAL;снять жилье ейск;3686;25950;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;25655;renting;en
+TRANSACTIONAL;снять жилье в абхазии;3187;19872;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;56269;renting;ru
+TRANSACTIONAL;снять дом в подмосковье посуточно;3414;8121;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;93373;renting;en
+TRANSACTIONAL;снять жилье архипо осиповка;2730;19219;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;62917;renting;en
+TRANSACTIONAL;снять жилье соль илецк;2687;18802;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;65057;renting;en
+TRANSACTIONAL;снять дом с бассейном;2060;74169;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;56886;renting;uk
+TRANSACTIONAL;снять жилье в адлере;2492;13556;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;56520;renting;ru
+TRANSACTIONAL;снять жилье в анапе;2516;12704;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;56443;renting;en
+TRANSACTIONAL;аренда авто краснодар;2659;8258;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;14477;renting;uk
+TRANSACTIONAL;снять жилье голубицкая;2204;12792;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;34005;renting;uk
+TRANSACTIONAL;прокат авто;2376;83518;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;1323;renting;uk
+TRANSACTIONAL;снять дом на сутки;1441;50254;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;57787;renting;en
+TRANSACTIONAL;снять жилье посуточно;985;245976;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;17842;renting;uk
+TRANSACTIONAL;снять жилье в сочи;1775;10525;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;57192;renting;en
+TRANSACTIONAL;аренда авто сочи;1915;6055;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;15459;renting;ru
+TRANSACTIONAL;снять жилье дивноморское;1599;10531;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;27224;renting;ru
+TRANSACTIONAL;снять дом в подмосковье;1435;18666;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;57602;renting;ru
+TRANSACTIONAL;аренда авто яндекс;1675;7122;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;21686;renting;en
+TRANSACTIONAL;аренда авто под такси;1407;15164;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;57653;renting;en
+TRANSACTIONAL;аренда авто минск;1660;6048;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;15356;renting;uk
+TRANSACTIONAL;снять гараж;1103;49906;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;2639;renting;ru
+TRANSACTIONAL;аренда дом на колесах;1458;11116;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;68340;renting;en
+TRANSACTIONAL;аренда машин;834;195407;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;3489;renting;uk
+TRANSACTIONAL;снять жилье в минске;1588;6336;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;57290;renting;ru
+TRANSACTIONAL;аренда авто новосибирск;1586;6087;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;15608;renting;ru
+TRANSACTIONAL;аренда с выкупом авто;1353;13289;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;68565;renting;ru
+TRANSACTIONAL;снять жилье джубга;1404;10626;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;33729;renting;en
+TRANSACTIONAL;аренда авто владивосток;1598;4550;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;15669;renting;ru
+TRANSACTIONAL;снять жилье в санкт петербурге;1351;10501;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;94826;renting;ru
+TRANSACTIONAL;снять жилье должанская;1242;15403;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;37658;renting;en
+TRANSACTIONAL;снять с учета авто;980;38739;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;70585;renting;uk
+TRANSACTIONAL;снять жилье должанская коса;1359;6716;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;77231;renting;uk
+TRANSACTIONAL;снять жилье яровое;1242;9513;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;31617;renting;en
+TRANSACTIONAL;снять жилье в санкт петербурге посуточно;1855;5798;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;117490;renting;uk
+TRANSACTIONAL;аренда авто красноярск;1352;4615;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;15988;renting;en
+TRANSACTIONAL;снять жилье посуточно в анапе;1352;3674;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;106803;renting;ru
+TRANSACTIONAL;снять дом в карелии;1193;6446;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;58228;renting;ru
+TRANSACTIONAL;снять жилье в казани;1155;6905;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;58101;renting;uk
+TRANSACTIONAL;аренда авто екатеринбург;1169;4815;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;16675;renting;uk
+TRANSACTIONAL;снять жилье посуточно в абхазии;1253;3141;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;108015;renting;en
+TRANSACTIONAL;снять жилье в питере;1066;7340;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;58652;renting;en
+TRANSACTIONAL;аренда авто горно алтайск;1036;2423;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;59453;renting;en
+TRANSACTIONAL;аренда авто нижний новгород;937;3994;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;58940;renting;ru
+TRANSACTIONAL;аренда авто санкт петербург;898;3767;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;59558;renting;ru
+TRANSACTIONAL;аренда самокат;525;41287;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;12804;renting;uk
+TRANSACTIONAL;аренда авто минеральные воды;722;1817;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;62006;renting;ru
+TRANSACTIONAL;аренда авто ростов на дону;478;2724;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;98875;renting;en
+TRANSACTIONAL;аренда авто грузового без водителя;513;1657;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;112773;renting;uk
+TRANSACTIONAL;аренда авто южно сахалинск;488;977;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;65112;renting;uk
+TRANSACTIONAL;арендовать сервер;409;7419;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;7792;renting;ru
+TRANSACTIONAL;аренда авто в ростове на дону;460;1368;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;119659;renting;ru
+TRANSACTIONAL;заказать лекарства в аптеке через интернет;2542;8928;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;117258;services_order;en
+TRANSACTIONAL;заказать печать;760;22753;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;4551;services_order;ru
+TRANSACTIONAL;заказать вывоз мусора;755;15013;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;19335;services_order;en
+TRANSACTIONAL;заказать вывоз мусора в самаре;478;599;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;98101;services_order;ru
+TRANSACTIONAL;заказать таблетки в аптеке через интернет;510;1221;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;119329;services_order;uk
+TRANSACTIONAL;подписка яндекс плюс;94659;612178;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;13260;subscriptions_connect;ru
+TRANSACTIONAL;подписка яндекс;35498;1048812;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;376;subscriptions_connect;en
+TRANSACTIONAL;подписка яндекс музыка;19176;125936;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;14256;subscriptions_connect;ru
+TRANSACTIONAL;подписка иви;11736;236878;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;674;subscriptions_connect;uk
+TRANSACTIONAL;подключить интернет ростелеком;11519;47250;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;27737;subscriptions_connect;uk
+TRANSACTIONAL;подписка окко;5512;94272;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;1214;subscriptions_connect;en
+TRANSACTIONAL;подписка яндекс плюс промокод;6571;31186;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;56107;subscriptions_connect;ru
+TRANSACTIONAL;подписка кинопоиск;4790;110873;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;2296;subscriptions_connect;uk
+TRANSACTIONAL;подключить интернет;2890;590985;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;1273;subscriptions_connect;ru
+TRANSACTIONAL;подключить домашний интернет мтс;5523;15747;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;68954;subscriptions_connect;en
+TRANSACTIONAL;подписка плюс;2514;716114;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;1451;subscriptions_connect;en
+TRANSACTIONAL;подписка премьер;3647;88602;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;1768;subscriptions_connect;uk
+TRANSACTIONAL;подписка спотифай;4323;30478;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;1290;subscriptions_connect;en
+TRANSACTIONAL;подписка happ vpn;3941;19360;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;21068;subscriptions_connect;en
+TRANSACTIONAL;подписка на год яндекс плюс;4198;19450;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;106813;subscriptions_connect;uk
+TRANSACTIONAL;подписка яндекс плюс сколько стоит;4290;10474;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;101551;subscriptions_connect;en
+TRANSACTIONAL;подписка старт;2818;52423;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;1824;subscriptions_connect;en
+TRANSACTIONAL;подписка кинопоиск за 1 рубль;4147;6324;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;100593;subscriptions_connect;ru
+TRANSACTIONAL;подписка яндекс плюс купить;3365;14392;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;58249;subscriptions_connect;uk
+TRANSACTIONAL;подписка яндекс музыка сколько стоит;3427;9295;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;103167;subscriptions_connect;ru
+TRANSACTIONAL;активировать промокод яндекс плюс;5222;9692;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;56010;subscriptions_connect;ru
+TRANSACTIONAL;подключить интернет домашний;2314;62381;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;42387;subscriptions_connect;ru
+TRANSACTIONAL;подключить домашний интернет билайн;3200;7671;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;74474;subscriptions_connect;uk
+TRANSACTIONAL;подписка яндекс промокод;2143;49393;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;30088;subscriptions_connect;ru
+TRANSACTIONAL;подписка яндекс плюс что дает;2723;3980;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;102807;subscriptions_connect;ru
+TRANSACTIONAL;подключить яндекс плюс;1612;38982;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;16594;subscriptions_connect;en
+TRANSACTIONAL;подписка алиса плюс;1619;27641;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;25080;subscriptions_connect;uk
+TRANSACTIONAL;подключить vpn;1250;51729;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;3345;subscriptions_connect;en
+TRANSACTIONAL;подписка яндекс на год;1492;27816;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;70436;subscriptions_connect;en
+TRANSACTIONAL;подключить прокси в телеграм;1681;7742;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;57065;subscriptions_connect;ru
+TRANSACTIONAL;подписка иви сколько стоит;1760;5916;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;71726;subscriptions_connect;en
+TRANSACTIONAL;подписка яндекс алиса;1162;39657;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;30900;subscriptions_connect;uk
+TRANSACTIONAL;подписка окко сколько стоит;1688;5359;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;72873;subscriptions_connect;uk
+TRANSACTIONAL;оформить яндекс сплит;1501;7753;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;42316;subscriptions_connect;uk
+TRANSACTIONAL;подписка spotify;1316;7079;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;7543;subscriptions_connect;uk
+TRANSACTIONAL;подписка яндекс купить;1080;28394;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;40049;subscriptions_connect;en
+TRANSACTIONAL;подписка яндекс плюс что входит;1260;9162;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;97076;subscriptions_connect;ru
+TRANSACTIONAL;подписка за 1 рубль яндекс;1042;11308;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;112724;subscriptions_connect;ru
+TRANSACTIONAL;подключить домашний интернет дом ру;1300;1999;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;110975;subscriptions_connect;uk
+TRANSACTIONAL;подключить домашний интернет мегафон;1041;2912;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;79111;subscriptions_connect;en
+TRANSACTIONAL;оформить карту яндекс банк;700;4373;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;79220;subscriptions_connect;ru
+TRANSACTIONAL;оформить кредит яндекс банк;738;2135;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;85293;subscriptions_connect;uk
+TRANSACTIONAL;подключить яндекс станцию;421;27092;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;26147;subscriptions_connect;uk
+TRANSACTIONAL;подключить домашний интернет мгтс;558;1185;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;92394;subscriptions_connect;ru
+TRANSACTIONAL;активировать промокод яндекс музыка;687;1916;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;66480;subscriptions_connect;en
+TRANSACTIONAL;купить авиабилеты;154469;1503800;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;41;tickets_booking;uk
+TRANSACTIONAL;купить жд билеты;168064;858115;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;13393;tickets_booking;ru
+TRANSACTIONAL;купить ржд билеты;65954;1587863;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;14459;tickets_booking;ru
+TRANSACTIONAL;купить билеты на самолет;57073;1113441;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;55385;tickets_booking;en
+TRANSACTIONAL;купить билеты на поезд;42601;1764506;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;55457;tickets_booking;en
+TRANSACTIONAL;купить авиабилеты на самолет;35305;160542;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;55520;tickets_booking;en
+TRANSACTIONAL;купить авиабилеты на самолет дешевые;26183;63472;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;93935;tickets_booking;en
+TRANSACTIONAL;купить билеты ржд на поезд;13285;565927;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;97206;tickets_booking;uk
+TRANSACTIONAL;купить билеты на автобус;10563;677815;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;55541;tickets_booking;en
+TRANSACTIONAL;купить билеты аэрофлот;11144;206709;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;15649;tickets_booking;en
+TRANSACTIONAL;купить дешевые авиабилеты;10637;115307;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;15458;tickets_booking;en
+TRANSACTIONAL;купить жд билеты онлайн;11633;65496;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;55543;tickets_booking;uk
+TRANSACTIONAL;купить ржд;5326;1626116;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;3695;tickets_booking;uk
+TRANSACTIONAL;купить авиабилеты аэрофлот;10294;24833;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;22320;tickets_booking;ru
+TRANSACTIONAL;купить жд билеты туту;6828;167068;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;74774;tickets_booking;ru
+TRANSACTIONAL;купить билеты руки вверх;6360;74021;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;76078;tickets_booking;uk
+TRANSACTIONAL;купить билеты эрмитаж;6030;47460;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;36406;tickets_booking;ru
+TRANSACTIONAL;купить самолет;3165;1358215;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;1367;tickets_booking;uk
+TRANSACTIONAL;купить билеты авиасейлс;5347;59225;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;27201;tickets_booking;uk
+TRANSACTIONAL;забронировать отель;3868;118774;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;750;tickets_booking;ru
+TRANSACTIONAL;купить авиабилеты онлайн;4900;26778;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;25846;tickets_booking;ru
+TRANSACTIONAL;купить билеты на поезд ржд официальный;3810;298042;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;117179;tickets_booking;uk
+TRANSACTIONAL;купить авиа билеты дешевые;4775;10510;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;67172;tickets_booking;uk
+TRANSACTIONAL;купить билеты ржд официальный;2026;809525;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;58321;tickets_booking;ru
+TRANSACTIONAL;купить билеты сапсан;3283;56535;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;37132;tickets_booking;en
+TRANSACTIONAL;купить автобус;1939;903000;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;2462;tickets_booking;ru
+TRANSACTIONAL;купить билеты на самолет авиасейлс;3339;41307;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;94168;tickets_booking;ru
+TRANSACTIONAL;купить билеты ржд онлайн;2682;120733;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;67636;tickets_booking;en
+TRANSACTIONAL;купить билеты на электричку;2357;143077;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;56770;tickets_booking;en
+TRANSACTIONAL;купить авиабилеты победа;3459;18066;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;28846;tickets_booking;ru
+TRANSACTIONAL;купить билеты на автобус онлайн;2725;58150;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;95741;tickets_booking;en
+TRANSACTIONAL;купить билеты петергоф;2789;46532;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;37005;tickets_booking;uk
+TRANSACTIONAL;купить жд билеты на поезд официальный ржд сайт;6555;16537;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;136707;tickets_booking;uk
+TRANSACTIONAL;купить дешево билеты на самолет;2402;84925;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;109616;tickets_booking;ru
+TRANSACTIONAL;купить билеты сайт ржд;1524;760658;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;83384;tickets_booking;ru
+TRANSACTIONAL;купить билеты на самолет онлайн;2626;41719;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;95264;tickets_booking;uk
+TRANSACTIONAL;купить билеты победа;2273;58791;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;24799;tickets_booking;uk
+TRANSACTIONAL;купить билеты зенит спартак;2348;22895;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;79280;tickets_booking;en
+TRANSACTIONAL;купить авиабилеты туту ру;2467;11787;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;73827;tickets_booking;en
+TRANSACTIONAL;купить билеты на самолет аэрофлот;1905;42354;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;95430;tickets_booking;ru
+TRANSACTIONAL;купить авиабилеты на самолет авиасейлс;2156;21017;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;94832;tickets_booking;en
+TRANSACTIONAL;купить авиабилеты на самолет туту ру;3662;7194;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;125384;tickets_booking;ru
+TRANSACTIONAL;купить авиа билеты;1830;34032;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;35181;tickets_booking;ru
+TRANSACTIONAL;купить авиабилеты авиасейлс дешево;1969;18521;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;71476;tickets_booking;uk
+TRANSACTIONAL;купить жд билеты онлайн ржд официальный;2405;34739;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;117269;tickets_booking;ru
+TRANSACTIONAL;купить авиабилеты на самолет онлайн;2148;9127;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;93578;tickets_booking;uk
+TRANSACTIONAL;купить билеты ржд пассажирам;1494;34457;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;74392;tickets_booking;ru
+TRANSACTIONAL;купить билеты на поезд онлайн;1212;73498;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;98970;tickets_booking;en
+TRANSACTIONAL;купить билеты на поезд туту;993;164932;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;96592;tickets_booking;ru
+TRANSACTIONAL;купить билеты в цирк;1218;34621;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;58118;tickets_booking;uk
+TRANSACTIONAL;купить авиабилеты билеты;1088;54531;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;51278;tickets_booking;en
+TRANSACTIONAL;купить билеты на ласточку;1042;61776;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;58990;tickets_booking;ru
+TRANSACTIONAL;купить билеты в кино;1125;39292;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;58291;tickets_booking;uk
+TRANSACTIONAL;купить билеты вк фест;1157;33781;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;79054;tickets_booking;uk
+TRANSACTIONAL;купить авиабилеты яндекс;1575;6552;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;37851;tickets_booking;en
+TRANSACTIONAL;купить билеты в театр;1040;52466;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;58843;tickets_booking;en
+TRANSACTIONAL;купить билеты в эрмитаж санкт петербург онлайн;2109;5672;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;131372;tickets_booking;en
+TRANSACTIONAL;купить субсидированные билеты аэрофлот;1448;6459;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;69940;tickets_booking;en
+TRANSACTIONAL;купить авиабилеты озон;1398;5921;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;44046;tickets_booking;uk
+TRANSACTIONAL;купить билеты автовокзал;771;135617;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;37344;tickets_booking;uk
+TRANSACTIONAL;купить билеты цирк никулина;1144;14585;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;88321;tickets_booking;en
+TRANSACTIONAL;купить билеты белавиа;1255;8818;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;44913;tickets_booking;uk
+TRANSACTIONAL;купить авиабилеты из екатеринбурга;1409;4439;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;57577;tickets_booking;ru
+TRANSACTIONAL;купить авиабилеты из санкт петербурга;1331;5653;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;94448;tickets_booking;uk
+TRANSACTIONAL;купить поезд;434;1993727;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;10182;tickets_booking;en
+TRANSACTIONAL;купить билеты на электричку онлайн;951;28537;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;96177;tickets_booking;ru
+TRANSACTIONAL;купить жд билеты на официальном сайте жд;1244;39602;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;134199;tickets_booking;en
+TRANSACTIONAL;купить билеты на концерт;708;123402;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;60549;tickets_booking;en
+TRANSACTIONAL;купить билеты на поезд сайт ржд;793;264115;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;126586;tickets_booking;uk
+TRANSACTIONAL;купить билеты на концерт канье уэста;1347;14026;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;117691;tickets_booking;ru
+TRANSACTIONAL;купить билеты железнодорожные билеты;1034;9547;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;87154;tickets_booking;ru
+TRANSACTIONAL;забронировать отель в санкт петербурге;877;2825;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;98088;tickets_booking;uk
+TRANSACTIONAL;забронировать отель нижний новгород;689;1734;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;78781;tickets_booking;en
+TRANSACTIONAL;заказать билет на автобус;506;6562;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;63255;tickets_booking;ru
+TRANSACTIONAL;заказать билет на поезд;457;8297;TRANSACTIONAL/bukvarix_TRANSACTIONAL.csv;64799;tickets_booking;uk
