@@ -1,0 +1,172 @@
+original_row_id;removed_query;removal_reason;old_topic;replacement_query;replacement_source_file;replacement_source_record;replacement_exact_frequency
+3;смартфон и айфон в чем разница;ambiguous_or_informational_intent;phones_tablets;какой смартфон из дешевых самый лучший и самый надежный;COMMERCIAL/gmsk_expertcen.ru.csv;63244;3849
+5;чем отличается смартфон от айфона простыми словами;ambiguous_or_informational_intent;phones_tablets;рейтинг процессоров для смартфонов;COMMERCIAL/gmsk_vyboroved.ru.csv;100495;2984
+7;какой айфон лучше купить 11 или 12;low_distinctive_content;phones_tablets;смартфоны самсунг все модели и цены и характеристики отзывы;COMMERCIAL/gmsk_expertcen.ru.csv;63320;494
+21;какой лучше телефон купить;low_distinctive_content;phones_tablets;лучший телефон для игр;COMMERCIAL/gmsk_vyboroved.ru.csv;44900;508
+32;какой лучше смартфон купить недорогой но качественный;low_distinctive_content;phones_tablets;смартфоны какой фирмы лучше;COMMERCIAL/gmsk_expertcen.ru.csv;98312;409
+41;лучшие недорогие планшеты;low_distinctive_content;phones_tablets;какой айфон самый лучший;COMMERCIAL/gmsk_expertcen.ru.csv;63408;362
+53;самый мощный игровой телефон в мире;weak_commercial_intent;phones_tablets;самсунг телефон какой лучше купить;COMMERCIAL/gmsk_expertcen.ru.csv;163;308
+56;ультрабук чем отличается от ноутбука;ambiguous_or_informational_intent;computers_laptops;hdmi или displayport что лучше;COMMERCIAL/gmsk_vyboroved.ru.csv;44893;1182
+67;ноутбуки отзывы какой лучше купить;low_distinctive_content;computers_laptops;как выбрать материнскую плату для компьютера;COMMERCIAL/gmsk_vyboroved.ru.csv;87945;313
+77;какую выбрать термопасту;topic_mismatch;computers_laptops;что лучше планшет или ноутбук;COMMERCIAL/gmsk_vyboroved.ru.csv;100529;396
+94;топ оперативной памяти;weak_commercial_intent;computers_laptops;как выбрать ноутбук для учебы и работы;COMMERCIAL/gmsk_vyboroved.ru.csv;60551;250
+95;лучший блок питания;topic_mismatch;computers_laptops;лучшие роутеры для квартиры;COMMERCIAL/gmsk_expertcen.ru.csv;48429;329
+108;процессоры snapdragon по мощности таблица;weak_commercial_intent;computers_laptops;рейтинг видеокарт для ноутбуков;COMMERCIAL/gmsk_vyboroved.ru.csv;82007;338
+128;какой лучше купить телевизор;low_distinctive_content;audio_video;как выбрать проектор для дома;COMMERCIAL/gmsk_expertcen.ru.csv;98398;279
+131;мр3 плееры как выбрать лучший mp3 плеер для аудиокниг;topic_mismatch;audio_video;караоке купить для дома с микрофоном как выбрать;COMMERCIAL/gmsk_vyboroved.ru.csv;44947;233
+134;антенна для цифрового телевидения на дачу как выбрать;topic_mismatch;audio_video;лучшая акустика hi fi бюджетного уровня для дома;COMMERCIAL/gmsk_expertcen.ru.csv;98279;537
+139;наушники jbl беспроводные какие лучше купить;near_duplicate;audio_video;лучший бюджетный проектор для дома;COMMERCIAL/gmsk_vyboroved.ru.csv;73292;204
+145;лучший музыкальный плеер для андроид по качеству звука;topic_mismatch;audio_video;какая самая лучшая колонка jbl по звуку;COMMERCIAL/gmsk_vyboroved.ru.csv;100504;427
+150;топ наушников полноразмерных;weak_commercial_intent;audio_video;колонки для компьютера лучшие;COMMERCIAL/gmsk_vyboroved.ru.csv;91032;280
+156;мощная колонка с сабвуфером для улицы;weak_commercial_intent;audio_video;как выбрать домашний кинотеатр;COMMERCIAL/gmsk_vyboroved.ru.csv;94854;23
+157;колонка большая напольная блютуз мощная;weak_commercial_intent;audio_video;как выбрать умную колонку;COMMERCIAL/gmsk_vyboroved.ru.csv;82060;178
+159;морозильная камера или ларь что лучше для дома;topic_false_positive;photo_camera;лучшие видеокамеры для съемки видео;COMMERCIAL/gmsk_expertcen.ru.csv;98440;220
+162;сравнить фотоаппараты canon;near_duplicate;photo_camera;лучшие фотоаппараты для профессиональной съемки;COMMERCIAL/gmsk_vyboroved.ru.csv;11083;180
+172;фотоаппарат какой лучше купить недорогой и хороший;low_distinctive_content;photo_camera;как выбрать фотоаппарат для качественного фото;COMMERCIAL/gmsk_vyboroved.ru.csv;94277;118
+173;как выбрать морозильную камеру для дома советы;topic_false_positive;photo_camera;лучшая подводная камера;COMMERCIAL/gmsk_vyboroved.ru.csv;36128;251
+179;топ объективов для canon;weak_commercial_intent;photo_camera;веб камера купить для компьютера какую выбрать;COMMERCIAL/gmsk_vyboroved.ru.csv;36367;66
+183;лучшая гугл камера для redmi note 7;topic_false_positive;photo_camera;лучшие камеры для стрима;COMMERCIAL/gmsk_vyboroved.ru.csv;36307;78
+205;холодильник какой лучше купить;low_distinctive_content;kitchen_large;газовая плита гефест с газовой духовкой цена и отзывы какая лучше;COMMERCIAL/gmsk_expertcen.ru.csv;2;1732
+220;топ стиральных машин цена качество;weak_commercial_intent;kitchen_large;какой лучше купить холодильник для дома;COMMERCIAL/gmsk_vyboroved.ru.csv;103678;769
+231;духовой шкаф электрический мощность квт;weak_commercial_intent;kitchen_large;варочные панели электрические какие лучше фирмы отзывы покупателей;COMMERCIAL/gmsk_expertcen.ru.csv;76538;478
+239;чем отличается соковыжималка шнековая от центробежной какая лучше;near_duplicate;kitchen_small;лучший электрогриль для дома;COMMERCIAL/gmsk_expertcen.ru.csv;87806;2179
+258;как выбрать электрический чайник для дома;topic_mismatch;kitchen_small;рейтинг кофемашин для дома;COMMERCIAL/gmsk_vyboroved.ru.csv;76137;1344
+266;какой фирмы лучше купить чайник электрический;topic_mismatch;kitchen_small;какую выбрать микроволновку для дома недорого;COMMERCIAL/gmsk_expertcen.ru.csv;3;824
+272;кухонные весы лучшие;topic_mismatch;kitchen_small;какая соковыжималка самая лучшая отзывы;COMMERCIAL/gmsk_expertcen.ru.csv;31906;729
+278;рейтинг вафельница для венских вафель;topic_mismatch;kitchen_small;аэрогриль какой фирмы лучше купить;COMMERCIAL/gmsk_expertcen.ru.csv;19;647
+279;вафельница для бельгийских вафель рейтинг;topic_mismatch;kitchen_small;как выбрать мясорубку электрическую для дома;COMMERCIAL/gmsk_vyboroved.ru.csv;79115;483
+282;какая мощность должна быть у планетарного миксера;weak_commercial_intent;kitchen_small;кофеварка рожковая рейтинг лучших;COMMERCIAL/gmsk_vyboroved.ru.csv;53125;691
+283;мощный ручной миксер для кухни;weak_commercial_intent;kitchen_small;как выбрать мультиварку 10 лучших;COMMERCIAL/gmsk_vyboroved.ru.csv;18795;487
+285;какая должна быть мощность у кофемолки для дома;weak_commercial_intent;kitchen_small;лучшие мясорубки для дома рейтинг;COMMERCIAL/gmsk_expertcen.ru.csv;44;578
+287;рожковые кофеварки для дома оптимальный вариант;weak_commercial_intent;kitchen_small;кофемолки электрические рейтинг лучших;COMMERCIAL/gmsk_vyboroved.ru.csv;49121;565
+288;качественный планетарный миксер для дома;near_duplicate;kitchen_small;блендер погружной рейтинг;COMMERCIAL/gmsk_vyboroved.ru.csv;84937;915
+302;сушилка для фруктов и овощей отзывы;topic_mismatch;cleaning_home;отпариватель для одежды какой лучше;COMMERCIAL/gmsk_expertcen.ru.csv;48227;1027
+303;робот пылесос какой лучше купить;near_duplicate;cleaning_home;отпариватель какой лучше купить для дома;COMMERCIAL/gmsk_expertcen.ru.csv;31892;830
+322;топ очистителей воздуха для квартиры;weak_commercial_intent;cleaning_home;рейтинг пылесосов для дома;COMMERCIAL/gmsk_vyboroved.ru.csv;49104;1102
+324;самый лучший отбеливатель для белого белья;topic_mismatch;cleaning_home;отпариватель для одежды ручной какой лучше;COMMERCIAL/gmsk_vyboroved.ru.csv;73220;775
+326;самый эффективный отбеливатель для белых вещей;topic_mismatch;cleaning_home;какой лучше купить утюг для дома;COMMERCIAL/gmsk_vyboroved.ru.csv;87914;717
+327;какой мощности пылесос лучше купить для дома;weak_commercial_intent;cleaning_home;стиральный порошок какой лучше;COMMERCIAL/gmsk_vyboroved.ru.csv;22921;627
+350;какой выбрать стабилизатор напряжения для частного дома;topic_mismatch;climate_heat;самый лучший кондиционер для квартиры;COMMERCIAL/gmsk_expertcen.ru.csv;76506;697
+366;топ вентиляторов для корпуса;weak_commercial_intent;climate_heat;циркуляционный насос для отопления какой лучше выбрать;COMMERCIAL/gmsk_vyboroved.ru.csv;76162;317
+370;стабилизатор напряжения 220в для дома рейтинг;topic_mismatch;climate_heat;твердотопливные котлы для отопления частного дома цена отзывы;COMMERCIAL/gmsk_expertcen.ru.csv;19227;310
+373;какой купить кондиционер недорогой и качественный в квартиру;near_duplicate;climate_heat;рейтинг бойлеров косвенного нагрева по качеству и надежности;COMMERCIAL/gmsk_vyboroved.ru.csv;27238;360
+376;самый тихий вытяжной вентилятор для ванной;weak_commercial_intent;climate_heat;какой фирмы водонагреватель лучше купить в квартиру отзывы и рейтинг;COMMERCIAL/gmsk_expertcen.ru.csv;31987;390
+377;мощный проточный водонагреватель электрический 380 в;weak_commercial_intent;climate_heat;лучший обогреватель для дачи рейтинг;COMMERCIAL/gmsk_vyboroved.ru.csv;56937;298
+378;вентилятор вытяжной для кухни мощный;weak_commercial_intent;climate_heat;проточный водонагреватель какой лучше;COMMERCIAL/gmsk_expertcen.ru.csv;19388;167
+403;как выбрать мебельный степлер для домашнего использования;topic_mismatch;construction_tools;электропилы цепные рейтинг надежности цены;COMMERCIAL/gmsk_expertcen.ru.csv;31898;884
+408;как выбрать степлер мебельный;topic_mismatch;construction_tools;какой лучше купить лазерный уровень для дома;COMMERCIAL/gmsk_expertcen.ru.csv;74;472
+415;гайковерт электрический ударный рейтинг;topic_mismatch;construction_tools;шуруповерт аккумуляторный какой лучше;COMMERCIAL/gmsk_expertcen.ru.csv;87910;321
+419;лучший гайковерт аккумуляторный;topic_mismatch;construction_tools;торцовочная пила с протяжкой рейтинг;COMMERCIAL/gmsk_vyboroved.ru.csv;49132;338
+420;топ лазерных нивелиров;weak_commercial_intent;construction_tools;как выбрать шуруповерт аккумуляторный какая фирма лучше;COMMERCIAL/gmsk_vyboroved.ru.csv;73279;250
+424;набор инструментов в чемодане для дома качественный;topic_mismatch;construction_tools;сварочная маска хамелеон какую выбрать цена;COMMERCIAL/gmsk_expertcen.ru.csv;76695;229
+429;гель лак или шеллак что лучше;topic_mismatch;renovation_materials;электрический теплый пол рейтинг;COMMERCIAL/gmsk_expertcen.ru.csv;20183;57
+431;что лучше лак или гель лак для ногтей;topic_mismatch;renovation_materials;какой лучше клей для флизелиновых обоев;COMMERCIAL/gmsk_vyboroved.ru.csv;9;161
+433;чем отличается тоника от краски для волос;topic_mismatch;renovation_materials;краскопульт электрический какой лучше купить для дома;COMMERCIAL/gmsk_vyboroved.ru.csv;27240;349
+434;отзывы краска для волос;topic_mismatch;renovation_materials;рейтинг плиточного клея;COMMERCIAL/gmsk_expertcen.ru.csv;1060;88
+437;гель лак калипсо отзывы;topic_mismatch;renovation_materials;клей для обоев виниловых на флизелиновой основе какой лучше;COMMERCIAL/gmsk_expertcen.ru.csv;32423;140
+438;лак для волос kensuko отзывы;topic_mismatch;renovation_materials;лучшие обои для стен;COMMERCIAL/gmsk_vyboroved.ru.csv;80062;14
+440;блюскай гель лак отзывы;topic_mismatch;renovation_materials;какой линолеум самый лучший;COMMERCIAL/gmsk_vyboroved.ru.csv;11554;28
+441;топ лак отзывы реальные;topic_mismatch;renovation_materials;рейтинг теплых полов;COMMERCIAL/gmsk_expertcen.ru.csv;20019;65
+445;краска для волос для домашнего окрашивания какая лучше;topic_mismatch;renovation_materials;рейтинг плиткорезов электрических с водяным охлаждением;COMMERCIAL/gmsk_vyboroved.ru.csv;100966;34
+448;краска для ресниц и бровей какая лучше;topic_mismatch;renovation_materials;самый лучший ламинат для дома;COMMERCIAL/gmsk_expertcen.ru.csv;98537;155
+451;клей для подошвы обуви какой лучше;topic_mismatch;renovation_materials;milassa обои отзывы;COMMERCIAL/gmsk_vyboroved.ru.csv;85621;21
+453;лучшая краска для волос для домашнего использования;topic_mismatch;renovation_materials;рейтинг линолеума по качеству для квартиры;COMMERCIAL/gmsk_expertcen.ru.csv;50672;36
+454;лучшие профессиональные краски для седых волос;topic_mismatch;renovation_materials;рейтинг фасадных красок по штукатурке для наружных работ;COMMERCIAL/gmsk_vyboroved.ru.csv;67443;34
+455;рейтинг биноклей цена качество;topic_mismatch;renovation_materials;какой лучше купить плиткорез электрический;COMMERCIAL/gmsk_vyboroved.ru.csv;67814;18
+456;какой клей для наращивания ресниц самый лучший;topic_mismatch;renovation_materials;рейтинг ламината по качеству;COMMERCIAL/gmsk_vyboroved.ru.csv;97513;130
+461;краска для волос профессиональная рейтинг лучших;topic_mismatch;renovation_materials;обои рейтинг лучших производителей;COMMERCIAL/gmsk_vyboroved.ru.csv;64877;12
+462;лучший клей для обуви профессиональный;topic_mismatch;renovation_materials;лучшие краски для стен в квартире;COMMERCIAL/gmsk_vyboroved.ru.csv;31808;106
+463;ламинат недорогой но качественный купить;low_distinctive_content;renovation_materials;силиконовый герметик для ванной какой лучше;COMMERCIAL/gmsk_expertcen.ru.csv;20669;40
+464;недорогая профессиональная краска для волос;topic_mismatch;renovation_materials;лучший линолеум для дома;COMMERCIAL/gmsk_expertcen.ru.csv;4182;23
+465;какой хороший клей для обоев;topic_mismatch;renovation_materials;плиткорез ручной рейтинг лучших;COMMERCIAL/gmsk_vyboroved.ru.csv;28013;25
+466;бюджетные профессиональные краски для волос;topic_mismatch;renovation_materials;краска для потолка в квартире какая лучше;COMMERCIAL/gmsk_vyboroved.ru.csv;4656;106
+468;чем отличается коверлок от оверлока;ambiguous_or_informational_intent;home_furniture;лучший унитаз по соотношению цена качество;COMMERCIAL/gmsk_vyboroved.ru.csv;14745;686
+477;отзывы о духовых шкафах;topic_false_positive;home_furniture;лучшие одеяла для сна рейтинг;COMMERCIAL/gmsk_vyboroved.ru.csv;11040;497
+479;отзывы стульчик для кормления;topic_false_positive;home_furniture;какой наполнитель для подушки самый лучший;COMMERCIAL/gmsk_vyboroved.ru.csv;18807;316
+488;игровое кресло какое лучше купить;topic_false_positive;home_furniture;лучшие подушки для сна;COMMERCIAL/gmsk_vyboroved.ru.csv;91041;356
+492;с каким наполнителем лучше купить диван;weak_commercial_intent;home_furniture;лучшие инсталляции для унитаза топ 10;COMMERCIAL/gmsk_vyboroved.ru.csv;31656;410
+496;лучшие встраиваемые духовые шкафы электрические;topic_false_positive;home_furniture;рейтинг смесителей для ванной по производителям;COMMERCIAL/gmsk_vyboroved.ru.csv;27243;403
+498;топ инсталляций для унитаза;weak_commercial_intent;home_furniture;инсталляция для унитаза какую выбрать;COMMERCIAL/gmsk_vyboroved.ru.csv;76181;235
+510;средство от ржавчины в унитазе самое эффективное купить;ambiguous_or_informational_intent;home_furniture;самый лучший надувной матрас для сна;COMMERCIAL/gmsk_vyboroved.ru.csv;49137;391
+512;какой фильтр кувшин лучше барьер или аквафор;topic_mismatch;auto_motorcycle;лучшие всесезонные шины для легковых автомобилей;COMMERCIAL/gmsk_vyboroved.ru.csv;53108;1233
+515;сравнение шин по характеристикам лето;topic_mismatch;auto_motorcycle;преобразователь ржавчины для авто какой лучше отзывы;COMMERCIAL/gmsk_vyboroved.ru.csv;73228;783
+517;сравнение зимних шин;topic_mismatch;auto_motorcycle;рейтинг аккумуляторов для автомобиля;COMMERCIAL/gmsk_expertcen.ru.csv;31919;641
+521;обзор швейных машин для дома;topic_mismatch;auto_motorcycle;автомобильный компрессор какой лучше;COMMERCIAL/gmsk_vyboroved.ru.csv;56900;440
+527;кувшин фильтр для воды какой выбрать;topic_mismatch;auto_motorcycle;какие чехлы для автомобиля лучше из какого материала отзывы;COMMERCIAL/gmsk_vyboroved.ru.csv;40550;417
+529;фильтр кувшин для воды какой лучше контрольная закупка;topic_mismatch;auto_motorcycle;сканер для диагностики автомобиля универсальный какой лучше купить;COMMERCIAL/gmsk_expertcen.ru.csv;63348;415
+530;видеорегистратор какой лучше купить;low_distinctive_content;auto_motorcycle;самый лучший держатель для телефона в автомобиле;COMMERCIAL/gmsk_vyboroved.ru.csv;91013;397
+541;рейтинг летних шин r16 205 55 цена качество;topic_mismatch;auto_motorcycle;рейтинг аккумуляторов для автомобиля цена качество;COMMERCIAL/gmsk_expertcen.ru.csv;19199;358
+542;рейтинг зимних шин шипованных;topic_mismatch;auto_motorcycle;лучшие шины летние для легковых автомобилей;COMMERCIAL/gmsk_expertcen.ru.csv;98351;341
+545;рейтинг нешипованных зимних шин;topic_mismatch;auto_motorcycle;рейтинг резины летней;COMMERCIAL/gmsk_expertcen.ru.csv;48275;563
+546;рейтинг летних шин для кроссоверов r17;topic_mismatch;auto_motorcycle;автомобильный пылесос какой лучше купить;COMMERCIAL/gmsk_expertcen.ru.csv;350;216
+547;рейтинг кухонных машин;topic_mismatch;auto_motorcycle;лучшие дворники для автомобиля;COMMERCIAL/gmsk_expertcen.ru.csv;98405;259
+552;хорошая летняя резина на 15;topic_mismatch;auto_motorcycle;регистратор купить для автомобиля какой лучше;COMMERCIAL/gmsk_expertcen.ru.csv;48697;179
+553;автовидеорегистратор купить хороший и недорогой;low_distinctive_content;auto_motorcycle;лучшие аккумуляторы для авто;COMMERCIAL/gmsk_expertcen.ru.csv;32177;237
+559;шампунь против выпадения волос для женщин;ambiguous_or_informational_intent;beauty_skincare;краска для седых волос какая лучше топ 10;COMMERCIAL/gmsk_vyboroved.ru.csv;44867;2282
+566;какой лучше купить эпилятор отзывы;low_distinctive_content;beauty_skincare;маски для волос лучшие;COMMERCIAL/gmsk_vyboroved.ru.csv;79096;759
+601;лучшие туалетные воды для женщин;topic_mismatch;beauty_skincare;как выбрать фен для волос;COMMERCIAL/gmsk_expertcen.ru.csv;98286;546
+639;оверлок для нижнего белья какой лучше;topic_mismatch;clothes_shoes;кроссовки какой фирмы самые качественные;COMMERCIAL/gmsk_vyboroved.ru.csv;4581;520
+640;рейтинг магазинов нижнего белья;topic_mismatch;clothes_shoes;лучшие кроссовки для бега;COMMERCIAL/gmsk_vyboroved.ru.csv;27220;633
+642;топ чемоданов для путешествий;weak_commercial_intent;clothes_shoes;как выбрать постельное белье хорошего качества;COMMERCIAL/gmsk_vyboroved.ru.csv;79151;213
+656;лучшие перчатки для бокса;topic_false_positive;clothes_shoes;лучшие брюки для мужчин;COMMERCIAL/gmsk_vyboroved.ru.csv;11078;155
+657;солкосерил гель или мазь что лучше для заживления ран;off_intent_or_medication_advice;health_devices;лучшие электрические зубные щетки;COMMERCIAL/gmsk_expertcen.ru.csv;48285;620
+658;против герпеса мазь на губах;ambiguous_or_informational_intent;health_devices;ирригатор для зубов рейтинг;COMMERCIAL/gmsk_vyboroved.ru.csv;79113;505
+659;витамин против выпадения волос;ambiguous_or_informational_intent;health_devices;градусник электронный какой лучше;COMMERCIAL/gmsk_vyboroved.ru.csv;11156;83
+661;против синяков мазь;ambiguous_or_informational_intent;health_devices;какой глюкометр самый лучший и точный;COMMERCIAL/gmsk_expertcen.ru.csv;76510;734
+663;витамины алфавит для детей отзывы;topic_mismatch;health_devices;какой тонометр лучше купить для дома отзывы врачей;COMMERCIAL/gmsk_expertcen.ru.csv;76469;1962
+664;лучшие витамины для волос отзывы;topic_mismatch;health_devices;какие зубные щетки самые лучшие;COMMERCIAL/gmsk_vyboroved.ru.csv;63885;202
+666;витамины для женщин после 50 какие лучше купить отзывы врачей;topic_mismatch;health_devices;ингалятор какой лучше купить для всей семьи;COMMERCIAL/gmsk_expertcen.ru.csv;98644;112
+667;витрум витамины отзывы для детей;topic_mismatch;health_devices;глюкометр какой лучше купить для дома;COMMERCIAL/gmsk_vyboroved.ru.csv;49091;609
+671;витамины для женщин после 50 какие лучше;topic_mismatch;health_devices;ирригатор для полости рта рейтинг;COMMERCIAL/gmsk_vyboroved.ru.csv;67023;275
+673;глюкометр какой лучше купить;low_distinctive_content;health_devices;массажеры для лица рейтинг 10 самых лучших;COMMERCIAL/gmsk_vyboroved.ru.csv;36247;104
+674;комплекс витаминов какой лучше;topic_mismatch;health_devices;рейтинг электронных термометров для измерения температуры тела;COMMERCIAL/gmsk_vyboroved.ru.csv;11180;78
+679;лучшие лекарства от грибка ногтей на ногах в запущенной стадии;off_intent_or_medication_advice;health_devices;тонометр автоматический рейтинг лучших;COMMERCIAL/gmsk_expertcen.ru.csv;63259;1272
+680;лучшая мазь для суставов колен;topic_mismatch;health_devices;самые лучшие беруши от шума для сна купить;COMMERCIAL/gmsk_vyboroved.ru.csv;88196;49
+681;лучший креатин моногидрат;topic_mismatch;health_devices;ирригатор рейтинг лучших;COMMERCIAL/gmsk_vyboroved.ru.csv;56929;396
+682;лучшие лекарства от кашля;topic_mismatch;health_devices;микротоковый массажер для лица рейтинг;COMMERCIAL/gmsk_vyboroved.ru.csv;19072;61
+683;лучшие лекарства для восстановления печени;topic_mismatch;health_devices;рейтинг ингаляторов для домашнего пользования;COMMERCIAL/gmsk_expertcen.ru.csv;88571;67
+684;витамины для беременных самые лучшие;topic_mismatch;health_devices;рейтинг градусников для измерения температуры тела;COMMERCIAL/gmsk_vyboroved.ru.csv;23291;55
+686;лучшие витамины группы б;topic_mismatch;health_devices;какой лучше тонометр на запястье;COMMERCIAL/gmsk_vyboroved.ru.csv;36081;796
+688;витамины для мужчин лучшие;topic_mismatch;health_devices;стельки ортопедические рейтинг лучшие;COMMERCIAL/gmsk_vyboroved.ru.csv;11407;38
+689;какие витамины для зрения самые эффективные;topic_mismatch;health_devices;ирригатор для зубов рейтинг лучших;COMMERCIAL/gmsk_vyboroved.ru.csv;63895;154
+690;мазь от герпеса на губах самая эффективная;off_intent_or_medication_advice;health_devices;лучший ингалятор для дома;COMMERCIAL/gmsk_expertcen.ru.csv;64789;48
+691;мазь от ушибов и синяков и отеков обезболивающая недорогая;off_intent_or_medication_advice;health_devices;термометр электронный какой лучше;COMMERCIAL/gmsk_vyboroved.ru.csv;7893;30
+692;витамины для мужчин после 50 лет название недорогие и эффективные;topic_mismatch;health_devices;лучшие глюкометры для домашнего использования;COMMERCIAL/gmsk_expertcen.ru.csv;98466;207
+693;мазь от прыщей на лице недорогая и эффективная;off_intent_or_medication_advice;health_devices;рейтинг массажеров для лица для домашнего использования;COMMERCIAL/gmsk_vyboroved.ru.csv;40993;45
+696;чем отличается памперс от подгузника;ambiguous_or_informational_intent;kids_family;коляски для новорожденных рейтинг лучших;COMMERCIAL/gmsk_vyboroved.ru.csv;91015;391
+698;что лучше памперсы или подгузники;ambiguous_or_informational_intent;kids_family;как выбрать стульчик для кормления;COMMERCIAL/gmsk_vyboroved.ru.csv;76261;116
+760;xbox какой лучше купить;low_distinctive_content;gaming_entertainment;лучшие vr очки для смартфона;COMMERCIAL/gmsk_expertcen.ru.csv;89204;37
+770;топ ретро консолей;weak_commercial_intent;gaming_entertainment;лучший геймпад для пк беспроводной;COMMERCIAL/gmsk_expertcen.ru.csv;99891;29
+772;лучшие пазлы для детей;topic_mismatch;gaming_entertainment;лучшие электронные книги;COMMERCIAL/gmsk_vyboroved.ru.csv;18771;599
+774;что мощнее xbox series s или ps4 pro;weak_commercial_intent;gaming_entertainment;лучший геймпад для телефона;COMMERCIAL/gmsk_vyboroved.ru.csv;104281;28
+775;что мощнее ps4 или xbox one;weak_commercial_intent;gaming_entertainment;лучший джойстик для авиасимуляторов;COMMERCIAL/gmsk_vyboroved.ru.csv;11607;25
+776;что мощнее xbox series x или ps5;weak_commercial_intent;gaming_entertainment;лучшие игровые мыши;COMMERCIAL/gmsk_expertcen.ru.csv;19139;530
+777;самая мощная портативная консоль в мире;weak_commercial_intent;gaming_entertainment;что лучше playstation 5 или xbox series x;COMMERCIAL/gmsk_vyboroved.ru.csv;91039;289
+782;какая резинка для фитнеса лучше тканевая или латексная;topic_mismatch;outdoor_sports;рейтинг палаток туристических на 3 4 человека;COMMERCIAL/gmsk_expertcen.ru.csv;32017;383
+790;какой купить электросамокат отзывы;low_distinctive_content;outdoor_sports;лучшая палатка для туризма на 2 человека;COMMERCIAL/gmsk_vyboroved.ru.csv;40571;364
+794;резинки для фитнеса какие лучше выбрать;topic_mismatch;outdoor_sports;лучшие кроссовки для бега по асфальту;COMMERCIAL/gmsk_vyboroved.ru.csv;60556;249
+800;как выбрать бинокль советы профессионалов;topic_mismatch;outdoor_sports;плетенка для спиннинга рейтинг и цены;COMMERCIAL/gmsk_expertcen.ru.csv;87973;241
+809;бинокль рейтинги лучших;topic_mismatch;outdoor_sports;лучший горный велосипед по соотношению цена качество;COMMERCIAL/gmsk_vyboroved.ru.csv;73301;166
+814;фитнес часы топ 10 лучших;topic_mismatch;outdoor_sports;рейтинг беговых лыж для конькового хода;COMMERCIAL/gmsk_vyboroved.ru.csv;4617;160
+821;оптимальная длина удочки для ловли с берега;weak_commercial_intent;outdoor_sports;самые лучшие палатки для отдыха на природе;COMMERCIAL/gmsk_vyboroved.ru.csv;18876;153
+825;какой насос лучше для колодца с верхним или нижним забором воды;topic_mismatch;garden_country;земля для рассады какая лучше;COMMERCIAL/gmsk_expertcen.ru.csv;19129;831
+842;насос для колодца для водоснабжения дома какой лучше;topic_mismatch;garden_country;какой грунт для рассады самый лучший;COMMERCIAL/gmsk_expertcen.ru.csv;105;413
+844;электропилы цепные какие лучше;topic_mismatch;garden_country;грунт для рассады лучший;COMMERCIAL/gmsk_expertcen.ru.csv;79;457
+850;рейтинг электропил цепных;topic_mismatch;garden_country;бензопилы рейтинг цена качество;COMMERCIAL/gmsk_expertcen.ru.csv;63819;125
+853;рейтинг дренажных насосов для грязной воды;topic_mismatch;garden_country;бензопила рейтинг цена качество;COMMERCIAL/gmsk_expertcen.ru.csv;77411;64
+854;рейтинг цепных электропил по качеству и надежности и цене;topic_mismatch;garden_country;лучший грунт для рассады овощей;COMMERCIAL/gmsk_expertcen.ru.csv;578;149
+863;триммер для травы электрический легкий и мощный для женщин;weak_commercial_intent;garden_country;рейтинг бензопил по качеству;COMMERCIAL/gmsk_expertcen.ru.csv;99223;50
+865;что лучше дронтал или мильбемакс для собак;off_intent_or_medication_advice;pets;какой лучше наполнитель для кошачьего туалета;COMMERCIAL/gmsk_vyboroved.ru.csv;66975;1035
+867;лучшее средство против клещей для собак;topic_false_positive;pets;какой лучше наполнитель для котят;COMMERCIAL/gmsk_vyboroved.ru.csv;73323;155
+871;фенпраз для собак отзывы ветеринаров;off_intent_or_medication_advice;pets;лучшие корма для кошек;COMMERCIAL/gmsk_expertcen.ru.csv;98251;1015
+873;какие лучше таблетки от глистов для собак;off_intent_or_medication_advice;pets;машинки для стрижки собак в домашних условиях какую выбрать;COMMERCIAL/gmsk_vyboroved.ru.csv;36166;151
+876;каким влажным кормом лучше кормить кошку;weak_commercial_intent;pets;корм для кастрированных котов какой лучше отзывы ветеринаров;COMMERCIAL/gmsk_expertcen.ru.csv;76484;820
+878;какой лучше купить аквариум;low_distinctive_content;pets;какой лучше фильтр для аквариума;COMMERCIAL/gmsk_vyboroved.ru.csv;27438;89
+879;каким кормом лучше кормить кошку стерилизованную;weak_commercial_intent;pets;машинка для стрижки собак какая лучше;COMMERCIAL/gmsk_vyboroved.ru.csv;11061;194
+881;капли от клещей для собак рейтинг;topic_false_positive;pets;лучшие игрушки для собак;COMMERCIAL/gmsk_vyboroved.ru.csv;15032;53
+883;таблетки для собак от клещей рейтинг лучших;topic_false_positive;pets;грунт для аквариума с живыми растениями какой лучше;COMMERCIAL/gmsk_vyboroved.ru.csv;49417;61
+886;самое эффективное средство от клещей для собак;topic_false_positive;pets;лучшие шампуни для собак;COMMERCIAL/gmsk_vyboroved.ru.csv;665;43
+887;хорошее средство от клещей для собак;topic_false_positive;pets;кошачий наполнитель какой лучше;COMMERCIAL/gmsk_expertcen.ru.csv;88725;55
+888;эффективные таблетки от клещей для собак;off_intent_or_medication_advice;pets;корм для котят какой лучше;COMMERCIAL/gmsk_vyboroved.ru.csv;70331;261
+893;обзор сучкорезов с длинными ручками;topic_false_positive;office_study;лучшие ручки для письма;COMMERCIAL/gmsk_expertcen.ru.csv;32175;232
+899;дверные ручки какие лучше;topic_false_positive;office_study;как выбрать ламинатор для домашнего пользования;COMMERCIAL/gmsk_vyboroved.ru.csv;49432;55
