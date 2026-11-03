@@ -1,0 +1,120 @@
+original_row_id;removed_query;removal_reason;replacement_query;replacement_source_file;replacement_source_record;replacement_exact_frequency
+1;как пишется по взрослому;manual_quality_review;что такое синонимы в русском языке;INFORMATIONAL/gmsk_nkj.ru.csv;870241;281
+3;что такое депозит дебетовая карта кредитная карта зачем банки привлекают сбережения граждан;highly_translatable_problem;что такое кредитная карта;INFORMATIONAL/gmsk_nkj.ru.csv;796058;1156
+6;сколько звуков в слове пчелы;highly_translatable_problem;почему птиц не бьет током на проводах;INFORMATIONAL/rus_lifehacker.ru.csv;183310;894
+7;как отключить автозапуск приложений в windows 10;version_dependent;чем открыть iso файл;INFORMATIONAL/rus_lifehacker.ru.csv;51921;1560
+9;когда перестанут поддерживать windows 10;manual_quality_review;что такое компьютерный вирус;INFORMATIONAL/gmsk_nkj.ru.csv;296142;2149
+13;как пишется свежее мясо;manual_quality_review;сколько в японском алфавите букв;INFORMATIONAL/gmsk_nkj.ru.csv;643850;657
+19;как пишется нельзя;manual_quality_review;что такое фантастика в литературе;INFORMATIONAL/gmsk_nkj.ru.csv;833854;182
+39;как нарисовать кошку поэтапно;manual_quality_review;чем отличаются хрящевые рыбы от костных рыб;INFORMATIONAL/gmsk_nkj.ru.csv;379129;413
+42;как подшить брюки на машинке для начинающих;manual_quality_review;почему бензин нельзя тушить водой;INFORMATIONAL/gmsk_pochemuha.ru.csv;1918;236
+50;как пишется слава богу;ru_only_redundancy;что означает приставка нео;INFORMATIONAL/gmsk_nkj.ru.csv;721002;226
+72;как пишется будешь;manual_quality_review;чем алфавит кирилла и мефодия отличается от современного;INFORMATIONAL/gmsk_nkj.ru.csv;256998;145
+73;как нарисовать нос легко;manual_quality_review;что такое быстрый сон;INFORMATIONAL/gmsk_nkj.ru.csv;441114;3133
+82;как взять машину в делимобиль пошаговая инструкция;question_classification_error;что значит красный номер на машине;INFORMATIONAL/rus_lifehacker.ru.csv;221682;546
+83;что такое саванна;too_ambiguous;сколько у человека хромосом;INFORMATIONAL/gmsk_nkj.ru.csv;358146;52903
+100;что можно подарить ребенку на 7 лет мальчику;commercial_selection;что такое платоническая любовь;INFORMATIONAL/rus_lifehacker.ru.csv;306726;1676
+102;как снять деньги в банкомате без карты сбербанк;question_classification_error;что такое брачный договор;INFORMATIONAL/gmsk_nkj.ru.csv;503110;1390
+105;что то около 1 процента;meaningless_or_malformed;как перевести дробь в десятичную дробь;INFORMATIONAL/rus_lifehacker.ru.csv;26;12862
+130;что запятая до или после;meaningless_or_malformed;для чего нужен русский язык;INFORMATIONAL/gmsk_nkj.ru.csv;504382;105
+136;как пишется буква е большая;meaningless_or_malformed;какая буква последняя в алфавите;INFORMATIONAL/gmsk_nkj.ru.csv;796201;526
+140;как называется гонки на машинах;manual_quality_review;почему машина глохнет на ходу;INFORMATIONAL/rus_lifehacker.ru.csv;263605;358
+145;чем отличается оферта от договора;legal_information_ru_specific;чем дебетовая банковская карта отличается от кредитной;INFORMATIONAL/gmsk_nkj.ru.csv;834337;112
+148;как делать яичницу на сковороде;near_duplicate;почему яйцо взрывается в микроволновке;INFORMATIONAL/gmsk_pochemuha.ru.csv;7782;79
+151;как пишется неловко;ru_only_redundancy;чем отличается алфавит от азбуки;INFORMATIONAL/gmsk_nkj.ru.csv;401737;63
+154;какая аскорбиновая кислота лучше;shopping_selection;для чего применяется борная кислота;INFORMATIONAL/gmsk_nkj.ru.csv;358538;342
+156;что у него на сердце и в мыслях;ambiguous_personal_prediction;сколько зубов у акулы;INFORMATIONAL/gmsk_nkj.ru.csv;604245;3302
+160;сколько процентов мозга работает у обычного человека;misconception-prone;кто придумал таблицу умножения по математике;INFORMATIONAL/gmsk_nkj.ru.csv;441542;301
+163;как пишется сможете;manual_quality_review;когда запятая ставится после и;INFORMATIONAL/gmsk_nkj.ru.csv;584790;306
+165;что находится на небе;too_ambiguous;почему африка самый жаркий материк земли;INFORMATIONAL/gmsk_pochemuha.ru.csv;2413;435
+166;как называется крупнейшее шельфовое месторождение природного газа в россии;manual_quality_review;почему ласточки перед дождем летают низко;INFORMATIONAL/gmsk_pochemuha.ru.csv;6169;201
+173;какие обои лучше клеить;commercial_selection;чем отмыть монтажную пену от рук;INFORMATIONAL/rus_lifehacker.ru.csv;1126;561
+176;как нарисовать кота;manual_quality_review;сколько на земле людей;INFORMATIONAL/gmsk_nkj.ru.csv;420478;26674
+188;что такое пол аршина;manual_quality_review;что такое вариатор в машине;INFORMATIONAL/rus_lifehacker.ru.csv;263469;377
+194;как создать аккаунт гугл для ребенка;question_classification_error;что такое пауза в отношениях;INFORMATIONAL/rus_lifehacker.ru.csv;119177;333
+197;как назвать вещество в химии;too_ambiguous;что происходит с органическими веществами при фотосинтезе;INFORMATIONAL/gmsk_nkj.ru.csv;103834;325
+223;как получить платежный стикер сбербанк бесплатно;question_classification_error;что такое прямые налоги;INFORMATIONAL/gmsk_nkj.ru.csv;663462;260
+244;что означает смайлик обезьянка с закрытыми глазами;too_ambiguous;сколько костей у человека взрослого;INFORMATIONAL/gmsk_nkj.ru.csv;543978;1534
+250;как выглядит велосипед;manual_quality_review;что такое пат в шахматах;INFORMATIONAL/gmsk_nkj.ru.csv;378938;1022
+273;как нарисовать нос человека карандашом поэтапно;manual_quality_review;почему болит правая сторона головы;INFORMATIONAL/gmsk_nkj.ru.csv;179081;400
+277;как узнать имя владельца автомобиля;privacy_invasive;что означают значки на приборной панели автомобиля;INFORMATIONAL/rus_lifehacker.ru.csv;1538;444
+279;как нарисовать слоненка;manual_quality_review;почему собаки не любят кошек;INFORMATIONAL/rus_lifehacker.ru.csv;52506;346
+288;какие папки можно очистить на диске с в windows 10;version_dependent;почему телефон не видит сим карту;INFORMATIONAL/rus_lifehacker.ru.csv;220949;1395
+308;где можно посмотреть бесплатно фильмы;ambiguous_media_action;кто написал рассказ музыкант;INFORMATIONAL/gmsk_nkj.ru.csv;217173;7066
+313;как появился алфавит русский;ru_only_redundancy;сколько было букв в славянском алфавите;INFORMATIONAL/gmsk_nkj.ru.csv;70178;228
+328;как пишется придти или прийти;ru_only_redundancy;где в предложении поставить запятую;INFORMATIONAL/gmsk_nkj.ru.csv;296613;240
+331;как нарисовать морской бой;manual_quality_review;почему белое море называется белым;INFORMATIONAL/gmsk_pochemuha.ru.csv;8209;128
+337;как часто поливать цветы комнатные;overgeneric_how_to;почему желтеют листья у замиокулькаса;INFORMATIONAL/rus_lifehacker.ru.csv;118542;520
+338;как пишется за ненадобностью;ru_only_redundancy;для чего нужны словари;INFORMATIONAL/gmsk_nkj.ru.csv;683354;131
+347;как девушку довести до оргазма;highly_translatable_problem;сколько литров крови в человеке;INFORMATIONAL/gmsk_nkj.ru.csv;441077;10916
+360;что нельзя есть при щитовидной железе;unstable_claim_or_advice;почему хот дог так называется;INFORMATIONAL/gmsk_pochemuha.ru.csv;4781;614
+379;кто сказал великий и могучий русский язык;ru_only_redundancy;почему нужно изучать русский язык;INFORMATIONAL/gmsk_nkj.ru.csv;761417;41
+383;как быстро приумножить деньги;unstable_claim_or_advice;для чего нужен брачный договор;INFORMATIONAL/gmsk_nkj.ru.csv;663982;132
+386;что означает сигма в физике;manual_quality_review;что такое магнитная буря;INFORMATIONAL/gmsk_nkj.ru.csv;869930;919
+389;сколько скорость звука;too_ambiguous;кто открыл электромагнитную индукцию;INFORMATIONAL/gmsk_nkj.ru.csv;604434;609
+399;на сколько процентов человек использует мозг;misconception-prone;кто сказал математика царица наук;INFORMATIONAL/gmsk_nkj.ru.csv;53662;329
+407;как пишется слово есть;manual_quality_review;что ли выделяется запятыми или нет;INFORMATIONAL/gmsk_nkj.ru.csv;339334;63
+411;как нарисовать мышку легко;manual_quality_review;чем отличается мышь от крысы;INFORMATIONAL/gmsk_nkj.ru.csv;758857;297
+420;как пользоваться кредитной картой;general_commercial_guidance;что такое распределение в экономике;INFORMATIONAL/gmsk_nkj.ru.csv;141197;125
+426;как выглядит большая медведица на небе;manual_quality_review;почему у жирафа шея длинная;INFORMATIONAL/gmsk_nkj.ru.csv;38289;334
+430;как из бумаги сделать лягушку;manual_quality_review;сколько у муравья ног;INFORMATIONAL/gmsk_nkj.ru.csv;833234;1137
+443;когда мужчина начинает скучать после расставания по его инициативе;low_precision_psychology;что человеку мешает быть счастливым;INFORMATIONAL/rus_lifehacker.ru.csv;187977;115
+445;чем отмыть краску для волос с кожи в домашних условиях быстро и эффективно;length_clarity;чем вывести пятно от красного вина;INFORMATIONAL/rus_lifehacker.ru.csv;118585;500
+451;как пишется товарищем;ru_only_redundancy;сколько носителей русского языка в мире;INFORMATIONAL/rus_lifehacker.ru.csv;225901;130
+457;кто забил больше всех голов в футболе за всю историю;highly_translatable_problem;чем отличается царь от короля;INFORMATIONAL/gmsk_nkj.ru.csv;523813;345
+483;как понять что чувствует человек к тебе;ambiguous_personal_prediction;разница между чувствами и эмоциями;INFORMATIONAL/rus_lifehacker.ru.csv;8310;81
+489;что такое эмодзи статус в телеграмме;too_ambiguous;что такое компьютерная сеть;INFORMATIONAL/gmsk_nkj.ru.csv;543969;2267
+505;какая самая первая страна;too_ambiguous;почему антарктида самый холодный материк;INFORMATIONAL/gmsk_pochemuha.ru.csv;2549;396
+507;как принимать уголь активированный;unstable_claim_or_advice;кто был у власти после сталина;INFORMATIONAL/gmsk_nkj.ru.csv;296146;1846
+527;как пробить по номеру машины человека;privacy_invasive;почему при движении машина дергается;INFORMATIONAL/rus_lifehacker.ru.csv;308230;331
+537;сколько процентов добываемой нефти страны приходится на западную сибирь;narrow_dynamic_stat;как найти площадь круга;INFORMATIONAL/rus_lifehacker.ru.csv;306610;2830
+539;какие документы нужны для сдачи анализов в инвитро;commercial_or_transactional;что такое суд присяжных;INFORMATIONAL/gmsk_nkj.ru.csv;420978;273
+548;как выглядит египтянин;manual_quality_review;в каком году была куликовская битва;INFORMATIONAL/gmsk_nkj.ru.csv;682298;2205
+551;как пишется стремиться;ru_only_redundancy;как увеличить словарный запас;INFORMATIONAL/rus_lifehacker.ru.csv;38534;481
+556;как нарисовать танк поэтапно для детей;manual_quality_review;кто написал книгу гарри поттер;INFORMATIONAL/gmsk_nkj.ru.csv;544174;470
+564;как сделать антистресс из бумаги;manual_quality_review;почему перед днем рождения депрессия;INFORMATIONAL/rus_lifehacker.ru.csv;228862;75
+566;как пишется вполне слитно или раздельно;ru_only_redundancy;сколько словарных слов в русском языке;INFORMATIONAL/gmsk_nkj.ru.csv;297090;129
+568;как запятая в качестве;meaningless_or_malformed;как правильно ставить запятые;INFORMATIONAL/gmsk_nkj.ru.csv;276034;800
+569;какая буква р по счету в алфавите;ru_only_redundancy;сколько букв в алфавите кирилла и мефодия;INFORMATIONAL/gmsk_nkj.ru.csv;426;132
+594;какие травы можно пить при язве желудка;unstable_claim_or_advice,medical_advice;чем полезна облепиха для организма;INFORMATIONAL/gmsk_nkj.ru.csv;564737;362
+596;сколько звезд во флаге сша;manual_quality_review;есть ли жизнь на марсе;INFORMATIONAL/gmsk_nkj.ru.csv;23673;8868
+612;как отправить посылку через почту россии в другой город частному лицу;question_classification_error;сколько континентов на земле;INFORMATIONAL/gmsk_nkj.ru.csv;905918;7459
+613;на сколько изучен мозг человека в процентах;misconception-prone;что называют периметром многоугольника;INFORMATIONAL/gmsk_pochemuha.ru.csv;3833;137
+623;как рисуются глаза;manual_quality_review;почему у альбиносов красные глаза;INFORMATIONAL/gmsk_pochemuha.ru.csv;709;79
+629;как нарисовать красиво сердце;manual_quality_review;сколько у человека мышц;INFORMATIONAL/gmsk_nkj.ru.csv;682329;1487
+630;как выучить билеты пдд быстро и эффективно;unstable_claim_or_advice;из чего делают деньги бумажные;INFORMATIONAL/gmsk_nkj.ru.csv;379793;141
+637;как быстро поднять железо в организме женщины;unstable_claim_or_advice;чем полезен терн для организма человека;INFORMATIONAL/rus_lifehacker.ru.csv;92973;223
+639;как пишется можете;manual_quality_review;кто сказал велик и могуч русский язык;INFORMATIONAL/gmsk_nkj.ru.csv;200878;38
+640;как пишется то же самое;ru_only_redundancy;где ставить запятые в предложении;INFORMATIONAL/gmsk_nkj.ru.csv;237522;134
+649;сколько звездочек на флаге америки;manual_quality_review;из чего состоит солнце;INFORMATIONAL/gmsk_nkj.ru.csv;482381;2022
+651;какой газ образуется при фотосинтезе;highly_translatable_problem;почему белеют листья у герани;INFORMATIONAL/rus_lifehacker.ru.csv;92649;266
+658;как по номеру машины узнать владельца бесплатно онлайн;privacy_invasive;что такое двс в автомобиле;INFORMATIONAL/gmsk_nkj.ru.csv;739785;303
+659;как повысить иммунитет после химиотерапии;unstable_claim_or_advice;что такое химический элемент;INFORMATIONAL/gmsk_nkj.ru.csv;888258;399
+665;как нарисовать звезду;manual_quality_review;что такое черная дыра;INFORMATIONAL/gmsk_nkj.ru.csv;121413;2636
+666;как нарисовать лягушку легко для детей;manual_quality_review;почему кошки мурчат когда их гладят;INFORMATIONAL/rus_lifehacker.ru.csv;223346;259
+671;какая книга считается одной из самых древних сохранившихся книг в истории древней руси;length_clarity;почему 14 июля считается днем начала революции;INFORMATIONAL/gmsk_nkj.ru.csv;198233;370
+673;как нарисовать кошку красивую;manual_quality_review;что такое рыба в домино;INFORMATIONAL/gmsk_nkj.ru.csv;337786;265
+677;как пить активированный уголь;unstable_claim_or_advice;почему амазонка полноводна круглый год;INFORMATIONAL/gmsk_pochemuha.ru.csv;993;478
+683;как видеть скрытые папки в виндовс 10;version_dependent;почему на ноутбуке не работает тачпад;INFORMATIONAL/rus_lifehacker.ru.csv;118137;891
+684;как нарисовать машину;manual_quality_review;чем снять тонировку со стекла автомобиля;INFORMATIONAL/rus_lifehacker.ru.csv;310346;150
+689;кто воспитывал александра македонского;near_duplicate;как избавиться от любовной зависимости;INFORMATIONAL/rus_lifehacker.ru.csv;186021;197
+701;на сколько процентов изучен человек;misconception-prone;как делить дробь на дробь;INFORMATIONAL/rus_lifehacker.ru.csv;261789;1359
+732;в какой фазе луна;time_sensitive_without_context;что больше земля или луна;INFORMATIONAL/gmsk_nkj.ru.csv;604386;740
+733;как правильно говорить ноль или нуль;ru_only_redundancy;когда пишется запятая перед и;INFORMATIONAL/gmsk_nkj.ru.csv;852817;106
+740;как выглядит луна в космосе;manual_quality_review;почему люди не живут на луне;INFORMATIONAL/gmsk_nkj.ru.csv;739490;892
+760;что значит сигма в математике;too_ambiguous;что значит сократить дробь;INFORMATIONAL/rus_lifehacker.ru.csv;224093;204
+767;как пишется пылесос;manual_quality_review;когда надо ставить запятые;INFORMATIONAL/gmsk_nkj.ru.csv;503638;235
+773;сколько скорость света;too_ambiguous;в чем измеряется магнитное поле;INFORMATIONAL/gmsk_nkj.ru.csv;777685;243
+775;какая марс планета от солнца;too_ambiguous;чем объясняется отсутствие атмосферы у планеты меркурий;INFORMATIONAL/gmsk_nkj.ru.csv;441361;512
+799;какие банки выдают кредитные карты;commercial_selection;что такое инфляция в экономике;INFORMATIONAL/gmsk_nkj.ru.csv;104521;110
+814;что будет если использовать мозг на 100 процентов;misconception-prone;как переводить дробь в десятичную;INFORMATIONAL/rus_lifehacker.ru.csv;733;801
+826;какой штраф за сплошную;unstable_claim_or_advice;чем кредитная карта отличается от кредита;INFORMATIONAL/gmsk_nkj.ru.csv;463493;70
+847;когда солнечное затмение;time_sensitive_without_location;что находится в черной дыре;INFORMATIONAL/gmsk_nkj.ru.csv;358309;677
+849;как скачивать с яндекс музыки на пк;ambiguous_media_action;чем закончился сериал игра престолов;INFORMATIONAL/rus_lifehacker.ru.csv;70833;161
+851;когда надо ставить запятую;ru_only_redundancy;как пополнить словарный запас;INFORMATIONAL/rus_lifehacker.ru.csv;52586;310
+860;сколько в мире гроссмейстеров по шахматам;dynamic_count;как играть в шашки;INFORMATIONAL/gmsk_nkj.ru.csv;814581;9386
+878;как пишется бледнолицый;manual_quality_review;для чего нужна точка с запятой;INFORMATIONAL/gmsk_nkj.ru.csv;872598;39
+885;что значит в физике;too_ambiguous;чем атомная бомба отличается от ядерной;INFORMATIONAL/rus_lifehacker.ru.csv;53741;125
+893;как нарисовать самолет;manual_quality_review;из чего состоит двигатель;INFORMATIONAL/rus_lifehacker.ru.csv;347369;333
+896;что находится в аду;too_ambiguous;чем отличается индийский слон от африканского;INFORMATIONAL/gmsk_nkj.ru.csv;833554;302
+898;кто из родственников имеет право на наследство после смерти;jurisdiction_specific;что такое наследственность в биологии;INFORMATIONAL/gmsk_nkj.ru.csv;442169;136
