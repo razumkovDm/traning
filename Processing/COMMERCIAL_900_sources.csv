@@ -1,0 +1,901 @@
+class;source_ru;exact_frequency;broad_frequency;source_file;source_record;topic;intent_style;target_assignment
+COMMERCIAL;что лучше ноутбук или планшет;396;1712;COMMERCIAL/gmsk_vyboroved.ru.csv;157227;phones_tablets;comparison;ru
+COMMERCIAL;гидрогелевая пленка или защитное стекло что лучше для телефона;529;845;COMMERCIAL/gmsk_vyboroved.ru.csv;53128;phones_tablets;comparison;en
+COMMERCIAL;смартфон и айфон в чем разница;175;1003;COMMERCIAL/gmsk_vyboroved.ru.csv;4595;phones_tablets;comparison;ru
+COMMERCIAL;ксиаоми или самсунг какой телефон лучше;130;336;COMMERCIAL/gmsk_expertcen.ru.csv;251118;phones_tablets;comparison;en
+COMMERCIAL;чем отличается смартфон от айфона простыми словами;118;548;COMMERCIAL/gmsk_vyboroved.ru.csv;7585;phones_tablets;comparison;ru
+COMMERCIAL;сравнение мобильных процессоров для смартфонов;292;333;COMMERCIAL/gmsk_vyboroved.ru.csv;106926;phones_tablets;comparison;uk
+COMMERCIAL;какой айфон лучше купить 11 или 12;80;218;COMMERCIAL/gmsk_expertcen.ru.csv;300350;phones_tablets;comparison;en
+COMMERCIAL;какой телефон лучше редми или самсунг;140;755;COMMERCIAL/gmsk_vyboroved.ru.csv;73345;phones_tablets;comparison;uk
+COMMERCIAL;смарт часы отзывы;260;28967;COMMERCIAL/gmsk_expertcen.ru.csv;200653;phones_tablets;reviews;ru
+COMMERCIAL;realme смартфоны отзывы;120;9169;COMMERCIAL/gmsk_expertcen.ru.csv;243955;phones_tablets;reviews;ru
+COMMERCIAL;iphone 11 pro обзор;147;656;COMMERCIAL/gmsk_expertcen.ru.csv;335362;phones_tablets;reviews;en
+COMMERCIAL;xiaomi обзор смартфонов;95;8701;COMMERCIAL/gmsk_expertcen.ru.csv;19717;phones_tablets;reviews;uk
+COMMERCIAL;графический планшет обзор;125;1580;COMMERCIAL/gmsk_expertcen.ru.csv;48927;phones_tablets;reviews;en
+COMMERCIAL;xiaomi обзор телефонов;85;2093;COMMERCIAL/gmsk_expertcen.ru.csv;1104;phones_tablets;reviews;uk
+COMMERCIAL;отзывы фитнес браслет;111;5349;COMMERCIAL/gmsk_expertcen.ru.csv;272301;phones_tablets;reviews;ru
+COMMERCIAL;лучшие кнопочные мобильные телефоны отзывы;26;58;COMMERCIAL/gmsk_expertcen.ru.csv;35090;phones_tablets;reviews;ru
+COMMERCIAL;очки виртуальной реальности для смартфона отзывы;65;223;COMMERCIAL/gmsk_expertcen.ru.csv;128093;phones_tablets;reviews;en
+COMMERCIAL;графический планшет xp pen star 06c обзор;68;70;COMMERCIAL/gmsk_expertcen.ru.csv;153967;phones_tablets;reviews;uk
+COMMERCIAL;отзывы о смартфонах хуавей;27;1667;COMMERCIAL/gmsk_expertcen.ru.csv;244994;phones_tablets;reviews;uk
+COMMERCIAL;процессор для смартфона какой лучше на андроид;820;1898;COMMERCIAL/gmsk_expertcen.ru.csv;215226;phones_tablets;choice;en
+COMMERCIAL;какой лучше телефон купить;1744;25755;COMMERCIAL/gmsk_expertcen.ru.csv;145064;phones_tablets;choice;uk
+COMMERCIAL;какой лучше айфон брать;102;1798;COMMERCIAL/gmsk_expertcen.ru.csv;19670;phones_tablets;choice;uk
+COMMERCIAL;какой лучше пауэр банк для телефона;112;340;COMMERCIAL/gmsk_expertcen.ru.csv;49021;phones_tablets;choice;ru
+COMMERCIAL;какой лучше взять айфон;162;1547;COMMERCIAL/gmsk_expertcen.ru.csv;19395;phones_tablets;choice;en
+COMMERCIAL;смартфон самсунг какой выбрать;55;690;COMMERCIAL/gmsk_expertcen.ru.csv;1721;phones_tablets;choice;en
+COMMERCIAL;как правильно выбрать смартфон и какой марки;330;472;COMMERCIAL/gmsk_expertcen.ru.csv;307129;phones_tablets;choice;ru
+COMMERCIAL;какой выбрать телефон цена качество;41;181;COMMERCIAL/gmsk_expertcen.ru.csv;216034;phones_tablets;choice;uk
+COMMERCIAL;планшет как выбрать цена и качество;78;125;COMMERCIAL/gmsk_expertcen.ru.csv;265351;phones_tablets;choice;ru
+COMMERCIAL;как выбрать кнопочный телефон недорогой но хороший для бабушки;327;333;COMMERCIAL/gmsk_expertcen.ru.csv;148;phones_tablets;choice;uk
+COMMERCIAL;стоит ли покупать планшет;76;917;COMMERCIAL/gmsk_vyboroved.ru.csv;132134;phones_tablets;choice;uk
+COMMERCIAL;держатель для телефона в машину как выбрать;27;184;COMMERCIAL/gmsk_vyboroved.ru.csv;110593;phones_tablets;choice;ru
+COMMERCIAL;какой лучше смартфон купить недорогой но качественный;24;714;COMMERCIAL/gmsk_expertcen.ru.csv;78774;phones_tablets;choice;en
+COMMERCIAL;как выбрать планшеты на какие параметры нужно смотреть;67;70;COMMERCIAL/gmsk_vyboroved.ru.csv;107127;phones_tablets;choice;ru
+COMMERCIAL;планшет для рисования какой лучше;49;1194;COMMERCIAL/gmsk_expertcen.ru.csv;237302;phones_tablets;choice;en
+COMMERCIAL;планшеты рейтинг лучших;1128;3556;COMMERCIAL/gmsk_expertcen.ru.csv;257836;phones_tablets;rankings;en
+COMMERCIAL;рейтинг бюджетных смартфонов;467;4427;COMMERCIAL/gmsk_expertcen.ru.csv;63342;phones_tablets;rankings;ru
+COMMERCIAL;лучшие смартфоны до 10000 рублей;338;3397;COMMERCIAL/gmsk_expertcen.ru.csv;98354;phones_tablets;rankings;ru
+COMMERCIAL;какой телефон самый лучший в мире;280;750;COMMERCIAL/gmsk_expertcen.ru.csv;349326;phones_tablets;rankings;ru
+COMMERCIAL;лучшие беспроводные наушники для разговора по телефону;332;601;COMMERCIAL/gmsk_expertcen.ru.csv;215293;phones_tablets;rankings;uk
+COMMERCIAL;топ телефонов с хорошей камерой;421;2693;COMMERCIAL/gmsk_expertcen.ru.csv;48353;phones_tablets;rankings;en
+COMMERCIAL;лучшие недорогие планшеты;193;17436;COMMERCIAL/gmsk_expertcen.ru.csv;272138;phones_tablets;rankings;uk
+COMMERCIAL;у какого смартфона самый лучший прием сигнала;276;305;COMMERCIAL/gmsk_expertcen.ru.csv;200638;phones_tablets;rankings;uk
+COMMERCIAL;лучшие телефоны бюджетные;296;8386;COMMERCIAL/gmsk_expertcen.ru.csv;63449;phones_tablets;rankings;uk
+COMMERCIAL;лучший телефон на андроиде;163;80203;COMMERCIAL/gmsk_vyboroved.ru.csv;100591;phones_tablets;rankings;uk
+COMMERCIAL;рейтинг телефонов по качеству камеры;345;525;COMMERCIAL/gmsk_expertcen.ru.csv;63417;phones_tablets;rankings;ru
+COMMERCIAL;лучшие игровые смартфоны;224;2853;COMMERCIAL/gmsk_expertcen.ru.csv;177749;phones_tablets;rankings;en
+COMMERCIAL;лучшая камера в смартфоне;169;48177;COMMERCIAL/gmsk_expertcen.ru.csv;127691;phones_tablets;rankings;en
+COMMERCIAL;смартфон лучший цена качество;213;12114;COMMERCIAL/gmsk_expertcen.ru.csv;243827;phones_tablets;rankings;en
+COMMERCIAL;самый надежный смартфон по отзывам покупателей;5430;5855;COMMERCIAL/gmsk_expertcen.ru.csv;229471;phones_tablets;criteria;en
+COMMERCIAL;бюджетные смартфоны с хорошей камерой и батареей;297;2259;COMMERCIAL/gmsk_expertcen.ru.csv;32092;phones_tablets;criteria;en
+COMMERCIAL;хорошие телефоны до 15 тысяч;414;3349;COMMERCIAL/gmsk_expertcen.ru.csv;32001;phones_tablets;criteria;uk
+COMMERCIAL;планшет для игр недорогой но хороший;349;850;COMMERCIAL/gmsk_expertcen.ru.csv;363416;phones_tablets;criteria;uk
+COMMERCIAL;самый мощный игровой телефон в мире;162;303;COMMERCIAL/gmsk_expertcen.ru.csv;328274;phones_tablets;criteria;en
+COMMERCIAL;недорогие телефоны с хорошей камерой и памятью;213;1832;COMMERCIAL/gmsk_expertcen.ru.csv;76734;phones_tablets;criteria;ru
+COMMERCIAL;недорогой и качественный смартфон для пенсионеров;48;61;COMMERCIAL/gmsk_expertcen.ru.csv;162434;phones_tablets;criteria;ru
+COMMERCIAL;ультрабук чем отличается от ноутбука;550;1426;COMMERCIAL/gmsk_vyboroved.ru.csv;128762;computers_laptops;comparison;en
+COMMERCIAL;что лучше ноутбук или компьютер;723;3023;COMMERCIAL/gmsk_vyboroved.ru.csv;122531;computers_laptops;comparison;uk
+COMMERCIAL;ips или va монитор что лучше;314;1708;COMMERCIAL/gmsk_vyboroved.ru.csv;116344;computers_laptops;comparison;en
+COMMERCIAL;жесткий диск или ssd накопитель что лучше;106;374;COMMERCIAL/gmsk_vyboroved.ru.csv;160308;computers_laptops;comparison;ru
+COMMERCIAL;проводная или беспроводная мышь что лучше;111;426;COMMERCIAL/gmsk_expertcen.ru.csv;244013;computers_laptops;comparison;ru
+COMMERCIAL;ssd или hdd что лучше;994;4522;COMMERCIAL/gmsk_vyboroved.ru.csv;147632;computers_laptops;comparison;uk
+COMMERCIAL;через что лучше подключать монитор hdmi или displayport 144 гц;68;69;COMMERCIAL/gmsk_vyboroved.ru.csv;82202;computers_laptops;comparison;en
+COMMERCIAL;какой принтер лучше для печати фотографий дома лазерный или струйный;83;90;COMMERCIAL/gmsk_expertcen.ru.csv;328483;computers_laptops;comparison;uk
+COMMERCIAL;ноутбуки msi отзывы;430;6105;COMMERCIAL/gmsk_vyboroved.ru.csv;94164;computers_laptops;reviews;en
+COMMERCIAL;ноутбук lenovo ideapad 5 15are05 обзор;38;39;COMMERCIAL/gmsk_expertcen.ru.csv;230318;computers_laptops;reviews;uk
+COMMERCIAL;обзор материнских плат b550;21;676;COMMERCIAL/gmsk_expertcen.ru.csv;308639;computers_laptops;reviews;ru
+COMMERCIAL;ноутбуки отзывы какой лучше купить;17;284;COMMERCIAL/gmsk_expertcen.ru.csv;238387;computers_laptops;reviews;en
+COMMERCIAL;компьютерные очки отзывы офтальмологов;15;17;COMMERCIAL/gmsk_vyboroved.ru.csv;88781;computers_laptops;reviews;uk
+COMMERCIAL;принтер canon pixma g1411 отзывы;13;43;COMMERCIAL/gmsk_expertcen.ru.csv;139046;computers_laptops;reviews;ru
+COMMERCIAL;xiaomi ноутбуки отзывы;86;1363;COMMERCIAL/gmsk_vyboroved.ru.csv;154247;computers_laptops;reviews;en
+COMMERCIAL;какой принтер лучше купить для домашнего использования отзывы;32;83;COMMERCIAL/gmsk_expertcen.ru.csv;194086;computers_laptops;reviews;en
+COMMERCIAL;роутер tp link tl wr841n отзывы;11;70;COMMERCIAL/gmsk_expertcen.ru.csv;416457;computers_laptops;reviews;en
+COMMERCIAL;термопаста для процессора отзывы;10;182;COMMERCIAL/gmsk_expertcen.ru.csv;7690;computers_laptops;reviews;ru
+COMMERCIAL;обзор кресел для работы за компьютером;9;15;COMMERCIAL/gmsk_expertcen.ru.csv;55091;computers_laptops;reviews;uk
+COMMERCIAL;внешний жесткий диск какой лучше купить;411;1029;COMMERCIAL/gmsk_expertcen.ru.csv;63373;computers_laptops;choice;ru
+COMMERCIAL;как выбрать оперативную память для ноутбука;339;944;COMMERCIAL/gmsk_vyboroved.ru.csv;160236;computers_laptops;choice;en
+COMMERCIAL;какую выбрать термопасту;281;1457;COMMERCIAL/gmsk_expertcen.ru.csv;185480;computers_laptops;choice;ru
+COMMERCIAL;принтер сканер копир для дома купить какой лучше;174;237;COMMERCIAL/gmsk_expertcen.ru.csv;342341;computers_laptops;choice;en
+COMMERCIAL;роутер для дома какой лучше купить;1723;3798;COMMERCIAL/gmsk_expertcen.ru.csv;207916;computers_laptops;choice;uk
+COMMERCIAL;как выбрать наушники для компьютера;96;913;COMMERCIAL/gmsk_expertcen.ru.csv;363736;computers_laptops;choice;ru
+COMMERCIAL;компьютерное кресло какое лучше купить для дома;76;117;COMMERCIAL/gmsk_expertcen.ru.csv;244179;computers_laptops;choice;en
+COMMERCIAL;сетевой фильтр для компьютера какой лучше купить;74;93;COMMERCIAL/gmsk_expertcen.ru.csv;19896;computers_laptops;choice;uk
+COMMERCIAL;внешний жесткий диск какой фирмы самый надежный;50;61;COMMERCIAL/gmsk_expertcen.ru.csv;1919;computers_laptops;choice;uk
+COMMERCIAL;как выбрать термопасту для ноутбука;110;421;COMMERCIAL/gmsk_expertcen.ru.csv;258122;computers_laptops;choice;en
+COMMERCIAL;игровой ноутбук какой выбрать;80;1003;COMMERCIAL/gmsk_vyboroved.ru.csv;144673;computers_laptops;choice;ru
+COMMERCIAL;как выбрать ноутбук для работы;452;3733;COMMERCIAL/gmsk_vyboroved.ru.csv;110042;computers_laptops;choice;en
+COMMERCIAL;как выбрать ноутбук для учебы школьнику;86;105;COMMERCIAL/gmsk_vyboroved.ru.csv;91175;computers_laptops;choice;uk
+COMMERCIAL;жесткий диск для ноутбука какой лучше;62;404;COMMERCIAL/gmsk_vyboroved.ru.csv;36383;computers_laptops;choice;ru
+COMMERCIAL;ноутбук какого производителя лучше купить;49;67;COMMERCIAL/gmsk_expertcen.ru.csv;20382;computers_laptops;choice;uk
+COMMERCIAL;лучшие бюджетные ноутбуки;263;3610;COMMERCIAL/gmsk_expertcen.ru.csv;222475;computers_laptops;rankings;uk
+COMMERCIAL;лучшие процессоры для игр;225;8554;COMMERCIAL/gmsk_expertcen.ru.csv;98443;computers_laptops;rankings;uk
+COMMERCIAL;лучшая оперативная память ddr4;345;2752;COMMERCIAL/gmsk_expertcen.ru.csv;87921;computers_laptops;rankings;uk
+COMMERCIAL;мобильные процессоры рейтинг;110;3029;COMMERCIAL/gmsk_expertcen.ru.csv;215513;computers_laptops;rankings;ru
+COMMERCIAL;топ оперативной памяти;109;1731;COMMERCIAL/gmsk_expertcen.ru.csv;136694;computers_laptops;rankings;ru
+COMMERCIAL;лучший блок питания;112;12186;COMMERCIAL/gmsk_expertcen.ru.csv;127800;computers_laptops;rankings;ru
+COMMERCIAL;лучшие бюджетные клавиатуры;84;1217;COMMERCIAL/gmsk_vyboroved.ru.csv;122729;computers_laptops;rankings;uk
+COMMERCIAL;рейтинг компьютерных кресел;203;1360;COMMERCIAL/gmsk_expertcen.ru.csv;153577;computers_laptops;rankings;ru
+COMMERCIAL;лучшие игровые клавиатуры;324;3125;COMMERCIAL/gmsk_expertcen.ru.csv;161758;computers_laptops;rankings;ru
+COMMERCIAL;лучшие роутеры wifi;112;7864;COMMERCIAL/gmsk_expertcen.ru.csv;19599;computers_laptops;rankings;en
+COMMERCIAL;рейтинг производителей видеокарт;116;382;COMMERCIAL/gmsk_expertcen.ru.csv;377804;computers_laptops;rankings;uk
+COMMERCIAL;рейтинг колонок для компьютера;157;1150;COMMERCIAL/gmsk_expertcen.ru.csv;153647;computers_laptops;rankings;en
+COMMERCIAL;лучшие беспроводные игровые мышки;159;422;COMMERCIAL/gmsk_expertcen.ru.csv;118268;computers_laptops;rankings;en
+COMMERCIAL;лучший роутер для дома цена качество;51;363;COMMERCIAL/gmsk_expertcen.ru.csv;49992;computers_laptops;rankings;en
+COMMERCIAL;самый хороший ноутбук для игр и работы недорого;155;180;COMMERCIAL/gmsk_expertcen.ru.csv;177841;computers_laptops;criteria;ru
+COMMERCIAL;хороший роутер wifi для дома мощный купить;134;264;COMMERCIAL/gmsk_expertcen.ru.csv;108571;computers_laptops;criteria;ru
+COMMERCIAL;лазерный цветной принтер для дома дешевый и надежный купить;269;391;COMMERCIAL/gmsk_expertcen.ru.csv;153516;computers_laptops;criteria;ru
+COMMERCIAL;какие жесткие диски самые надежные;69;283;COMMERCIAL/gmsk_expertcen.ru.csv;193493;computers_laptops;criteria;uk
+COMMERCIAL;процессоры snapdragon по мощности таблица;399;457;COMMERCIAL/gmsk_vyboroved.ru.csv;157225;computers_laptops;criteria;uk
+COMMERCIAL;хороший ноутбук для учебы и игр;133;786;COMMERCIAL/gmsk_expertcen.ru.csv;307309;computers_laptops;criteria;uk
+COMMERCIAL;хороший вай фай роутер для дома с большим покрытием;129;158;COMMERCIAL/gmsk_expertcen.ru.csv;193252;computers_laptops;criteria;en
+COMMERCIAL;какой телевизор лучше lg или samsung;200;410;COMMERCIAL/gmsk_vyboroved.ru.csv;160243;audio_video;comparison;ru
+COMMERCIAL;сравнить телевизоры по характеристикам в таблице;68;115;COMMERCIAL/gmsk_vyboroved.ru.csv;128981;audio_video;comparison;en
+COMMERCIAL;какой лучше телевизор самсунг или лджи;60;200;COMMERCIAL/gmsk_expertcen.ru.csv;412582;audio_video;comparison;uk
+COMMERCIAL;матрица va или ips что лучше для телевизора;97;433;COMMERCIAL/gmsk_vyboroved.ru.csv;79236;audio_video;comparison;uk
+COMMERCIAL;led или oled телевизоры что лучше;78;194;COMMERCIAL/gmsk_vyboroved.ru.csv;154260;audio_video;comparison;uk
+COMMERCIAL;какую колонку лучше купить с алисой или марусей;46;249;COMMERCIAL/gmsk_vyboroved.ru.csv;110339;audio_video;comparison;ru
+COMMERCIAL;сравнить беспроводные наушники jbl;13;106;COMMERCIAL/gmsk_expertcen.ru.csv;53633;audio_video;comparison;en
+COMMERCIAL;наушники беспроводные отзывы;369;31480;COMMERCIAL/gmsk_expertcen.ru.csv;169757;audio_video;reviews;en
+COMMERCIAL;телевизоры хайер отзывы специалистов и цены;242;298;COMMERCIAL/gmsk_expertcen.ru.csv;265027;audio_video;reviews;uk
+COMMERCIAL;наушники jbl отзывы;128;6239;COMMERCIAL/gmsk_expertcen.ru.csv;272236;audio_video;reviews;ru
+COMMERCIAL;приставка смарт тв для телевизора отзывы цена какую лучше купить;58;67;COMMERCIAL/gmsk_expertcen.ru.csv;186019;audio_video;reviews;ru
+COMMERCIAL;телевизор haier отзывы покупателей;119;1202;COMMERCIAL/gmsk_expertcen.ru.csv;377782;audio_video;reviews;ru
+COMMERCIAL;колонки газовые отзывы;64;16072;COMMERCIAL/gmsk_expertcen.ru.csv;20047;audio_video;reviews;en
+COMMERCIAL;телевизор с алисой обзор;95;1468;COMMERCIAL/gmsk_expertcen.ru.csv;265291;audio_video;reviews;uk
+COMMERCIAL;саундбар для телевизора отзывы;40;521;COMMERCIAL/gmsk_expertcen.ru.csv;119116;audio_video;reviews;uk
+COMMERCIAL;телевизоры смарт тв 32 дюйма цена и отзывы;50;427;COMMERCIAL/gmsk_expertcen.ru.csv;64726;audio_video;reviews;en
+COMMERCIAL;беспроводные наушники qcy t13 отзывы;48;84;COMMERCIAL/gmsk_expertcen.ru.csv;286600;audio_video;reviews;uk
+COMMERCIAL;какой лучше купить телевизор;616;16095;COMMERCIAL/gmsk_expertcen.ru.csv;63295;audio_video;choice;ru
+COMMERCIAL;проектор для домашнего кинотеатра какой выбрать;341;632;COMMERCIAL/gmsk_expertcen.ru.csv;136427;audio_video;choice;ru
+COMMERCIAL;как выбрать телевизор для дома с интернетом недорогой но хороший;148;227;COMMERCIAL/gmsk_expertcen.ru.csv;76863;audio_video;choice;en
+COMMERCIAL;мр3 плееры как выбрать лучший mp3 плеер для аудиокниг;86;102;COMMERCIAL/gmsk_expertcen.ru.csv;88372;audio_video;choice;en
+COMMERCIAL;как выбрать игровые наушники;101;573;COMMERCIAL/gmsk_vyboroved.ru.csv;147779;audio_video;choice;uk
+COMMERCIAL;как выбрать умную колонку для дома;85;529;COMMERCIAL/gmsk_vyboroved.ru.csv;76321;audio_video;choice;ru
+COMMERCIAL;антенна для цифрового телевидения на дачу как выбрать;254;345;COMMERCIAL/gmsk_vyboroved.ru.csv;40604;audio_video;choice;ru
+COMMERCIAL;портативная колонка какая лучше;68;1100;COMMERCIAL/gmsk_expertcen.ru.csv;153985;audio_video;choice;uk
+COMMERCIAL;телевизор xiaomi какой выбрать;90;468;COMMERCIAL/gmsk_vyboroved.ru.csv;151009;audio_video;choice;en
+COMMERCIAL;стоит ли покупать телевизор с витрины;45;114;COMMERCIAL/gmsk_expertcen.ru.csv;300689;audio_video;choice;en
+COMMERCIAL;как выбрать tws наушники;32;335;COMMERCIAL/gmsk_expertcen.ru.csv;412854;audio_video;choice;uk
+COMMERCIAL;наушники jbl беспроводные какие лучше купить;75;136;COMMERCIAL/gmsk_expertcen.ru.csv;77285;audio_video;choice;uk
+COMMERCIAL;как выбрать телевизор со смарт;45;748;COMMERCIAL/gmsk_expertcen.ru.csv;293717;audio_video;choice;uk
+COMMERCIAL;какие телевизоры самые лучшие и надежные и недорогие;807;968;COMMERCIAL/gmsk_expertcen.ru.csv;98243;audio_video;rankings;en
+COMMERCIAL;лучшие проводные наушники;912;12632;COMMERCIAL/gmsk_expertcen.ru.csv;169688;audio_video;rankings;en
+COMMERCIAL;наушники беспроводные рейтинг цена качество;627;6249;COMMERCIAL/gmsk_expertcen.ru.csv;377477;audio_video;rankings;en
+COMMERCIAL;лучшие бюджетные наушники;326;6915;COMMERCIAL/gmsk_expertcen.ru.csv;108334;audio_video;rankings;uk
+COMMERCIAL;лучший музыкальный плеер для андроид по качеству звука;235;324;COMMERCIAL/gmsk_expertcen.ru.csv;363492;audio_video;rankings;uk
+COMMERCIAL;лучшие наушники накладные;338;5963;COMMERCIAL/gmsk_vyboroved.ru.csv;103709;audio_video;rankings;ru
+COMMERCIAL;лучшие bluetooth наушники;142;1307;COMMERCIAL/gmsk_expertcen.ru.csv;356587;audio_video;rankings;ru
+COMMERCIAL;лучшие наушники блютуз;392;5556;COMMERCIAL/gmsk_expertcen.ru.csv;257888;audio_video;rankings;ru
+COMMERCIAL;лучшие бюджетные беспроводные наушники накладные;86;204;COMMERCIAL/gmsk_expertcen.ru.csv;349671;audio_video;rankings;ru
+COMMERCIAL;топ наушников полноразмерных;145;1966;COMMERCIAL/gmsk_expertcen.ru.csv;398802;audio_video;rankings;en
+COMMERCIAL;телевизор 65 дюймов лучший;64;2885;COMMERCIAL/gmsk_expertcen.ru.csv;399130;audio_video;rankings;ru
+COMMERCIAL;лучшие наушники для бега;98;499;COMMERCIAL/gmsk_expertcen.ru.csv;342518;audio_video;rankings;uk
+COMMERCIAL;бюджетные наушники с хорошим микрофоном;74;586;COMMERCIAL/gmsk_expertcen.ru.csv;77298;audio_video;criteria;uk
+COMMERCIAL;бюджетные игровые наушники с микрофоном;59;360;COMMERCIAL/gmsk_expertcen.ru.csv;222960;audio_video;criteria;en
+COMMERCIAL;наушники беспроводные недорогие и качественные;132;862;COMMERCIAL/gmsk_expertcen.ru.csv;32466;audio_video;criteria;ru
+COMMERCIAL;мощная колонка с сабвуфером для улицы;32;105;COMMERCIAL/gmsk_expertcen.ru.csv;385757;audio_video;criteria;en
+COMMERCIAL;колонка большая напольная блютуз мощная;91;246;COMMERCIAL/gmsk_expertcen.ru.csv;384999;audio_video;criteria;en
+COMMERCIAL;игровые наушники с микрофоном недорогие;28;325;COMMERCIAL/gmsk_expertcen.ru.csv;178934;audio_video;criteria;ru
+COMMERCIAL;морозильная камера или ларь что лучше для дома;262;337;COMMERCIAL/gmsk_expertcen.ru.csv;405540;photo_camera;comparison;ru
+COMMERCIAL;сравнение фотоаппаратов canon;116;550;COMMERCIAL/gmsk_expertcen.ru.csv;88223;photo_camera;comparison;ru
+COMMERCIAL;сравнение фотоаппаратов никон;14;141;COMMERCIAL/gmsk_vyboroved.ru.csv;129787;photo_camera;comparison;en
+COMMERCIAL;сравнить фотоаппараты canon;57;388;COMMERCIAL/gmsk_expertcen.ru.csv;88682;photo_camera;comparison;uk
+COMMERCIAL;фотоаппарат моментальной печати отзывы;52;420;COMMERCIAL/gmsk_vyboroved.ru.csv;129073;photo_camera;reviews;uk
+COMMERCIAL;обзор экшн камера;31;1694;COMMERCIAL/gmsk_expertcen.ru.csv;186566;photo_camera;reviews;ru
+COMMERCIAL;samsung s22 обзор камеры;15;113;COMMERCIAL/gmsk_expertcen.ru.csv;358457;photo_camera;reviews;ru
+COMMERCIAL;экшен камеры обзоры цены лучшие производители;34;39;COMMERCIAL/gmsk_expertcen.ru.csv;99645;photo_camera;reviews;uk
+COMMERCIAL;redmi note 8 pro обзор камеры;14;49;COMMERCIAL/gmsk_expertcen.ru.csv;323224;photo_camera;reviews;ru
+COMMERCIAL;камера видеонаблюдения уличная отзывы;7;570;COMMERCIAL/gmsk_expertcen.ru.csv;289059;photo_camera;reviews;en
+COMMERCIAL;как выбрать фотоаппарат начинающему фотографу;20;380;COMMERCIAL/gmsk_expertcen.ru.csv;216836;photo_camera;choice;en
+COMMERCIAL;как выбрать камеру видеонаблюдения для улицы для частного дома вай фай;23;32;COMMERCIAL/gmsk_expertcen.ru.csv;308539;photo_camera;choice;uk
+COMMERCIAL;фотоаппарат какой лучше купить для качественных снимков;258;436;COMMERCIAL/gmsk_expertcen.ru.csv;286000;photo_camera;choice;en
+COMMERCIAL;фотоаппарат какой лучше купить недорогой и хороший;149;322;COMMERCIAL/gmsk_expertcen.ru.csv;215442;photo_camera;choice;uk
+COMMERCIAL;как выбрать морозильную камеру для дома советы;20;129;COMMERCIAL/gmsk_expertcen.ru.csv;163457;photo_camera;choice;ru
+COMMERCIAL;ip камера для дома какую выбрать;14;42;COMMERCIAL/gmsk_expertcen.ru.csv;187639;photo_camera;choice;en
+COMMERCIAL;стоит ли покупать зеркальный фотоаппарат;19;58;COMMERCIAL/gmsk_expertcen.ru.csv;329808;photo_camera;choice;en
+COMMERCIAL;как выбрать штатив для фотоаппарата canon;17;24;COMMERCIAL/gmsk_expertcen.ru.csv;372356;photo_camera;choice;ru
+COMMERCIAL;лучшие веб камеры;107;6225;COMMERCIAL/gmsk_expertcen.ru.csv;293266;photo_camera;rankings;ru
+COMMERCIAL;лучшая камера для зимней рыбалки;64;1630;COMMERCIAL/gmsk_vyboroved.ru.csv;53424;photo_camera;rankings;en
+COMMERCIAL;топ объективов для canon;29;145;COMMERCIAL/gmsk_expertcen.ru.csv;51146;photo_camera;rankings;en
+COMMERCIAL;фотоаппараты топ 10 лучшие из дешевых;284;301;COMMERCIAL/gmsk_expertcen.ru.csv;185478;photo_camera;rankings;ru
+COMMERCIAL;фотоаппарат зеркальный рейтинг;24;553;COMMERCIAL/gmsk_expertcen.ru.csv;89868;photo_camera;rankings;uk
+COMMERCIAL;лучшие подводные камеры для рыбалки;21;1794;COMMERCIAL/gmsk_vyboroved.ru.csv;19640;photo_camera;rankings;en
+COMMERCIAL;лучшая гугл камера для redmi note 7;21;21;COMMERCIAL/gmsk_expertcen.ru.csv;343807;photo_camera;rankings;uk
+COMMERCIAL;лучшие камеры заднего вида для авто с высоким разрешением;19;20;COMMERCIAL/gmsk_expertcen.ru.csv;4792;photo_camera;rankings;uk
+COMMERCIAL;компактный фотоаппарат с хорошим качеством снимков недорогой;26;31;COMMERCIAL/gmsk_expertcen.ru.csv;65939;photo_camera;criteria;ru
+COMMERCIAL;какую камеру лучше купить для видеоблоггера недорогую и качественную;13;19;COMMERCIAL/gmsk_expertcen.ru.csv;281205;photo_camera;criteria;uk
+COMMERCIAL;фотоаппарат с хорошей камерой недорогой;10;53;COMMERCIAL/gmsk_expertcen.ru.csv;224934;photo_camera;criteria;en
+COMMERCIAL;фотоаппарат для съемки видео бюджетный;11;24;COMMERCIAL/gmsk_expertcen.ru.csv;373087;photo_camera;criteria;uk
+COMMERCIAL;чем отличается индукционная плита от электрической;987;2257;COMMERCIAL/gmsk_vyboroved.ru.csv;106890;kitchen_large;comparison;ru
+COMMERCIAL;какие бывают вытяжки для кухни и в чем разница между ними;277;310;COMMERCIAL/gmsk_expertcen.ru.csv;293045;kitchen_large;comparison;ru
+COMMERCIAL;что лучше электрическая или газовая плита;121;3210;COMMERCIAL/gmsk_vyboroved.ru.csv;132057;kitchen_large;comparison;uk
+COMMERCIAL;какая духовка лучше газовая или электрическая отзывы специалистов;96;137;COMMERCIAL/gmsk_expertcen.ru.csv;208234;kitchen_large;comparison;en
+COMMERCIAL;что лучше таблетки или порошок для посудомоечной машины;158;323;COMMERCIAL/gmsk_expertcen.ru.csv;391824;kitchen_large;comparison;en
+COMMERCIAL;духовой шкаф или мини печь что лучше;351;404;COMMERCIAL/gmsk_expertcen.ru.csv;250927;kitchen_large;comparison;uk
+COMMERCIAL;какой выбрать холодильник для дома отзывы специалистов;234;259;COMMERCIAL/gmsk_expertcen.ru.csv;169829;kitchen_large;reviews;ru
+COMMERCIAL;отзывы холодильник хайер;656;4082;COMMERCIAL/gmsk_expertcen.ru.csv;363369;kitchen_large;reviews;en
+COMMERCIAL;отзывы холодильник атлант;479;6387;COMMERCIAL/gmsk_expertcen.ru.csv;161711;kitchen_large;reviews;en
+COMMERCIAL;как выбрать духовой шкаф электрический встраиваемый какой лучше отзывы;565;619;COMMERCIAL/gmsk_expertcen.ru.csv;136379;kitchen_large;reviews;en
+COMMERCIAL;какую купить стиральную машину автомат отзывы специалистов;254;643;COMMERCIAL/gmsk_expertcen.ru.csv;145226;kitchen_large;reviews;uk
+COMMERCIAL;какую лучше купить вытяжку для кухни отзывы;106;143;COMMERCIAL/gmsk_expertcen.ru.csv;19648;kitchen_large;reviews;en
+COMMERCIAL;какой морозильник купить для дома отзывы;105;125;COMMERCIAL/gmsk_expertcen.ru.csv;32642;kitchen_large;reviews;ru
+COMMERCIAL;стиральная машина отзывы;401;175340;COMMERCIAL/gmsk_expertcen.ru.csv;215251;kitchen_large;reviews;uk
+COMMERCIAL;отзывы посудомоечная машина;349;54657;COMMERCIAL/gmsk_expertcen.ru.csv;250915;kitchen_large;reviews;uk
+COMMERCIAL;как выбрать газовую плиту с хорошей духовкой;555;893;COMMERCIAL/gmsk_expertcen.ru.csv;127497;kitchen_large;choice;uk
+COMMERCIAL;холодильник какой лучше купить;531;5975;COMMERCIAL/gmsk_expertcen.ru.csv;236656;kitchen_large;choice;ru
+COMMERCIAL;какую лучше купить посудомоечную машину;385;1770;COMMERCIAL/gmsk_expertcen.ru.csv;104;kitchen_large;choice;en
+COMMERCIAL;как выбрать индукционную варочную панель;308;1557;COMMERCIAL/gmsk_expertcen.ru.csv;236715;kitchen_large;choice;en
+COMMERCIAL;какую лучше купить варочную панель;201;1625;COMMERCIAL/gmsk_expertcen.ru.csv;118199;kitchen_large;choice;ru
+COMMERCIAL;духовой шкаф как выбрать;397;6101;COMMERCIAL/gmsk_expertcen.ru.csv;243747;kitchen_large;choice;en
+COMMERCIAL;стиральную машинку какой фирмы лучше купить;311;375;COMMERCIAL/gmsk_expertcen.ru.csv;229545;kitchen_large;choice;uk
+COMMERCIAL;как выбрать вытяжку для кухни;590;7622;COMMERCIAL/gmsk_expertcen.ru.csv;229499;kitchen_large;choice;en
+COMMERCIAL;как выбрать сушильную машину для белья;102;993;COMMERCIAL/gmsk_expertcen.ru.csv;136736;kitchen_large;choice;ru
+COMMERCIAL;какой лучше купить холодильник для дома ноу фрост;45;295;COMMERCIAL/gmsk_expertcen.ru.csv;2122;kitchen_large;choice;uk
+COMMERCIAL;холодильник для дачи какой лучше выбрать;58;67;COMMERCIAL/gmsk_expertcen.ru.csv;1625;kitchen_large;choice;ru
+COMMERCIAL;как выбрать встраиваемую вытяжку на кухню советы профессионалов;60;60;COMMERCIAL/gmsk_expertcen.ru.csv;237202;kitchen_large;choice;uk
+COMMERCIAL;какой фирмы лучше покупать холодильник;219;246;COMMERCIAL/gmsk_expertcen.ru.csv;87996;kitchen_large;choice;ru
+COMMERCIAL;какая марка холодильника самая лучшая и надежная;681;1288;COMMERCIAL/gmsk_expertcen.ru.csv;145097;kitchen_large;rankings;uk
+COMMERCIAL;кухонные вытяжки без подключения к вентиляции самые лучшие модели;849;911;COMMERCIAL/gmsk_expertcen.ru.csv;161697;kitchen_large;rankings;en
+COMMERCIAL;рейтинг стиральных машин с вертикальной загрузкой по качеству и надежности;361;553;COMMERCIAL/gmsk_expertcen.ru.csv;48389;kitchen_large;rankings;ru
+COMMERCIAL;топ стиральных машин цена качество;395;2957;COMMERCIAL/gmsk_expertcen.ru.csv;76550;kitchen_large;rankings;uk
+COMMERCIAL;какая марка холодильника самая лучшая и надежная с ноу фрост;534;549;COMMERCIAL/gmsk_expertcen.ru.csv;31953;kitchen_large;rankings;ru
+COMMERCIAL;рейтинг холодильников по качеству и надежности;393;2291;COMMERCIAL/gmsk_expertcen.ru.csv;153448;kitchen_large;rankings;uk
+COMMERCIAL;какие индукционные плиты самые надежные и лучшие;754;852;COMMERCIAL/gmsk_expertcen.ru.csv;20;kitchen_large;rankings;uk
+COMMERCIAL;лучшие варочные панели газовые;202;5875;COMMERCIAL/gmsk_expertcen.ru.csv;373;kitchen_large;rankings;ru
+COMMERCIAL;газовая плита рейтинг лучших с газовой духовкой;137;1162;COMMERCIAL/gmsk_expertcen.ru.csv;127756;kitchen_large;rankings;en
+COMMERCIAL;какие таблетки для посудомоечной машины самые лучшие и эффективные;98;158;COMMERCIAL/gmsk_expertcen.ru.csv;32700;kitchen_large;rankings;en
+COMMERCIAL;рейтинг варочных панелей электрических встраиваемых;247;860;COMMERCIAL/gmsk_expertcen.ru.csv;48533;kitchen_large;rankings;ru
+COMMERCIAL;лучшие вытяжки для кухни с отводом в вентиляцию;47;440;COMMERCIAL/gmsk_expertcen.ru.csv;208631;kitchen_large;rankings;en
+COMMERCIAL;какие холодильники качественные и недорогие;1538;1866;COMMERCIAL/gmsk_expertcen.ru.csv;145085;kitchen_large;criteria;ru
+COMMERCIAL;электроплиты с духовкой для кухни недорогие;301;750;COMMERCIAL/gmsk_expertcen.ru.csv;193104;kitchen_large;criteria;en
+COMMERCIAL;духовой шкаф электрический мощность квт;83;355;COMMERCIAL/gmsk_expertcen.ru.csv;363807;kitchen_large;criteria;ru
+COMMERCIAL;самая надежная стиральная машина вопрос к специалистам с вертикальной загрузкой;37;37;COMMERCIAL/gmsk_expertcen.ru.csv;244650;kitchen_large;criteria;uk
+COMMERCIAL;какие газовые плиты лучше и надежнее с газовой духовкой;47;95;COMMERCIAL/gmsk_expertcen.ru.csv;99278;kitchen_large;criteria;uk
+COMMERCIAL;соковыжималка шнековая или центробежная какая лучше;811;1857;COMMERCIAL/gmsk_vyboroved.ru.csv;103673;kitchen_small;comparison;en
+COMMERCIAL;стационарный или погружной блендер что лучше;150;1228;COMMERCIAL/gmsk_expertcen.ru.csv;286102;kitchen_small;comparison;ru
+COMMERCIAL;что лучше аэрогриль или электрогриль;187;377;COMMERCIAL/gmsk_vyboroved.ru.csv;18858;kitchen_small;comparison;ru
+COMMERCIAL;чем отличается кухонный комбайн от кухонной машины;108;163;COMMERCIAL/gmsk_expertcen.ru.csv;335458;kitchen_small;comparison;en
+COMMERCIAL;чем отличается аэрогриль от мультиварки;70;152;COMMERCIAL/gmsk_expertcen.ru.csv;208393;kitchen_small;comparison;uk
+COMMERCIAL;чем отличается соковыжималка шнековая от центробежной какая лучше;73;108;COMMERCIAL/gmsk_expertcen.ru.csv;385111;kitchen_small;comparison;uk
+COMMERCIAL;мультиварка редмонд или поларис какая лучше;93;169;COMMERCIAL/gmsk_expertcen.ru.csv;200888;kitchen_small;comparison;uk
+COMMERCIAL;какая гейзерная кофеварка лучше алюминиевая или нержавейка;29;58;COMMERCIAL/gmsk_expertcen.ru.csv;170957;kitchen_small;comparison;ru
+COMMERCIAL;кофеварка гейзерная отзывы;659;3626;COMMERCIAL/gmsk_expertcen.ru.csv;370404;kitchen_small;reviews;ru
+COMMERCIAL;скороварка мультиварка отзывы какая лучше;270;377;COMMERCIAL/gmsk_expertcen.ru.csv;241;kitchen_small;reviews;ru
+COMMERCIAL;электрогриль отзывы покупателей какой лучше;207;332;COMMERCIAL/gmsk_expertcen.ru.csv;19314;kitchen_small;reviews;ru
+COMMERCIAL;мясорубки аксион все модели и цены отзывы;159;170;COMMERCIAL/gmsk_expertcen.ru.csv;286095;kitchen_small;reviews;ru
+COMMERCIAL;мультиварка стоит ли покупать отзывы;82;156;COMMERCIAL/gmsk_expertcen.ru.csv;244157;kitchen_small;reviews;en
+COMMERCIAL;хлебопечка недорогая но хорошая отзывы;704;785;COMMERCIAL/gmsk_expertcen.ru.csv;48263;kitchen_small;reviews;uk
+COMMERCIAL;как выбрать блендер для дома и какой фирмы отзывы;117;356;COMMERCIAL/gmsk_expertcen.ru.csv;88219;kitchen_small;reviews;uk
+COMMERCIAL;поларис мясорубка отзывы;103;1354;COMMERCIAL/gmsk_expertcen.ru.csv;370763;kitchen_small;reviews;ru
+COMMERCIAL;российские электромясорубки с металлическими шестернями цены и отзывы;66;78;COMMERCIAL/gmsk_expertcen.ru.csv;185965;kitchen_small;reviews;en
+COMMERCIAL;аэрогриль отзывы покупателей;307;2864;COMMERCIAL/gmsk_expertcen.ru.csv;127559;kitchen_small;reviews;uk
+COMMERCIAL;блендеры отзывы 5 лучших моделей;47;105;COMMERCIAL/gmsk_expertcen.ru.csv;154202;kitchen_small;reviews;en
+COMMERCIAL;электромясорубки какие лучше для дома от 2500 до 5000 рублей;597;600;COMMERCIAL/gmsk_expertcen.ru.csv;215246;kitchen_small;choice;ru
+COMMERCIAL;как выбрать планетарный миксер с чашей для дома;335;472;COMMERCIAL/gmsk_expertcen.ru.csv;272035;kitchen_small;choice;en
+COMMERCIAL;какую лучше купить мультиварку для дома;190;458;COMMERCIAL/gmsk_expertcen.ru.csv;48673;kitchen_small;choice;en
+COMMERCIAL;как выбрать электрогриль для дома на что обратить внимание;125;176;COMMERCIAL/gmsk_expertcen.ru.csv;193278;kitchen_small;choice;en
+COMMERCIAL;как выбрать электромясорубку для дома недорогую и качественную;86;146;COMMERCIAL/gmsk_expertcen.ru.csv;64136;kitchen_small;choice;en
+COMMERCIAL;как выбрать электрический чайник для дома;91;301;COMMERCIAL/gmsk_expertcen.ru.csv;136786;kitchen_small;choice;uk
+COMMERCIAL;кофемолка какую лучше купить топ 10;454;462;COMMERCIAL/gmsk_expertcen.ru.csv;48336;kitchen_small;choice;ru
+COMMERCIAL;планетарный миксер какой лучше купить для дома;323;869;COMMERCIAL/gmsk_expertcen.ru.csv;19212;kitchen_small;choice;uk
+COMMERCIAL;кофеварка какую выбрать для дома;123;895;COMMERCIAL/gmsk_expertcen.ru.csv;272252;kitchen_small;choice;uk
+COMMERCIAL;мощность блендера для дома какая лучше погружного;44;113;COMMERCIAL/gmsk_expertcen.ru.csv;328891;kitchen_small;choice;en
+COMMERCIAL;как выбрать фритюрницу для дома правильно;50;66;COMMERCIAL/gmsk_vyboroved.ru.csv;67310;kitchen_small;choice;uk
+COMMERCIAL;какой лучше блендер купить для дома;460;1640;COMMERCIAL/gmsk_expertcen.ru.csv;98298;kitchen_small;choice;uk
+COMMERCIAL;как выбрать микроволновую печь для дома;178;401;COMMERCIAL/gmsk_expertcen.ru.csv;200711;kitchen_small;choice;ru
+COMMERCIAL;какой фирмы лучше купить чайник электрический;60;99;COMMERCIAL/gmsk_expertcen.ru.csv;1582;kitchen_small;choice;en
+COMMERCIAL;как выбрать миксер ручной;135;1099;COMMERCIAL/gmsk_expertcen.ru.csv;76926;kitchen_small;choice;ru
+COMMERCIAL;лучший кофе для кофемашины в зернах;364;3725;COMMERCIAL/gmsk_expertcen.ru.csv;272037;kitchen_small;rankings;uk
+COMMERCIAL;кофемашина рейтинг лучших для дома;145;2393;COMMERCIAL/gmsk_expertcen.ru.csv;153666;kitchen_small;rankings;uk
+COMMERCIAL;лучшая автоматическая кофемашина для дома;244;1529;COMMERCIAL/gmsk_expertcen.ru.csv;169841;kitchen_small;rankings;uk
+COMMERCIAL;мясорубка электрическая рейтинг;589;5899;COMMERCIAL/gmsk_expertcen.ru.csv;19146;kitchen_small;rankings;en
+COMMERCIAL;кухонные весы лучшие;338;2401;COMMERCIAL/gmsk_expertcen.ru.csv;153;kitchen_small;rankings;uk
+COMMERCIAL;планетарный миксер рейтинг лучших для дома;145;765;COMMERCIAL/gmsk_expertcen.ru.csv;48833;kitchen_small;rankings;en
+COMMERCIAL;рейтинг кофемашин с капучинатором для дома;126;2040;COMMERCIAL/gmsk_expertcen.ru.csv;293214;kitchen_small;rankings;ru
+COMMERCIAL;миксер ручной для кухни рейтинг надежности лучший;52;54;COMMERCIAL/gmsk_expertcen.ru.csv;33506;kitchen_small;rankings;ru
+COMMERCIAL;соковыжималка шнековая рейтинг лучших;96;578;COMMERCIAL/gmsk_expertcen.ru.csv;19725;kitchen_small;rankings;en
+COMMERCIAL;электромясорубка рейтинг цена качество;267;522;COMMERCIAL/gmsk_expertcen.ru.csv;236;kitchen_small;rankings;en
+COMMERCIAL;рейтинг вафельница для венских вафель;131;399;COMMERCIAL/gmsk_expertcen.ru.csv;32471;kitchen_small;rankings;ru
+COMMERCIAL;вафельница для бельгийских вафель рейтинг;51;116;COMMERCIAL/gmsk_expertcen.ru.csv;1886;kitchen_small;rankings;ru
+COMMERCIAL;лучшие хлебопечки для дома с функцией замеса теста;67;77;COMMERCIAL/gmsk_expertcen.ru.csv;215703;kitchen_small;rankings;uk
+COMMERCIAL;капсульная кофемашина рейтинг;115;958;COMMERCIAL/gmsk_vyboroved.ru.csv;11116;kitchen_small;rankings;ru
+COMMERCIAL;какая мощность должна быть у планетарного миксера;59;278;COMMERCIAL/gmsk_expertcen.ru.csv;265507;kitchen_small;criteria;ru
+COMMERCIAL;мощный ручной миксер для кухни;20;163;COMMERCIAL/gmsk_expertcen.ru.csv;79144;kitchen_small;criteria;en
+COMMERCIAL;недорогие кофемашины для дома цены;11;857;COMMERCIAL/gmsk_expertcen.ru.csv;253414;kitchen_small;criteria;uk
+COMMERCIAL;какая должна быть мощность у кофемолки для дома;31;77;COMMERCIAL/gmsk_expertcen.ru.csv;273090;kitchen_small;criteria;en
+COMMERCIAL;хорошая микроволновка для разогрева еды;184;233;COMMERCIAL/gmsk_expertcen.ru.csv;63615;kitchen_small;criteria;en
+COMMERCIAL;рожковые кофеварки для дома оптимальный вариант;13;134;COMMERCIAL/gmsk_expertcen.ru.csv;224583;kitchen_small;criteria;ru
+COMMERCIAL;качественный планетарный миксер для дома;7;43;COMMERCIAL/gmsk_expertcen.ru.csv;81908;kitchen_small;criteria;uk
+COMMERCIAL;что лучше утюг или отпариватель;542;2156;COMMERCIAL/gmsk_vyboroved.ru.csv;113132;cleaning_home;comparison;ru
+COMMERCIAL;очиститель воздуха или увлажнитель что лучше;64;1410;COMMERCIAL/gmsk_vyboroved.ru.csv;11203;cleaning_home;comparison;en
+COMMERCIAL;сравнение роботов пылесосов;282;3037;COMMERCIAL/gmsk_expertcen.ru.csv;215306;cleaning_home;comparison;ru
+COMMERCIAL;робот пылесос с одной или двумя боковыми щетками какой лучше;42;52;COMMERCIAL/gmsk_expertcen.ru.csv;314993;cleaning_home;comparison;uk
+COMMERCIAL;что лучше парогенератор или утюг;192;1836;COMMERCIAL/gmsk_expertcen.ru.csv;257973;cleaning_home;comparison;en
+COMMERCIAL;сравнение пылесосов вертикальных;50;750;COMMERCIAL/gmsk_expertcen.ru.csv;118884;cleaning_home;comparison;en
+COMMERCIAL;паровая швабра отзывы;1046;13708;COMMERCIAL/gmsk_expertcen.ru.csv;177624;cleaning_home;reviews;uk
+COMMERCIAL;отпариватель для одежды какой лучше купить для дома отзывы;176;655;COMMERCIAL/gmsk_expertcen.ru.csv;48692;cleaning_home;reviews;en
+COMMERCIAL;ручной отпариватель отзывы;332;12358;COMMERCIAL/gmsk_expertcen.ru.csv;145155;cleaning_home;reviews;ru
+COMMERCIAL;моющий пылесос для дома какой выбрать отзывы и цена;297;467;COMMERCIAL/gmsk_expertcen.ru.csv;76620;cleaning_home;reviews;en
+COMMERCIAL;мойка воздуха отзывы;166;2779;COMMERCIAL/gmsk_expertcen.ru.csv;370585;cleaning_home;reviews;ru
+COMMERCIAL;робот пылесос отзывы форум;104;707;COMMERCIAL/gmsk_expertcen.ru.csv;265264;cleaning_home;reviews;uk
+COMMERCIAL;вертикальный моющий пылесос отзывы;101;1232;COMMERCIAL/gmsk_expertcen.ru.csv;185752;cleaning_home;reviews;en
+COMMERCIAL;сушилка для фруктов и овощей отзывы;265;5582;COMMERCIAL/gmsk_expertcen.ru.csv;63478;cleaning_home;reviews;uk
+COMMERCIAL;робот пылесос какой лучше купить;1014;7493;COMMERCIAL/gmsk_expertcen.ru.csv;215203;cleaning_home;choice;ru
+COMMERCIAL;парогенератор какой лучше купить для дома;362;840;COMMERCIAL/gmsk_expertcen.ru.csv;405515;cleaning_home;choice;en
+COMMERCIAL;робот пылесос с влажной уборкой какой лучше купить для квартиры;438;1024;COMMERCIAL/gmsk_expertcen.ru.csv;161728;cleaning_home;choice;en
+COMMERCIAL;как выбрать увлажнитель воздуха для квартиры;775;3098;COMMERCIAL/gmsk_expertcen.ru.csv;370414;cleaning_home;choice;en
+COMMERCIAL;доска для парогенератора гладильная какую выбрать;104;151;COMMERCIAL/gmsk_expertcen.ru.csv;145444;cleaning_home;choice;ru
+COMMERCIAL;как выбрать пылесос для дома мощный;236;528;COMMERCIAL/gmsk_expertcen.ru.csv;200661;cleaning_home;choice;uk
+COMMERCIAL;как выбрать вертикальный пылесос для квартиры;382;1373;COMMERCIAL/gmsk_expertcen.ru.csv;243767;cleaning_home;choice;uk
+COMMERCIAL;моющий робот пылесос для дома какой выбрать;57;180;COMMERCIAL/gmsk_expertcen.ru.csv;208499;cleaning_home;choice;ru
+COMMERCIAL;как выбрать пылесос для квартиры без мешка для сбора пыли;101;146;COMMERCIAL/gmsk_expertcen.ru.csv;229772;cleaning_home;choice;ru
+COMMERCIAL;пылесос для маникюра какой выбрать;114;233;COMMERCIAL/gmsk_expertcen.ru.csv;813;cleaning_home;choice;ru
+COMMERCIAL;как выбрать ручной пылесос;104;1082;COMMERCIAL/gmsk_expertcen.ru.csv;108688;cleaning_home;choice;uk
+COMMERCIAL;вертикальный пылесос какой марки лучше купить для дома;503;599;COMMERCIAL/gmsk_expertcen.ru.csv;63324;cleaning_home;choice;uk
+COMMERCIAL;пылесос беспроводной вертикальный рейтинг лучших;276;1576;COMMERCIAL/gmsk_expertcen.ru.csv;76651;cleaning_home;rankings;en
+COMMERCIAL;вертикальный пылесос проводной рейтинг;211;1826;COMMERCIAL/gmsk_expertcen.ru.csv;136502;cleaning_home;rankings;uk
+COMMERCIAL;лучшие бюджетные роботы пылесосы;165;2924;COMMERCIAL/gmsk_expertcen.ru.csv;88089;cleaning_home;rankings;ru
+COMMERCIAL;лучший беспроводной пылесос;372;15242;COMMERCIAL/gmsk_expertcen.ru.csv;328134;cleaning_home;rankings;en
+COMMERCIAL;роботы пылесосы рейтинг лучших;166;8801;COMMERCIAL/gmsk_expertcen.ru.csv;19391;cleaning_home;rankings;en
+COMMERCIAL;рейтинг вертикальных пылесосов для дома цена качество;167;832;COMMERCIAL/gmsk_expertcen.ru.csv;193194;cleaning_home;rankings;uk
+COMMERCIAL;лучший робот пылесос цена качество;127;2879;COMMERCIAL/gmsk_expertcen.ru.csv;19510;cleaning_home;rankings;uk
+COMMERCIAL;топ очистителей воздуха для квартиры;90;308;COMMERCIAL/gmsk_expertcen.ru.csv;77148;cleaning_home;rankings;ru
+COMMERCIAL;рейтинг роботов пылесосов с влажной;121;8817;COMMERCIAL/gmsk_expertcen.ru.csv;48952;cleaning_home;rankings;en
+COMMERCIAL;самый лучший отбеливатель для белого белья;105;217;COMMERCIAL/gmsk_vyboroved.ru.csv;18937;cleaning_home;rankings;ru
+COMMERCIAL;какая подошва утюга самая лучшая;263;552;COMMERCIAL/gmsk_expertcen.ru.csv;363489;cleaning_home;rankings;uk
+COMMERCIAL;самый эффективный отбеливатель для белых вещей;534;564;COMMERCIAL/gmsk_vyboroved.ru.csv;4592;cleaning_home;criteria;ru
+COMMERCIAL;какой мощности пылесос лучше купить для дома;100;198;COMMERCIAL/gmsk_expertcen.ru.csv;251193;cleaning_home;criteria;uk
+COMMERCIAL;какая мощность всасывания у пылесоса считается хорошей для дома;154;247;COMMERCIAL/gmsk_expertcen.ru.csv;258020;cleaning_home;criteria;en
+COMMERCIAL;хороший пылесос для дома с контейнером мощный недорого;90;180;COMMERCIAL/gmsk_expertcen.ru.csv;108782;cleaning_home;criteria;ru
+COMMERCIAL;какая мощность должна быть у пылесоса для дома всасывания хорошего;100;308;COMMERCIAL/gmsk_expertcen.ru.csv;272348;cleaning_home;criteria;uk
+COMMERCIAL;какой газовый котел лучше двухконтурный или одноконтурный для частного дома;67;137;COMMERCIAL/gmsk_expertcen.ru.csv;272503;climate_heat;comparison;en
+COMMERCIAL;что лучше сплит система или кондиционер;52;736;COMMERCIAL/gmsk_expertcen.ru.csv;406152;climate_heat;comparison;uk
+COMMERCIAL;термекс или аристон водонагреватель что лучше;13;76;COMMERCIAL/gmsk_expertcen.ru.csv;295195;climate_heat;comparison;uk
+COMMERCIAL;сравнить сплит системы;13;305;COMMERCIAL/gmsk_expertcen.ru.csv;67743;climate_heat;comparison;ru
+COMMERCIAL;что лучше бойлер или проточный водонагреватель;69;197;COMMERCIAL/gmsk_vyboroved.ru.csv;88129;climate_heat;comparison;en
+COMMERCIAL;водонагреватель electrolux или thermex что лучше;7;12;COMMERCIAL/gmsk_expertcen.ru.csv;225599;climate_heat;comparison;en
+COMMERCIAL;аогв или котел что лучше;6;104;COMMERCIAL/gmsk_expertcen.ru.csv;359833;climate_heat;comparison;uk
+COMMERCIAL;инфракрасные обогреватели отзывы;52;3888;COMMERCIAL/gmsk_expertcen.ru.csv;286559;climate_heat;reviews;en
+COMMERCIAL;водонагреватель проточный отзывы покупателей;37;351;COMMERCIAL/gmsk_expertcen.ru.csv;201485;climate_heat;reviews;uk
+COMMERCIAL;электро котел отопление 220в цена отзывы какой лучше купить;607;623;COMMERCIAL/gmsk_expertcen.ru.csv;41;climate_heat;reviews;ru
+COMMERCIAL;газовый котел италтерм отзывы;51;219;COMMERCIAL/gmsk_expertcen.ru.csv;186102;climate_heat;reviews;uk
+COMMERCIAL;обзор вентиляторов для ванной;28;49;COMMERCIAL/gmsk_expertcen.ru.csv;65802;climate_heat;reviews;uk
+COMMERCIAL;какой газовый котел лучше для отопления частного дома отзывы;52;403;COMMERCIAL/gmsk_expertcen.ru.csv;20306;climate_heat;reviews;ru
+COMMERCIAL;кондиционер мобильный для дома отзывы;57;191;COMMERCIAL/gmsk_expertcen.ru.csv;186046;climate_heat;reviews;ru
+COMMERCIAL;проточный водонагреватель электрический отзывы плюсы и минусы;23;35;COMMERCIAL/gmsk_expertcen.ru.csv;202021;climate_heat;reviews;uk
+COMMERCIAL;проточный водонагреватель электрический отзывы для квартиры;35;174;COMMERCIAL/gmsk_expertcen.ru.csv;78174;climate_heat;reviews;en
+COMMERCIAL;напольный кондиционер обзор;11;86;COMMERCIAL/gmsk_expertcen.ru.csv;68464;climate_heat;reviews;en
+COMMERCIAL;кондиционер для квартиры как выбрать;1043;4506;COMMERCIAL/gmsk_expertcen.ru.csv;398574;climate_heat;choice;en
+COMMERCIAL;водонагреватель проточный электрический какой лучше купить;494;640;COMMERCIAL/gmsk_expertcen.ru.csv;51;climate_heat;choice;uk
+COMMERCIAL;какой выбрать стабилизатор напряжения для частного дома;471;758;COMMERCIAL/gmsk_expertcen.ru.csv;370439;climate_heat;choice;uk
+COMMERCIAL;кондиционер для дома купить какой лучше;81;401;COMMERCIAL/gmsk_expertcen.ru.csv;32888;climate_heat;choice;ru
+COMMERCIAL;кондиционер для дома как выбрать правильно;32;106;COMMERCIAL/gmsk_expertcen.ru.csv;265971;climate_heat;choice;uk
+COMMERCIAL;как выбрать накопительный водонагреватель;73;1315;COMMERCIAL/gmsk_expertcen.ru.csv;178138;climate_heat;choice;ru
+COMMERCIAL;как выбрать электрокотел для отопления частного дома;65;388;COMMERCIAL/gmsk_expertcen.ru.csv;279501;climate_heat;choice;ru
+COMMERCIAL;водонагреватель какой фирмы лучше купить;27;494;COMMERCIAL/gmsk_expertcen.ru.csv;21438;climate_heat;choice;ru
+COMMERCIAL;двухконтурный газовый котел какой лучше;51;2808;COMMERCIAL/gmsk_expertcen.ru.csv;49971;climate_heat;choice;uk
+COMMERCIAL;как выбрать вытяжной вентилятор для ванной комнаты;29;69;COMMERCIAL/gmsk_expertcen.ru.csv;178923;climate_heat;choice;ru
+COMMERCIAL;какой лучше купить газовый котел двухконтурный для частного дома настенный;20;111;COMMERCIAL/gmsk_expertcen.ru.csv;194654;climate_heat;choice;uk
+COMMERCIAL;мобильный кондиционер стоит ли покупать;31;107;COMMERCIAL/gmsk_expertcen.ru.csv;315260;climate_heat;choice;en
+COMMERCIAL;как выбрать вытяжной вентилятор;25;529;COMMERCIAL/gmsk_expertcen.ru.csv;301272;climate_heat;choice;en
+COMMERCIAL;лучший водонагреватель на 50 литров;515;1362;COMMERCIAL/gmsk_expertcen.ru.csv;193028;climate_heat;rankings;en
+COMMERCIAL;рейтинг биметаллических радиаторов;304;1096;COMMERCIAL/gmsk_expertcen.ru.csv;136443;climate_heat;rankings;ru
+COMMERCIAL;кондиционеры для волос лучшие;146;2878;COMMERCIAL/gmsk_expertcen.ru.csv;405696;climate_heat;rankings;ru
+COMMERCIAL;лучшие радиаторы отопления;62;13651;COMMERCIAL/gmsk_vyboroved.ru.csv;88136;climate_heat;rankings;ru
+COMMERCIAL;рейтинг биметаллических радиаторов отопления для квартиры;59;252;COMMERCIAL/gmsk_expertcen.ru.csv;186014;climate_heat;rankings;uk
+COMMERCIAL;топ вентиляторов для корпуса;77;389;COMMERCIAL/gmsk_expertcen.ru.csv;19866;climate_heat;rankings;uk
+COMMERCIAL;котел газовый двухконтурный настенный рейтинг надежности;20;360;COMMERCIAL/gmsk_expertcen.ru.csv;120179;climate_heat;rankings;uk
+COMMERCIAL;фирмы по установке кондиционеров в москве рейтинг лучших;23;36;COMMERCIAL/gmsk_expertcen.ru.csv;259260;climate_heat;rankings;en
+COMMERCIAL;рейтинг кондиционеров инверторных;98;1000;COMMERCIAL/gmsk_expertcen.ru.csv;177976;climate_heat;rankings;ru
+COMMERCIAL;стабилизатор напряжения 220в для дома рейтинг;22;187;COMMERCIAL/gmsk_expertcen.ru.csv;110308;climate_heat;rankings;en
+COMMERCIAL;рейтинг бюджетных кондиционеров;26;263;COMMERCIAL/gmsk_expertcen.ru.csv;119653;climate_heat;rankings;en
+COMMERCIAL;топ бюджетных сплит систем;13;73;COMMERCIAL/gmsk_expertcen.ru.csv;6445;climate_heat;rankings;en
+COMMERCIAL;какой купить кондиционер недорогой и качественный в квартиру;265;310;COMMERCIAL/gmsk_expertcen.ru.csv;127599;climate_heat;criteria;ru
+COMMERCIAL;какие сплит системы считаются самыми надежными и качественными;19;19;COMMERCIAL/gmsk_expertcen.ru.csv;36138;climate_heat;criteria;ru
+COMMERCIAL;хорошая сплит система для квартиры;17;1357;COMMERCIAL/gmsk_expertcen.ru.csv;5253;climate_heat;criteria;uk
+COMMERCIAL;самый тихий вытяжной вентилятор для ванной;14;40;COMMERCIAL/gmsk_expertcen.ru.csv;67593;climate_heat;criteria;en
+COMMERCIAL;мощный проточный водонагреватель электрический 380 в;5;5;COMMERCIAL/gmsk_expertcen.ru.csv;103373;climate_heat;criteria;ru
+COMMERCIAL;вентилятор вытяжной для кухни мощный;26;61;COMMERCIAL/gmsk_vyboroved.ru.csv;151401;climate_heat;criteria;en
+COMMERCIAL;какой сварочный аппарат лучше для дома инвертор или полуавтомат;520;570;COMMERCIAL/gmsk_expertcen.ru.csv;236650;construction_tools;comparison;ru
+COMMERCIAL;какая пила лучше сабельная или цепная аккумуляторная;118;177;COMMERCIAL/gmsk_expertcen.ru.csv;293224;construction_tools;comparison;uk
+COMMERCIAL;какой шуруповерт лучше купить для дома сетевой или аккумуляторный;123;128;COMMERCIAL/gmsk_vyboroved.ru.csv;91116;construction_tools;comparison;ru
+COMMERCIAL;какой лучше сварочный аппарат инверторный или полуавтомат;23;69;COMMERCIAL/gmsk_expertcen.ru.csv;252288;construction_tools;comparison;uk
+COMMERCIAL;какой перфоратор лучше макита или бош;34;79;COMMERCIAL/gmsk_expertcen.ru.csv;293959;construction_tools;comparison;ru
+COMMERCIAL;что лучше шуруповерт или дрель;21;2205;COMMERCIAL/gmsk_expertcen.ru.csv;413128;construction_tools;comparison;en
+COMMERCIAL;какая бензопила лучше хускварна или штиль;38;80;COMMERCIAL/gmsk_expertcen.ru.csv;336097;construction_tools;comparison;ru
+COMMERCIAL;сабельная пила отзывы;50;5028;COMMERCIAL/gmsk_expertcen.ru.csv;162411;construction_tools;reviews;ru
+COMMERCIAL;лазерный уровень обзор;54;2062;COMMERCIAL/gmsk_expertcen.ru.csv;201189;construction_tools;reviews;uk
+COMMERCIAL;инверторные сварочные аппараты для дома и дачи цена отзывы;18;20;COMMERCIAL/gmsk_expertcen.ru.csv;66809;construction_tools;reviews;ru
+COMMERCIAL;торцовочная пила отзывы;35;8665;COMMERCIAL/gmsk_expertcen.ru.csv;178677;construction_tools;reviews;en
+COMMERCIAL;обзор шуруповертов аккумуляторных бюджетных;21;34;COMMERCIAL/gmsk_expertcen.ru.csv;187047;construction_tools;reviews;ru
+COMMERCIAL;пила цепная электрическая отзывы;35;1821;COMMERCIAL/gmsk_expertcen.ru.csv;194013;construction_tools;reviews;uk
+COMMERCIAL;китайский шуруповерт макита отзывы;27;278;COMMERCIAL/gmsk_expertcen.ru.csv;322423;construction_tools;reviews;en
+COMMERCIAL;какой шуруповерт купить для дома хороший и недорогой отзывы;5;211;COMMERCIAL/gmsk_expertcen.ru.csv;56663;construction_tools;reviews;uk
+COMMERCIAL;пила циркулярная отзывы;45;6028;COMMERCIAL/gmsk_expertcen.ru.csv;321891;construction_tools;reviews;en
+COMMERCIAL;дисковая пила отзывы;10;5217;COMMERCIAL/gmsk_expertcen.ru.csv;401341;construction_tools;reviews;en
+COMMERCIAL;какой лучше купить сварочный аппарат для дома и дачи;287;1420;COMMERCIAL/gmsk_expertcen.ru.csv;349311;construction_tools;choice;en
+COMMERCIAL;как выбрать сварочный аппарат для дома;163;2072;COMMERCIAL/gmsk_expertcen.ru.csv;412365;construction_tools;choice;ru
+COMMERCIAL;как выбрать сварочный полуавтомат;269;4985;COMMERCIAL/gmsk_expertcen.ru.csv;153514;construction_tools;choice;en
+COMMERCIAL;компрессор автомобильный какой лучше;382;1574;COMMERCIAL/gmsk_expertcen.ru.csv;48382;construction_tools;choice;uk
+COMMERCIAL;сварочный аппарат инверторный какой лучше купить для дома;73;152;COMMERCIAL/gmsk_expertcen.ru.csv;77304;construction_tools;choice;ru
+COMMERCIAL;шуруповерт аккумуляторный какой лучше из недорогих;463;2494;COMMERCIAL/gmsk_expertcen.ru.csv;145112;construction_tools;choice;en
+COMMERCIAL;автомобильный компрессор какой лучше купить для легкового автомобиля;111;173;COMMERCIAL/gmsk_expertcen.ru.csv;49013;construction_tools;choice;en
+COMMERCIAL;как выбрать мебельный степлер для домашнего использования;145;153;COMMERCIAL/gmsk_expertcen.ru.csv;185645;construction_tools;choice;uk
+COMMERCIAL;сварочный аппарат для дома и дачи инвертор какой фирмы выбрать;459;525;COMMERCIAL/gmsk_expertcen.ru.csv;127520;construction_tools;choice;uk
+COMMERCIAL;как выбрать компрессор для автомобиля;60;781;COMMERCIAL/gmsk_expertcen.ru.csv;201131;construction_tools;choice;en
+COMMERCIAL;перфоратор какой лучше купить для дома;699;1001;COMMERCIAL/gmsk_expertcen.ru.csv;127486;construction_tools;choice;uk
+COMMERCIAL;как выбрать болгарку для домашнего использования;152;200;COMMERCIAL/gmsk_expertcen.ru.csv;251048;construction_tools;choice;ru
+COMMERCIAL;как выбрать степлер мебельный;71;462;COMMERCIAL/gmsk_expertcen.ru.csv;237113;construction_tools;choice;uk
+COMMERCIAL;какую выбрать бензопилу;83;1675;COMMERCIAL/gmsk_expertcen.ru.csv;265330;construction_tools;choice;en
+COMMERCIAL;автомобильный компрессор рейтинг цена качество;236;321;COMMERCIAL/gmsk_expertcen.ru.csv;19279;construction_tools;rankings;uk
+COMMERCIAL;рейтинг лобзиков электрических;117;1068;COMMERCIAL/gmsk_expertcen.ru.csv;32553;construction_tools;rankings;en
+COMMERCIAL;рейтинг сетевых шуруповертов;71;532;COMMERCIAL/gmsk_expertcen.ru.csv;98910;construction_tools;rankings;uk
+COMMERCIAL;рейтинг полуавтоматов сварочных для дома по доступной цене;191;302;COMMERCIAL/gmsk_expertcen.ru.csv;411;construction_tools;rankings;ru
+COMMERCIAL;перфоратор рейтинг цена качество для дома;42;283;COMMERCIAL/gmsk_expertcen.ru.csv;33938;construction_tools;rankings;ru
+COMMERCIAL;гайковерт электрический ударный рейтинг;439;618;COMMERCIAL/gmsk_expertcen.ru.csv;76553;construction_tools;rankings;uk
+COMMERCIAL;электропила цепная рейтинг по качеству и цена;137;505;COMMERCIAL/gmsk_expertcen.ru.csv;48856;construction_tools;rankings;ru
+COMMERCIAL;полуавтомат сварочный без газа рейтинг;138;1021;COMMERCIAL/gmsk_expertcen.ru.csv;19483;construction_tools;rankings;en
+COMMERCIAL;сабельная пила аккумуляторная рейтинг лучшие модели;92;161;COMMERCIAL/gmsk_expertcen.ru.csv;32785;construction_tools;rankings;uk
+COMMERCIAL;лучший гайковерт аккумуляторный;59;1666;COMMERCIAL/gmsk_expertcen.ru.csv;186003;construction_tools;rankings;ru
+COMMERCIAL;топ лазерных нивелиров;49;314;COMMERCIAL/gmsk_expertcen.ru.csv;50035;construction_tools;rankings;en
+COMMERCIAL;рейтинг производителей электроинструмента по надежности;69;82;COMMERCIAL/gmsk_expertcen.ru.csv;392158;construction_tools;rankings;ru
+COMMERCIAL;бензопила топ 10 для дома и дачи;27;71;COMMERCIAL/gmsk_expertcen.ru.csv;51303;construction_tools;rankings;uk
+COMMERCIAL;аккумуляторная пила цепная дешевая и надежная;152;362;COMMERCIAL/gmsk_expertcen.ru.csv;153662;construction_tools;criteria;ru
+COMMERCIAL;набор инструментов в чемодане для дома качественный;73;314;COMMERCIAL/gmsk_expertcen.ru.csv;108888;construction_tools;criteria;uk
+COMMERCIAL;лазерный уровень для дома дешевый и надежный;54;906;COMMERCIAL/gmsk_expertcen.ru.csv;128226;construction_tools;criteria;ru
+COMMERCIAL;бензопила для дома и дачи недорогая надежная;55;69;COMMERCIAL/gmsk_expertcen.ru.csv;20196;construction_tools;criteria;uk
+COMMERCIAL;электропила цепная дешевая и надежная;286;869;COMMERCIAL/gmsk_expertcen.ru.csv;161767;construction_tools;criteria;en
+COMMERCIAL;какая бензопила хорошая и недорогая;8;357;COMMERCIAL/gmsk_expertcen.ru.csv;24653;construction_tools;criteria;en
+COMMERCIAL;гель лак или шеллак что лучше;50;322;COMMERCIAL/gmsk_expertcen.ru.csv;364090;renovation_materials;comparison;uk
+COMMERCIAL;чем отличается бытовой линолеум от полукоммерческого;60;223;COMMERCIAL/gmsk_expertcen.ru.csv;335726;renovation_materials;comparison;ru
+COMMERCIAL;что лучше лак или гель лак для ногтей;79;4707;COMMERCIAL/gmsk_expertcen.ru.csv;349714;renovation_materials;comparison;uk
+COMMERCIAL;подложка рулонная или листовая какая под ламинат лучше;24;28;COMMERCIAL/gmsk_expertcen.ru.csv;252223;renovation_materials;comparison;en
+COMMERCIAL;чем отличается тоника от краски для волос;11;54;COMMERCIAL/gmsk_expertcen.ru.csv;394205;renovation_materials;comparison;en
+COMMERCIAL;отзывы краска для волос;340;79717;COMMERCIAL/gmsk_expertcen.ru.csv;76592;renovation_materials;reviews;en
+COMMERCIAL;теплый пол электрический под плитку какой лучше отзывы;188;280;COMMERCIAL/gmsk_expertcen.ru.csv;118233;renovation_materials;reviews;en
+COMMERCIAL;электрический краскопульт отзывы;155;2111;COMMERCIAL/gmsk_expertcen.ru.csv;185618;renovation_materials;reviews;uk
+COMMERCIAL;гель лак калипсо отзывы;43;64;COMMERCIAL/gmsk_expertcen.ru.csv;300698;renovation_materials;reviews;uk
+COMMERCIAL;лак для волос kensuko отзывы;40;60;COMMERCIAL/gmsk_expertcen.ru.csv;385517;renovation_materials;reviews;ru
+COMMERCIAL;кастамону ламинат отзывы профессионалов;24;28;COMMERCIAL/gmsk_expertcen.ru.csv;201980;renovation_materials;reviews;ru
+COMMERCIAL;блюскай гель лак отзывы;33;62;COMMERCIAL/gmsk_expertcen.ru.csv;350354;renovation_materials;reviews;ru
+COMMERCIAL;топ лак отзывы реальные;13;21;COMMERCIAL/gmsk_expertcen.ru.csv;120954;renovation_materials;reviews;en
+COMMERCIAL;какой лучше купить ламинат для квартиры;165;708;COMMERCIAL/gmsk_expertcen.ru.csv;258008;renovation_materials;choice;ru
+COMMERCIAL;герметик для ванной какой лучше;211;1417;COMMERCIAL/gmsk_expertcen.ru.csv;32211;renovation_materials;choice;ru
+COMMERCIAL;герметик для душевых кабин какой выбрать;156;206;COMMERCIAL/gmsk_expertcen.ru.csv;63696;renovation_materials;choice;uk
+COMMERCIAL;краска для волос для домашнего окрашивания какая лучше;113;269;COMMERCIAL/gmsk_vyboroved.ru.csv;53274;renovation_materials;choice;uk
+COMMERCIAL;краска для наружных работ по дереву какая лучше;59;501;COMMERCIAL/gmsk_vyboroved.ru.csv;122813;renovation_materials;choice;ru
+COMMERCIAL;плиткорез ручной как выбрать;39;214;COMMERCIAL/gmsk_expertcen.ru.csv;251726;renovation_materials;choice;uk
+COMMERCIAL;краска для ресниц и бровей какая лучше;61;127;COMMERCIAL/gmsk_expertcen.ru.csv;99001;renovation_materials;choice;en
+COMMERCIAL;линолеум какой лучше выбрать для квартиры;200;491;COMMERCIAL/gmsk_expertcen.ru.csv;356493;renovation_materials;choice;en
+COMMERCIAL;плиточный клей для теплого пола какой лучше;42;108;COMMERCIAL/gmsk_expertcen.ru.csv;272816;renovation_materials;choice;en
+COMMERCIAL;клей для подошвы обуви какой лучше;70;451;COMMERCIAL/gmsk_vyboroved.ru.csv;11217;renovation_materials;choice;ru
+COMMERCIAL;краскопульт какой лучше купить для дома;37;483;COMMERCIAL/gmsk_expertcen.ru.csv;128600;renovation_materials;choice;ru
+COMMERCIAL;лучшая краска для волос для домашнего использования;318;2194;COMMERCIAL/gmsk_expertcen.ru.csv;342257;renovation_materials;rankings;uk
+COMMERCIAL;лучшие профессиональные краски для седых волос;50;934;COMMERCIAL/gmsk_expertcen.ru.csv;321838;renovation_materials;rankings;ru
+COMMERCIAL;рейтинг биноклей цена качество;53;243;COMMERCIAL/gmsk_expertcen.ru.csv;1778;renovation_materials;rankings;ru
+COMMERCIAL;какой клей для наращивания ресниц самый лучший;38;122;COMMERCIAL/gmsk_expertcen.ru.csv;154394;renovation_materials;rankings;en
+COMMERCIAL;краска для стен лучшая;277;7288;COMMERCIAL/gmsk_vyboroved.ru.csv;14756;renovation_materials;rankings;uk
+COMMERCIAL;какой ламинат самый лучший по качеству;680;869;COMMERCIAL/gmsk_expertcen.ru.csv;63291;renovation_materials;rankings;en
+COMMERCIAL;рейтинг производителей ламината;123;976;COMMERCIAL/gmsk_expertcen.ru.csv;145402;renovation_materials;rankings;uk
+COMMERCIAL;краска для потолка белая матовая лучшая;32;192;COMMERCIAL/gmsk_expertcen.ru.csv;2988;renovation_materials;rankings;en
+COMMERCIAL;краска для волос профессиональная рейтинг лучших;114;1010;COMMERCIAL/gmsk_expertcen.ru.csv;88229;renovation_materials;rankings;ru
+COMMERCIAL;лучший клей для обуви профессиональный;40;267;COMMERCIAL/gmsk_vyboroved.ru.csv;4818;renovation_materials;rankings;ru
+COMMERCIAL;ламинат недорогой но качественный купить;12;68;COMMERCIAL/gmsk_expertcen.ru.csv;401011;renovation_materials;criteria;uk
+COMMERCIAL;недорогая профессиональная краска для волос;20;191;COMMERCIAL/gmsk_expertcen.ru.csv;100492;renovation_materials;criteria;en
+COMMERCIAL;какой хороший клей для обоев;12;4102;COMMERCIAL/gmsk_expertcen.ru.csv;6817;renovation_materials;criteria;uk
+COMMERCIAL;бюджетные профессиональные краски для волос;10;65;COMMERCIAL/gmsk_expertcen.ru.csv;91819;renovation_materials;criteria;en
+COMMERCIAL;лдсп или мдф что лучше для мебели;469;1142;COMMERCIAL/gmsk_expertcen.ru.csv;307076;home_furniture;comparison;en
+COMMERCIAL;чем отличается коверлок от оверлока;79;286;COMMERCIAL/gmsk_expertcen.ru.csv;321540;home_furniture;comparison;ru
+COMMERCIAL;что лучше шенилл или рогожка для дивана;104;138;COMMERCIAL/gmsk_expertcen.ru.csv;293293;home_furniture;comparison;uk
+COMMERCIAL;матрас аскона или орматек какой лучше;103;746;COMMERCIAL/gmsk_vyboroved.ru.csv;94303;home_furniture;comparison;en
+COMMERCIAL;что лучше лдсп или дсп для мебели;23;83;COMMERCIAL/gmsk_expertcen.ru.csv;138019;home_furniture;comparison;uk
+COMMERCIAL;лебяжий пух или бамбук что лучше подушка;18;331;COMMERCIAL/gmsk_vyboroved.ru.csv;19774;home_furniture;comparison;ru
+COMMERCIAL;какие подушки лучше купить для сна с каким наполнителем отзывы;277;551;COMMERCIAL/gmsk_expertcen.ru.csv;48493;home_furniture;reviews;ru
+COMMERCIAL;надувной матрас отзывы;42;1258;COMMERCIAL/gmsk_expertcen.ru.csv;119043;home_furniture;reviews;en
+COMMERCIAL;отзывы о душевых кабинах;59;11100;COMMERCIAL/gmsk_expertcen.ru.csv;342780;home_furniture;reviews;uk
+COMMERCIAL;качественные матрасы для кроватей рейтинг и отзывы;20;23;COMMERCIAL/gmsk_expertcen.ru.csv;252473;home_furniture;reviews;uk
+COMMERCIAL;отзывы о духовых шкафах;25;34377;COMMERCIAL/gmsk_expertcen.ru.csv;223690;home_furniture;reviews;en
+COMMERCIAL;смеситель для кухни какой лучше выбрать цена качество отзывы;22;30;COMMERCIAL/gmsk_expertcen.ru.csv;400173;home_furniture;reviews;en
+COMMERCIAL;отзывы стульчик для кормления;49;2209;COMMERCIAL/gmsk_expertcen.ru.csv;50048;home_furniture;reviews;ru
+COMMERCIAL;какие матрасы самые лучшие и удобные отзывы покупателей;10;12;COMMERCIAL/gmsk_vyboroved.ru.csv;58198;home_furniture;reviews;ru
+COMMERCIAL;какую кроватку выбрать для новорожденного отзывы;11;56;COMMERCIAL/gmsk_expertcen.ru.csv;139494;home_furniture;reviews;uk
+COMMERCIAL;смеситель для ванной как выбрать;185;3263;COMMERCIAL/gmsk_vyboroved.ru.csv;144536;home_furniture;choice;ru
+COMMERCIAL;какой лучше матрас для ребенка от 3 лет;88;321;COMMERCIAL/gmsk_expertcen.ru.csv;314518;home_furniture;choice;uk
+COMMERCIAL;матрас какой фирмы лучше выбрать;94;249;COMMERCIAL/gmsk_expertcen.ru.csv;377903;home_furniture;choice;ru
+COMMERCIAL;матрасы какой фирмы считаются самыми лучшими;3538;3765;COMMERCIAL/gmsk_vyboroved.ru.csv;63812;home_furniture;choice;uk
+COMMERCIAL;ткань для дивана какую выбрать;72;626;COMMERCIAL/gmsk_expertcen.ru.csv;185922;home_furniture;choice;ru
+COMMERCIAL;матрас для новорожденного какой лучше выбрать;50;214;COMMERCIAL/gmsk_expertcen.ru.csv;272686;home_furniture;choice;en
+COMMERCIAL;игровое кресло какое лучше купить;45;120;COMMERCIAL/gmsk_expertcen.ru.csv;88961;home_furniture;choice;uk
+COMMERCIAL;наполнитель подушки какой лучше;73;9193;COMMERCIAL/gmsk_expertcen.ru.csv;88502;home_furniture;choice;uk
+COMMERCIAL;какой лучше наполнитель дивана;47;1043;COMMERCIAL/gmsk_expertcen.ru.csv;392397;home_furniture;choice;en
+COMMERCIAL;обивка для дивана какая лучше;44;724;COMMERCIAL/gmsk_expertcen.ru.csv;64937;home_furniture;choice;ru
+COMMERCIAL;с каким наполнителем лучше купить диван;20;74;COMMERCIAL/gmsk_expertcen.ru.csv;343837;home_furniture;choice;en
+COMMERCIAL;обивка для дивана какая лучше ежедневного использования;22;50;COMMERCIAL/gmsk_expertcen.ru.csv;129274;home_furniture;choice;en
+COMMERCIAL;какой фирмы унитаз лучше купить;40;109;COMMERCIAL/gmsk_expertcen.ru.csv;20677;home_furniture;choice;ru
+COMMERCIAL;лучшие производители мягкой мебели в россии рейтинг 10 самых лучших фабрик;2468;2545;COMMERCIAL/gmsk_expertcen.ru.csv;335130;home_furniture;rankings;ru
+COMMERCIAL;лучшие встраиваемые духовые шкафы электрические;297;4534;COMMERCIAL/gmsk_expertcen.ru.csv;48464;home_furniture;rankings;ru
+COMMERCIAL;смесители для кухни лучшие производители;301;947;COMMERCIAL/gmsk_expertcen.ru.csv;108323;home_furniture;rankings;en
+COMMERCIAL;топ инсталляций для унитаза;165;1015;COMMERCIAL/gmsk_expertcen.ru.csv;208097;home_furniture;rankings;uk
+COMMERCIAL;рейтинг подвесных унитазов;147;1302;COMMERCIAL/gmsk_vyboroved.ru.csv;36192;home_furniture;rankings;en
+COMMERCIAL;лучшие матрасы для сна;291;7215;COMMERCIAL/gmsk_vyboroved.ru.csv;56939;home_furniture;rankings;uk
+COMMERCIAL;лучшие кресла для геймеров;61;301;COMMERCIAL/gmsk_expertcen.ru.csv;49684;home_furniture;rankings;en
+COMMERCIAL;рейтинг матрасов по качеству;151;1721;COMMERCIAL/gmsk_expertcen.ru.csv;370595;home_furniture;rankings;en
+COMMERCIAL;лучшие матрасы ортопедические;124;4592;COMMERCIAL/gmsk_vyboroved.ru.csv;31763;home_furniture;rankings;ru
+COMMERCIAL;рейтинг матрасов беспружинных;48;481;COMMERCIAL/gmsk_vyboroved.ru.csv;151140;home_furniture;rankings;uk
+COMMERCIAL;лучшие кровати двуспальные;44;3316;COMMERCIAL/gmsk_vyboroved.ru.csv;27642;home_furniture;rankings;uk
+COMMERCIAL;лучший унитаз с косым выпуском;142;970;COMMERCIAL/gmsk_vyboroved.ru.csv;82067;home_furniture;rankings;en
+COMMERCIAL;какой унитаз купить посоветуйте хороший и недорогой;113;163;COMMERCIAL/gmsk_vyboroved.ru.csv;11119;home_furniture;criteria;ru
+COMMERCIAL;хорошие подушки для сна посоветуйте;55;107;COMMERCIAL/gmsk_expertcen.ru.csv;178319;home_furniture;criteria;ru
+COMMERCIAL;какие смесители для ванны самые качественные и недорогие;1286;1381;COMMERCIAL/gmsk_expertcen.ru.csv;9;home_furniture;criteria;uk
+COMMERCIAL;средство от ржавчины в унитазе самое эффективное купить;24;37;COMMERCIAL/gmsk_expertcen.ru.csv;35380;home_furniture;criteria;en
+COMMERCIAL;качественный смеситель для ванной с душем;13;382;COMMERCIAL/gmsk_expertcen.ru.csv;23350;home_furniture;criteria;uk
+COMMERCIAL;какой фильтр кувшин лучше барьер или аквафор;46;288;COMMERCIAL/gmsk_vyboroved.ru.csv;154415;auto_motorcycle;comparison;ru
+COMMERCIAL;какая сигнализация лучше для автомобиля с автозапуском пандора или старлайн;20;50;COMMERCIAL/gmsk_expertcen.ru.csv;400278;auto_motorcycle;comparison;ru
+COMMERCIAL;какое масло лучше 5w30 или 5w40 для двигателя с большим пробегом бензин;45;64;COMMERCIAL/gmsk_expertcen.ru.csv;314929;auto_motorcycle;comparison;uk
+COMMERCIAL;сравнение шин по характеристикам лето;20;67;COMMERCIAL/gmsk_expertcen.ru.csv;336833;auto_motorcycle;comparison;en
+COMMERCIAL;сравнить резину по характеристикам летнюю резину;6;53;COMMERCIAL/gmsk_expertcen.ru.csv;196642;auto_motorcycle;comparison;en
+COMMERCIAL;сравнение зимних шин;14;357;COMMERCIAL/gmsk_expertcen.ru.csv;172075;auto_motorcycle;comparison;uk
+COMMERCIAL;шины кордиант комфорт 2 летние цена отзывы;253;360;COMMERCIAL/gmsk_expertcen.ru.csv;279113;auto_motorcycle;reviews;en
+COMMERCIAL;обзор видеорегистраторов для автомобиля;137;392;COMMERCIAL/gmsk_expertcen.ru.csv;127751;auto_motorcycle;reviews;uk
+COMMERCIAL;шины отзывы летние;168;95340;COMMERCIAL/gmsk_expertcen.ru.csv;145303;auto_motorcycle;reviews;ru
+COMMERCIAL;обзор швейных машин для дома;37;198;COMMERCIAL/gmsk_expertcen.ru.csv;2617;auto_motorcycle;reviews;uk
+COMMERCIAL;отзывы шины cordiant comfort 2;100;1533;COMMERCIAL/gmsk_expertcen.ru.csv;363724;auto_motorcycle;reviews;ru
+COMMERCIAL;шины летние нокиан хакка грин 3 отзывы;63;416;COMMERCIAL/gmsk_expertcen.ru.csv;178240;auto_motorcycle;reviews;ru
+COMMERCIAL;обзор наборов инструментов для автомобиля;147;199;COMMERCIAL/gmsk_expertcen.ru.csv;177828;auto_motorcycle;reviews;en
+COMMERCIAL;видеорегистратор 70mai dash cam pro plus a500s отзывы;34;162;COMMERCIAL/gmsk_expertcen.ru.csv;378537;auto_motorcycle;reviews;ru
+COMMERCIAL;видеорегистратор зеркало отзывы какой лучше;20;154;COMMERCIAL/gmsk_expertcen.ru.csv;138264;auto_motorcycle;reviews;uk
+COMMERCIAL;кувшин фильтр для воды какой выбрать;146;709;COMMERCIAL/gmsk_vyboroved.ru.csv;79193;auto_motorcycle;choice;ru
+COMMERCIAL;как выбрать аккумулятор для легкового автомобиля;221;403;COMMERCIAL/gmsk_expertcen.ru.csv;236755;auto_motorcycle;choice;uk
+COMMERCIAL;фильтр кувшин для воды какой лучше контрольная закупка;176;178;COMMERCIAL/gmsk_expertcen.ru.csv;200712;auto_motorcycle;choice;en
+COMMERCIAL;видеорегистратор какой лучше купить;188;3979;COMMERCIAL/gmsk_expertcen.ru.csv;48661;auto_motorcycle;choice;en
+COMMERCIAL;как выбрать магнитолу для автомобиля;118;546;COMMERCIAL/gmsk_expertcen.ru.csv;300208;auto_motorcycle;choice;en
+COMMERCIAL;огнетушитель для автомобиля какой лучше;80;206;COMMERCIAL/gmsk_expertcen.ru.csv;349706;auto_motorcycle;choice;en
+COMMERCIAL;какие лучше шины на лето;83;3287;COMMERCIAL/gmsk_expertcen.ru.csv;88416;auto_motorcycle;choice;uk
+COMMERCIAL;навигатор купить для автомобиля какой лучше;297;487;COMMERCIAL/gmsk_expertcen.ru.csv;136442;auto_motorcycle;choice;uk
+COMMERCIAL;какой фирмы купить аккумулятор для автомобиля;49;135;COMMERCIAL/gmsk_expertcen.ru.csv;50044;auto_motorcycle;choice;ru
+COMMERCIAL;как выбрать шлем для мотоцикла;79;340;COMMERCIAL/gmsk_expertcen.ru.csv;300342;auto_motorcycle;choice;uk
+COMMERCIAL;шлифовальная машинка для автомобиля какую выбрать;47;108;COMMERCIAL/gmsk_expertcen.ru.csv;186166;auto_motorcycle;choice;ru
+COMMERCIAL;зарядное устройство для автомобильного аккумулятора какое выбрать;182;458;COMMERCIAL/gmsk_expertcen.ru.csv;98486;auto_motorcycle;choice;en
+COMMERCIAL;как выбрать портативное пусковое устройство для автомобиля;38;131;COMMERCIAL/gmsk_expertcen.ru.csv;128590;auto_motorcycle;choice;ru
+COMMERCIAL;видеорегистратор автомобильный рейтинг;800;3283;COMMERCIAL/gmsk_expertcen.ru.csv;48273;auto_motorcycle;rankings;en
+COMMERCIAL;рейтинг летних шин r16 205 55 цена качество;447;895;COMMERCIAL/gmsk_expertcen.ru.csv;370447;auto_motorcycle;rankings;uk
+COMMERCIAL;рейтинг зимних шин шипованных;280;1892;COMMERCIAL/gmsk_expertcen.ru.csv;98401;auto_motorcycle;rankings;ru
+COMMERCIAL;рейтинг автомагнитол 1 din по качеству звука;241;302;COMMERCIAL/gmsk_expertcen.ru.csv;108380;auto_motorcycle;rankings;uk
+COMMERCIAL;лучшие масла для двигателя;96;61948;COMMERCIAL/gmsk_expertcen.ru.csv;49147;auto_motorcycle;rankings;en
+COMMERCIAL;рейтинг нешипованных зимних шин;161;588;COMMERCIAL/gmsk_expertcen.ru.csv;127703;auto_motorcycle;rankings;en
+COMMERCIAL;рейтинг летних шин для кроссоверов r17;132;880;COMMERCIAL/gmsk_expertcen.ru.csv;370652;auto_motorcycle;rankings;ru
+COMMERCIAL;рейтинг кухонных машин;120;998;COMMERCIAL/gmsk_expertcen.ru.csv;127790;auto_motorcycle;rankings;uk
+COMMERCIAL;рейтинг бюджетных видеорегистраторов;48;446;COMMERCIAL/gmsk_expertcen.ru.csv;154185;auto_motorcycle;rankings;ru
+COMMERCIAL;лучшие мотоциклы до 50 кубов;48;93;COMMERCIAL/gmsk_expertcen.ru.csv;342908;auto_motorcycle;rankings;en
+COMMERCIAL;лучшие динамики для автомобиля;31;409;COMMERCIAL/gmsk_expertcen.ru.csv;50984;auto_motorcycle;rankings;ru
+COMMERCIAL;рейтинг 2 din автомагнитол на андроид;45;436;COMMERCIAL/gmsk_expertcen.ru.csv;321894;auto_motorcycle;rankings;uk
+COMMERCIAL;хорошая летняя резина на 15;69;981;COMMERCIAL/gmsk_expertcen.ru.csv;215694;auto_motorcycle;criteria;en
+COMMERCIAL;автовидеорегистратор купить хороший и недорогой;48;62;COMMERCIAL/gmsk_expertcen.ru.csv;88867;auto_motorcycle;criteria;uk
+COMMERCIAL;хорошая камера заднего вида для авто;37;267;COMMERCIAL/gmsk_expertcen.ru.csv;34210;auto_motorcycle;criteria;ru
+COMMERCIAL;мотоцикл для дальних путешествий недорогой;22;25;COMMERCIAL/gmsk_expertcen.ru.csv;386171;auto_motorcycle;criteria;uk
+COMMERCIAL;бюджетный видеорегистратор хорошего качества купить;22;29;COMMERCIAL/gmsk_expertcen.ru.csv;4365;auto_motorcycle;criteria;en
+COMMERCIAL;что лучше карандаш или тени для бровей;252;369;COMMERCIAL/gmsk_expertcen.ru.csv;356443;beauty_skincare;comparison;uk
+COMMERCIAL;какой лучше ирригатор портативный или стационарный;168;417;COMMERCIAL/gmsk_expertcen.ru.csv;229643;beauty_skincare;comparison;uk
+COMMERCIAL;шампунь против выпадения волос для женщин;381;2457;COMMERCIAL/gmsk_expertcen.ru.csv;118068;beauty_skincare;comparison;ru
+COMMERCIAL;роторная бритва или сеточная что лучше;165;535;COMMERCIAL/gmsk_expertcen.ru.csv;363577;beauty_skincare;comparison;ru
+COMMERCIAL;водостойкая и влагостойкая тушь в чем разница;92;133;COMMERCIAL/gmsk_expertcen.ru.csv;258205;beauty_skincare;comparison;en
+COMMERCIAL;чем отличается депилятор от эпилятора;95;281;COMMERCIAL/gmsk_expertcen.ru.csv;405827;beauty_skincare;comparison;en
+COMMERCIAL;хороший шампунь против перхоти;67;927;COMMERCIAL/gmsk_expertcen.ru.csv;98916;beauty_skincare;comparison;uk
+COMMERCIAL;крем или сыворотка для лица что лучше;177;506;COMMERCIAL/gmsk_expertcen.ru.csv;356528;beauty_skincare;comparison;ru
+COMMERCIAL;фен щетка отзывы какая лучше;369;604;COMMERCIAL/gmsk_expertcen.ru.csv;122;beauty_skincare;reviews;ru
+COMMERCIAL;какой лучше купить эпилятор отзывы;223;327;COMMERCIAL/gmsk_expertcen.ru.csv;63542;beauty_skincare;reviews;en
+COMMERCIAL;тушь для ресниц отзывы;407;25901;COMMERCIAL/gmsk_expertcen.ru.csv;48339;beauty_skincare;reviews;uk
+COMMERCIAL;крем от целлюлита лучший отзывы;245;347;COMMERCIAL/gmsk_vyboroved.ru.csv;144523;beauty_skincare;reviews;ru
+COMMERCIAL;зубная щетка ультразвуковая отзывы;271;839;COMMERCIAL/gmsk_expertcen.ru.csv;335231;beauty_skincare;reviews;en
+COMMERCIAL;крем геронтол отзывы косметологов;173;459;COMMERCIAL/gmsk_expertcen.ru.csv;314310;beauty_skincare;reviews;uk
+COMMERCIAL;масло усьмы отзывы для ресниц;444;1088;COMMERCIAL/gmsk_expertcen.ru.csv;377515;beauty_skincare;reviews;uk
+COMMERCIAL;зубная щетка электрическая отзывы;451;6782;COMMERCIAL/gmsk_expertcen.ru.csv;215261;beauty_skincare;reviews;en
+COMMERCIAL;крем батист для депиляции отзывы;112;237;COMMERCIAL/gmsk_expertcen.ru.csv;335449;beauty_skincare;reviews;ru
+COMMERCIAL;bb крем dr jart отзывы;86;200;COMMERCIAL/gmsk_expertcen.ru.csv;377945;beauty_skincare;reviews;uk
+COMMERCIAL;пудра герлен метеориты отзывы;84;229;COMMERCIAL/gmsk_expertcen.ru.csv;215597;beauty_skincare;reviews;en
+COMMERCIAL;ирригатор для полости рта какой лучше купить для дома;571;682;COMMERCIAL/gmsk_expertcen.ru.csv;229493;beauty_skincare;choice;ru
+COMMERCIAL;стоит ли покупать фотоэпилятор для дома;231;273;COMMERCIAL/gmsk_expertcen.ru.csv;335258;beauty_skincare;choice;en
+COMMERCIAL;аппарат для маникюра как выбрать;273;1673;COMMERCIAL/gmsk_expertcen.ru.csv;153513;beauty_skincare;choice;ru
+COMMERCIAL;какой лучше купить выпрямитель для волос;217;481;COMMERCIAL/gmsk_expertcen.ru.csv;48599;beauty_skincare;choice;en
+COMMERCIAL;ирригатор для зубов какой лучше;1043;3681;COMMERCIAL/gmsk_expertcen.ru.csv;257839;beauty_skincare;choice;en
+COMMERCIAL;какое лучше покрытие для выпрямителя волос;263;860;COMMERCIAL/gmsk_expertcen.ru.csv;229568;beauty_skincare;choice;en
+COMMERCIAL;тональный крем как выбрать;245;4088;COMMERCIAL/gmsk_expertcen.ru.csv;335265;beauty_skincare;choice;uk
+COMMERCIAL;накладные ресницы какие лучше;359;1121;COMMERCIAL/gmsk_expertcen.ru.csv;145;beauty_skincare;choice;en
+COMMERCIAL;как выбрать аппарат для маникюра и педикюра профессиональный для дома;67;71;COMMERCIAL/gmsk_expertcen.ru.csv;185969;beauty_skincare;choice;ru
+COMMERCIAL;как выбрать лампу для маникюра;469;1562;COMMERCIAL/gmsk_expertcen.ru.csv;185412;beauty_skincare;choice;uk
+COMMERCIAL;крем для суставов какой лучше;134;414;COMMERCIAL/gmsk_expertcen.ru.csv;405726;beauty_skincare;choice;uk
+COMMERCIAL;фен строительный какой выбрать;112;502;COMMERCIAL/gmsk_expertcen.ru.csv;177912;beauty_skincare;choice;uk
+COMMERCIAL;фрезы для маникюра какие лучше;105;815;COMMERCIAL/gmsk_expertcen.ru.csv;405800;beauty_skincare;choice;ru
+COMMERCIAL;накладные ресницы какие лучше на каждый день;88;178;COMMERCIAL/gmsk_expertcen.ru.csv;1072;beauty_skincare;choice;ru
+COMMERCIAL;крем вокруг глаз 40 какой лучше;127;326;COMMERCIAL/gmsk_expertcen.ru.csv;243940;beauty_skincare;choice;uk
+COMMERCIAL;ирригатор какой лучше купить для дома;525;2245;COMMERCIAL/gmsk_expertcen.ru.csv;229503;beauty_skincare;choice;uk
+COMMERCIAL;самая лучшая электробритва для идеально чистого бритья;932;1010;COMMERCIAL/gmsk_expertcen.ru.csv;108220;beauty_skincare;rankings;ru
+COMMERCIAL;лучшие духи мужские;1028;6625;COMMERCIAL/gmsk_expertcen.ru.csv;136348;beauty_skincare;rankings;uk
+COMMERCIAL;лучший крем для рук;552;10785;COMMERCIAL/gmsk_expertcen.ru.csv;31924;beauty_skincare;rankings;uk
+COMMERCIAL;лучшие гель лаки для ногтей;310;4717;COMMERCIAL/gmsk_expertcen.ru.csv;168;beauty_skincare;rankings;ru
+COMMERCIAL;самые лучшие женские духи;514;8377;COMMERCIAL/gmsk_vyboroved.ru.csv;44908;beauty_skincare;rankings;en
+COMMERCIAL;триммер электрический рейтинг лучшие модели;586;759;COMMERCIAL/gmsk_expertcen.ru.csv;87831;beauty_skincare;rankings;uk
+COMMERCIAL;крем для тела увлажняющий лучший;225;951;COMMERCIAL/gmsk_expertcen.ru.csv;48587;beauty_skincare;rankings;en
+COMMERCIAL;рейтинг бензиновых триммеров;365;2105;COMMERCIAL/gmsk_expertcen.ru.csv;279072;beauty_skincare;rankings;en
+COMMERCIAL;тональный крем для жирной кожи лучший;301;1611;COMMERCIAL/gmsk_expertcen.ru.csv;145186;beauty_skincare;rankings;ru
+COMMERCIAL;лучшие туалетные воды для женщин;265;1771;COMMERCIAL/gmsk_expertcen.ru.csv;19265;beauty_skincare;rankings;ru
+COMMERCIAL;мужские парфюмы лучшие;206;4541;COMMERCIAL/gmsk_expertcen.ru.csv;127634;beauty_skincare;rankings;ru
+COMMERCIAL;рейтинг шампуней для волос для женщин;286;1259;COMMERCIAL/gmsk_expertcen.ru.csv;243796;beauty_skincare;rankings;en
+COMMERCIAL;шампунь для жирных волос лучший;457;4216;COMMERCIAL/gmsk_expertcen.ru.csv;76543;beauty_skincare;rankings;en
+COMMERCIAL;лучшие шампуни от перхоти для мужчин;173;1431;COMMERCIAL/gmsk_expertcen.ru.csv;177803;beauty_skincare;rankings;uk
+COMMERCIAL;лучший бальзам для волос;178;7173;COMMERCIAL/gmsk_expertcen.ru.csv;48704;beauty_skincare;rankings;ru
+COMMERCIAL;какой фен лучше всего купить для дома очень хороший;696;736;COMMERCIAL/gmsk_expertcen.ru.csv;19135;beauty_skincare;criteria;uk
+COMMERCIAL;самое эффективное средство для роста ресниц;561;777;COMMERCIAL/gmsk_expertcen.ru.csv;384594;beauty_skincare;criteria;en
+COMMERCIAL;хороший солнцезащитный крем для лица;81;4048;COMMERCIAL/gmsk_expertcen.ru.csv;127956;beauty_skincare;criteria;ru
+COMMERCIAL;какие маски для лица самые эффективные;100;539;COMMERCIAL/gmsk_expertcen.ru.csv;64011;beauty_skincare;criteria;ru
+COMMERCIAL;хороший фен для волос по цене и качеству;129;265;COMMERCIAL/gmsk_expertcen.ru.csv;32489;beauty_skincare;criteria;en
+COMMERCIAL;крем от геморроя недорогие и эффективные цены;217;252;COMMERCIAL/gmsk_expertcen.ru.csv;398700;beauty_skincare;criteria;uk
+COMMERCIAL;вертикальный или горизонтальный челнок что лучше;114;783;COMMERCIAL/gmsk_expertcen.ru.csv;321387;clothes_shoes;comparison;ru
+COMMERCIAL;какая машинка лучше с вертикальной или горизонтальной загрузкой;33;107;COMMERCIAL/gmsk_expertcen.ru.csv;416014;clothes_shoes;comparison;ru
+COMMERCIAL;какой лучше шприц для колбасы вертикальный или горизонтальный;19;28;COMMERCIAL/gmsk_vyboroved.ru.csv;41574;clothes_shoes;comparison;en
+COMMERCIAL;чемодан из поликарбоната или полипропилена что лучше;40;630;COMMERCIAL/gmsk_expertcen.ru.csv;415946;clothes_shoes;comparison;uk
+COMMERCIAL;какой чемодан лучше пластиковый или текстильный;41;54;COMMERCIAL/gmsk_vyboroved.ru.csv;138536;clothes_shoes;comparison;en
+COMMERCIAL;какой лучше челнок в швейной машине вертикальный или горизонтальный;39;108;COMMERCIAL/gmsk_expertcen.ru.csv;406393;clothes_shoes;comparison;uk
+COMMERCIAL;колготки кальцедония отзывы;73;264;COMMERCIAL/gmsk_expertcen.ru.csv;399070;clothes_shoes;reviews;uk
+COMMERCIAL;чемоданы newcom отзывы;28;180;COMMERCIAL/gmsk_expertcen.ru.csv;252075;clothes_shoes;reviews;ru
+COMMERCIAL;stevens чемоданы отзывы;13;57;COMMERCIAL/gmsk_expertcen.ru.csv;295179;clothes_shoes;reviews;ru
+COMMERCIAL;рюкзак тактический обзор;10;276;COMMERCIAL/gmsk_vyboroved.ru.csv;77339;clothes_shoes;reviews;en
+COMMERCIAL;чемодан отзывы какая фирма лучше;39;82;COMMERCIAL/gmsk_expertcen.ru.csv;34104;clothes_shoes;reviews;en
+COMMERCIAL;чемодан на колесах какой лучше выбрать отзывы;48;53;COMMERCIAL/gmsk_expertcen.ru.csv;64774;clothes_shoes;reviews;uk
+COMMERCIAL;чемодан american tourister отзывы;22;111;COMMERCIAL/gmsk_expertcen.ru.csv;379048;clothes_shoes;reviews;ru
+COMMERCIAL;обзор чемоданов на колесах;6;66;COMMERCIAL/gmsk_expertcen.ru.csv;247061;clothes_shoes;reviews;en
+COMMERCIAL;термобелье мужское отзывы;26;935;COMMERCIAL/gmsk_expertcen.ru.csv;89730;clothes_shoes;reviews;uk
+COMMERCIAL;как выбрать чемодан на колесах хорошего качества недорогой;528;605;COMMERCIAL/gmsk_expertcen.ru.csv;145103;clothes_shoes;choice;uk
+COMMERCIAL;как выбрать сумку на каждый день;85;271;COMMERCIAL/gmsk_vyboroved.ru.csv;110191;clothes_shoes;choice;uk
+COMMERCIAL;джинсы какой фирмы самые лучшие;959;1010;COMMERCIAL/gmsk_expertcen.ru.csv;10;clothes_shoes;choice;en
+COMMERCIAL;как выбрать чемодан для путешествий на колесиках;61;86;COMMERCIAL/gmsk_vyboroved.ru.csv;132182;clothes_shoes;choice;en
+COMMERCIAL;как выбрать кроссовки для бега по асфальту мужские;74;88;COMMERCIAL/gmsk_expertcen.ru.csv;342652;clothes_shoes;choice;ru
+COMMERCIAL;как выбрать наручные часы;68;2437;COMMERCIAL/gmsk_vyboroved.ru.csv;97632;clothes_shoes;choice;ru
+COMMERCIAL;рюкзак для первоклассника как выбрать правильно;29;81;COMMERCIAL/gmsk_expertcen.ru.csv;237772;clothes_shoes;choice;uk
+COMMERCIAL;беговые кроссовки какие выбрать;13;78;COMMERCIAL/gmsk_vyboroved.ru.csv;85922;clothes_shoes;choice;en
+COMMERCIAL;как выбрать эргорюкзак для ребенка;16;48;COMMERCIAL/gmsk_vyboroved.ru.csv;32808;clothes_shoes;choice;ru
+COMMERCIAL;чемоданы для самолета какие лучше;6;219;COMMERCIAL/gmsk_expertcen.ru.csv;218568;clothes_shoes;choice;uk
+COMMERCIAL;как выбрать правильно чемодан на колесиках;9;105;COMMERCIAL/gmsk_vyboroved.ru.csv;130088;clothes_shoes;choice;en
+COMMERCIAL;оверлок для нижнего белья какой лучше;8;16;COMMERCIAL/gmsk_expertcen.ru.csv;81453;clothes_shoes;choice;ru
+COMMERCIAL;рейтинг магазинов нижнего белья;212;382;COMMERCIAL/gmsk_expertcen.ru.csv;342;clothes_shoes;rankings;ru
+COMMERCIAL;чемодан рейтинг лучших производителей;134;314;COMMERCIAL/gmsk_expertcen.ru.csv;185658;clothes_shoes;rankings;en
+COMMERCIAL;топ чемоданов для путешествий;74;224;COMMERCIAL/gmsk_expertcen.ru.csv;77284;clothes_shoes;rankings;ru
+COMMERCIAL;лучший рюкзак для путешествий;53;420;COMMERCIAL/gmsk_vyboroved.ru.csv;157498;clothes_shoes;rankings;en
+COMMERCIAL;кроссовки мужские лучшие;65;6005;COMMERCIAL/gmsk_vyboroved.ru.csv;97646;clothes_shoes;rankings;uk
+COMMERCIAL;лучшие бренды рюкзаков;56;409;COMMERCIAL/gmsk_vyboroved.ru.csv;113413;clothes_shoes;rankings;uk
+COMMERCIAL;лучшие капроновые колготки;27;722;COMMERCIAL/gmsk_expertcen.ru.csv;51354;clothes_shoes;rankings;ru
+COMMERCIAL;кроссовки лучшие бренды;26;2113;COMMERCIAL/gmsk_vyboroved.ru.csv;23668;clothes_shoes;rankings;en
+COMMERCIAL;лучшие бренды джинсов для мужчин;814;910;COMMERCIAL/gmsk_expertcen.ru.csv;19131;clothes_shoes;rankings;uk
+COMMERCIAL;рейтинг наборов инструментов в чемодане;46;1125;COMMERCIAL/gmsk_expertcen.ru.csv;128377;clothes_shoes;rankings;uk
+COMMERCIAL;рюкзак городской мужской рейтинг;48;158;COMMERCIAL/gmsk_vyboroved.ru.csv;157530;clothes_shoes;rankings;uk
+COMMERCIAL;хорошие кроссовки на каждый день мужские;891;1062;COMMERCIAL/gmsk_vyboroved.ru.csv;119395;clothes_shoes;criteria;uk
+COMMERCIAL;какие чемоданы на колесах самые надежные и недорогие;138;162;COMMERCIAL/gmsk_expertcen.ru.csv;127760;clothes_shoes;criteria;en
+COMMERCIAL;хорошее женское нижнее белье бренды;35;250;COMMERCIAL/gmsk_expertcen.ru.csv;2796;clothes_shoes;criteria;en
+COMMERCIAL;хороший рюкзак для первоклассника с ортопедической спинкой;5;116;COMMERCIAL/gmsk_expertcen.ru.csv;26322;clothes_shoes;criteria;ru
+COMMERCIAL;нижнее белье женское качественное купить;13;61;COMMERCIAL/gmsk_expertcen.ru.csv;316508;clothes_shoes;criteria;ru
+COMMERCIAL;лучшие перчатки для бокса;34;275;COMMERCIAL/gmsk_vyboroved.ru.csv;7831;clothes_shoes;rankings;en
+COMMERCIAL;солкосерил гель или мазь что лучше для заживления ран;194;205;COMMERCIAL/gmsk_expertcen.ru.csv;279144;health_devices;comparison;uk
+COMMERCIAL;против герпеса мазь на губах;258;598;COMMERCIAL/gmsk_expertcen.ru.csv;293058;health_devices;comparison;ru
+COMMERCIAL;витамин против выпадения волос;47;4888;COMMERCIAL/gmsk_expertcen.ru.csv;385407;health_devices;comparison;ru
+COMMERCIAL;omron или and какой лучше тонометр;170;528;COMMERCIAL/gmsk_expertcen.ru.csv;363555;health_devices;comparison;en
+COMMERCIAL;против синяков мазь;226;828;COMMERCIAL/gmsk_expertcen.ru.csv;161825;health_devices;comparison;en
+COMMERCIAL;какой лучше тонометр купить для дома отзывы;272;3344;COMMERCIAL/gmsk_expertcen.ru.csv;76644;health_devices;reviews;uk
+COMMERCIAL;витамины алфавит для детей отзывы;174;501;COMMERCIAL/gmsk_expertcen.ru.csv;391809;health_devices;reviews;en
+COMMERCIAL;лучшие витамины для волос отзывы;102;1918;COMMERCIAL/gmsk_expertcen.ru.csv;19667;health_devices;reviews;en
+COMMERCIAL;тонометры автоматические какой лучше отзывы цена;167;269;COMMERCIAL/gmsk_expertcen.ru.csv;76804;health_devices;reviews;ru
+COMMERCIAL;витамины для женщин после 50 какие лучше купить отзывы врачей;13144;13466;COMMERCIAL/gmsk_expertcen.ru.csv;285875;health_devices;reviews;en
+COMMERCIAL;витрум витамины отзывы для детей;57;305;COMMERCIAL/gmsk_expertcen.ru.csv;321758;health_devices;reviews;uk
+COMMERCIAL;глюкометр one touch verio reflect отзывы;60;87;COMMERCIAL/gmsk_expertcen.ru.csv;128134;health_devices;reviews;ru
+COMMERCIAL;глюкометр какой лучше выбрать для контроля сахара;3424;4329;COMMERCIAL/gmsk_expertcen.ru.csv;108208;health_devices;choice;uk
+COMMERCIAL;какой лучше купить тонометр для измерения давления в домашних условиях;437;580;COMMERCIAL/gmsk_expertcen.ru.csv;307105;health_devices;choice;ru
+COMMERCIAL;витамины для женщин после 50 какие лучше;610;17701;COMMERCIAL/gmsk_expertcen.ru.csv;236639;health_devices;choice;ru
+COMMERCIAL;беруши для сна какие лучше купить;381;696;COMMERCIAL/gmsk_vyboroved.ru.csv;128775;health_devices;choice;uk
+COMMERCIAL;глюкометр какой лучше купить;409;3429;COMMERCIAL/gmsk_expertcen.ru.csv;153450;health_devices;choice;ru
+COMMERCIAL;комплекс витаминов какой лучше;95;4297;COMMERCIAL/gmsk_expertcen.ru.csv;391993;health_devices;choice;en
+COMMERCIAL;небулайзер какой лучше купить для всей семьи;118;255;COMMERCIAL/gmsk_expertcen.ru.csv;108612;health_devices;choice;uk
+COMMERCIAL;глюкометр какой лучше выбрать для контроля сахара в крови домашних условиях;116;272;COMMERCIAL/gmsk_expertcen.ru.csv;222656;health_devices;choice;en
+COMMERCIAL;как выбрать тонометр для домашнего пользования;360;1053;COMMERCIAL/gmsk_vyboroved.ru.csv;40565;health_devices;choice;uk
+COMMERCIAL;как выбрать глюкометр для дома совет специалиста;53;101;COMMERCIAL/gmsk_expertcen.ru.csv;230094;health_devices;choice;en
+COMMERCIAL;лучшие лекарства от грибка ногтей на ногах в запущенной стадии;10734;11432;COMMERCIAL/gmsk_expertcen.ru.csv;127451;health_devices;rankings;en
+COMMERCIAL;лучшая мазь для суставов колен;532;1059;COMMERCIAL/gmsk_expertcen.ru.csv;87857;health_devices;rankings;uk
+COMMERCIAL;лучший креатин моногидрат;174;1725;COMMERCIAL/gmsk_expertcen.ru.csv;48721;health_devices;rankings;ru
+COMMERCIAL;лучшие лекарства от кашля;269;10020;COMMERCIAL/gmsk_expertcen.ru.csv;215314;health_devices;rankings;en
+COMMERCIAL;лучшие лекарства для восстановления печени;5661;7071;COMMERCIAL/gmsk_expertcen.ru.csv;169697;health_devices;rankings;ru
+COMMERCIAL;витамины для беременных самые лучшие;148;768;COMMERCIAL/gmsk_expertcen.ru.csv;185622;health_devices;rankings;uk
+COMMERCIAL;лучшие массажеры для лица;168;4223;COMMERCIAL/gmsk_vyboroved.ru.csv;27314;health_devices;rankings;ru
+COMMERCIAL;лучшие витамины группы б;308;5024;COMMERCIAL/gmsk_expertcen.ru.csv;215286;health_devices;rankings;en
+COMMERCIAL;тонометр на запястье рейтинг лучших;235;638;COMMERCIAL/gmsk_expertcen.ru.csv;391731;health_devices;rankings;uk
+COMMERCIAL;витамины для мужчин лучшие;1270;15672;COMMERCIAL/gmsk_expertcen.ru.csv;398562;health_devices;rankings;uk
+COMMERCIAL;какие витамины для зрения самые эффективные;1139;1245;COMMERCIAL/gmsk_expertcen.ru.csv;136341;health_devices;criteria;uk
+COMMERCIAL;мазь от герпеса на губах самая эффективная;3949;4974;COMMERCIAL/gmsk_expertcen.ru.csv;98228;health_devices;criteria;ru
+COMMERCIAL;мазь от ушибов и синяков и отеков обезболивающая недорогая;380;843;COMMERCIAL/gmsk_expertcen.ru.csv;236678;health_devices;criteria;en
+COMMERCIAL;витамины для мужчин после 50 лет название недорогие и эффективные;1174;1196;COMMERCIAL/gmsk_expertcen.ru.csv;384566;health_devices;criteria;en
+COMMERCIAL;мазь от прыщей на лице недорогая и эффективная;368;1212;COMMERCIAL/gmsk_expertcen.ru.csv;153463;health_devices;criteria;ru
+COMMERCIAL;молокоотсос ручной или электрический какой лучше;281;456;COMMERCIAL/gmsk_expertcen.ru.csv;161763;kids_family;comparison;uk
+COMMERCIAL;что лучше трусики или подгузники;76;1677;COMMERCIAL/gmsk_expertcen.ru.csv;265364;kids_family;comparison;uk
+COMMERCIAL;чем отличается памперс от подгузника;100;1031;COMMERCIAL/gmsk_vyboroved.ru.csv;36273;kids_family;comparison;ru
+COMMERCIAL;что лучше памперс или хаггис;42;213;COMMERCIAL/gmsk_expertcen.ru.csv;244554;kids_family;comparison;en
+COMMERCIAL;что лучше памперсы или подгузники;7;172;COMMERCIAL/gmsk_expertcen.ru.csv;282170;kids_family;comparison;uk
+COMMERCIAL;сравнить коляски по характеристикам;8;42;COMMERCIAL/gmsk_expertcen.ru.csv;122050;kids_family;comparison;en
+COMMERCIAL;прогулочная коляска трость или книжка что лучше;13;21;COMMERCIAL/gmsk_vyboroved.ru.csv;158235;kids_family;comparison;ru
+COMMERCIAL;отзывы прогулочная коляска;138;16589;COMMERCIAL/gmsk_expertcen.ru.csv;185640;kids_family;reviews;uk
+COMMERCIAL;medela молокоотсос электрический отзывы;36;76;COMMERCIAL/gmsk_expertcen.ru.csv;343123;kids_family;reviews;en
+COMMERCIAL;памперсы какие лучше для новорожденных отзывы;25;148;COMMERCIAL/gmsk_expertcen.ru.csv;66064;kids_family;reviews;en
+COMMERCIAL;санки коляска ника отзывы;33;146;COMMERCIAL/gmsk_expertcen.ru.csv;265963;kids_family;reviews;uk
+COMMERCIAL;какие подгузники лучше для новорожденных отзывы;67;198;COMMERCIAL/gmsk_expertcen.ru.csv;98920;kids_family;reviews;uk
+COMMERCIAL;лучшие коляски для новорожденных отзывы;10;179;COMMERCIAL/gmsk_expertcen.ru.csv;24056;kids_family;reviews;ru
+COMMERCIAL;детский велосипед трехколесный отзывы;16;511;COMMERCIAL/gmsk_expertcen.ru.csv;129821;kids_family;reviews;ru
+COMMERCIAL;бепантен под подгузник отзывы для новорожденных;10;18;COMMERCIAL/gmsk_expertcen.ru.csv;352080;kids_family;reviews;ru
+COMMERCIAL;молокоотсос электрический avent отзывы;10;55;COMMERCIAL/gmsk_expertcen.ru.csv;260489;kids_family;reviews;en
+COMMERCIAL;коляска yoyo отзывы;64;469;COMMERCIAL/gmsk_expertcen.ru.csv;208441;kids_family;reviews;uk
+COMMERCIAL;детская коляска какую выбрать;13;130;COMMERCIAL/gmsk_expertcen.ru.csv;288193;kids_family;choice;uk
+COMMERCIAL;какую лучше купить коляску для новорожденного;63;211;COMMERCIAL/gmsk_expertcen.ru.csv;49622;kids_family;choice;en
+COMMERCIAL;как выбрать самокат детский двухколесный;9;32;COMMERCIAL/gmsk_expertcen.ru.csv;352305;kids_family;choice;en
+COMMERCIAL;подгузники на ночь какие лучше;8;55;COMMERCIAL/gmsk_expertcen.ru.csv;131259;kids_family;choice;ru
+COMMERCIAL;видеоняня какую выбрать;23;136;COMMERCIAL/gmsk_expertcen.ru.csv;66238;kids_family;choice;uk
+COMMERCIAL;памперсы какие лучше для детей;9;140;COMMERCIAL/gmsk_expertcen.ru.csv;8392;kids_family;choice;uk
+COMMERCIAL;молокоотсос ручной форум какой лучше;4;64;COMMERCIAL/gmsk_expertcen.ru.csv;174439;kids_family;choice;ru
+COMMERCIAL;коляска для новорожденных какую выбрать на зиму;6;58;COMMERCIAL/gmsk_expertcen.ru.csv;204049;kids_family;choice;uk
+COMMERCIAL;самокат для детей 6 лет какой выбрать;3;46;COMMERCIAL/gmsk_expertcen.ru.csv;150274;kids_family;choice;ru
+COMMERCIAL;коляска трость какую выбрать;15;52;COMMERCIAL/gmsk_expertcen.ru.csv;5986;kids_family;choice;en
+COMMERCIAL;как выбрать прогулочную коляску зима лето;4;12;COMMERCIAL/gmsk_expertcen.ru.csv;226305;kids_family;choice;ru
+COMMERCIAL;детский велосипед с ручкой какой выбрать;4;13;COMMERCIAL/gmsk_expertcen.ru.csv;113847;kids_family;choice;ru
+COMMERCIAL;радионяня какую выбрать;18;37;COMMERCIAL/gmsk_expertcen.ru.csv;36364;kids_family;choice;en
+COMMERCIAL;прогулочная коляска с перекидной ручкой рейтинг;21;151;COMMERCIAL/gmsk_expertcen.ru.csv;209433;kids_family;rankings;uk
+COMMERCIAL;памперсы для взрослых рейтинг;18;96;COMMERCIAL/gmsk_expertcen.ru.csv;202350;kids_family;rankings;en
+COMMERCIAL;лучшие прогулочные коляски для путешествий легкие;16;31;COMMERCIAL/gmsk_expertcen.ru.csv;67232;kids_family;rankings;en
+COMMERCIAL;коляски 2 в 1 рейтинг лучших;29;519;COMMERCIAL/gmsk_expertcen.ru.csv;170966;kids_family;rankings;uk
+COMMERCIAL;лучшие памперсы трусики;11;539;COMMERCIAL/gmsk_expertcen.ru.csv;7304;kids_family;rankings;en
+COMMERCIAL;детский велосипед рейтинг 4 года;9;96;COMMERCIAL/gmsk_expertcen.ru.csv;413745;kids_family;rankings;en
+COMMERCIAL;лучшие бюджетные подгузники;6;80;COMMERCIAL/gmsk_expertcen.ru.csv;157556;kids_family;rankings;uk
+COMMERCIAL;лучшие коляски прогулки;7;141;COMMERCIAL/gmsk_expertcen.ru.csv;39958;kids_family;rankings;ru
+COMMERCIAL;коляска велосипед рейтинг;14;69;COMMERCIAL/gmsk_expertcen.ru.csv;53418;kids_family;rankings;ru
+COMMERCIAL;подгузники для взрослых рейтинг;29;134;COMMERCIAL/gmsk_expertcen.ru.csv;216329;kids_family;rankings;en
+COMMERCIAL;лучшая прогулочная коляска с реверсивным блоком;22;138;COMMERCIAL/gmsk_expertcen.ru.csv;138090;kids_family;rankings;ru
+COMMERCIAL;прогулочные коляски рейтинг лучших для лета;7;54;COMMERCIAL/gmsk_expertcen.ru.csv;25159;kids_family;rankings;ru
+COMMERCIAL;прогулочная коляска трость легкая и недорогая;10;14;COMMERCIAL/gmsk_expertcen.ru.csv;54623;kids_family;criteria;en
+COMMERCIAL;бюджетная прогулочная коляска с хорошей амортизацией;6;12;COMMERCIAL/gmsk_expertcen.ru.csv;10269;kids_family;criteria;en
+COMMERCIAL;недорогая коляска 2 в 1;4;585;COMMERCIAL/gmsk_expertcen.ru.csv;219208;kids_family;criteria;ru
+COMMERCIAL;самые хорошие подгузники для детей;5;139;COMMERCIAL/gmsk_expertcen.ru.csv;57130;kids_family;criteria;uk
+COMMERCIAL;недорогие детские коляски для новорожденных;3;428;COMMERCIAL/gmsk_expertcen.ru.csv;255354;kids_family;criteria;ru
+COMMERCIAL;бюджетные коляски 2 в 1;9;153;COMMERCIAL/gmsk_expertcen.ru.csv;239425;kids_family;criteria;uk
+COMMERCIAL;что лучше xbox или playstation;664;3016;COMMERCIAL/gmsk_vyboroved.ru.csv;31659;gaming_entertainment;comparison;ru
+COMMERCIAL;xbox series s и ps4 slim сравнение;21;42;COMMERCIAL/gmsk_expertcen.ru.csv;336723;gaming_entertainment;comparison;uk
+COMMERCIAL;плейстейшен 5 или xbox series x что лучше;29;69;COMMERCIAL/gmsk_vyboroved.ru.csv;145008;gaming_entertainment;comparison;uk
+COMMERCIAL;какая игровая приставка лучше xbox или playstation;37;69;COMMERCIAL/gmsk_vyboroved.ru.csv;32188;gaming_entertainment;comparison;en
+COMMERCIAL;что лучше ps4 или xbox;41;911;COMMERCIAL/gmsk_vyboroved.ru.csv;160440;gaming_entertainment;comparison;en
+COMMERCIAL;электронная книга цены и отзывы;95;185;COMMERCIAL/gmsk_expertcen.ru.csv;64044;gaming_entertainment;reviews;ru
+COMMERCIAL;обзор очков виртуальной реальности;26;826;COMMERCIAL/gmsk_expertcen.ru.csv;129054;gaming_entertainment;reviews;en
+COMMERCIAL;игровая консоль отзывы;26;1074;COMMERCIAL/gmsk_expertcen.ru.csv;230768;gaming_entertainment;reviews;en
+COMMERCIAL;какую электронную книгу лучше купить для чтения отзывы;287;290;COMMERCIAL/gmsk_expertcen.ru.csv;32107;gaming_entertainment;reviews;uk
+COMMERCIAL;электронная книга pocketbook 970 обзор;13;19;COMMERCIAL/gmsk_expertcen.ru.csv;365714;gaming_entertainment;reviews;en
+COMMERCIAL;обзор игровых мышек;15;165;COMMERCIAL/gmsk_expertcen.ru.csv;53257;gaming_entertainment;reviews;uk
+COMMERCIAL;электронная книга digma k1 обзор;17;27;COMMERCIAL/gmsk_expertcen.ru.csv;400485;gaming_entertainment;reviews;ru
+COMMERCIAL;как выбрать электронную книгу для чтения;196;397;COMMERCIAL/gmsk_expertcen.ru.csv;169870;gaming_entertainment;choice;en
+COMMERCIAL;стоит ли покупать электронную книгу;78;193;COMMERCIAL/gmsk_vyboroved.ru.csv;119596;gaming_entertainment;choice;en
+COMMERCIAL;электронная книга какую лучше;42;2664;COMMERCIAL/gmsk_expertcen.ru.csv;33948;gaming_entertainment;choice;en
+COMMERCIAL;как выбрать игровую приставку для ребенка;7;107;COMMERCIAL/gmsk_expertcen.ru.csv;211145;gaming_entertainment;choice;ru
+COMMERCIAL;игровые приставки для детей 10 лет какую выбрать;11;17;COMMERCIAL/gmsk_expertcen.ru.csv;130460;gaming_entertainment;choice;ru
+COMMERCIAL;электронная книга недорогая и качественная как выбрать;31;44;COMMERCIAL/gmsk_expertcen.ru.csv;51041;gaming_entertainment;choice;en
+COMMERCIAL;xbox какой лучше купить;93;441;COMMERCIAL/gmsk_vyboroved.ru.csv;128923;gaming_entertainment;choice;uk
+COMMERCIAL;шлем виртуальной реальности какой лучше выбрать;3;7;COMMERCIAL/gmsk_expertcen.ru.csv;318428;gaming_entertainment;choice;uk
+COMMERCIAL;как выбрать хорошую электронную книгу;5;154;COMMERCIAL/gmsk_expertcen.ru.csv;181783;gaming_entertainment;choice;uk
+COMMERCIAL;игровая приставка какую выбрать;24;450;COMMERCIAL/gmsk_expertcen.ru.csv;129183;gaming_entertainment;choice;ru
+COMMERCIAL;лучшие беспроводные игровые мыши;242;920;COMMERCIAL/gmsk_expertcen.ru.csv;76683;gaming_entertainment;rankings;en
+COMMERCIAL;лучшие игровые приставки для детей;192;364;COMMERCIAL/gmsk_expertcen.ru.csv;161857;gaming_entertainment;rankings;uk
+COMMERCIAL;лучшие бюджетные игровые мыши;113;386;COMMERCIAL/gmsk_expertcen.ru.csv;108642;gaming_entertainment;rankings;uk
+COMMERCIAL;электронные книги купить лучшие модели;299;369;COMMERCIAL/gmsk_expertcen.ru.csv;32094;gaming_entertainment;rankings;ru
+COMMERCIAL;лучшие электронные книги бюджетные;33;161;COMMERCIAL/gmsk_expertcen.ru.csv;78233;gaming_entertainment;rankings;ru
+COMMERCIAL;лучший геймпад для андроид тв;19;147;COMMERCIAL/gmsk_expertcen.ru.csv;252550;gaming_entertainment;rankings;ru
+COMMERCIAL;топ ретро консолей;20;109;COMMERCIAL/gmsk_expertcen.ru.csv;273626;gaming_entertainment;rankings;ru
+COMMERCIAL;какие электронные книги самые лучшие и надежные;67;67;COMMERCIAL/gmsk_expertcen.ru.csv;33145;gaming_entertainment;rankings;uk
+COMMERCIAL;лучшие пазлы для детей;7;134;COMMERCIAL/gmsk_vyboroved.ru.csv;20722;gaming_entertainment;rankings;uk
+COMMERCIAL;какой самый лучший экран для электронной книги;6;6;COMMERCIAL/gmsk_expertcen.ru.csv;331773;gaming_entertainment;rankings;en
+COMMERCIAL;что мощнее xbox series s или ps4 pro;23;28;COMMERCIAL/gmsk_vyboroved.ru.csv;157850;gaming_entertainment;criteria;uk
+COMMERCIAL;что мощнее ps4 или xbox one;14;105;COMMERCIAL/gmsk_vyboroved.ru.csv;155086;gaming_entertainment;criteria;uk
+COMMERCIAL;что мощнее xbox series x или ps5;92;115;COMMERCIAL/gmsk_vyboroved.ru.csv;147800;gaming_entertainment;criteria;ru
+COMMERCIAL;самая мощная портативная консоль в мире;3;5;COMMERCIAL/gmsk_vyboroved.ru.csv;75111;gaming_entertainment;criteria;en
+COMMERCIAL;microsoft xbox series s 512gb отзывы;8;36;COMMERCIAL/gmsk_expertcen.ru.csv;253789;gaming_entertainment;reviews;ru
+COMMERCIAL;что лучше беговая дорожка или велотренажер;508;1702;COMMERCIAL/gmsk_vyboroved.ru.csv;103667;outdoor_sports;comparison;uk
+COMMERCIAL;беговая дорожка для дома какая лучше механическая или электрическая;181;277;COMMERCIAL/gmsk_expertcen.ru.csv;391786;outdoor_sports;comparison;en
+COMMERCIAL;какие фитнес резинки лучше тканевые или резиновые;16;63;COMMERCIAL/gmsk_vyboroved.ru.csv;95061;outdoor_sports;comparison;uk
+COMMERCIAL;какая резинка для фитнеса лучше тканевая или латексная;21;101;COMMERCIAL/gmsk_vyboroved.ru.csv;101204;outdoor_sports;comparison;ru
+COMMERCIAL;эллиптический тренажер магнитный или электромагнитный что лучше;19;39;COMMERCIAL/gmsk_expertcen.ru.csv;280648;outdoor_sports;comparison;en
+COMMERCIAL;какие лыжи лучше россиньоль или фишер;18;52;COMMERCIAL/gmsk_vyboroved.ru.csv;151645;outdoor_sports;comparison;ru
+COMMERCIAL;биосталь термосы отзывы;90;1272;COMMERCIAL/gmsk_expertcen.ru.csv;185802;outdoor_sports;reviews;en
+COMMERCIAL;тренажер степпер для дома отзывы;116;363;COMMERCIAL/gmsk_expertcen.ru.csv;293248;outdoor_sports;reviews;uk
+COMMERCIAL;какой спальный мешок лучше купить отзывы;72;86;COMMERCIAL/gmsk_expertcen.ru.csv;1321;outdoor_sports;reviews;ru
+COMMERCIAL;тренажер эллипс для дома цена отзывы;10;20;COMMERCIAL/gmsk_expertcen.ru.csv;130737;outdoor_sports;reviews;uk
+COMMERCIAL;обзор катушек для спиннинга;17;425;COMMERCIAL/gmsk_expertcen.ru.csv;120428;outdoor_sports;reviews;en
+COMMERCIAL;какой купить электросамокат отзывы;17;91;COMMERCIAL/gmsk_expertcen.ru.csv;36574;outdoor_sports;reviews;uk
+COMMERCIAL;эллиптический тренажер kettler vito m отзывы;10;13;COMMERCIAL/gmsk_expertcen.ru.csv;148095;outdoor_sports;reviews;en
+COMMERCIAL;вектор тренажер осанки отзывы цена;24;94;COMMERCIAL/gmsk_expertcen.ru.csv;357756;outdoor_sports;reviews;ru
+COMMERCIAL;какой термос лучше купить для чая отзывы;22;85;COMMERCIAL/gmsk_expertcen.ru.csv;35583;outdoor_sports;reviews;ru
+COMMERCIAL;резинки для фитнеса какие лучше выбрать;194;287;COMMERCIAL/gmsk_vyboroved.ru.csv;53188;outdoor_sports;choice;ru
+COMMERCIAL;какой марки велосипед лучше выбрать;81;106;COMMERCIAL/gmsk_vyboroved.ru.csv;88070;outdoor_sports;choice;uk
+COMMERCIAL;эллиптический тренажер какой выбрать для дома;219;368;COMMERCIAL/gmsk_expertcen.ru.csv;185532;outdoor_sports;choice;uk
+COMMERCIAL;как выбрать электросамокат взрослому для города;226;325;COMMERCIAL/gmsk_expertcen.ru.csv;307176;outdoor_sports;choice;en
+COMMERCIAL;спиннинг на щуку как выбрать;57;1058;COMMERCIAL/gmsk_expertcen.ru.csv;128190;outdoor_sports;choice;ru
+COMMERCIAL;беговая дорожка для дома какую выбрать;111;361;COMMERCIAL/gmsk_expertcen.ru.csv;145435;outdoor_sports;choice;uk
+COMMERCIAL;как выбрать бинокль советы профессионалов;181;450;COMMERCIAL/gmsk_vyboroved.ru.csv;119486;outdoor_sports;choice;en
+COMMERCIAL;термос какой лучше держит температуру;711;917;COMMERCIAL/gmsk_expertcen.ru.csv;292973;outdoor_sports;choice;ru
+COMMERCIAL;какой фирмы термос лучше купить;59;123;COMMERCIAL/gmsk_expertcen.ru.csv;1588;outdoor_sports;choice;uk
+COMMERCIAL;коврик для йоги какой лучше;86;772;COMMERCIAL/gmsk_vyboroved.ru.csv;154245;outdoor_sports;choice;ru
+COMMERCIAL;как выбрать спиннинг новичку;20;273;COMMERCIAL/gmsk_vyboroved.ru.csv;163150;outdoor_sports;choice;en
+COMMERCIAL;как выбрать спиннинг и катушку;128;2151;COMMERCIAL/gmsk_vyboroved.ru.csv;113260;outdoor_sports;choice;uk
+COMMERCIAL;как выбрать палатку туристическую 2 местную;42;66;COMMERCIAL/gmsk_expertcen.ru.csv;186256;outdoor_sports;choice;ru
+COMMERCIAL;самый лучший термос в мире;520;581;COMMERCIAL/gmsk_expertcen.ru.csv;31945;outdoor_sports;rankings;en
+COMMERCIAL;лучшие горнолыжные курорты мира;165;364;COMMERCIAL/gmsk_vyboroved.ru.csv;14809;outdoor_sports;rankings;uk
+COMMERCIAL;бинокль рейтинги лучших;577;1233;COMMERCIAL/gmsk_expertcen.ru.csv;36;outdoor_sports;rankings;ru
+COMMERCIAL;рейтинг термосов из нержавеющей стали;107;246;COMMERCIAL/gmsk_expertcen.ru.csv;878;outdoor_sports;rankings;en
+COMMERCIAL;рейтинг подростковых велосипедов;87;238;COMMERCIAL/gmsk_vyboroved.ru.csv;119583;outdoor_sports;rankings;en
+COMMERCIAL;велотренажер для дома рейтинг лучших;240;805;COMMERCIAL/gmsk_expertcen.ru.csv;349353;outdoor_sports;rankings;uk
+COMMERCIAL;лучшие производители термосов;67;560;COMMERCIAL/gmsk_expertcen.ru.csv;1417;outdoor_sports;rankings;ru
+COMMERCIAL;фитнес часы топ 10 лучших;207;236;COMMERCIAL/gmsk_expertcen.ru.csv;363537;outdoor_sports;rankings;en
+COMMERCIAL;рейтинг велосипедов горных;174;1121;COMMERCIAL/gmsk_expertcen.ru.csv;314309;outdoor_sports;rankings;uk
+COMMERCIAL;рейтинг трехколесных велосипедов с ручкой;36;298;COMMERCIAL/gmsk_expertcen.ru.csv;78136;outdoor_sports;rankings;en
+COMMERCIAL;горные лыжи для начинающих рейтинг;127;200;COMMERCIAL/gmsk_expertcen.ru.csv;370660;outdoor_sports;rankings;uk
+COMMERCIAL;лучшие модели велосипедов для мужчин;100;115;COMMERCIAL/gmsk_vyboroved.ru.csv;14868;outdoor_sports;rankings;ru
+COMMERCIAL;что эффективнее для похудения беговая дорожка или велотренажер;55;104;COMMERCIAL/gmsk_vyboroved.ru.csv;49439;outdoor_sports;criteria;ru
+COMMERCIAL;какие тренажеры для дома самые эффективные;121;310;COMMERCIAL/gmsk_vyboroved.ru.csv;88003;outdoor_sports;criteria;ru
+COMMERCIAL;оптимальная длина удочки для ловли с берега;177;210;COMMERCIAL/gmsk_vyboroved.ru.csv;4600;outdoor_sports;criteria;en
+COMMERCIAL;бюджетная беговая дорожка для дома;18;152;COMMERCIAL/gmsk_expertcen.ru.csv;90440;outdoor_sports;criteria;uk
+COMMERCIAL;что эффективнее беговая или велотренажер;6;277;COMMERCIAL/gmsk_vyboroved.ru.csv;108505;outdoor_sports;criteria;en
+COMMERCIAL;какой мотоблок лучше дизельный или бензиновый;33;124;COMMERCIAL/gmsk_expertcen.ru.csv;378570;garden_country;comparison;uk
+COMMERCIAL;какой насос лучше для колодца с верхним или нижним забором воды;16;26;COMMERCIAL/gmsk_expertcen.ru.csv;280941;garden_country;comparison;en
+COMMERCIAL;секатор плоскостной и контактный в чем разница;39;49;COMMERCIAL/gmsk_expertcen.ru.csv;272898;garden_country;comparison;en
+COMMERCIAL;какой мотоблок лучше редукторный или ременной;47;227;COMMERCIAL/gmsk_expertcen.ru.csv;237335;garden_country;comparison;en
+COMMERCIAL;какой триммер для травы лучше электрический или аккумуляторный;8;23;COMMERCIAL/gmsk_expertcen.ru.csv;210981;garden_country;comparison;uk
+COMMERCIAL;мотокоса или триммер что лучше;6;25;COMMERCIAL/gmsk_expertcen.ru.csv;331590;garden_country;comparison;ru
+COMMERCIAL;какую теплицу лучше купить из поликарбоната отзывы;57;506;COMMERCIAL/gmsk_vyboroved.ru.csv;45235;garden_country;reviews;uk
+COMMERCIAL;томат для теплицы лучшие сорта отзывы;28;1779;COMMERCIAL/gmsk_expertcen.ru.csv;128927;garden_country;reviews;en
+COMMERCIAL;газонокосилка отзывы электрическая;30;2510;COMMERCIAL/gmsk_expertcen.ru.csv;258930;garden_country;reviews;ru
+COMMERCIAL;снегоуборщик патриот отзывы;42;895;COMMERCIAL/gmsk_expertcen.ru.csv;286690;garden_country;reviews;ru
+COMMERCIAL;лучшие секаторы для сада рейтинг отзывы;73;104;COMMERCIAL/gmsk_expertcen.ru.csv;33041;garden_country;reviews;ru
+COMMERCIAL;как выбрать теплицу из поликарбоната советы отзывы форум владельцев;39;39;COMMERCIAL/gmsk_vyboroved.ru.csv;36625;garden_country;reviews;uk
+COMMERCIAL;секатор садовый отзывы;23;1482;COMMERCIAL/gmsk_expertcen.ru.csv;78866;garden_country;reviews;en
+COMMERCIAL;культиватор электрический для дачи отзывы;44;255;COMMERCIAL/gmsk_expertcen.ru.csv;201343;garden_country;reviews;uk
+COMMERCIAL;какой лучше купить мотоблок для дома;214;548;COMMERCIAL/gmsk_expertcen.ru.csv;48600;garden_country;choice;uk
+COMMERCIAL;как выбрать газонокосилку бензиновую;57;387;COMMERCIAL/gmsk_expertcen.ru.csv;342792;garden_country;choice;en
+COMMERCIAL;электротриммер для травы какой выбрать недорогой и качественный цена;49;62;COMMERCIAL/gmsk_expertcen.ru.csv;118903;garden_country;choice;ru
+COMMERCIAL;триммер для травы бензиновый какой лучше выбрать;42;105;COMMERCIAL/gmsk_expertcen.ru.csv;146020;garden_country;choice;en
+COMMERCIAL;насос для колодца для водоснабжения дома какой лучше;567;695;COMMERCIAL/gmsk_expertcen.ru.csv;48278;garden_country;choice;en
+COMMERCIAL;капельный полив какой лучше;49;1136;COMMERCIAL/gmsk_vyboroved.ru.csv;49499;garden_country;choice;uk
+COMMERCIAL;электропилы цепные какие лучше;110;484;COMMERCIAL/gmsk_expertcen.ru.csv;49023;garden_country;choice;en
+COMMERCIAL;культиватор бензиновый для дачи какой лучше рейтинг;28;54;COMMERCIAL/gmsk_expertcen.ru.csv;65764;garden_country;choice;ru
+COMMERCIAL;как выбрать электрическую газонокосилку для дачи хорошую и недорогую;12;20;COMMERCIAL/gmsk_expertcen.ru.csv;164283;garden_country;choice;uk
+COMMERCIAL;газонокосилка для дачи какую выбрать;11;67;COMMERCIAL/gmsk_expertcen.ru.csv;156261;garden_country;choice;en
+COMMERCIAL;какой выбрать мотоблок нева;10;173;COMMERCIAL/gmsk_vyboroved.ru.csv;37805;garden_country;choice;ru
+COMMERCIAL;лучшие производители теплиц;1123;2016;COMMERCIAL/gmsk_expertcen.ru.csv;76482;garden_country;rankings;ru
+COMMERCIAL;рейтинг электропил цепных;102;2211;COMMERCIAL/gmsk_expertcen.ru.csv;49104;garden_country;rankings;uk
+COMMERCIAL;снегоуборщик бензиновый рейтинг;302;2288;COMMERCIAL/gmsk_expertcen.ru.csv;87930;garden_country;rankings;ru
+COMMERCIAL;лучший поликарбонат для теплицы мнение эксперта;73;79;COMMERCIAL/gmsk_vyboroved.ru.csv;88109;garden_country;rankings;en
+COMMERCIAL;рейтинг дренажных насосов для грязной воды;58;401;COMMERCIAL/gmsk_expertcen.ru.csv;64559;garden_country;rankings;uk
+COMMERCIAL;рейтинг цепных электропил по качеству и надежности и цене;42;73;COMMERCIAL/gmsk_expertcen.ru.csv;65034;garden_country;rankings;ru
+COMMERCIAL;огурцы для теплицы сорта лучшие самоопыляемые;149;1158;COMMERCIAL/gmsk_expertcen.ru.csv;279190;garden_country;rankings;en
+COMMERCIAL;семена помидор для теплицы самоопыляемые низкорослые лучшие сорта;52;95;COMMERCIAL/gmsk_expertcen.ru.csv;186088;garden_country;rankings;uk
+COMMERCIAL;триммер электрический для травы рейтинг лучшие модели;54;100;COMMERCIAL/gmsk_expertcen.ru.csv;145810;garden_country;rankings;ru
+COMMERCIAL;лучшие семена огурцов для теплицы;68;1081;COMMERCIAL/gmsk_expertcen.ru.csv;88549;garden_country;rankings;ru
+COMMERCIAL;мотоблоки самые надежные и популярные цены;2883;3416;COMMERCIAL/gmsk_expertcen.ru.csv;31882;garden_country;criteria;ru
+COMMERCIAL;культиваторы для дачи самые надежные и популярные;401;589;COMMERCIAL/gmsk_expertcen.ru.csv;127525;garden_country;criteria;uk
+COMMERCIAL;какой культиватор для вспашки участка самый надежный что купить лучше;524;544;COMMERCIAL/gmsk_expertcen.ru.csv;153438;garden_country;criteria;en
+COMMERCIAL;триммеры электрические для травы надежные и недорогие;41;55;COMMERCIAL/gmsk_expertcen.ru.csv;77953;garden_country;criteria;en
+COMMERCIAL;триммер для травы электрический легкий и мощный для женщин;26;157;COMMERCIAL/gmsk_expertcen.ru.csv;194329;garden_country;criteria;uk
+COMMERCIAL;сизаль или джут для когтеточки что лучше;54;80;COMMERCIAL/gmsk_expertcen.ru.csv;328741;pets;comparison;en
+COMMERCIAL;что лучше дронтал или мильбемакс для собак;31;57;COMMERCIAL/gmsk_expertcen.ru.csv;280066;pets;comparison;uk
+COMMERCIAL;какой лучше грунт для аквариума мелкий или крупный;5;9;COMMERCIAL/gmsk_expertcen.ru.csv;324985;pets;comparison;ru
+COMMERCIAL;лучшее средство против клещей для собак;6;19;COMMERCIAL/gmsk_expertcen.ru.csv;165578;pets;comparison;uk
+COMMERCIAL;корма для собак обзор;21;1356;COMMERCIAL/gmsk_vyboroved.ru.csv;101212;pets;reviews;ru
+COMMERCIAL;корма холистики для собак отзывы ветеринаров;27;123;COMMERCIAL/gmsk_vyboroved.ru.csv;154632;pets;reviews;en
+COMMERCIAL;cesar корм для собак отзывы ветеринаров о корме;11;29;COMMERCIAL/gmsk_vyboroved.ru.csv;95362;pets;reviews;en
+COMMERCIAL;фенпраз для собак отзывы ветеринаров;17;30;COMMERCIAL/gmsk_vyboroved.ru.csv;67888;pets;reviews;uk
+COMMERCIAL;лучший корм для волнистых попугаев отзывы;8;45;COMMERCIAL/gmsk_expertcen.ru.csv;210867;pets;reviews;ru
+COMMERCIAL;какие лучше таблетки от глистов для собак;34;200;COMMERCIAL/gmsk_expertcen.ru.csv;2821;pets;choice;uk
+COMMERCIAL;грунт в аквариум какой лучше;36;1262;COMMERCIAL/gmsk_expertcen.ru.csv;186396;pets;choice;ru
+COMMERCIAL;какой лучше свет для аквариума;57;309;COMMERCIAL/gmsk_vyboroved.ru.csv;53445;pets;choice;ru
+COMMERCIAL;каким влажным кормом лучше кормить кошку;25;104;COMMERCIAL/gmsk_vyboroved.ru.csv;45656;pets;choice;en
+COMMERCIAL;как выбрать обувь для собаки;17;67;COMMERCIAL/gmsk_vyboroved.ru.csv;104548;pets;choice;uk
+COMMERCIAL;какой лучше купить аквариум;10;511;COMMERCIAL/gmsk_expertcen.ru.csv;180631;pets;choice;en
+COMMERCIAL;каким кормом лучше кормить кошку стерилизованную;25;136;COMMERCIAL/gmsk_expertcen.ru.csv;413000;pets;choice;ru
+COMMERCIAL;лучшие корма для собак мелких пород;159;2228;COMMERCIAL/gmsk_expertcen.ru.csv;185611;pets;rankings;en
+COMMERCIAL;капли от клещей для собак рейтинг;134;329;COMMERCIAL/gmsk_expertcen.ru.csv;108574;pets;rankings;uk
+COMMERCIAL;какой корм для собак самый лучший по мнению ветеринаров;1613;1813;COMMERCIAL/gmsk_vyboroved.ru.csv;76141;pets;rankings;uk
+COMMERCIAL;таблетки для собак от клещей рейтинг лучших;72;305;COMMERCIAL/gmsk_expertcen.ru.csv;136916;pets;rankings;en
+COMMERCIAL;рейтинг кормов супер премиум класса для собак;37;465;COMMERCIAL/gmsk_vyboroved.ru.csv;91445;pets;rankings;ru
+COMMERCIAL;лучшие корма для собак средних пород;76;887;COMMERCIAL/gmsk_expertcen.ru.csv;64262;pets;rankings;en
+COMMERCIAL;самое эффективное средство от клещей для собак;1022;1186;COMMERCIAL/gmsk_expertcen.ru.csv;177619;pets;criteria;uk
+COMMERCIAL;хорошее средство от клещей для собак;34;1463;COMMERCIAL/gmsk_expertcen.ru.csv;162752;pets;criteria;ru
+COMMERCIAL;эффективные таблетки от клещей для собак;32;269;COMMERCIAL/gmsk_expertcen.ru.csv;230506;pets;criteria;ru
+COMMERCIAL;3d ручка для детей какую выбрать отзывы;5;8;COMMERCIAL/gmsk_expertcen.ru.csv;25885;office_study;reviews;en
+COMMERCIAL;3d ручка обзор лучших моделей;7;13;COMMERCIAL/gmsk_expertcen.ru.csv;9171;office_study;reviews;ru
+COMMERCIAL;3d ручка отзывы какую купить;3;22;COMMERCIAL/gmsk_expertcen.ru.csv;12586;office_study;reviews;ru
+COMMERCIAL;3д ручка отзывы родителей;11;12;COMMERCIAL/gmsk_expertcen.ru.csv;231954;office_study;reviews;uk
+COMMERCIAL;обзор сучкорезов с длинными ручками;3;6;COMMERCIAL/gmsk_vyboroved.ru.csv;149657;office_study;reviews;uk
+COMMERCIAL;как выбрать перьевую ручку для письма;29;47;COMMERCIAL/gmsk_vyboroved.ru.csv;94691;office_study;choice;en
+COMMERCIAL;как выбрать 3 д ручку для ребенка;19;54;COMMERCIAL/gmsk_expertcen.ru.csv;147026;office_study;choice;uk
+COMMERCIAL;как выбрать шредер для офиса;12;33;COMMERCIAL/gmsk_vyboroved.ru.csv;111106;office_study;choice;en
+COMMERCIAL;пластик для 3д ручки какой лучше;91;258;COMMERCIAL/gmsk_expertcen.ru.csv;335532;office_study;choice;en
+COMMERCIAL;ручки для первоклассников какие лучше;10;66;COMMERCIAL/gmsk_expertcen.ru.csv;366083;office_study;choice;ru
+COMMERCIAL;дверные ручки какие лучше;6;219;COMMERCIAL/gmsk_vyboroved.ru.csv;51233;office_study;choice;ru
+COMMERCIAL;гелевые ручки какие лучше;9;146;COMMERCIAL/gmsk_expertcen.ru.csv;366342;office_study;choice;uk
