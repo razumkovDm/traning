@@ -1,0 +1,327 @@
+original_row_id;original_text;original_style;replacement_text;replacement_style;replacement_plan_id;reason;replacement_source_file;replacement_source_record;replacement_exact_frequency
+6;вайлдберриз интернет магазин официальный сайт;official_site;алиэкспресс официальный сайт;official_site;NAV-0099;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1380;25047
+10;авиакомпания победа официальный сайт;official_site;авиаселс официальный сайт;official_site;NAV-0291;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1497;37056
+11;столото официальный сайт;official_site;ижавиа официальный сайт;official_site;NAV-0292;risky_or_noise;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1686;33803
+12;ржд билеты официальный сайт;official_site;белавиа официальный сайт;official_site;NAV-0296;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1722;26872
+14;билеты ржд официальный сайт;official_site;авиасалес официальный сайт;official_site;NAV-0299;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1462;24098
+20;roblox официальный сайт;official_site;здоров ру официальный сайт;official_site;NAV-0065;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29254;22506
+32;зона официальный сайт;official_site;все инструменты ру официальный сайт;official_site;NAV-0102;unqualified_destination;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100696;21024
+33;roblox com официальный сайт;official_site;официальный сайт днс;official_site;NAV-0103;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;4523;20135
+44;азимут авиакомпания официальный сайт;official_site;турецкие авиалинии официальный сайт;official_site;NAV-0300;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29115;17669
+49;фссп официальный сайт проверка задолженности;official_site;utair официальный сайт;official_site;NAV-0306;mixed_intent_or_stale;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1453;13388
+53;работа ру официальный сайт;official_site;северсталь авиа официальный сайт;official_site;NAV-0308;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;28943;12522
+54;яндекс путешествия официальный сайт;official_site;угмк здоровье екатеринбург официальный сайт;official_site;NAV-0068;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100673;11461
+63;аэропорт сочи официальный сайт;official_site;красавиа официальный сайт;official_site;NAV-0309;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1853;10882
+70;столички аптеки официальный сайт;official_site;метро санкт петербург официальный сайт;official_site;NAV-0310;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100822;10775
+76;сбербанк официальный сайт;official_site;южный ветер авиакомпания официальный сайт;official_site;NAV-0311;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100875;10370
+78;леруа мерлен официальный сайт;official_site;дискорд официальный сайт;official_site;NAV-0196;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;2212;6351
+81;аскона сайт официальный сайт;official_site;новосибирск автовокзал официальный сайт;official_site;NAV-0312;repeated_boilerplate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;34462;9721
+83;драгон мани официальный сайт;official_site;пулково аэропорт официальный сайт;official_site;NAV-0313;risky_or_noise;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;30482;9174
+87;лига ставок официальный сайт;official_site;смарт авиа официальный сайт;official_site;NAV-0314;risky_or_noise;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29435;8837
+91;гибдд официальный сайт проверка штрафов;official_site;узбекские авиалинии официальный сайт;official_site;NAV-0315;mixed_intent_or_stale;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;28997;8766
+98;штрафы гибдд онлайн официальный сайт;official_site;минеральные воды аэропорт официальный сайт;official_site;NAV-0316;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;103912;8495
+105;монастырь дивеево официальный сайт;official_site;толмачево аэропорт официальный сайт;official_site;NAV-0317;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29403;8449
+108;автодор платные дороги официальный сайт;official_site;метро москвы сайт официальный;official_site;NAV-0318;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29368;8114
+110;шереметьево аэропорт официальный сайт;official_site;туроператор русь официальный сайт;official_site;NAV-0255;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;30238;8047
+112;аэропорт внуково официальный сайт;official_site;генеральная прокуратура рф официальный сайт;official_site;NAV-0224;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100846;7933
+114;проверка штрафов гибдд официальный сайт;official_site;карта метро санкт петербург официальный сайт;official_site;NAV-0319;mixed_intent_or_stale;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177362;7619
+116;авиакомпания ямал официальный сайт;official_site;сан фан туроператор официальный сайт;official_site;NAV-0259;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;109673;7528
+117;днс сайт официальный сайт;official_site;электронный бюджет официальный сайт;official_site;NAV-0082;repeated_boilerplate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29391;7218
+118;метро москвы сайт официальный сайт;official_site;сберометр официальный сайт;official_site;NAV-0017;repeated_boilerplate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1405;7145
+119;все инструменты сайт официальный сайт;official_site;боткинская больница москва официальный сайт;official_site;NAV-0075;repeated_boilerplate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100811;6910
+120;петрович сайт официальный сайт;official_site;икар авиакомпания официальный сайт;official_site;NAV-0320;repeated_boilerplate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29556;6894
+121;мтс сайт официальный сайт;official_site;арбитражный суд ростовской области официальный сайт;official_site;NAV-0228;repeated_boilerplate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177302;11885
+124;валдбериес интернет магазин официальный сайт;official_site;усть качка пермь санаторий официальный сайт;official_site;NAV-0262;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177332;6887
+125;азино777 официальный сайт мобильная;official_site;казань аэропорт официальный сайт;official_site;NAV-0321;risky_or_noise;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;33556;6881
+129;официальный сайт почта россии;official_site;морозовская детская больница официальный сайт;official_site;NAV-0076;unqualified_destination;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100856;6880
+130;втб сайт официальный сайт;official_site;театр вахтангова официальный сайт афиша;official_site;NAV-0035;repeated_boilerplate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100823;6871
+132;аэропорт домодедово официальный сайт;official_site;арбитражный суд самарской области официальный сайт;official_site;NAV-0229;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177321;11679
+136;налоговая официальный сайт;official_site;кубань кредит банк официальный сайт;official_site;NAV-0019;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100906;6697
+137;мегафон сайт официальный сайт;official_site;техноавиа спецодежда официальный сайт;official_site;NAV-0322;repeated_boilerplate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29418;6688
+138;библиоглобус официальный сайт туроператор сайт;official_site;онлайн табло аэропорт сочи официальный сайт;official_site;NAV-0323;repeated_boilerplate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;178944;6685
+139;сочи парк отель официальный сайт;official_site;пушкинский музей москва официальный сайт;official_site;NAV-0036;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100911;6659
+143;аптека апрель официальный сайт;official_site;лемана про официальный сайт каталог;official_site;NAV-0112;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100909;6647
+147;рутуб официальный сайт;official_site;инфофлот туроператор официальный сайт;official_site;NAV-0263;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29471;6620
+148;макс официальный сайт;official_site;официальный сайт телеграм;official_site;NAV-0197;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;3473;4181
+153;сфр сайт официальный сайт;official_site;джум интернет магазин официальный сайт;official_site;NAV-0113;repeated_boilerplate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100851;6585
+155;аптека здоров ру официальный сайт;official_site;мособлгаз официальный сайт;official_site;NAV-0084;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1975;6534
+163;аврора авиакомпания официальный сайт;official_site;улыбка радуги интернет магазин официальный сайт;official_site;NAV-0114;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177365;6493
+169;ростелеком сайт официальный сайт;official_site;майкрософт официальный сайт;official_site;NAV-0202;repeated_boilerplate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;3040;4019
+172;спбгу официальный сайт санкт петербург;official_site;анекс тур официальный сайт туроператора;official_site;NAV-0264;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100994;6312
+176;хх ру официальный сайт;official_site;сады россии интернет магазин официальный сайт;official_site;NAV-0115;no_named_destination;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177416;6291
+177;маркет яндекс интернет магазин официальный сайт;official_site;свердловский областной суд официальный сайт;official_site;NAV-0230;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100863;6243
+178;официальный сайт аэрофлота;official_site;спорт экспресс официальный сайт;official_site;NAV-0205;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29635;6198
+181;торги гис официальный сайт;official_site;адлеркурорт официальный сайт;official_site;NAV-0265;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;2010;6176
+186;яндекс маркет интернет магазин официальный сайт;official_site;пегасус авиакомпания официальный сайт;official_site;NAV-0324;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29672;6175
+187;авиакомпания северный ветер официальный сайт;official_site;туроператор русский экспресс официальный сайт;official_site;NAV-0266;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;118075;6166
+188;сайт жд билеты официальный сайт;official_site;ярославль аквапарк официальный сайт;official_site;NAV-0267;repeated_boilerplate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;33801;6087
+189;аэропорт кольцово официальный сайт;official_site;банк уралсиб официальный сайт;official_site;NAV-0020;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;30955;6083
+190;steam официальный сайт;official_site;мариинский театр афиша официальный сайт;official_site;NAV-0037;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;107369;6076
+191;синергия университет официальный сайт;official_site;красноярск автовокзал официальный сайт;official_site;NAV-0325;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;35253;6053
+192;рутубе официальный сайт;official_site;здоров ру москва официальный сайт;official_site;NAV-0077;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;128653;6027
+199;дом рф банк официальный сайт;official_site;водоканал спб официальный сайт;official_site;NAV-0085;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29558;6013
+201;авиакомпания норд винд официальный сайт;official_site;духи рф интернет магазин официальный сайт;official_site;NAV-0116;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177355;5997
+204;авито ру официальный сайт;official_site;санкт петербург банк официальный сайт;official_site;NAV-0021;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;131162;5942
+206;банк дом рф официальный сайт;official_site;официальный сайт триколор тв;official_site;NAV-0038;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;43143;5881
+207;банк рф дом официальный сайт;official_site;метро кешен керри официальный сайт;official_site;NAV-0326;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100963;5870
+213;ялта интурист отель официальный сайт;official_site;смартавиа официальный сайт авиакомпания;official_site;NAV-0327;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;30264;5870
+214;парк отель софрино официальный сайт;official_site;этп гпб электронная торговая площадка официальный сайт;official_site;NAV-0086;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;217023;12085
+215;отель софрино парк официальный сайт;official_site;арбитражный суд пермского края официальный сайт;official_site;NAV-0231;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177340;5782
+216;авито москва официальный сайт;official_site;ерино санаторий официальный сайт;official_site;NAV-0269;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29458;5771
+220;горздрав аптеки официальный сайт;official_site;ajet авиакомпания официальный сайт;official_site;NAV-0328;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29662;5763
+222;плеханова университет москва официальный сайт;official_site;санаторий увильды официальный сайт;official_site;NAV-0270;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;30841;5761
+223;ифнс сайт официальный сайт;official_site;якутия авиакомпания официальный сайт;official_site;NAV-0329;repeated_boilerplate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29790;5760
+238;аквапарк новосибирск официальный сайт;official_site;хеликс в санкт петербурге официальный сайт;official_site;NAV-0078;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177373;5710
+239;псб банк официальный сайт;official_site;см клиника санкт петербург официальный сайт;official_site;NAV-0079;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177345;5698
+242;соль илецк курорт официальный сайт;official_site;аллхоккей официальный сайт;official_site;NAV-0206;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;2069;5647
+243;санаторий старая русса официальный сайт;official_site;отель ривьера казань официальный сайт;official_site;NAV-0271;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;102014;5574
+244;магнит сайт официальный сайт;official_site;аптека горздрав официальный сайт;official_site;NAV-0080;repeated_boilerplate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;32560;5549
+245;лиса рулит автосалон официальный сайт;official_site;кубанский государственный университет официальный сайт;official_site;NAV-0055;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100953;5468
+251;царицыно музей заповедник официальный сайт;official_site;исторический музей москва официальный сайт;official_site;NAV-0039;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100931;5460
+254;официальный сайт wildberries;official_site;жемчужина отель сочи официальный сайт;official_site;NAV-0272;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;113082;5444
+255;rutube ru официальный сайт;official_site;фса росаккредитация официальный сайт;official_site;NAV-0022;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29481;5410
+256;мвд официальный сайт рф;official_site;доброград отель официальный сайт;official_site;NAV-0273;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29518;5378
+269;валдберис интернет магазин официальный сайт;official_site;казань аквапарк официальный сайт;official_site;NAV-0274;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;31843;5307
+270;банкротство сайт официальный сайт;official_site;федресурс банкротство официальный сайт банкротство;official_site;NAV-0023;unqualified_destination;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;109297;5307
+271;газпромнефть сайт официальный сайт;official_site;богатырь отель сочи официальный сайт;official_site;NAV-0275;repeated_boilerplate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;101211;5261
+272;гибдд официальный сайт штрафы;official_site;лабиринт интернет магазин официальный сайт;official_site;NAV-0117;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100952;5244
+275;проверка автомобиля гибдд официальный сайт;official_site;отель санкт петербург официальный сайт;official_site;NAV-0276;mixed_intent_or_stale;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100914;5159
+278;сайт банкротов физических лиц официальный сайт;official_site;театр оперетты официальный сайт;official_site;NAV-0041;repeated_boilerplate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29447;5153
+281;читай город сайт официальный сайт;official_site;зарина интернет магазин официальный сайт;official_site;NAV-0118;repeated_boilerplate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;109934;5112
+283;банк ткб официальный сайт;official_site;кусково музей усадьба официальный сайт;official_site;NAV-0042;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100927;5085
+290;детский мир сайт официальный сайт;official_site;санаторий хилово официальный сайт;official_site;NAV-0277;repeated_boilerplate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;30380;5084
+294;польза ру аптека официальный сайт;official_site;спортэкспрессс ру официальный сайт;official_site;NAV-0207;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29716;5078
+296;театр вахтангова официальный сайт;official_site;краевой краснодарский суд официальный сайт;official_site;NAV-0232;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;139384;5073
+304;сибирь санаторий тюмень официальный сайт;official_site;телемагазин мой мир официальный сайт;official_site;NAV-0119;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;105502;5072
+305;сибирь тюмень санаторий официальный сайт;official_site;белокуриха россия санаторий официальный сайт;official_site;NAV-0278;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;103667;5010
+307;озон ру официальный сайт;official_site;цирк москва на вернадского официальный сайт;official_site;NAV-0043;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;181479;5000
+310;авито официальный сайт спб;official_site;официальный сайт пятерочка;official_site;NAV-0120;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;12535;4990
+314;авито официальный сайт санкт петербург;official_site;наций театр официальный сайт;official_site;NAV-0044;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;49638;4987
+317;концертный зал зарядье официальный сайт;official_site;арбитражный суд челябинской области официальный сайт;official_site;NAV-0233;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177288;8558
+318;банк втб официальный сайт;official_site;библио глобус официальный сайт туроператора;official_site;NAV-0279;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100942;4937
+319;сбер сайт официальный сайт;official_site;ранхигс нижний новгород официальный сайт;official_site;NAV-0192;repeated_boilerplate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100976;4916
+320;аквапарк суздаль официальный сайт;official_site;водоканал саратов официальный сайт;official_site;NAV-0087;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29972;4895
+323;мрия отель крым официальный сайт;official_site;альфа страхования официальный сайт;official_site;NAV-0024;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29524;4890
+324;аквапарк мореон официальный сайт;official_site;пенза автовокзал официальный сайт;official_site;NAV-0330;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;36963;4811
+325;втб банк официальный сайт;official_site;санаторий южное взморье официальный сайт;official_site;NAV-0280;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;114719;4806
+335;тбанк личный кабинет;personal_cabinet;газпромбанк личный кабинет;personal_cabinet;NAV-0333;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1408;152054
+336;личный кабинет налогоплательщика юридического лица;personal_cabinet;россельхозбанк личный кабинет;personal_cabinet;NAV-0335;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1599;81783
+341;ип личный кабинет налогоплательщика;personal_cabinet;личный кабинет гемотест;personal_cabinet;NAV-0393;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;3368;43160
+354;1с фреш вход в личный кабинет;personal_cabinet;гис жкх личный кабинет;personal_cabinet;NAV-0408;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29037;39648
+355;майл ру личный кабинет вход в личный кабинет;personal_cabinet;личный кабинет сбермобайл;personal_cabinet;NAV-0341;repeated_boilerplate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;3414;28945
+360;контур диадок вход в личный кабинет;personal_cabinet;сбис личный кабинет;personal_cabinet;NAV-0540;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1393;22525
+369;газ смородина личный кабинет;personal_cabinet;инвитро личный кабинет;personal_cabinet;NAV-0395;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1629;18393
+371;банк санкт петербург личный кабинет;personal_cabinet;мил ру личный кабинет военнослужащего;personal_cabinet;NAV-0555;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100774;17689
+377;яндекс почта вход в личный кабинет;personal_cabinet;газпромнефть личный кабинет;personal_cabinet;NAV-0419;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1698;17418
+380;тбанк бизнес личный кабинет;personal_cabinet;личный кабинет сберпрайм;personal_cabinet;NAV-0350;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1970;15139
+381;озон банк личный кабинет;personal_cabinet;ерц военнослужащего личный кабинет;personal_cabinet;NAV-0556;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;36898;13556
+388;сбербанк бизнес онлайн личный кабинет;personal_cabinet;сберздоровье личный кабинет;personal_cabinet;NAV-0352;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1388;13504
+389;mos ru личный кабинет;personal_cabinet;личный кабинет фрмр медицинского работника;personal_cabinet;NAV-0396;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;104325;13070
+392;альфабанк личный кабинет войти в личный кабинет;personal_cabinet;министерство обороны личный кабинет;personal_cabinet;NAV-0557;repeated_boilerplate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29155;12243
+404;gosuslugi ru личный кабинет;personal_cabinet;личный кабинет спбгу;personal_cabinet;NAV-0392;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1591;10933
+413;платформа офд личный кабинет;personal_cabinet;личный кабинет медицинского работника аккредитация;personal_cabinet;NAV-0357;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100699;18327
+422;цупис личный кабинет;personal_cabinet;здоровье петербуржца личный кабинет;personal_cabinet;NAV-0397;risky_or_noise;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29230;10406
+423;ифнс личный кабинет физического лица;personal_cabinet;челиндбанк личный кабинет;personal_cabinet;NAV-0358;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1865;10302
+426;личный кабинет военнослужащего новый;personal_cabinet;надо денег займ личный кабинет;personal_cabinet;NAV-0359;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100858;10141
+433;промсвязьбанк личный кабинет;personal_cabinet;icloud com личный кабинет;personal_cabinet;NAV-0542;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29048;9784
+436;мосэнергосбыт личный кабинет юридического лица;personal_cabinet;работа россии личный кабинет;personal_cabinet;NAV-0466;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29246;9609
+439;фгис зерно вход в личный кабинет;personal_cabinet;хеликс личный кабинет;personal_cabinet;NAV-0398;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1952;9598
+444;совкомбанк личный кабинет халва;personal_cabinet;дом рф банк личный кабинет;personal_cabinet;NAV-0361;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;101620;9407
+447;мтс личный кабинет вход по номеру телефона;personal_cabinet;почта банк личный кабинет;personal_cabinet;NAV-0363;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29183;8710
+462;рцоит личный кабинет войти в личный через госуслуги;personal_cabinet;личный кабинет магнит;personal_cabinet;NAV-0470;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;5549;8654
+464;мтс деньги личный кабинет;personal_cabinet;альфа деньги личный кабинет;personal_cabinet;NAV-0364;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29242;8605
+468;фгис сатурн вход в личный кабинет;personal_cabinet;личный кабинет ситилинк;personal_cabinet;NAV-0471;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;6888;8590
+469;псб бизнес личный кабинет;personal_cabinet;еирц личный кабинет санкт петербург;personal_cabinet;NAV-0431;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100828;8374
+472;селлер вб личный кабинет;personal_cabinet;личный кабинет быстробанк;personal_cabinet;NAV-0365;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;8089;8361
+474;втб нпф личный кабинет;personal_cabinet;локо банк личный кабинет;personal_cabinet;NAV-0366;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29208;8244
+477;портал ржд личный кабинет;personal_cabinet;банк авангард личный кабинет;personal_cabinet;NAV-0367;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29620;8224
+478;ржд портал личный кабинет;personal_cabinet;т бизнес банк личный кабинет;personal_cabinet;NAV-0368;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;106646;7998
+481;ифнс личный кабинет юридического лица;personal_cabinet;банк уралсиб личный кабинет;personal_cabinet;NAV-0369;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;30611;7802
+487;фгис семеноводство вход в личный кабинет;personal_cabinet;русский стандарт банк личный кабинет;personal_cabinet;NAV-0370;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100977;7711
+497;энергосбыт новосибирск личный кабинет;personal_cabinet;личный кабинет касперский;personal_cabinet;NAV-0543;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;10157;7708
+498;почта гугл вход в личный кабинет;personal_cabinet;абсолют банк личный кабинет;personal_cabinet;NAV-0371;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29425;7611
+510;озон сейлер личный кабинет;personal_cabinet;хурма кредит личный кабинет;personal_cabinet;NAV-0372;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29040;7489
+514;займ возьмика личный кабинет;personal_cabinet;gmail com личный кабинет;personal_cabinet;NAV-0544;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29520;4734
+518;энергосбыт красноярск личный кабинет;personal_cabinet;смс финанс личный кабинет;personal_cabinet;NAV-0373;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29062;7430
+519;банк спб личный кабинет;personal_cabinet;банк хлынов личный кабинет;personal_cabinet;NAV-0374;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;31242;7017
+521;жкх елк личный кабинет;personal_cabinet;экотелеком личный кабинет;personal_cabinet;NAV-0568;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1973;6767
+525;тп портал тп рф личный кабинет;personal_cabinet;альфа личный кабинет;personal_cabinet;NAV-0375;no_named_destination;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1895;6585
+533;госуслуги юридического лица вход в личный кабинет;personal_cabinet;горздрав личный кабинет;personal_cabinet;NAV-0399;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1794;6567
+534;билайн личный кабинет вход по номеру телефона;personal_cabinet;киров водоканал личный кабинет;personal_cabinet;NAV-0439;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;53751;6526
+535;портал тп рф личный кабинет россети;personal_cabinet;белгородэнергосбыт личный кабинет;personal_cabinet;NAV-0440;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1967;6466
+536;моя школа личный кабинет;personal_cabinet;тинкоффбанк банк личный кабинет;personal_cabinet;NAV-0376;unqualified_destination;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29421;6458
+539;мособлеирц личный кабинет московская область;personal_cabinet;автофинанс банк личный кабинет;personal_cabinet;NAV-0377;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29496;6218
+540;россети портал тп рф личный кабинет;personal_cabinet;бифит касса личный кабинет;personal_cabinet;NAV-0378;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29707;6192
+544;итс 1с вход в личный кабинет;personal_cabinet;энергосбыт плюс киров личный кабинет;personal_cabinet;NAV-0441;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100986;6176
+555;личный кабинет энергосбыт иркутск;personal_cabinet;веббанкир займ личный кабинет займ;personal_cabinet;NAV-0379;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100991;6035
+556;иркутскэнергосбыт личный кабинет;personal_cabinet;личный кабинет альфа нпф;personal_cabinet;NAV-0380;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;59494;6022
+558;мегафон корпоративный личный кабинет;personal_cabinet;7 телеком личный кабинет;personal_cabinet;NAV-0569;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29595;5915
+562;маил почта войти личный кабинет вход;personal_cabinet;кредит 365 личный кабинет;personal_cabinet;NAV-0381;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29529;5858
+563;почта маил войти личный кабинет вход;personal_cabinet;т инвестиции личный кабинет;personal_cabinet;NAV-0382;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29416;5845
+564;ифнс ип личный кабинет;personal_cabinet;7 кредит займ личный кабинет;personal_cabinet;NAV-0383;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;126561;5724
+565;корпоративный личный кабинет мегафон;personal_cabinet;каменсктелеком личный кабинет;personal_cabinet;NAV-0570;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;2283;5634
+567;квартплата 24 личный кабинет;personal_cabinet;газпром энергосбыт тюмень личный кабинет;personal_cabinet;NAV-0442;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;101003;5574
+573;личный кабинет электросеть мытищи;personal_cabinet;омскводоканал личный кабинет;personal_cabinet;NAV-0443;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1989;5563
+575;личный кабинет ип ифнс;personal_cabinet;донбасс газ личный кабинет;personal_cabinet;NAV-0444;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29566;5548
+578;войти в почту майл ру;login;еирц личный кабинет спб;personal_cabinet;NAV-0445;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;40480;5535
+579;майл почта войти;login;целевые финансы займ личный кабинет;personal_cabinet;NAV-0384;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100980;5485
+580;вконтакте моя страница войти;login;водоканал иркутск личный кабинет;personal_cabinet;NAV-0446;no_named_destination;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29785;5471
+581;моя страница вконтакте войти;login;личный кабинет жкх кемерово;personal_cabinet;NAV-0447;no_named_destination;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;31094;5319
+582;гугл аккаунт войти в аккаунт;login;рокет телеком личный кабинет;personal_cabinet;NAV-0571;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29467;5282
+584;войти в майл почту;login;х5 клуб личный кабинет;personal_cabinet;NAV-0548;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29753;5260
+586;макс веб войти;login;комиэнергосбытовая личный кабинет;personal_cabinet;NAV-0448;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;2251;5246
+587;веб версия макс войти;login;личный кабинет водоканал севастополь;personal_cabinet;NAV-0449;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;55616;5197
+589;войти в аккаунт гугл;login;личный кабинет севэнергосбыт;personal_cabinet;NAV-0450;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;4874;5139
+591;веб ватсап войти;login;личный кабинет электронный город;personal_cabinet;NAV-0451;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;59961;5092
+594;войти в аккаунт роблокс;login;офис экспортера личный кабинет;personal_cabinet;NAV-0549;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29474;5053
+596;рамблер почта войти в почту;login;энергосбыт волга личный кабинет;personal_cabinet;NAV-0452;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29720;5053
+597;сьер сбербанк онлайн войти;login;альфа лизинг личный кабинет;personal_cabinet;NAV-0385;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29537;4998
+598;29 дневник ру войти через госуслуги;login;тнс энерго личный кабинет нижний новгород;personal_cabinet;NAV-0538;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;186304;4891
+600;диск гугл войти;login;личный кабинет индивидуального предпринимателя;personal_cabinet;NAV-0467;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29303;8437
+601;войти в вк на свою страницу;login;метросеть личный кабинет;personal_cabinet;NAV-0575;no_named_destination;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;2160;4866
+602;телеграмм войти;login;самараэнергосбыт личный кабинет;personal_cabinet;NAV-0453;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;2047;4861
+605;ватсап войти;login;личный кабинет электронный птс;personal_cabinet;NAV-0454;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;56903;4833
+606;vk com моя страница войти;login;альфа инвестиции личный кабинет;personal_cabinet;NAV-0386;no_named_destination;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29584;4804
+607;instagram войти;login;волгоградэнергосбыт личный кабинет;personal_cabinet;NAV-0455;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;2133;4800
+609;пинтерест без регистрации на русском бесплатно войти без скачивания;login;газпромэнергосбыт тюмень личный кабинет;personal_cabinet;NAV-0456;mixed_intent_or_stale;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29594;4749
+611;дневник 29 ру войти через госуслуги;login;газ нн личный кабинет;personal_cabinet;NAV-0457;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29742;4686
+612;моя электронная медицинская карта войти;login;банк инго личный кабинет;personal_cabinet;NAV-0387;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;45865;4648
+616;инстаграмм войти;login;личный кабинет триколор тв;personal_cabinet;NAV-0391;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;33247;4608
+617;медицинская электронная карта войти;login;альфастрахование личный кабинет осаго;personal_cabinet;NAV-0388;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;30296;4603
+618;электронная медицинская карта войти;login;личный кабинет водоканал ростов на дону;personal_cabinet;NAV-0458;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;191742;4599
+619;налоговая кабинет ип вход в личный;login;экспобанк личный кабинет;personal_cabinet;NAV-0389;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;2125;4594
+621;войти в аккаунт инстаграм;login;читаэнергосбыт личный кабинет;personal_cabinet;NAV-0459;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;2185;4554
+622;войти в инстаграм аккаунт;login;петроэлектросбыт личный кабинет санкт петербург;personal_cabinet;NAV-0460;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100720;7842
+623;селлер озон личный вход кабинет;login;личный кабинет альянс телеком;personal_cabinet;NAV-0572;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;60583;4532
+624;войти в аккаунт стим;login;еирц личный кабинет клиента московская область;personal_cabinet;NAV-0461;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177400;4461
+625;почта джимейл войти;login;mil ru личный кабинет военнослужащего;personal_cabinet;NAV-0560;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;101061;4450
+627;литгород ру моя библиотека войти на страницу;login;банк синара личный кабинет;personal_cabinet;NAV-0390;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;38987;4350
+628;джимейл почта войти;login;личный кабинет ростовводоканал;personal_cabinet;NAV-0462;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;16244;4334
+695;мтс горячая линия с мобильного связь с оператором бесплатно;support_contacts;отп банк горячая линия;support_contacts;NAV-0576;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29367;17702
+698;почта горячая линия почта россии;support_contacts;ттк горячая линия;support_contacts;NAV-0699;unqualified_destination;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;2036;7777
+700;горячая линия ростелекома;support_contacts;горячая линия магнит;support_contacts;NAV-0629;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;2414;6460
+701;ростелеком горячая линия номер телефона;support_contacts;горячая линия днс;support_contacts;NAV-0630;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;3131;6020
+703;мегафон горячая линия с мобильного;support_contacts;альфастрахование горячая линия;support_contacts;NAV-0577;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;2422;4982
+708;горячая линия макс мессенджер;support_contacts;горячая линия лемана про;support_contacts;NAV-0631;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;31728;4029
+711;банк вб горячая линия;support_contacts;горячая линия фссп;support_contacts;NAV-0687;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;3305;3748
+714;горячая линия билайна;support_contacts;победа горячая линия;support_contacts;NAV-0713;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;2773;3301
+715;теле2 горячая линия с мобильного;support_contacts;альфа горячая линия;support_contacts;NAV-0578;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;3483;2692
+717;мфц горячая линия москва телефон;support_contacts;отп горячая линия банка;support_contacts;NAV-0579;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;36376;2689
+720;домашний интернет билайн горячая линия;support_contacts;ренессанс банк горячая линия;support_contacts;NAV-0580;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;30900;2665
+721;туту горячая линия;support_contacts;горячая линия ютэйр;support_contacts;NAV-0714;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;4096;2649
+722;теле 2 служба поддержки;support_contacts;почта россии горячая линия телефон;support_contacts;NAV-0715;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;101894;2592
+723;оператор йота горячая линия;support_contacts;альфа горячая линия для физических лиц банк;support_contacts;NAV-0581;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;229681;5119
+724;согаз горячая линия дмс;support_contacts;русский стандарт банк горячая линия;support_contacts;NAV-0582;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;103120;2427
+725;написать в телеграм без добавления в контакты;support_contacts;уральские авиалинии горячая линия;support_contacts;NAV-0716;no_explicit_navigation;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;30827;2399
+727;йота оператор горячая линия;support_contacts;гибдд горячая линия;support_contacts;NAV-0688;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;4615;2382
+729;номер телефона сфр горячая линия;support_contacts;горячая линия газпром;support_contacts;NAV-0616;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;4243;2326
+731;горячая линия сфр москва;support_contacts;сбермобайл горячая линия;support_contacts;NAV-0583;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;3565;2240
+733;горячая линия дмс согаз;support_contacts;горячая линия ламода;support_contacts;NAV-0632;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;5585;1960
+734;банк вайлдберриз горячая линия;support_contacts;райффайзенбанк горячая линия;support_contacts;NAV-0584;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;3482;1948
+738;написать в ватсап без добавления в контакты;support_contacts;горячая линия ак барс банк;support_contacts;NAV-0585;no_explicit_navigation;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;113444;1913
+743;теле2 горячая линия с оператором;support_contacts;горячая линия авиасейлс;support_contacts;NAV-0717;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;5305;1553
+747;мфц днр горячая линия;support_contacts;горячая линия россельхозбанка;support_contacts;NAV-0587;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;3263;1547
+748;т2 оператор горячая линия;support_contacts;горячая линия газпромнефть;support_contacts;NAV-0618;no_named_destination;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;5330;1389
+749;горячая линия пятерочки номер телефона;support_contacts;ттк горячая линия телефон;support_contacts;NAV-0704;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;32337;1233
+751;горячая линия почта россии 88005500770;support_contacts;телефон пятерочка горячая линия;support_contacts;NAV-0633;unqualified_destination;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;85846;1230
+752;номер телефона пятерочки горячая линия;support_contacts;телефон магнит горячая линия;support_contacts;NAV-0634;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;80759;1195
+757;номер телефона россети горячая линия;support_contacts;горячая линия т бизнес;support_contacts;NAV-0628;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;48911;1183
+759;москва пенсионный фонд горячая линия;support_contacts;ренессанс кредит горячая линия;support_contacts;NAV-0588;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;32352;1025
+765;авито горячая линия 88006000001;support_contacts;горячая линия энергосбыт;support_contacts;NAV-0619;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;6435;1022
+768;теле2 горячая линия оператор;support_contacts;россельхозбанк горячая линия телефон бесплатно;support_contacts;NAV-0589;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;102725;1011
+772;спортмастер позвонить горячая линия 880077777771;support_contacts;горячая линия сбера;support_contacts;NAV-0590;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;4055;999
+773;горячая линия сдэк номер телефона;support_contacts;горячая линия соцзащита;support_contacts;NAV-0691;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;22408;939
+774;оператор теле2 горячая линия;support_contacts;апрель аптека горячая линия;support_contacts;NAV-0614;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;64525;937
+776;горячая линия магнит для сотрудников;support_contacts;телефон дом ру горячая линия;support_contacts;NAV-0706;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;141344;927
+777;номер телефона теле2 горячая линия;support_contacts;горячая линия м видео телефон;support_contacts;NAV-0636;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;149233;902
+779;согаз мед горячая линия;support_contacts;горячая линия вб банка;support_contacts;NAV-0591;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;32960;900
+780;м видео позвонить горячая линия 88006007775;support_contacts;леруа мерлен горячая линия;support_contacts;NAV-0637;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;34723;883
+781;позвонить м видео горячая линия 88006007775;support_contacts;горячая линия почта банк;support_contacts;NAV-0592;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;45046;880
+782;горячая линия сфр московская область;support_contacts;контур горячая линия диадок;support_contacts;NAV-0679;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;82536;858
+783;позвонить аэрофлот горячая линия;support_contacts;локо банк горячая линия;support_contacts;NAV-0593;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;34267;825
+785;горячая линия теле2 номер телефона;support_contacts;все инструменты горячая линия;support_contacts;NAV-0640;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;35128;788
+786;мфц горячая линия санкт петербург;support_contacts;горячая линия ренесанс кредит;support_contacts;NAV-0594;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;79298;769
+787;максим горячая линия такси;support_contacts;горячая линия ютэйр телефон;support_contacts;NAV-0719;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;50706;766
+793;телефон авито поддержки горячая линия;support_contacts;россети горячая линия телефон;support_contacts;NAV-0621;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;35816;739
+795;горячая линия т2 связь с оператором;support_contacts;горячая линия альфастрахование осаго;support_contacts;NAV-0595;no_named_destination;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;58647;716
+796;связь с оператором т2 горячая линия;support_contacts;горячая линия ингобанк;support_contacts;NAV-0596;no_named_destination;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;11256;709
+797;т2 горячая линия с оператором связь;support_contacts;новикомбанк горячая линия;support_contacts;NAV-0597;no_named_destination;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;6103;692
+798;аэрофлот горячая линия позвонить;support_contacts;автофинанс банк горячая линия;support_contacts;NAV-0598;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;36096;689
+799;номер телефона горячая линия пенсионного фонда;support_contacts;контур горячая линия контур экстерн;support_contacts;NAV-0680;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;124571;684
+800;сфр горячая линия по больничным листам;support_contacts;горячая линия водоканал;support_contacts;NAV-0623;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;11859;680
+806;вб горячая линия валдберис;support_contacts;сбис горячая линия;support_contacts;NAV-0681;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;6450;676
+807;номер телефона пенсионный фонд горячая линия;support_contacts;горячая линия фора банк;support_contacts;NAV-0599;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;56865;624
+808;летай таттелеком горячая линия;support_contacts;банк синара горячая линия;support_contacts;NAV-0600;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;65593;617
+809;горячая линия теле2 бесплатная;support_contacts;горячая линия контур;support_contacts;NAV-0682;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;16349;612
+812;оператор т2 горячая линия;support_contacts;альфа нпф горячая линия;support_contacts;NAV-0601;no_named_destination;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;40476;605
+813;бесплатная горячая линия теле2;support_contacts;пятерочка горячая линия доставка;support_contacts;NAV-0643;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;78178;602
+815;горячая линия сфр краснодарский край;support_contacts;сберздоровье горячая линия;support_contacts;NAV-0602;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;6367;595
+819;сочи электросети горячая линия;support_contacts;горячая линия ак барс банка;support_contacts;NAV-0603;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;105250;590
+820;сдэк позвонить горячая линия сдэк;support_contacts;миг кредит горячая линия;support_contacts;NAV-0604;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;37689;586
+821;контакты социальная сеть;support_contacts;горячая линия банка уралсиб;support_contacts;NAV-0605;no_explicit_navigation;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;55671;584
+823;горячая линия сфр днр;support_contacts;альфастрахование горячая линия телефон;support_contacts;NAV-0606;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;37879;577
+824;горячая линия мфц номер телефона;support_contacts;европа кредит банк горячая линия;support_contacts;NAV-0607;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;160254;549
+825;горячая линия номер телефона мфц;support_contacts;совком горячая линия;support_contacts;NAV-0608;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;6919;549
+826;теле2 горячая линия бесплатно;support_contacts;зенит банк горячая линия;support_contacts;NAV-0609;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;69805;529
+828;сфр горячая линия по пособиям;support_contacts;веббанкир горячая линия;support_contacts;NAV-0610;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;7440;512
+829;горячая линия авито поддержка телефон бесплатно;support_contacts;горячая линия utair;support_contacts;NAV-0723;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;16951;510
+830;авито служба поддержки номер телефона;support_contacts;горячая линия инвитро телефон;support_contacts;NAV-0615;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;87293;510
+831;мфц горячая линия московская область;support_contacts;горячая линия автофинанс банк телефон;support_contacts;NAV-0611;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;156120;509
+832;аэрофлот горячая линия с мобильного;support_contacts;альфа страхования горячая линия;support_contacts;NAV-0612;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;77486;506
+833;горячая линия мфц московской области;support_contacts;горячая линия азимут авиакомпания;support_contacts;NAV-0724;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;80194;506
+835;горячая линия пятерочки для сотрудников;support_contacts;телефон контур диадок горячая линия;support_contacts;NAV-0683;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;144923;503
+836;горячая линия по больничным листам сфр;support_contacts;центр инвест горячая линия;support_contacts;NAV-0613;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;41559;501
+837;вк контакты моя страница;support_contacts;сбис горячая линия техподдержка;support_contacts;NAV-0684;no_explicit_navigation;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;39725;500
+631;кинопоиск войти в аккаунт;login;личный кабинет военнослужащего вход;login;NAV-0832;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29032;62112
+632;джимаил ru почта войти;login;электронный бюджет вход в личный кабинет по сертификату;login;NAV-0756;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;236184;38477
+633;фейсбук войти;login;пинтерест вход в личный кабинет;login;NAV-0780;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100847;9988
+634;битрикс войти;login;альфа вход в личный кабинет банк;login;NAV-0730;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;183007;12668
+635;войти в банк тинькофф;login;альфа онлайн личный кабинет вход банк;login;NAV-0731;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;178340;11998
+636;азино777 официальный сайт вход с компьютера мобильная версия;login;центрофинанс личный кабинет войти;login;NAV-0732;risky_or_noise;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29213;9623
+639;wildberries ru официальный сайт войти;login;модульбанк вход в личный кабинет;login;NAV-0733;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100804;8974
+641;джимаил почта ru войти;login;личный кабинет гто вход;login;NAV-0829;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;42616;7495
+643;войти почта айклауд;login;ебп финансы вход в личный кабинет;login;NAV-0734;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177283;7343
+644;почта электронная войти;login;ветис паспорт вход в личный кабинет;login;NAV-0830;unqualified_destination;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177350;6783
+648;не могу войти в госуслуги;login;маркет контур вход в личный кабинет;login;NAV-0807;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;180996;6648
+649;электронная почта войти;login;тбизнес вход в личный кабинет;login;NAV-0759;unqualified_destination;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100934;6634
+652;почта outlook войти;login;локо банк онлайн личный кабинет вход;login;NAV-0735;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;192829;5810
+653;instagram com войти;login;альфа онлайн вход в личный кабинет;login;NAV-0736;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177385;5245
+655;среда почта войти;login;сберонлайн онлайн вход в личный кабинет;login;NAV-0737;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177389;5157
+656;азино777 официальный сайт вход с телефона зеркало мобильная версия;login;эльба контур вход в личный кабинет;login;NAV-0809;risky_or_noise;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;180757;4924
+661;почта мэйл ру войти;login;мтбанк личный кабинет вход;login;NAV-0738;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29777;4549
+663;почта аутлук войти;login;контур логистика вход в личный кабинет;login;NAV-0840;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177477;4514
+664;войти инстаграмм моя страница;login;акбарсбанк онлайн вход личный кабинет;login;NAV-0739;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;101156;4253
+665;почта rambler ru войти;login;лкв вход в личный кабинет военнослужащего;login;NAV-0833;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;194396;4110
+667;аутлук почта войти;login;альфабизнесоплайн вход в личный кабинет;login;NAV-0740;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;101090;4062
+669;джимаил com почта войти;login;ингобанк вход личный кабинет;login;NAV-0741;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;39587;3837
+670;поинт вб войти;login;saby сбис онлайн вход в личный кабинет;login;NAV-0812;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;217058;7651
+671;почта джимаил com войти;login;почта рамблер войти;login;NAV-0813;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;3717;3568
+672;почта icloud войти;login;одноклассники моя страница вход на мою страницу войти прямо сейчас;login;NAV-0788;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;247918;11530
+673;roblox войти в аккаунт;login;челиндбанк ib2 личный кабинет вход;login;NAV-0742;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;101199;3196
+674;дискорд войти через браузер;login;личный кабинет военнослужащих вход;login;NAV-0834;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;30232;3054
+675;войти в аккаунт телеграмм;login;контур вход в личный кабинет;login;NAV-0814;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;101239;2903
+677;войти по номеру карты в альфа банк;login;робокасса вход в личный кабинет;login;NAV-0743;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;101458;2743
+679;facebook моя страница войти;login;одноклассники моя страница открыть мою страницу войти;login;NAV-0789;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;217096;5660
+680;париматч официальный сайт вход;login;сбермобайл личный кабинет вход по номеру;login;NAV-0744;risky_or_noise;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177594;2709
+681;vk hr tek войти;login;хурма кредит займ личный кабинет вход;login;NAV-0745;no_named_destination;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177620;2457
+682;discord войти;login;hh ru личный кабинет вход;login;NAV-0760;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;101483;2423
+683;ютуб главная страница войти на свою страницу;login;контур доверенность вход в личный кабинет;login;NAV-0815;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177741;2152
+684;whatsapp web войти;login;инвестпей вход в личный кабинет;login;NAV-0746;entity_or_intent_concentration;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;101580;1989
+685;youtube com главная страница войти;login;мой газ смородина личный кабинет войти;login;NAV-0758;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177697;1952
+686;войти в аккаунт ютуб;login;мой экспорт вход в личный кабинет;login;NAV-0831;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177727;1835
+687;войти в ютуб аккаунт;login;контур офд вход в личный кабинет;login;NAV-0817;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177745;1827
+689;войти в профиль авито;login;мосрег почта вход в личный кабинет;login;NAV-0818;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;178901;1744
+690;авито профиль войти;login;сибирское здоровье официальный сайт вход;login;NAV-0755;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;102036;1598
+843;победа сайт авиакомпании официальный;named_site;сайт лемана про официальный каталог;named_site;NAV-0861;no_explicit_navigation;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;127770;6647
+844;сайт вконтакте официальный;named_site;сайт apple официальный;named_site;NAV-0883;no_named_destination;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;13946;2890
+847;сайт рт ру ростелеком официальный;named_site;сайт турецкие авиалинии официальный на русском;named_site;NAV-0891;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;196348;2619
+848;снежная королева сайт интернет магазин официальный;named_site;сайт одноклассники официальный;named_site;NAV-0882;no_explicit_navigation;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;11477;2011
+850;фиолетто анапа сайт отель официальный;named_site;сайт министерства обороны рф официальный;named_site;NAV-0887;no_explicit_navigation;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;103031;1728
+853;проверка авто сайт гибдд официальный;named_site;сайт атб банк официальный;named_site;NAV-0841;mixed_intent_or_stale;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;80612;1726
+862;сайт мфц калининград официальный;named_site;сайт банк оренбург официальный оренбург;named_site;NAV-0842;same_service_near_duplicate;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;151678;1587
+866;нижнеивкино сайт санаторий официальный;named_site;сайт гугл официальный;named_site;NAV-0884;no_explicit_navigation;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;24340;903
+871;зипкидс сайт одежды официальный;named_site;сайт авиакомпании победа официальный;named_site;NAV-0893;no_explicit_navigation;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;72436;1402
+873;alo сайт одежда официальный;named_site;сайт fun sun официальный туроператор;named_site;NAV-0890;no_explicit_navigation;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;152535;1360
+876;дфу университет официальный владивосток сайт;named_site;сайт днс официальный каталог товаров;named_site;NAV-0862;no_explicit_navigation;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;109447;1344
+885;лайм сайт одежды официальный;named_site;сайт алиэкспресс официальный на русском языке;named_site;NAV-0863;no_explicit_navigation;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;203895;844
+893;днм сайт днс интернет магазин официальный;named_site;сайт читай город официальный;named_site;NAV-0879;no_explicit_navigation;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;78297;1104
