@@ -1,0 +1,212 @@
+{
+  "source_class": "TRANSACTIONAL",
+  "source_rows": 139839,
+  "original_selected": 900,
+  "retained": 379,
+  "replaced": 521,
+  "cleaned": 900,
+  "language_allocation": {
+    "ru": 300,
+    "en": 300,
+    "uk": 300
+  },
+  "russia_specific_kept_ru": 106,
+  "topic_counts": {
+    "software_download": 100,
+    "game_download": 50,
+    "media_download": 25,
+    "electronics_purchase": 93,
+    "home_tools_purchase": 64,
+    "clothes_beauty_purchase": 40,
+    "vehicle_purchase": 35,
+    "property_purchase": 35,
+    "kids_pets_purchase": 29,
+    "other_purchase": 36,
+    "tickets_booking": 70,
+    "food_goods_delivery": 63,
+    "taxi_courier": 11,
+    "rental": 50,
+    "payments_topups": 60,
+    "subscriptions": 30,
+    "appointments": 40,
+    "account_registration": 16,
+    "forms_finance": 45,
+    "services_order": 8
+  },
+  "language_by_topic": {
+    "software_download": {
+      "en": 33,
+      "uk": 34,
+      "ru": 33
+    },
+    "game_download": {
+      "uk": 17,
+      "en": 17,
+      "ru": 16
+    },
+    "media_download": {
+      "ru": 8,
+      "uk": 8,
+      "en": 9
+    },
+    "electronics_purchase": {
+      "uk": 31,
+      "en": 31,
+      "ru": 31
+    },
+    "home_tools_purchase": {
+      "ru": 21,
+      "en": 21,
+      "uk": 22
+    },
+    "clothes_beauty_purchase": {
+      "en": 13,
+      "uk": 14,
+      "ru": 13
+    },
+    "vehicle_purchase": {
+      "ru": 11,
+      "en": 12,
+      "uk": 12
+    },
+    "property_purchase": {
+      "uk": 12,
+      "ru": 11,
+      "en": 12
+    },
+    "kids_pets_purchase": {
+      "ru": 10,
+      "uk": 9,
+      "en": 10
+    },
+    "other_purchase": {
+      "ru": 12,
+      "en": 12,
+      "uk": 12
+    },
+    "tickets_booking": {
+      "uk": 24,
+      "en": 23,
+      "ru": 23
+    },
+    "food_goods_delivery": {
+      "uk": 21,
+      "en": 21,
+      "ru": 21
+    },
+    "taxi_courier": {
+      "uk": 3,
+      "en": 4,
+      "ru": 4
+    },
+    "rental": {
+      "ru": 16,
+      "uk": 17,
+      "en": 17
+    },
+    "payments_topups": {
+      "en": 20,
+      "uk": 20,
+      "ru": 20
+    },
+    "subscriptions": {
+      "en": 10,
+      "uk": 10,
+      "ru": 10
+    },
+    "appointments": {
+      "en": 12,
+      "uk": 12,
+      "ru": 16
+    },
+    "account_registration": {
+      "en": 5,
+      "uk": 5,
+      "ru": 6
+    },
+    "forms_finance": {
+      "uk": 15,
+      "en": 15,
+      "ru": 15
+    },
+    "services_order": {
+      "uk": 2,
+      "ru": 3,
+      "en": 3
+    }
+  },
+  "first_word_counts": {
+    "скачать": 160,
+    "установить": 15,
+    "купить": 397,
+    "забронировать": 4,
+    "заказать": 45,
+    "доставка": 33,
+    "вызвать": 5,
+    "аренда": 24,
+    "снять": 22,
+    "прокат": 3,
+    "арендовать": 1,
+    "пополнить": 17,
+    "задонатить": 3,
+    "оплата": 20,
+    "оплатить": 20,
+    "подписка": 22,
+    "подключить": 8,
+    "запись": 24,
+    "записаться": 16,
+    "зарегистрироваться": 16,
+    "оформить": 35,
+    "получить": 10
+  },
+  "removal_reasons": {
+    "known_bad_context": 8,
+    "near_duplicate_or_topic_balance": 399,
+    "time_bound_or_outdated": 6,
+    "navigation_contamination": 5,
+    "navigation_cabinet": 2,
+    "game_mod_or_hack": 11,
+    "unsafe_or_weak_query": 4,
+    "bad_entity_or_obsolete_version": 4,
+    "time_bound_media": 1,
+    "local_electronics_repeat": 1,
+    "too_generic": 2,
+    "narrow_regional_dup": 2,
+    "nontransactional_or_unrecognized_action": 46,
+    "ambiguous_or_wrong_topic": 1,
+    "ticket_false_positive": 2,
+    "mixed_or_nontransactional_intent": 9,
+    "weak_media_query": 1,
+    "unsuitable_software_query": 1,
+    "info_about_document": 2,
+    "unbalanced_regional_density": 11,
+    "subscription_not_checkout": 2,
+    "not_rental": 1
+  },
+  "eligible_candidates_by_topic": {
+    "software_download": 3296,
+    "game_download": 1565,
+    "media_download": 7503,
+    "electronics_purchase": 1469,
+    "home_tools_purchase": 1128,
+    "clothes_beauty_purchase": 624,
+    "vehicle_purchase": 1065,
+    "property_purchase": 1269,
+    "kids_pets_purchase": 107,
+    "other_purchase": 428,
+    "tickets_booking": 919,
+    "food_goods_delivery": 543,
+    "taxi_courier": 46,
+    "rental": 1714,
+    "payments_topups": 408,
+    "subscriptions": 107,
+    "appointments": 484,
+    "account_registration": 32,
+    "forms_finance": 176,
+    "services_order": 12
+  },
+  "cross_class_overlaps": 0,
+  "source_verified": 900,
+  "untranslated": true,
+  "data_collection_date_known": false
+}
