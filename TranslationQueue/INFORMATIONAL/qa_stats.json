@@ -1,0 +1,184 @@
+{
+  "original_rows": 900,
+  "kept_original": 781,
+  "replaced": 119,
+  "final_rows": 900,
+  "total_source_rows": 1290747,
+  "cohort_counts": {
+    "ru": 300,
+    "uk": 300,
+    "en": 300
+  },
+  "locked_ru": 51,
+  "sources": {
+    "nkj.ru": 514,
+    "lifehacker.ru": 343,
+    "pochemuha.ru": 43
+  },
+  "topics": {
+    "language_literature": 51,
+    "plants_botany": 38,
+    "finance_law": 43,
+    "space_astronomy": 41,
+    "animal_wildlife": 64,
+    "computing_it": 78,
+    "psychology": 46,
+    "health_biology": 64,
+    "home_daily": 56,
+    "science_chemistry": 30,
+    "arts_culture": 41,
+    "mathematics": 34,
+    "general_knowledge": 26,
+    "history": 46,
+    "earth_nature": 50,
+    "sports_games": 26,
+    "geography": 41,
+    "cars_transport": 34,
+    "science_physics": 46,
+    "cooking_food": 45
+  },
+  "forms": {
+    "what": 175,
+    "compare": 70,
+    "how": 358,
+    "why": 91,
+    "yes_no": 31,
+    "how_many": 78,
+    "when": 20,
+    "where": 32,
+    "who": 30,
+    "other": 15
+  },
+  "topic_by_language": {
+    "ru": {
+      "language_literature": 27,
+      "finance_law": 13,
+      "space_astronomy": 13,
+      "computing_it": 29,
+      "animal_wildlife": 21,
+      "health_biology": 21,
+      "science_chemistry": 9,
+      "arts_culture": 13,
+      "general_knowledge": 8,
+      "history": 15,
+      "sports_games": 8,
+      "plants_botany": 12,
+      "geography": 13,
+      "cars_transport": 10,
+      "science_physics": 15,
+      "psychology": 15,
+      "home_daily": 18,
+      "cooking_food": 14,
+      "earth_nature": 16,
+      "mathematics": 10
+    },
+    "uk": {
+      "animal_wildlife": 22,
+      "psychology": 16,
+      "language_literature": 12,
+      "mathematics": 12,
+      "geography": 14,
+      "computing_it": 24,
+      "arts_culture": 14,
+      "home_daily": 19,
+      "earth_nature": 17,
+      "cooking_food": 16,
+      "finance_law": 15,
+      "general_knowledge": 9,
+      "science_physics": 15,
+      "cars_transport": 12,
+      "science_chemistry": 11,
+      "sports_games": 9,
+      "plants_botany": 13,
+      "health_biology": 21,
+      "space_astronomy": 14,
+      "history": 15
+    },
+    "en": {
+      "plants_botany": 13,
+      "finance_law": 15,
+      "animal_wildlife": 21,
+      "language_literature": 12,
+      "home_daily": 19,
+      "space_astronomy": 14,
+      "psychology": 15,
+      "computing_it": 25,
+      "health_biology": 22,
+      "earth_nature": 17,
+      "history": 16,
+      "general_knowledge": 9,
+      "science_physics": 16,
+      "arts_culture": 14,
+      "cooking_food": 15,
+      "geography": 14,
+      "sports_games": 9,
+      "science_chemistry": 10,
+      "mathematics": 12,
+      "cars_transport": 12
+    }
+  },
+  "form_by_language": {
+    "ru": {
+      "what": 57,
+      "why": 32,
+      "compare": 21,
+      "yes_no": 6,
+      "how": 130,
+      "how_many": 27,
+      "when": 9,
+      "where": 10,
+      "who": 6,
+      "other": 2
+    },
+    "uk": {
+      "what": 60,
+      "how": 114,
+      "yes_no": 12,
+      "how_many": 25,
+      "who": 13,
+      "when": 5,
+      "compare": 24,
+      "where": 12,
+      "why": 29,
+      "other": 6
+    },
+    "en": {
+      "compare": 25,
+      "how": 114,
+      "why": 30,
+      "how_many": 26,
+      "yes_no": 13,
+      "what": 58,
+      "where": 10,
+      "who": 11,
+      "when": 6,
+      "other": 7
+    }
+  },
+  "source_by_language": {
+    "ru": {
+      "nkj.ru": 176,
+      "lifehacker.ru": 112,
+      "pochemuha.ru": 12
+    },
+    "uk": {
+      "nkj.ru": 170,
+      "lifehacker.ru": 110,
+      "pochemuha.ru": 20
+    },
+    "en": {
+      "lifehacker.ru": 121,
+      "nkj.ru": 168,
+      "pochemuha.ru": 11
+    }
+  },
+  "overlap_other_classes": {
+    "COMMERCIAL": 0,
+    "TRANSACTIONAL": 0,
+    "NAVIGATIONAL": 0,
+    "LOCAL": 0,
+    "MIXED": 0
+  },
+  "original_file_sha256": "44a9ddef36a9be1ae042a9a1dd5ee094719aeceabba5afbfe6340fb6095b8509",
+  "final_file_sha256": "ef9911b732580145ce6d3da115cbb1e959f723cd15395024223d465caf433141"
+}
