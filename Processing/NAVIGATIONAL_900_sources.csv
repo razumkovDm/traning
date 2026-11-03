@@ -1,0 +1,901 @@
+class;source_ru;exact_frequency;broad_frequency;source_file;source_record;topic;intent_style;target_assignment
+NAVIGATIONAL;ржд официальный сайт;1951469;3316599;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1295;transport_travel;official_site;en
+NAVIGATIONAL;озон интернет магазин официальный сайт;835310;961258;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100653;marketplaces_retail;official_site;uk
+NAVIGATIONAL;аэрофлот официальный сайт;757591;1007231;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1304;transport_travel;official_site;ru
+NAVIGATIONAL;валберис интернет магазин официальный сайт;580211;661084;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100654;marketplaces_retail;official_site;ru
+NAVIGATIONAL;официальный сайт роблокс;518938;908799;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1296;social_media;official_site;uk
+NAVIGATIONAL;вайлдберриз интернет магазин официальный сайт;439162;508411;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100657;marketplaces_retail;official_site;en
+NAVIGATIONAL;авито официальный сайт;433683;608348;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1325;marketplaces_retail;official_site;en
+NAVIGATIONAL;закупки гов ру официальный сайт;288611;300785;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100663;state_services;official_site;uk
+NAVIGATIONAL;победа авиакомпания официальный сайт;228255;265212;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;28968;transport_travel;official_site;ru
+NAVIGATIONAL;авиакомпания победа официальный сайт;215856;250055;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29073;transport_travel;official_site;uk
+NAVIGATIONAL;столото официальный сайт;250645;331545;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1352;other_named;official_site;en
+NAVIGATIONAL;ржд билеты официальный сайт;132740;951124;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29039;transport_travel;official_site;ru
+NAVIGATIONAL;окко официальный сайт;194352;219511;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1368;other_named;official_site;ru
+NAVIGATIONAL;билеты ржд официальный сайт;126393;889412;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;28944;transport_travel;official_site;en
+NAVIGATIONAL;работа россии официальный сайт;136650;268916;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29026;jobs_business;official_site;uk
+NAVIGATIONAL;еис госзакупки официальный сайт;141989;146214;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29020;state_services;official_site;en
+NAVIGATIONAL;циан официальный сайт;181733;262698;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1378;other_named;official_site;uk
+NAVIGATIONAL;фссп официальный сайт;115682;278389;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1470;state_services;official_site;ru
+NAVIGATIONAL;ламода официальный сайт;102222;169572;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1500;marketplaces_retail;official_site;uk
+NAVIGATIONAL;roblox официальный сайт;97347;309904;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1537;social_media;official_site;en
+NAVIGATIONAL;рутуб ру официальный сайт;93793;106350;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29106;software_online;official_site;ru
+NAVIGATIONAL;авиасейлс официальный сайт;121516;200653;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1455;other_named;official_site;ru
+NAVIGATIONAL;суточно ру официальный сайт;105402;125861;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29076;other_named;official_site;en
+NAVIGATIONAL;гибдд официальный сайт;80106;365209;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1363;state_services;official_site;uk
+NAVIGATIONAL;гранд сервис экспресс официальный сайт;106428;128566;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100728;other_named;official_site;uk
+NAVIGATIONAL;уральские авиалинии официальный сайт;98771;119041;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29093;other_named;official_site;en
+NAVIGATIONAL;лемана про официальный сайт;68153;120834;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;28950;marketplaces_retail;official_site;ru
+NAVIGATIONAL;библиоглобус официальный сайт;93177;121310;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1533;other_named;official_site;uk
+NAVIGATIONAL;гига чат нейросеть официальный сайт;93341;97419;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100742;other_named;official_site;ru
+NAVIGATIONAL;рандеву интернет магазин официальный сайт;69079;87059;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100665;marketplaces_retail;official_site;en
+NAVIGATIONAL;сибирское здоровье официальный сайт;78484;107483;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;28916;other_named;official_site;ru
+NAVIGATIONAL;зона официальный сайт;83180;116106;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1583;other_named;official_site;en
+NAVIGATIONAL;roblox com официальный сайт;59123;104176;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29198;social_media;official_site;uk
+NAVIGATIONAL;мариинский театр официальный сайт;59588;83077;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29042;culture_media;official_site;ru
+NAVIGATIONAL;фнс официальный сайт;59302;157769;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1493;state_services;official_site;en
+NAVIGATIONAL;турвизор официальный сайт поиск тура;77872;84882;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100652;other_named;official_site;uk
+NAVIGATIONAL;lime официальный сайт;76386;93987;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1303;other_named;official_site;uk
+NAVIGATIONAL;нордвинд официальный сайт;75043;96284;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1310;other_named;official_site;ru
+NAVIGATIONAL;ютуб youtube официальный сайт;54237;69339;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29108;social_media;official_site;en
+NAVIGATIONAL;госзакупки официальный сайт;51939;215728;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1586;state_services;official_site;ru
+NAVIGATIONAL;пикабу ру официальный сайт;64849;65823;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;28974;other_named;official_site;en
+NAVIGATIONAL;мвидео официальный сайт;52181;77446;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1579;marketplaces_retail;official_site;uk
+NAVIGATIONAL;авиакомпания азимут официальный сайт;47632;54026;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;30184;transport_travel;official_site;uk
+NAVIGATIONAL;азимут авиакомпания официальный сайт;47632;54026;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29291;transport_travel;official_site;en
+NAVIGATIONAL;турвизор официальный сайт;60098;158961;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1435;other_named;official_site;ru
+NAVIGATIONAL;совкомбанк официальный сайт;48184;80035;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1682;banks_finance;official_site;ru
+NAVIGATIONAL;сдэк официальный сайт;46883;73521;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1299;transport_travel;official_site;uk
+NAVIGATIONAL;аптека ру официальный сайт;41465;143800;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;28971;health;official_site;en
+NAVIGATIONAL;фссп официальный сайт проверка задолженности;44863;66126;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100755;state_services;official_site;ru
+NAVIGATIONAL;букинг официальный сайт;58156;68654;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1466;other_named;official_site;uk
+NAVIGATIONAL;росреестр официальный сайт;42496;130930;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1345;state_services;official_site;en
+NAVIGATIONAL;горбилет санкт петербург официальный сайт;44647;55083;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100650;transport_travel;official_site;en
+NAVIGATIONAL;работа ру официальный сайт;40260;72498;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;28992;jobs_business;official_site;ru
+NAVIGATIONAL;яндекс путешествия официальный сайт;41386;45915;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;28969;software_online;official_site;uk
+NAVIGATIONAL;смотрим ру официальный сайт;48778;164923;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29218;other_named;official_site;en
+NAVIGATIONAL;ggsell официальный сайт;55166;57552;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1515;other_named;official_site;ru
+NAVIGATIONAL;гас правосудие официальный сайт;50974;61835;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29171;other_named;official_site;uk
+NAVIGATIONAL;слетать ру официальный сайт;50189;73400;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29173;other_named;official_site;en
+NAVIGATIONAL;лукойл официальный сайт;51691;96336;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1617;other_named;official_site;uk
+NAVIGATIONAL;большой театр официальный сайт;38165;56960;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29052;culture_media;official_site;ru
+NAVIGATIONAL;сочи аэропорт официальный сайт;37551;56191;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;30905;transport_travel;official_site;uk
+NAVIGATIONAL;эрмитаж официальный сайт;49809;97136;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1627;other_named;official_site;en
+NAVIGATIONAL;аэропорт сочи официальный сайт;36026;51983;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29228;transport_travel;official_site;ru
+NAVIGATIONAL;верховный суд рф официальный сайт;38460;45688;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100710;state_services;official_site;uk
+NAVIGATIONAL;аптеки столички официальный сайт;34878;70992;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29483;health;official_site;ru
+NAVIGATIONAL;соколов официальный сайт;46263;124757;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1328;other_named;official_site;en
+NAVIGATIONAL;инвитро официальный сайт;35296;107780;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1622;health;official_site;uk
+NAVIGATIONAL;налог ру официальный сайт;33406;73269;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29256;state_services;official_site;ru
+NAVIGATIONAL;смартавиа официальный сайт;47143;61956;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1692;other_named;official_site;en
+NAVIGATIONAL;столички аптеки официальный сайт;33520;67881;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29202;health;official_site;ru
+NAVIGATIONAL;еаптека официальный сайт;36393;48531;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1532;health;official_site;en
+NAVIGATIONAL;шереметьево официальный сайт;44284;118800;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1298;other_named;official_site;uk
+NAVIGATIONAL;rzd ru официальный сайт;43607;51455;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;28925;other_named;official_site;ru
+NAVIGATIONAL;хофф официальный сайт;44928;87324;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1732;other_named;official_site;uk
+NAVIGATIONAL;водоход официальный сайт;44073;80484;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1302;other_named;official_site;en
+NAVIGATIONAL;сбербанк официальный сайт;32919;115610;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1394;banks_finance;official_site;en
+NAVIGATIONAL;мерлен леруа официальный сайт;32208;58636;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;32883;marketplaces_retail;official_site;ru
+NAVIGATIONAL;леруа мерлен официальный сайт;31885;58170;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;28967;marketplaces_retail;official_site;uk
+NAVIGATIONAL;алеан туроператор официальный сайт;31833;34749;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;28953;transport_travel;official_site;ru
+NAVIGATIONAL;гис жкх официальный сайт;30615;60677;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29005;software_online;official_site;en
+NAVIGATIONAL;аскона сайт официальный сайт;38507;99391;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29177;other_named;official_site;uk
+NAVIGATIONAL;росздравнадзор официальный сайт;32910;52185;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1703;health;official_site;uk
+NAVIGATIONAL;драгон мани официальный сайт;40304;49207;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;28999;other_named;official_site;ru
+NAVIGATIONAL;островок ру официальный сайт;40552;43834;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;28985;other_named;official_site;en
+NAVIGATIONAL;аэропорт шереметьево официальный сайт;30996;45015;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;28928;transport_travel;official_site;en
+NAVIGATIONAL;библио глобус официальный сайт;30550;51517;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29004;transport_travel;official_site;uk
+NAVIGATIONAL;лига ставок официальный сайт;39684;52561;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29030;other_named;official_site;ru
+NAVIGATIONAL;платные дороги автодор официальный сайт;42351;51620;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;101133;other_named;official_site;ru
+NAVIGATIONAL;м видео официальный сайт;29401;74743;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29132;marketplaces_retail;official_site;en
+NAVIGATIONAL;прозрачный бизнес официальный сайт;30905;34419;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;28963;software_online;official_site;uk
+NAVIGATIONAL;гибдд официальный сайт проверка штрафов;32152;51626;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100867;state_services;official_site;en
+NAVIGATIONAL;травелата официальный сайт;41495;57663;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1358;other_named;official_site;ru
+NAVIGATIONAL;1win официальный сайт;41002;60745;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1375;other_named;official_site;uk
+NAVIGATIONAL;рггу официальный сайт;31776;46978;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1334;education;official_site;en
+NAVIGATIONAL;деловые линии официальный сайт;36901;91141;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29099;other_named;official_site;ru
+NAVIGATIONAL;я люблю пдф официальный сайт;41044;41626;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100680;other_named;official_site;uk
+NAVIGATIONAL;официальный сайт победа;26625;360052;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;2556;transport_travel;official_site;en
+NAVIGATIONAL;штрафы гибдд онлайн официальный сайт;30354;40757;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100692;state_services;official_site;uk
+NAVIGATIONAL;официальный сайт ютэйр;38835;54378;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;3436;other_named;official_site;ru
+NAVIGATIONAL;ямал авиакомпания официальный сайт;28146;34881;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29031;transport_travel;official_site;uk
+NAVIGATIONAL;дивеево монастырь официальный сайт;36043;46426;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29186;other_named;official_site;en
+NAVIGATIONAL;внуково аэропорт официальный сайт;28027;35362;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29045;transport_travel;official_site;ru
+NAVIGATIONAL;золотой 585 официальный сайт;35498;54311;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;30906;other_named;official_site;en
+NAVIGATIONAL;max ru официальный сайт;34130;97079;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29225;other_named;official_site;uk
+NAVIGATIONAL;монастырь дивеево официальный сайт;35583;46295;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;32130;other_named;official_site;ru
+NAVIGATIONAL;1 вин официальный сайт;35433;47776;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29161;other_named;official_site;uk
+NAVIGATIONAL;петергоф официальный сайт;36163;90510;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1558;other_named;official_site;en
+NAVIGATIONAL;автодор платные дороги официальный сайт;37751;46586;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100782;other_named;official_site;ru
+NAVIGATIONAL;здравсити аптека официальный сайт;27483;33590;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29264;health;official_site;ru
+NAVIGATIONAL;шереметьево аэропорт официальный сайт;27057;39732;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;32016;transport_travel;official_site;uk
+NAVIGATIONAL;вавада официальный сайт;37023;53134;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1511;other_named;official_site;en
+NAVIGATIONAL;аэропорт внуково официальный сайт;27238;34397;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;28978;transport_travel;official_site;en
+NAVIGATIONAL;третьяковская галерея официальный сайт;34599;49820;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29203;other_named;official_site;uk
+NAVIGATIONAL;проверка штрафов гибдд официальный сайт;28226;46242;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100767;state_services;official_site;ru
+NAVIGATIONAL;ангиофарм официальный сайт;28458;39867;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1620;health;official_site;uk
+NAVIGATIONAL;авиакомпания ямал официальный сайт;26611;33210;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29427;transport_travel;official_site;ru
+NAVIGATIONAL;днс сайт официальный сайт;23777;123816;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;33829;marketplaces_retail;official_site;en
+NAVIGATIONAL;метро москвы сайт официальный сайт;26918;45435;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100808;transport_travel;official_site;ru
+NAVIGATIONAL;все инструменты сайт официальный сайт;27175;35154;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;102097;marketplaces_retail;official_site;uk
+NAVIGATIONAL;петрович сайт официальный сайт;24638;51390;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;28964;marketplaces_retail;official_site;en
+NAVIGATIONAL;мтс сайт официальный сайт;24503;48094;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;28961;telecom_internet;official_site;en
+NAVIGATIONAL;мосгорсуд официальный сайт;26305;33407;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1759;state_services;official_site;uk
+NAVIGATIONAL;домодедово аэропорт официальный сайт;24340;32031;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29288;transport_travel;official_site;ru
+NAVIGATIONAL;валдбериес интернет магазин официальный сайт;25246;41200;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100681;marketplaces_retail;official_site;ru
+NAVIGATIONAL;азино777 официальный сайт мобильная;23263;49304;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29136;telecom_internet;official_site;uk
+NAVIGATIONAL;мгу официальный сайт;23904;77464;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1534;education;official_site;en
+NAVIGATIONAL;еис закупки официальный сайт;23798;27275;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29096;state_services;official_site;en
+NAVIGATIONAL;касперский официальный сайт;24573;42847;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1419;software_online;official_site;ru
+NAVIGATIONAL;официальный сайт почта россии;22910;42060;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;32945;transport_travel;official_site;uk
+NAVIGATIONAL;втб сайт официальный сайт;21844;72094;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;30771;banks_finance;official_site;uk
+NAVIGATIONAL;ютека аптека официальный сайт;23143;25391;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29178;health;official_site;en
+NAVIGATIONAL;аэропорт домодедово официальный сайт;22482;29591;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29341;transport_travel;official_site;ru
+NAVIGATIONAL;отель сочи парк официальный сайт;23591;35287;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;102683;tourism_hotels;official_site;uk
+NAVIGATIONAL;кинопоиск официальный сайт;23511;27338;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1572;software_online;official_site;en
+NAVIGATIONAL;русский музей санкт петербург официальный сайт;24817;29986;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177255;culture_media;official_site;ru
+NAVIGATIONAL;налоговая официальный сайт;20993;132418;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1436;state_services;official_site;en
+NAVIGATIONAL;мегафон сайт официальный сайт;20733;49144;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29406;telecom_internet;official_site;ru
+NAVIGATIONAL;библиоглобус официальный сайт туроператор сайт;23082;24939;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;102245;transport_travel;official_site;uk
+NAVIGATIONAL;сочи парк отель официальный сайт;22523;33986;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100682;tourism_hotels;official_site;ru
+NAVIGATIONAL;пегас туристик официальный сайт туроператора;22792;25646;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100783;transport_travel;official_site;en
+NAVIGATIONAL;рудн университет официальный сайт;20809;24680;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29006;education;official_site;uk
+NAVIGATIONAL;апрель аптека официальный сайт;19158;58422;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29259;health;official_site;ru
+NAVIGATIONAL;аптека апрель официальный сайт;19158;58422;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29251;health;official_site;en
+NAVIGATIONAL;спортбокс ру официальный сайт;19999;25239;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29128;sports_leisure;official_site;uk
+NAVIGATIONAL;банки ру официальный сайт;19721;27383;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29194;banks_finance;official_site;uk
+NAVIGATIONAL;спбгу официальный сайт;20162;49986;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1644;education;official_site;ru
+NAVIGATIONAL;рутуб официальный сайт;18293;154712;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1484;software_online;official_site;en
+NAVIGATIONAL;макс официальный сайт;18698;103366;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1502;social_media;official_site;ru
+NAVIGATIONAL;аккредитация медицинских работников официальный сайт;19956;29141;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100762;banks_finance;official_site;en
+NAVIGATIONAL;фан сан туроператор официальный сайт туроператора;20619;38177;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177257;transport_travel;official_site;uk
+NAVIGATIONAL;россельхозбанк официальный сайт;18508;38425;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1399;banks_finance;official_site;ru
+NAVIGATIONAL;метро магазин официальный сайт;17528;24001;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29071;marketplaces_retail;official_site;uk
+NAVIGATIONAL;сфр сайт официальный сайт;16039;57181;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;30390;state_services;official_site;en
+NAVIGATIONAL;здоров ру аптека официальный сайт;18019;23044;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100821;health;official_site;uk
+NAVIGATIONAL;аптека здоров ру официальный сайт;18003;23165;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;102318;health;official_site;ru
+NAVIGATIONAL;арбитражный суд краснодарского края официальный сайт;19110;21812;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177309;state_services;official_site;en
+NAVIGATIONAL;росаккредитация официальный сайт;17397;29326;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1618;banks_finance;official_site;uk
+NAVIGATIONAL;первый кассационный суд общей юрисдикции официальный сайт;20002;23797;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;217029;banks_finance;official_site;en
+NAVIGATIONAL;россия авиакомпания официальный сайт;16361;20522;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29353;transport_travel;official_site;ru
+NAVIGATIONAL;официальный сайт стим;16479;43199;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;2522;social_media;official_site;ru
+NAVIGATIONAL;интурист туроператор официальный сайт;16168;19289;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29085;transport_travel;official_site;en
+NAVIGATIONAL;авиакомпания аврора официальный сайт;16052;19525;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;31491;transport_travel;official_site;uk
+NAVIGATIONAL;аврора авиакомпания официальный сайт;16052;19525;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29117;transport_travel;official_site;en
+NAVIGATIONAL;мфти официальный сайт;16921;22964;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1821;education;official_site;ru
+NAVIGATIONAL;северный ветер авиакомпания официальный сайт;16824;20133;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100666;transport_travel;official_site;uk
+NAVIGATIONAL;санмар туроператор официальный сайт;15206;18305;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29334;transport_travel;official_site;en
+NAVIGATIONAL;fun sun официальный сайт туроператора;16069;21688;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100703;transport_travel;official_site;ru
+NAVIGATIONAL;официальный сайт норд винд авиакомпания;15576;18060;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;104919;transport_travel;official_site;uk
+NAVIGATIONAL;ростелеком сайт официальный сайт;13670;45706;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;36087;telecom_internet;official_site;ru
+NAVIGATIONAL;эльдорадо официальный сайт;14785;33464;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1411;marketplaces_retail;official_site;en
+NAVIGATIONAL;добродел официальный сайт московская область;15398;18170;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100809;regional_public;official_site;uk
+NAVIGATIONAL;спбгу официальный сайт санкт петербург;15264;19063;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100831;education;official_site;uk
+NAVIGATIONAL;налог гов ру официальный сайт;15200;18464;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100677;state_services;official_site;ru
+NAVIGATIONAL;кольцово аэропорт официальный сайт;14022;21747;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29676;transport_travel;official_site;en
+NAVIGATIONAL;левел тревел официальный сайт;14151;16819;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29229;transport_travel;official_site;en
+NAVIGATIONAL;хх ру официальный сайт;14063;17987;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29220;jobs_business;official_site;uk
+NAVIGATIONAL;маркет яндекс интернет магазин официальный сайт;15647;25697;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;179257;marketplaces_retail;official_site;ru
+NAVIGATIONAL;официальный сайт аэрофлота;11122;1070465;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1833;transport_travel;official_site;ru
+NAVIGATIONAL;мвд россии официальный сайт;12142;79617;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29322;state_services;official_site;uk
+NAVIGATIONAL;гис торги официальный сайт;13317;18211;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29169;software_online;official_site;en
+NAVIGATIONAL;торги гис официальный сайт;13317;18211;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;40335;software_online;official_site;uk
+NAVIGATIONAL;афиша санкт петербург официальный сайт;12423;131040;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100832;culture_media;official_site;en
+NAVIGATIONAL;университет синергия официальный сайт;13111;21147;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;33590;education;official_site;ru
+NAVIGATIONAL;нордвинд официальный сайт авиакомпания;13170;19604;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29044;transport_travel;official_site;en
+NAVIGATIONAL;тимирязевская академия официальный сайт;13071;20187;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29105;education;official_site;uk
+NAVIGATIONAL;яндекс маркет интернет магазин официальный сайт;14641;23001;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177328;marketplaces_retail;official_site;ru
+NAVIGATIONAL;авиакомпания северный ветер официальный сайт;13974;16725;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;101998;transport_travel;official_site;ru
+NAVIGATIONAL;сайт жд билеты официальный сайт;11724;232100;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;111266;transport_travel;official_site;uk
+NAVIGATIONAL;аэропорт кольцово официальный сайт;12872;19737;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29224;transport_travel;official_site;en
+NAVIGATIONAL;steam официальный сайт;13680;20778;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1429;social_media;official_site;ru
+NAVIGATIONAL;синергия университет официальный сайт;12792;20803;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29126;education;official_site;en
+NAVIGATIONAL;рутубе официальный сайт;11955;154712;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1600;software_online;official_site;uk
+NAVIGATIONAL;эконика интернет магазин официальный сайт;13718;15410;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100781;marketplaces_retail;official_site;ru
+NAVIGATIONAL;росвоенипотека официальный сайт;13605;16639;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1361;banks_finance;official_site;en
+NAVIGATIONAL;университет плеханова москва официальный сайт;13510;16396;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;103718;education;official_site;uk
+NAVIGATIONAL;афиша москва официальный сайт;11192;73132;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29100;culture_media;official_site;uk
+NAVIGATIONAL;матч тв официальный сайт;12049;22833;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29089;sports_leisure;official_site;en
+NAVIGATIONAL;дом банк рф официальный сайт;13043;18165;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;110425;banks_finance;official_site;ru
+NAVIGATIONAL;дом рф банк официальный сайт;13043;18165;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100697;banks_finance;official_site;uk
+NAVIGATIONAL;прикубанский районный суд краснодара официальный сайт;14048;15728;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177292;state_services;official_site;ru
+NAVIGATIONAL;авиакомпания норд винд официальный сайт;13104;15215;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;103600;transport_travel;official_site;en
+NAVIGATIONAL;альфа банк официальный сайт;11682;31220;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29121;banks_finance;official_site;ru
+NAVIGATIONAL;второй кассационный суд общей юрисдикции официальный сайт;14796;15754;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;216997;banks_finance;official_site;en
+NAVIGATIONAL;авито ру официальный сайт;11871;21282;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29001;marketplaces_retail;official_site;uk
+NAVIGATIONAL;газпромбанк официальный сайт;12469;25407;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1561;banks_finance;official_site;uk
+NAVIGATIONAL;банк дом рф официальный сайт;12672;17645;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;101060;banks_finance;official_site;ru
+NAVIGATIONAL;банк рф дом официальный сайт;12672;17645;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;113916;banks_finance;official_site;en
+NAVIGATIONAL;софрино парк отель официальный сайт;12633;15459;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100788;tourism_hotels;official_site;en
+NAVIGATIONAL;купибилет официальный сайт;12591;15508;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1816;transport_travel;official_site;uk
+NAVIGATIONAL;дельфин туроператор официальный сайт;11803;13919;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29033;transport_travel;official_site;ru
+NAVIGATIONAL;корал тревел официальный сайт;11367;23351;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29016;transport_travel;official_site;ru
+NAVIGATIONAL;отель ялта интурист официальный сайт;12390;13747;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;105241;tourism_hotels;official_site;en
+NAVIGATIONAL;ялта интурист отель официальный сайт;12356;13654;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100735;tourism_hotels;official_site;uk
+NAVIGATIONAL;парк отель софрино официальный сайт;12241;14900;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;109262;tourism_hotels;official_site;ru
+NAVIGATIONAL;отель софрино парк официальный сайт;12187;14804;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;115164;tourism_hotels;official_site;en
+NAVIGATIONAL;авито москва официальный сайт;10790;30061;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;31821;marketplaces_retail;official_site;uk
+NAVIGATIONAL;фансан туроператор официальный сайт;11357;13459;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29051;transport_travel;official_site;uk
+NAVIGATIONAL;аптеки горздрав официальный сайт;10864;23617;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;42516;health;official_site;en
+NAVIGATIONAL;министерство обороны рф официальный сайт;11383;28934;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100715;state_services;official_site;ru
+NAVIGATIONAL;горздрав аптеки официальный сайт;10666;23195;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29156;health;official_site;uk
+NAVIGATIONAL;новосибирск аквапарк официальный сайт;10854;17253;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;36589;tourism_hotels;official_site;ru
+NAVIGATIONAL;плеханова университет москва официальный сайт;11681;14205;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100817;education;official_site;en
+NAVIGATIONAL;ифнс сайт официальный сайт;9779;72129;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;40296;state_services;official_site;uk
+NAVIGATIONAL;ла мода интернет магазин официальный сайт;12453;13407;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177336;marketplaces_retail;official_site;en
+NAVIGATIONAL;сеченовский университет официальный сайт;10638;18879;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29407;education;official_site;ru
+NAVIGATIONAL;101 отель официальный сайт;10817;14003;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29399;tourism_hotels;official_site;uk
+NAVIGATIONAL;см клиника официальный сайт;10307;24345;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29163;health;official_site;en
+NAVIGATIONAL;банк псб официальный сайт;10422;18342;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29911;banks_finance;official_site;ru
+NAVIGATIONAL;гемотест официальный сайт;10365;46171;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1943;health;official_site;uk
+NAVIGATIONAL;за честный бизнес официальный сайт;11082;11959;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100754;software_online;official_site;ru
+NAVIGATIONAL;вахтангова театр официальный сайт;9811;22398;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29767;culture_media;official_site;en
+NAVIGATIONAL;курорт соль илецк официальный сайт;10634;15755;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;103380;tourism_hotels;official_site;en
+NAVIGATIONAL;автосалон лиса рулит официальный сайт;10768;13017;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;104338;jobs_business;official_site;ru
+NAVIGATIONAL;мфц официальный сайт;9416;93724;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1796;state_services;official_site;uk
+NAVIGATIONAL;суперджоб официальный сайт вакансии;10068;12226;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29346;jobs_business;official_site;en
+NAVIGATIONAL;рсхб официальный сайт;10477;16733;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1545;banks_finance;official_site;uk
+NAVIGATIONAL;старая русса санаторий официальный сайт;10160;16342;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100854;health;official_site;ru
+NAVIGATIONAL;аквапарк новосибирск официальный сайт;9520;15105;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29154;tourism_hotels;official_site;uk
+NAVIGATIONAL;псб банк официальный сайт;9445;16718;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29454;banks_finance;official_site;en
+NAVIGATIONAL;фора банк официальный сайт;9592;13072;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29328;banks_finance;official_site;ru
+NAVIGATIONAL;золотая пора социальный проект спб официальный сайт;11711;12949;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;217006;state_services;official_site;ru
+NAVIGATIONAL;соль илецк курорт официальный сайт;10109;15094;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100707;tourism_hotels;official_site;en
+NAVIGATIONAL;санаторий старая русса официальный сайт;10058;16068;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100954;health;official_site;uk
+NAVIGATIONAL;магнит сайт официальный сайт;8977;27936;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;33622;marketplaces_retail;official_site;ru
+NAVIGATIONAL;лиса рулит автосалон официальный сайт;10114;12317;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100837;jobs_business;official_site;en
+NAVIGATIONAL;горный университет санкт петербург официальный сайт;10731;12808;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177253;education;official_site;uk
+NAVIGATIONAL;музей фаберже в санкт петербурге официальный сайт;11174;12784;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;217024;culture_media;official_site;uk
+NAVIGATIONAL;здравсити официальный сайт;8670;64931;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1422;health;official_site;ru
+NAVIGATIONAL;музей заповедник царицыно официальный сайт;9572;11127;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;114082;culture_media;official_site;en
+NAVIGATIONAL;бюро кредитных историй официальный сайт;9235;16293;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100748;banks_finance;official_site;uk
+NAVIGATIONAL;царицыно музей заповедник официальный сайт;9445;11007;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100746;culture_media;official_site;en
+NAVIGATIONAL;солнечный парк отель подмосковье официальный сайт;10055;11659;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177290;tourism_hotels;official_site;ru
+NAVIGATIONAL;официальный сайт билайн;8815;24739;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;4498;telecom_internet;official_site;en
+NAVIGATIONAL;официальный сайт wildberries;8562;37209;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;4672;marketplaces_retail;official_site;ru
+NAVIGATIONAL;rutube ru официальный сайт;8663;11166;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29260;software_online;official_site;uk
+NAVIGATIONAL;мвд официальный сайт рф;8031;31427;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;50060;state_services;official_site;en
+NAVIGATIONAL;горздрав санкт петербург официальный сайт;8938;16827;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100838;health;official_site;ru
+NAVIGATIONAL;спортмастер официальный сайт;8436;31874;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1884;marketplaces_retail;official_site;uk
+NAVIGATIONAL;россельхознадзор официальный сайт;8564;25320;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1665;banks_finance;official_site;ru
+NAVIGATIONAL;аквапарк завидово официальный сайт;8345;12543;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29519;tourism_hotels;official_site;uk
+NAVIGATIONAL;ткб банк официальный сайт;8236;12321;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29375;banks_finance;official_site;en
+NAVIGATIONAL;нимро официальный сайт новосибирской области;8821;11570;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100859;regional_public;official_site;ru
+NAVIGATIONAL;императорский фарфоровый завод официальный сайт;8809;10959;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100718;jobs_business;official_site;uk
+NAVIGATIONAL;мореон аквапарк официальный сайт;8106;12712;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29460;tourism_hotels;official_site;en
+NAVIGATIONAL;шопинглайф интернет магазин официальный сайт;8713;11478;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100757;marketplaces_retail;official_site;en
+NAVIGATIONAL;госкаталог музейного фонда рф официальный сайт;9344;9470;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177364;culture_media;official_site;uk
+NAVIGATIONAL;магазин путешествий москва официальный сайт;8709;9994;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100732;marketplaces_retail;official_site;ru
+NAVIGATIONAL;педиатрический университет спб официальный сайт;8648;10327;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100734;education;official_site;ru
+NAVIGATIONAL;валдберис интернет магазин официальный сайт;8586;11098;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100868;marketplaces_retail;official_site;uk
+NAVIGATIONAL;банкротство сайт официальный сайт;7345;40327;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;37167;banks_finance;official_site;en
+NAVIGATIONAL;газпромнефть сайт официальный сайт;7709;16505;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;51656;housing_utilities;official_site;en
+NAVIGATIONAL;гибдд официальный сайт штрафы;6706;132263;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;30830;state_services;official_site;uk
+NAVIGATIONAL;тюмгу официальный сайт;8179;14757;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1758;education;official_site;ru
+NAVIGATIONAL;цирк никулина официальный сайт;7702;12606;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29314;culture_media;official_site;ru
+NAVIGATIONAL;проверка автомобиля гибдд официальный сайт;8027;17203;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;101169;state_services;official_site;en
+NAVIGATIONAL;беларусбанк официальный сайт;8190;11905;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1642;banks_finance;official_site;uk
+NAVIGATIONAL;малый театр официальный сайт;7508;15777;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29025;culture_media;official_site;uk
+NAVIGATIONAL;сайт банкротов физических лиц официальный сайт;8831;10209;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;186646;banks_finance;official_site;ru
+NAVIGATIONAL;аптекарский огород официальный сайт;7629;12066;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29310;health;official_site;en
+NAVIGATIONAL;лента магазин официальный сайт;7485;13940;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29420;marketplaces_retail;official_site;en
+NAVIGATIONAL;читай город сайт официальный сайт;7948;15126;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;123199;regional_public;official_site;uk
+NAVIGATIONAL;шестой кассационный суд общей юрисдикции официальный сайт;9303;10169;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;217081;banks_finance;official_site;ru
+NAVIGATIONAL;банк ткб официальный сайт;7533;11669;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;45807;banks_finance;official_site;uk
+NAVIGATIONAL;золотое яблоко интернет магазин официальный сайт;8493;13859;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177240;marketplaces_retail;official_site;en
+NAVIGATIONAL;мининский университет нижний новгород официальный сайт;8675;10042;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177289;education;official_site;ru
+NAVIGATIONAL;роспотребнадзор официальный сайт;7009;86021;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1862;state_services;official_site;uk
+NAVIGATIONAL;четвертый кассационный суд общей юрисдикции официальный сайт;9262;9674;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;217010;banks_finance;official_site;en
+NAVIGATIONAL;ситилинк интернет магазин официальный сайт;8107;9596;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;102048;marketplaces_retail;official_site;ru
+NAVIGATIONAL;бдт санкт петербург официальный сайт афиша;8656;9635;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177369;culture_media;official_site;uk
+NAVIGATIONAL;детский мир сайт официальный сайт;7749;18252;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;114664;marketplaces_retail;official_site;en
+NAVIGATIONAL;коломенское музей заповедник официальный сайт;8092;9514;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100758;culture_media;official_site;ru
+NAVIGATIONAL;воздвиженское парк отель официальный сайт;8015;9874;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;101041;tourism_hotels;official_site;ru
+NAVIGATIONAL;аптека польза ру официальный сайт;8004;9973;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;110878;health;official_site;en
+NAVIGATIONAL;польза ру аптека официальный сайт;8004;9973;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100820;health;official_site;uk
+NAVIGATIONAL;фгис аршин официальный сайт;7457;10273;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29072;software_online;official_site;ru
+NAVIGATIONAL;театр вахтангова официальный сайт;7194;17383;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29917;culture_media;official_site;en
+NAVIGATIONAL;офис маг официальный сайт;7136;19405;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29424;software_online;official_site;uk
+NAVIGATIONAL;консерватория чайковского официальный сайт афиша;8007;9123;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100890;culture_media;official_site;en
+NAVIGATIONAL;московский городской суд официальный сайт;7306;31332;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100797;state_services;official_site;ru
+NAVIGATIONAL;центробанк россии официальный сайт;7290;9742;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29400;banks_finance;official_site;uk
+NAVIGATIONAL;зарядье концертный зал официальный сайт;7747;10484;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100766;culture_media;official_site;ru
+NAVIGATIONAL;краснодарский краевой суд краснодарского края официальный сайт;8708;12444;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;217017;state_services;official_site;uk
+NAVIGATIONAL;санаторий сибирь тюмень официальный сайт;7722;10070;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;101073;health;official_site;en
+NAVIGATIONAL;сибирь санаторий тюмень официальный сайт;7722;10070;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;101273;health;official_site;uk
+NAVIGATIONAL;сибирь тюмень санаторий официальный сайт;7722;10070;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;107701;health;official_site;ru
+NAVIGATIONAL;суздаль аквапарк официальный сайт;7174;10563;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29828;tourism_hotels;official_site;en
+NAVIGATIONAL;озон ру официальный сайт;7226;9174;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;28993;marketplaces_retail;official_site;uk
+NAVIGATIONAL;официальный сайт согаз;7013;36357;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;10048;housing_utilities;official_site;ru
+NAVIGATIONAL;издательство просвещение официальный сайт;7121;9110;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;31903;culture_media;official_site;en
+NAVIGATIONAL;авито официальный сайт спб;7037;9537;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;48051;marketplaces_retail;official_site;uk
+NAVIGATIONAL;московский политехнический университет официальный сайт;7531;8982;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100861;education;official_site;en
+NAVIGATIONAL;пинтерест официальный сайт;7531;8963;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1459;social_media;official_site;ru
+NAVIGATIONAL;фац аккредитация официальный сайт;7044;7988;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29172;banks_finance;official_site;uk
+NAVIGATIONAL;авито официальный сайт санкт петербург;7368;10363;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;101287;marketplaces_retail;official_site;ru
+NAVIGATIONAL;отель мрия крым официальный сайт;7449;8752;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;124397;tourism_hotels;official_site;en
+NAVIGATIONAL;городской суд санкт петербурга официальный сайт;7885;10110;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177263;state_services;official_site;ru
+NAVIGATIONAL;концертный зал зарядье официальный сайт;7350;10003;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;104117;culture_media;official_site;uk
+NAVIGATIONAL;банк втб официальный сайт;6508;22651;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;30451;banks_finance;official_site;en
+NAVIGATIONAL;сбер сайт официальный сайт;6394;27775;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;44871;banks_finance;official_site;ru
+NAVIGATIONAL;аквапарк суздаль официальный сайт;6837;9869;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29789;tourism_hotels;official_site;uk
+NAVIGATIONAL;водоход нижний новгород официальный сайт;7295;9727;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100916;regional_public;official_site;en
+NAVIGATIONAL;мосэнергосбыт официальный сайт;7080;14621;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;2039;housing_utilities;official_site;uk
+NAVIGATIONAL;мрия отель крым официальный сайт;7329;8658;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100704;tourism_hotels;official_site;ru
+NAVIGATIONAL;аквапарк мореон официальный сайт;6711;10750;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;30772;tourism_hotels;official_site;en
+NAVIGATIONAL;втб банк официальный сайт;6393;22193;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29677;banks_finance;official_site;uk
+NAVIGATIONAL;реестр банкротов физических лиц официальный сайт;7755;8664;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177284;banks_finance;official_site;ru
+NAVIGATIONAL;роскомнадзор официальный сайт;6742;23828;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1811;state_services;official_site;en
+NAVIGATIONAL;финам официальный сайт;6911;15892;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1845;banks_finance;official_site;en
+NAVIGATIONAL;московский ювелирный завод официальный сайт;7141;8916;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100709;jobs_business;official_site;ru
+NAVIGATIONAL;анапа город мира отель официальный сайт;7597;9408;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;187356;tourism_hotels;official_site;uk
+NAVIGATIONAL;личный кабинет военнослужащего;1195836;1763207;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1300;other_named;personal_cabinet;uk
+NAVIGATIONAL;сбис онлайн вход в личный кабинет;621335;647182;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177232;software_online;personal_cabinet;ru
+NAVIGATIONAL;тинькофф личный кабинет;564703;827617;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1313;banks_finance;personal_cabinet;en
+NAVIGATIONAL;личный кабинет налогоплательщика;449474;1832377;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1323;state_services;personal_cabinet;uk
+NAVIGATIONAL;тбанк личный кабинет;296317;441954;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1339;banks_finance;personal_cabinet;ru
+NAVIGATIONAL;личный кабинет налогоплательщика юридического лица;253485;345969;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100667;state_services;personal_cabinet;en
+NAVIGATIONAL;мос ру личный кабинет;286435;429307;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;28940;other_named;personal_cabinet;ru
+NAVIGATIONAL;иви личный кабинет;300287;356177;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1336;other_named;personal_cabinet;en
+NAVIGATIONAL;диадок вход в личный кабинет;225974;332004;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100671;software_online;personal_cabinet;uk
+NAVIGATIONAL;мособлеирц личный кабинет;192030;242468;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1374;housing_utilities;personal_cabinet;uk
+NAVIGATIONAL;ип личный кабинет налогоплательщика;172101;453975;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29141;state_services;personal_cabinet;ru
+NAVIGATIONAL;личный кабинет теле2;167609;302204;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1735;telecom_internet;personal_cabinet;en
+NAVIGATIONAL;честный знак личный кабинет;188886;242121;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;28979;other_named;personal_cabinet;en
+NAVIGATIONAL;сбербизнес онлайн вход в личный кабинет;133961;160403;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177245;banks_finance;personal_cabinet;uk
+NAVIGATIONAL;битрикс 24 вход в личный кабинет;123823;125859;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177251;software_online;personal_cabinet;ru
+NAVIGATIONAL;фаберлик личный кабинет;142303;308020;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1424;other_named;personal_cabinet;ru
+NAVIGATIONAL;яндекс плюс личный кабинет;102403;144504;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29104;software_online;personal_cabinet;en
+NAVIGATIONAL;фреш 1с вход в личный кабинет;114143;120137;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177642;software_online;personal_cabinet;uk
+NAVIGATIONAL;личный кабинет йота;102910;146317;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1705;telecom_internet;personal_cabinet;uk
+NAVIGATIONAL;личный кабинет военнослужащих;111706;1763207;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1474;other_named;personal_cabinet;en
+NAVIGATIONAL;гто личный кабинет;99571;167430;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1529;sports_leisure;personal_cabinet;ru
+NAVIGATIONAL;займер личный кабинет;100420;143268;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1509;banks_finance;personal_cabinet;ru
+NAVIGATIONAL;дом ру личный кабинет;91565;164870;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29124;telecom_internet;personal_cabinet;uk
+NAVIGATIONAL;1с фреш вход в личный кабинет;105657;111380;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177269;software_online;personal_cabinet;en
+NAVIGATIONAL;майл ру личный кабинет вход в личный кабинет;116154;143992;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;236186;software_online;personal_cabinet;en
+NAVIGATIONAL;псб личный кабинет;113094;236823;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1482;other_named;personal_cabinet;uk
+NAVIGATIONAL;халва личный кабинет;87369;162777;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1576;banks_finance;personal_cabinet;ru
+NAVIGATIONAL;диадок контур вход в личный кабинет;92437;95396;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177527;software_online;personal_cabinet;ru
+NAVIGATIONAL;ржд бонус личный кабинет;79030;104376;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;28913;transport_travel;personal_cabinet;en
+NAVIGATIONAL;контур диадок вход в личный кабинет;90179;93128;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177278;software_online;personal_cabinet;uk
+NAVIGATIONAL;мособлгаз личный кабинет;82237;119883;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1301;housing_utilities;personal_cabinet;ru
+NAVIGATIONAL;иксора личный кабинет;104333;178780;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1495;other_named;personal_cabinet;uk
+NAVIGATIONAL;газпром личный кабинет;75759;222934;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1320;housing_utilities;personal_cabinet;en
+NAVIGATIONAL;сбер бизнес онлайн личный кабинет;79941;86436;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100763;banks_finance;personal_cabinet;uk
+NAVIGATIONAL;ттк личный кабинет;77581;112845;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1319;telecom_internet;personal_cabinet;ru
+NAVIGATIONAL;екапуста личный кабинет;97842;139847;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1517;other_named;personal_cabinet;en
+NAVIGATIONAL;санкт петербург банк личный кабинет;76070;92209;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;101297;banks_finance;personal_cabinet;en
+NAVIGATIONAL;смородина газ личный кабинет;67839;161406;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29159;housing_utilities;personal_cabinet;ru
+NAVIGATIONAL;газ смородина личный кабинет;66688;159592;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29166;housing_utilities;personal_cabinet;uk
+NAVIGATIONAL;точка банк личный кабинет вход;72609;89989;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100659;banks_finance;personal_cabinet;en
+NAVIGATIONAL;банк санкт петербург личный кабинет;72081;86612;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100664;banks_finance;personal_cabinet;uk
+NAVIGATIONAL;энергосбыт плюс личный кабинет;64650;92593;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;28986;housing_utilities;personal_cabinet;ru
+NAVIGATIONAL;эвотор личный кабинет;86016;128688;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1590;other_named;personal_cabinet;ru
+NAVIGATIONAL;почта яндекс вход в личный кабинет;68641;85101;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177330;software_online;personal_cabinet;en
+NAVIGATIONAL;меркурий хс вход в личный кабинет;88376;97096;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177277;other_named;personal_cabinet;uk
+NAVIGATIONAL;личный кабинет энергосбыт;58357;316890;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1928;housing_utilities;personal_cabinet;en
+NAVIGATIONAL;яндекс почта вход в личный кабинет;67707;83799;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177267;software_online;personal_cabinet;ru
+NAVIGATIONAL;озон селлер личный кабинет;59356;72732;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29058;marketplaces_retail;personal_cabinet;uk
+NAVIGATIONAL;мосрег госуслуги личный кабинет;58905;70637;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29059;state_services;personal_cabinet;ru
+NAVIGATIONAL;тбанк бизнес личный кабинет;59211;65005;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29077;banks_finance;personal_cabinet;uk
+NAVIGATIONAL;озон банк личный кабинет;57890;88061;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29075;marketplaces_retail;personal_cabinet;en
+NAVIGATIONAL;автодор личный кабинет;77142;108847;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1305;other_named;personal_cabinet;ru
+NAVIGATIONAL;фтс личный кабинет;75702;123493;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1347;other_named;personal_cabinet;uk
+NAVIGATIONAL;мой налог личный кабинет;55067;95223;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29098;state_services;personal_cabinet;en
+NAVIGATIONAL;емиас личный кабинет;75421;99323;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1312;other_named;personal_cabinet;en
+NAVIGATIONAL;кион личный кабинет;74018;95337;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1317;other_named;personal_cabinet;ru
+NAVIGATIONAL;гос услуги ру личный кабинет вход;79523;82921;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177285;other_named;personal_cabinet;uk
+NAVIGATIONAL;сбербанк бизнес онлайн личный кабинет;56194;101070;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100786;banks_finance;personal_cabinet;ru
+NAVIGATIONAL;mos ru личный кабинет;66355;141827;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;28960;other_named;personal_cabinet;en
+NAVIGATIONAL;альфастрахование личный кабинет;54476;77766;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1556;banks_finance;personal_cabinet;uk
+NAVIGATIONAL;рн карт личный кабинет;64700;90352;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;28989;other_named;personal_cabinet;ru
+NAVIGATIONAL;альфабанк личный кабинет войти в личный кабинет;61118;75980;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;217015;banks_finance;personal_cabinet;en
+NAVIGATIONAL;домклик личный кабинет;66774;125751;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1362;other_named;personal_cabinet;uk
+NAVIGATIONAL;россети личный кабинет;51289;107821;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1626;telecom_internet;personal_cabinet;ru
+NAVIGATIONAL;офд личный кабинет;62240;290995;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1438;other_named;personal_cabinet;en
+NAVIGATIONAL;mail ru почта вход в личный кабинет;59433;69776;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;217019;software_online;personal_cabinet;uk
+NAVIGATIONAL;турбозайм займ личный кабинет;48340;60624;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29232;banks_finance;personal_cabinet;en
+NAVIGATIONAL;ингосстрах личный кабинет;64436;89003;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1387;other_named;personal_cabinet;ru
+NAVIGATIONAL;альфа бизнес онлайн вход в личный кабинет;53709;73566;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;217028;banks_finance;personal_cabinet;uk
+NAVIGATIONAL;т бизнес личный кабинет;42582;86840;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;28947;software_online;personal_cabinet;ru
+NAVIGATIONAL;учи ру вход в личный кабинет;62078;67762;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177243;other_named;personal_cabinet;en
+NAVIGATIONAL;втб бизнес онлайн вход в личный кабинет;49980;60906;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;217048;banks_finance;personal_cabinet;uk
+NAVIGATIONAL;личный кабинет триколор;54281;117356;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;2271;other_named;personal_cabinet;ru
+NAVIGATIONAL;gosuslugi ru личный кабинет;52544;64525;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29131;other_named;personal_cabinet;uk
+NAVIGATIONAL;уралсиб личный кабинет;54163;98068;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1555;other_named;personal_cabinet;en
+NAVIGATIONAL;кабинет медицинского работника личный кабинет;40564;128882;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;102964;health;personal_cabinet;uk
+NAVIGATIONAL;банк точка личный кабинет;37316;136140;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29189;banks_finance;personal_cabinet;ru
+NAVIGATIONAL;ерц личный кабинет;52443;106785;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1589;other_named;personal_cabinet;en
+NAVIGATIONAL;петроэлектросбыт личный кабинет;53118;70637;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1587;other_named;personal_cabinet;ru
+NAVIGATIONAL;белтелеком личный кабинет;41159;57480;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1632;telecom_internet;personal_cabinet;uk
+NAVIGATIONAL;егов кз личный кабинет;50070;54010;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29181;other_named;personal_cabinet;en
+NAVIGATIONAL;офд платформа личный кабинет;47975;91005;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;28914;other_named;personal_cabinet;uk
+NAVIGATIONAL;платформа офд личный кабинет;47975;91005;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29008;other_named;personal_cabinet;ru
+NAVIGATIONAL;эватор личный кабинет;50094;77903;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1656;other_named;personal_cabinet;en
+NAVIGATIONAL;росфинмониторинг личный кабинет;50307;57688;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1621;other_named;personal_cabinet;uk
+NAVIGATIONAL;нмо личный кабинет;48494;88475;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1663;other_named;personal_cabinet;ru
+NAVIGATIONAL;личный кабинет yota;38178;56493;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;3049;telecom_internet;personal_cabinet;en
+NAVIGATIONAL;юкки займ личный кабинет;36167;45615;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29138;banks_finance;personal_cabinet;ru
+NAVIGATIONAL;пермэнергосбыт личный кабинет;37871;55087;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1489;housing_utilities;personal_cabinet;en
+NAVIGATIONAL;личный кабинет есп;48878;63409;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;2446;other_named;personal_cabinet;uk
+NAVIGATIONAL;еирц личный кабинет;46610;113562;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1714;other_named;personal_cabinet;ru
+NAVIGATIONAL;цупис личный кабинет;47851;62544;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1673;other_named;personal_cabinet;uk
+NAVIGATIONAL;ифнс личный кабинет физического лица;37625;41790;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100721;state_services;personal_cabinet;en
+NAVIGATIONAL;мосэнергосбыт личный кабинет физического лица;36517;55233;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100739;housing_utilities;personal_cabinet;uk
+NAVIGATIONAL;фрмр личный кабинет медицинского работника аккредитация;39022;41252;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177247;banks_finance;personal_cabinet;en
+NAVIGATIONAL;личный кабинет военнослужащего новый;43449;57935;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29023;other_named;personal_cabinet;ru
+NAVIGATIONAL;быстроденьги личный кабинет;45549;66818;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1726;other_named;personal_cabinet;en
+NAVIGATIONAL;дом клик личный кабинет;42779;59615;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;28939;other_named;personal_cabinet;uk
+NAVIGATIONAL;а деньги личный кабинет;41556;63464;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;28965;other_named;personal_cabinet;ru
+NAVIGATIONAL;личный кабинет ранхигс;42759;69621;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1734;other_named;personal_cabinet;en
+NAVIGATIONAL;мтс банк личный кабинет;31203;47186;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29049;banks_finance;personal_cabinet;ru
+NAVIGATIONAL;мамба личный кабинет;43006;52433;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1329;other_named;personal_cabinet;uk
+NAVIGATIONAL;промсвязьбанк личный кабинет;31189;39341;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1359;banks_finance;personal_cabinet;en
+NAVIGATIONAL;личный кабинет водоканал;27553;214787;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;2726;housing_utilities;personal_cabinet;uk
+NAVIGATIONAL;мегафон личный кабинет вход по номеру;30943;79591;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177237;telecom_internet;personal_cabinet;ru
+NAVIGATIONAL;мосэнергосбыт личный кабинет юридического лица;29553;37509;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100764;housing_utilities;personal_cabinet;ru
+NAVIGATIONAL;налоги фл личный кабинет;27169;40243;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29248;state_services;personal_cabinet;uk
+NAVIGATIONAL;зерно фгис вход в личный кабинет;30459;35968;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177509;software_online;personal_cabinet;en
+NAVIGATIONAL;фгис зерно вход в личный кабинет;30459;35968;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177295;software_online;personal_cabinet;en
+NAVIGATIONAL;пенсионный фонд личный кабинет;24952;68187;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29003;state_services;personal_cabinet;uk
+NAVIGATIONAL;халва личный кабинет совкомбанк;25642;41652;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;32103;banks_finance;personal_cabinet;ru
+NAVIGATIONAL;газпром межрегионгаз личный кабинет;24636;71159;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29118;housing_utilities;personal_cabinet;en
+NAVIGATIONAL;веббанкир личный кабинет;26958;43476;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1718;banks_finance;personal_cabinet;uk
+NAVIGATIONAL;совкомбанк личный кабинет халва;25113;40923;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29205;banks_finance;personal_cabinet;ru
+NAVIGATIONAL;центрофинанс личный кабинет;26418;49595;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1297;banks_finance;personal_cabinet;en
+NAVIGATIONAL;севэнергосбыт севастополь личный кабинет;24426;29179;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29080;housing_utilities;personal_cabinet;uk
+NAVIGATIONAL;мтс личный кабинет вход по номеру телефона;28341;51817;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;217034;telecom_internet;personal_cabinet;ru
+NAVIGATIONAL;тбизнес личный кабинет;25405;34711;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1340;software_online;personal_cabinet;ru
+NAVIGATIONAL;жкх личный кабинет;22391;195275;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1606;housing_utilities;personal_cabinet;en
+NAVIGATIONAL;почта майл личный кабинет;21792;93390;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29149;software_online;personal_cabinet;uk
+NAVIGATIONAL;отп банк личный кабинет;22141;33101;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29325;banks_finance;personal_cabinet;en
+NAVIGATIONAL;вебзайм личный кабинет;23239;34014;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1603;banks_finance;personal_cabinet;uk
+NAVIGATIONAL;hh ru личный кабинет;21048;37976;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;28980;jobs_business;personal_cabinet;ru
+NAVIGATIONAL;саби сбис вход в личный кабинет;24530;26968;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177259;software_online;personal_cabinet;ru
+NAVIGATIONAL;фитнес хаус личный кабинет;20332;31474;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;28936;sports_leisure;personal_cabinet;uk
+NAVIGATIONAL;личный кабинет росреестра;18660;210362;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1377;state_services;personal_cabinet;en
+NAVIGATIONAL;красноярскэнергосбыт личный кабинет;20605;30525;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1460;housing_utilities;personal_cabinet;ru
+NAVIGATIONAL;мосводоканал личный кабинет;20116;30539;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1571;housing_utilities;personal_cabinet;uk
+NAVIGATIONAL;уралэнергосбыт личный кабинет;20118;29943;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1700;housing_utilities;personal_cabinet;en
+NAVIGATIONAL;лайм займ личный кабинет;18688;26383;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;28990;banks_finance;personal_cabinet;uk
+NAVIGATIONAL;нпф втб личный кабинет;18157;31851;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29221;banks_finance;personal_cabinet;en
+NAVIGATIONAL;рцоит личный кабинет войти в личный через госуслуги;24063;24218;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;236185;state_services;personal_cabinet;ru
+NAVIGATIONAL;иркутскэнергосбыт личный кабинет физического лица;19622;24021;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100773;housing_utilities;personal_cabinet;ru
+NAVIGATIONAL;мтс деньги личный кабинет;17700;27274;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29343;telecom_internet;personal_cabinet;uk
+NAVIGATIONAL;веб займ личный кабинет;17765;25560;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29110;banks_finance;personal_cabinet;en
+NAVIGATIONAL;аэрофлот бонус личный кабинет;17836;22693;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29191;transport_travel;personal_cabinet;uk
+NAVIGATIONAL;сатурн фгис вход в личный кабинет;20115;24948;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177303;software_online;personal_cabinet;en
+NAVIGATIONAL;фгис сатурн вход в личный кабинет;20115;24948;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177393;software_online;personal_cabinet;ru
+NAVIGATIONAL;псб бизнес личный кабинет;17558;25021;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29190;software_online;personal_cabinet;en
+NAVIGATIONAL;личный кабинет фсс;18116;38838;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;2413;state_services;personal_cabinet;ru
+NAVIGATIONAL;вб селлер личный кабинет;17398;23427;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29338;marketplaces_retail;personal_cabinet;uk
+NAVIGATIONAL;селлер вб личный кабинет;17180;23188;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;37268;marketplaces_retail;personal_cabinet;ru
+NAVIGATIONAL;эквазайм личный кабинет;17637;31223;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1581;banks_finance;personal_cabinet;uk
+NAVIGATIONAL;втб нпф личный кабинет;16503;29059;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29665;banks_finance;personal_cabinet;en
+NAVIGATIONAL;межрегионгаз личный кабинет;15301;145677;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1850;housing_utilities;personal_cabinet;uk
+NAVIGATIONAL;татэнергосбыт личный кабинет;17209;24456;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1765;housing_utilities;personal_cabinet;en
+NAVIGATIONAL;портал ржд личный кабинет;15153;60429;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29285;transport_travel;personal_cabinet;ru
+NAVIGATIONAL;ржд портал личный кабинет;14988;59610;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29644;transport_travel;personal_cabinet;uk
+NAVIGATIONAL;гугл диск войти в личный кабинет;18284;19172;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177254;software_online;personal_cabinet;en
+NAVIGATIONAL;ак барс банк личный кабинет;16861;23586;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100819;banks_finance;personal_cabinet;ru
+NAVIGATIONAL;ифнс личный кабинет юридического лица;16592;21035;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100711;state_services;personal_cabinet;uk
+NAVIGATIONAL;кредит плюс личный кабинет;15199;22712;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29320;banks_finance;personal_cabinet;ru
+NAVIGATIONAL;пфр личный кабинет;15923;28199;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1838;state_services;personal_cabinet;en
+NAVIGATIONAL;налог ип личный кабинет ип;15222;36835;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;104681;state_services;personal_cabinet;uk
+NAVIGATIONAL;займиго личный кабинет;15383;22932;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1727;banks_finance;personal_cabinet;ru
+NAVIGATIONAL;семеноводство фгис вход в личный кабинет;16276;17725;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177305;software_online;personal_cabinet;en
+NAVIGATIONAL;фгис семеноводство вход в личный кабинет;16276;17725;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;178444;software_online;personal_cabinet;uk
+NAVIGATIONAL;газ личный кабинет;12608;278331;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1786;housing_utilities;personal_cabinet;ru
+NAVIGATIONAL;небус займ личный кабинет войти;14987;16544;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100830;banks_finance;personal_cabinet;en
+NAVIGATIONAL;турбозайм личный кабинет;13378;81602;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1610;banks_finance;personal_cabinet;uk
+NAVIGATIONAL;бустра займ личный кабинет;13687;16243;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29352;banks_finance;personal_cabinet;ru
+NAVIGATIONAL;крымгазсети личный кабинет;14247;22864;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1592;telecom_internet;personal_cabinet;en
+NAVIGATIONAL;гугл почта вход в личный кабинет;15458;16513;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177327;software_online;personal_cabinet;ru
+NAVIGATIONAL;новосибирскэнергосбыт личный кабинет;14119;20800;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1651;housing_utilities;personal_cabinet;uk
+NAVIGATIONAL;новосибирск энергосбыт личный кабинет;13193;16990;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;31803;housing_utilities;personal_cabinet;en
+NAVIGATIONAL;райффайзенбанк личный кабинет;13840;18670;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1744;banks_finance;personal_cabinet;uk
+NAVIGATIONAL;энергосбыт новосибирск личный кабинет;12740;16966;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;28982;housing_utilities;personal_cabinet;ru
+NAVIGATIONAL;почта гугл вход в личный кабинет;14588;15680;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;180767;software_online;personal_cabinet;en
+NAVIGATIONAL;личный кабинет пассажира;12165;47891;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1526;transport_travel;personal_cabinet;ru
+NAVIGATIONAL;спб банк личный кабинет;11965;21021;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29747;banks_finance;personal_cabinet;uk
+NAVIGATIONAL;личный кабинет доктор плюс;12089;17084;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;32628;health;personal_cabinet;en
+NAVIGATIONAL;вб поинт вход в личный кабинет;13807;14427;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177316;marketplaces_retail;personal_cabinet;ru
+NAVIGATIONAL;мой склад вход в личный кабинет;13174;14113;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177258;jobs_business;personal_cabinet;en
+NAVIGATIONAL;личный кабинет самолет;11924;22386;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;4676;transport_travel;personal_cabinet;uk
+NAVIGATIONAL;билет в будущее личный кабинет;11958;15716;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100765;transport_travel;personal_cabinet;en
+NAVIGATIONAL;псковэнергосбыт личный кабинет;11692;16119;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1674;housing_utilities;personal_cabinet;uk
+NAVIGATIONAL;аванта телеком личный кабинет;10978;15114;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29345;telecom_internet;personal_cabinet;ru
+NAVIGATIONAL;битрикс24 вход в личный кабинет;11788;12489;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100793;software_online;personal_cabinet;uk
+NAVIGATIONAL;красноярск энергосбыт личный кабинет;10921;13179;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;31904;housing_utilities;personal_cabinet;en
+NAVIGATIONAL;озон сейлер личный кабинет;10982;12046;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29253;marketplaces_retail;personal_cabinet;ru
+NAVIGATIONAL;газфонд пенсионные накопления личный кабинет;11423;17234;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100750;state_services;personal_cabinet;ru
+NAVIGATIONAL;мой налог для самозанятых личный кабинет;12199;15031;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177282;state_services;personal_cabinet;en
+NAVIGATIONAL;возьмика займ личный кабинет;10779;12792;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29347;banks_finance;personal_cabinet;uk
+NAVIGATIONAL;займ возьмика личный кабинет;10779;12792;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;39200;banks_finance;personal_cabinet;en
+NAVIGATIONAL;юкасса личный кабинет;11339;13433;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1417;banks_finance;personal_cabinet;ru
+NAVIGATIONAL;новикомбанк личный кабинет;11122;15899;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1636;banks_finance;personal_cabinet;uk
+NAVIGATIONAL;личный кабинет военнослужащего министерства обороны;10603;31715;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100760;state_services;personal_cabinet;ru
+NAVIGATIONAL;энергосбыт красноярск личный кабинет;10475;12516;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29437;housing_utilities;personal_cabinet;en
+NAVIGATIONAL;банк спб личный кабинет;10082;19081;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29495;banks_finance;personal_cabinet;uk
+NAVIGATIONAL;елк жкх личный кабинет;10243;14967;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29024;housing_utilities;personal_cabinet;ru
+NAVIGATIONAL;жкх елк личный кабинет;10243;14967;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;44040;housing_utilities;personal_cabinet;uk
+NAVIGATIONAL;альфа личный кабинет онлайн;8832;135117;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;38836;banks_finance;personal_cabinet;en
+NAVIGATIONAL;ростелеком личный кабинет вход по номеру телефона;12250;18912;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;217018;telecom_internet;personal_cabinet;en
+NAVIGATIONAL;система город личный кабинет;9745;29007;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29272;regional_public;personal_cabinet;ru
+NAVIGATIONAL;тп портал тп рф личный кабинет;11345;19638;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;180764;software_online;personal_cabinet;uk
+NAVIGATIONAL;белка кредит займ личный кабинет;10712;12937;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100676;banks_finance;personal_cabinet;ru
+NAVIGATIONAL;горводоканал новосибирск личный кабинет;10017;12935;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29002;housing_utilities;personal_cabinet;uk
+NAVIGATIONAL;миг кредит личный кабинет;9759;15082;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29142;banks_finance;personal_cabinet;en
+NAVIGATIONAL;личный кабинет пятерочка;9520;31554;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;4190;marketplaces_retail;personal_cabinet;en
+NAVIGATIONAL;гто личный кабинет ребенка;9125;16483;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29281;sports_leisure;personal_cabinet;ru
+NAVIGATIONAL;горгаз личный кабинет;9133;40720;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1473;housing_utilities;personal_cabinet;uk
+NAVIGATIONAL;тп рф портал россети личный кабинет;10430;12643;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;180522;telecom_internet;personal_cabinet;uk
+NAVIGATIONAL;госуслуги юридического лица вход в личный кабинет;11076;13174;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;217020;state_services;personal_cabinet;en
+NAVIGATIONAL;билайн личный кабинет вход по номеру телефона;10712;20779;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;217063;telecom_internet;personal_cabinet;ru
+NAVIGATIONAL;портал тп рф личный кабинет россети;10253;12839;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177344;telecom_internet;personal_cabinet;en
+NAVIGATIONAL;моя школа личный кабинет;8760;18033;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29444;education;personal_cabinet;uk
+NAVIGATIONAL;к врачу личный кабинет;8562;23818;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29182;health;personal_cabinet;ru
+NAVIGATIONAL;личный кабинет еирц ленинградской области;9415;15536;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;107396;regional_public;personal_cabinet;en
+NAVIGATIONAL;мособлеирц личный кабинет московская область;8968;29544;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100840;housing_utilities;personal_cabinet;ru
+NAVIGATIONAL;россети портал тп рф личный кабинет;10111;12617;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;179477;telecom_internet;personal_cabinet;uk
+NAVIGATIONAL;теле2 личный кабинет вход по номеру;9700;23069;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177291;telecom_internet;personal_cabinet;en
+NAVIGATIONAL;личный кабинет черноморнефтегаз днр;8817;11859;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;35183;housing_utilities;personal_cabinet;ru
+NAVIGATIONAL;1с итс вход в личный кабинет;9769;10436;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177374;software_online;personal_cabinet;uk
+NAVIGATIONAL;итс 1с вход в личный кабинет;9738;10464;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177554;software_online;personal_cabinet;ru
+NAVIGATIONAL;мособлеирц личный кабинет клиента московская область;9253;11007;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177241;housing_utilities;personal_cabinet;en
+NAVIGATIONAL;система город барнаул личный кабинет;8497;10510;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100886;regional_public;personal_cabinet;uk
+NAVIGATIONAL;диагностический центр личный кабинет;7393;29907;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29370;health;personal_cabinet;ru
+NAVIGATIONAL;кион музыка личный кабинет;7869;9537;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29078;culture_media;personal_cabinet;uk
+NAVIGATIONAL;электроэнергия личный кабинет;7477;35041;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1443;housing_utilities;personal_cabinet;en
+NAVIGATIONAL;янтарьэнергосбыт личный кабинет;8052;11050;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1872;housing_utilities;personal_cabinet;ru
+NAVIGATIONAL;иркутск энергосбыт личный кабинет;7541;10703;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;35353;housing_utilities;personal_cabinet;en
+NAVIGATIONAL;минтруд личный кабинет работодателя по охране труда;9121;11917;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;217007;jobs_business;personal_cabinet;uk
+NAVIGATIONAL;контурн экстерн ру вход в личный кабинет;9095;9407;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;217031;software_online;personal_cabinet;ru
+NAVIGATIONAL;личный кабинет энергосбыт донецк днр;7946;9044;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;121119;housing_utilities;personal_cabinet;uk
+NAVIGATIONAL;личный кабинет энергосбыт иркутск;7328;10364;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;54492;housing_utilities;personal_cabinet;en
+NAVIGATIONAL;иркутскэнергосбыт личный кабинет;7187;36254;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;2058;housing_utilities;personal_cabinet;ru
+NAVIGATIONAL;24 квартплата личный кабинет;7222;9208;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;38835;housing_utilities;personal_cabinet;uk
+NAVIGATIONAL;мегафон корпоративный личный кабинет;6975;15333;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29578;telecom_internet;personal_cabinet;en
+NAVIGATIONAL;кузбассэнергосбыт личный кабинет;7541;12203;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1450;housing_utilities;personal_cabinet;ru
+NAVIGATIONAL;т2 личный кабинет вход по номеру телефона;8549;13599;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;217025;telecom_internet;personal_cabinet;uk
+NAVIGATIONAL;экстерн контур вход в личный кабинет;8092;10239;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;183423;software_online;personal_cabinet;en
+NAVIGATIONAL;маил почта войти личный кабинет вход;8108;9054;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;178927;software_online;personal_cabinet;ru
+NAVIGATIONAL;почта маил войти личный кабинет вход;8108;9054;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177248;software_online;personal_cabinet;uk
+NAVIGATIONAL;ифнс ип личный кабинет;6830;15921;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;42325;state_services;personal_cabinet;en
+NAVIGATIONAL;корпоративный личный кабинет мегафон;6855;14947;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;47632;telecom_internet;personal_cabinet;uk
+NAVIGATIONAL;2 гис личный кабинет;6632;18139;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29423;software_online;personal_cabinet;ru
+NAVIGATIONAL;квартплата 24 личный кабинет;6925;9002;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29469;housing_utilities;personal_cabinet;en
+NAVIGATIONAL;нмо портал непрерывного медицинского образования вход в личный кабинет;9585;9858;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;244332;education;personal_cabinet;en
+NAVIGATIONAL;умскул вход в личный кабинет;7419;8253;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100770;education;personal_cabinet;uk
+NAVIGATIONAL;личный кабинет домтелеком;7255;10846;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;11531;telecom_internet;personal_cabinet;ru
+NAVIGATIONAL;мытищи электросеть личный кабинет;6758;9700;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;34220;housing_utilities;personal_cabinet;uk
+NAVIGATIONAL;мособлгаз личный кабинет клиента московская область;7670;8921;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177308;housing_utilities;personal_cabinet;ru
+NAVIGATIONAL;личный кабинет электросеть мытищи;6616;9501;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;50697;housing_utilities;personal_cabinet;en
+NAVIGATIONAL;гис энергоэффективность вход в личный кабинет;7595;8016;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177329;software_online;personal_cabinet;uk
+NAVIGATIONAL;личный кабинет ип ифнс;6330;14625;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;43120;state_services;personal_cabinet;ru
+NAVIGATIONAL;маил ru почта войти;501941;518247;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;28927;software_online;login;en
+NAVIGATIONAL;одноклассники моя страница вход на мою страницу войти;31753;108514;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;236181;social_media;login;uk
+NAVIGATIONAL;войти в почту майл ру;21453;46408;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;100691;software_online;login;ru
+NAVIGATIONAL;майл почта войти;12842;132651;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1619;software_online;login;en
+NAVIGATIONAL;вконтакте моя страница войти;10812;32077;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29064;social_media;login;uk
+NAVIGATIONAL;моя страница вконтакте войти;10670;31726;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;35426;social_media;login;ru
+NAVIGATIONAL;гугл аккаунт войти в аккаунт;10400;40208;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;119035;software_online;login;uk
+NAVIGATIONAL;инстаграм войти;10780;27641;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;7;social_media;login;en
+NAVIGATIONAL;войти в майл почту;6010;94837;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;35590;software_online;login;ru
+NAVIGATIONAL;веб макс войти;6283;25624;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;5833;social_media;login;en
+NAVIGATIONAL;макс веб войти;6283;25624;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;2019;social_media;login;uk
+NAVIGATIONAL;веб версия макс войти;5656;11052;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;34321;social_media;login;ru
+NAVIGATIONAL;войти в одноклассники;5369;48198;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;1984;social_media;login;en
+NAVIGATIONAL;войти в аккаунт гугл;5010;39869;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;30527;software_online;login;uk
+NAVIGATIONAL;ватсап веб войти;5548;8295;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;2171;social_media;login;ru
+NAVIGATIONAL;веб ватсап войти;5548;8295;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;5238;social_media;login;en
+NAVIGATIONAL;телеграм войти;5018;30452;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;21;social_media;login;uk
+NAVIGATIONAL;роблокс войти в аккаунт;3910;25732;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29952;social_media;login;ru
+NAVIGATIONAL;войти в аккаунт роблокс;3568;25566;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;34662;social_media;login;en
+NAVIGATIONAL;почта рамблер войти в почту;3700;15547;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;118469;software_online;login;uk
+NAVIGATIONAL;рамблер почта войти в почту;3685;15335;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;101184;software_online;login;ru
+NAVIGATIONAL;сьер сбербанк онлайн войти;3626;4889;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29793;banks_finance;login;ru
+NAVIGATIONAL;29 дневник ру войти через госуслуги;3842;4127;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;196461;state_services;login;uk
+NAVIGATIONAL;ок ру одноклассники моя страница войти;3655;8618;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177425;social_media;login;en
+NAVIGATIONAL;диск гугл войти;2918;24139;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;15560;software_online;login;en
+NAVIGATIONAL;войти в вк на свою страницу;3314;6148;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177558;social_media;login;uk
+NAVIGATIONAL;телеграмм войти;2882;49674;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;50;social_media;login;ru
+NAVIGATIONAL;дискорд войти;3137;9123;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;36;social_media;login;uk
+NAVIGATIONAL;дневник ру войти;2813;15503;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;2649;education;login;en
+NAVIGATIONAL;ватсап войти;2759;20903;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;53;social_media;login;ru
+NAVIGATIONAL;vk com моя страница войти;2803;5969;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;101336;social_media;login;en
+NAVIGATIONAL;instagram войти;2549;5777;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;60;social_media;login;uk
+NAVIGATIONAL;войти в аккаунт кинопоиск;2103;3767;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;78094;software_online;login;ru
+NAVIGATIONAL;пинтерест без регистрации на русском бесплатно войти без скачивания;2830;4761;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;244352;social_media;login;en
+NAVIGATIONAL;моя медицинская электронная карта войти;2046;4152;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;111145;health;login;uk
+NAVIGATIONAL;дневник 29 ру войти через госуслуги;2259;2381;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177728;state_services;login;ru
+NAVIGATIONAL;моя электронная медицинская карта войти;2009;4480;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;101963;health;login;en
+NAVIGATIONAL;школьный портал московской области войти через есиа;2329;2712;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;217248;software_online;login;uk
+NAVIGATIONAL;фейсбук войти моя страница;1404;4310;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;83090;social_media;login;ru
+NAVIGATIONAL;литгород моя библиотека войти на страницу ру;1626;1635;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;231054;culture_media;login;ru
+NAVIGATIONAL;инстаграмм войти;1412;3397;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;84;social_media;login;uk
+NAVIGATIONAL;медицинская электронная карта войти;1121;8972;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;86118;health;login;en
+NAVIGATIONAL;электронная медицинская карта войти;1072;8355;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;32325;health;login;uk
+NAVIGATIONAL;налоговая кабинет ип вход в личный;1136;21322;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;202190;state_services;login;en
+NAVIGATIONAL;стим войти в аккаунт;1039;8646;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;38454;social_media;login;ru
+NAVIGATIONAL;войти в аккаунт инстаграм;1098;3220;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;80771;social_media;login;en
+NAVIGATIONAL;войти в инстаграм аккаунт;1098;3220;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;44519;social_media;login;uk
+NAVIGATIONAL;селлер озон личный вход кабинет;1143;3820;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;135314;marketplaces_retail;login;ru
+NAVIGATIONAL;войти в аккаунт стим;971;7766;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;45270;social_media;login;en
+NAVIGATIONAL;почта джимейл войти;1081;4162;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;5459;software_online;login;uk
+NAVIGATIONAL;закупки еис официальный сайт вход;1122;1477;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;103357;state_services;login;ru
+NAVIGATIONAL;литгород ру моя библиотека войти на страницу;1286;1291;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;217449;culture_media;login;en
+NAVIGATIONAL;джимейл почта войти;1010;4363;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;8462;software_online;login;ru
+NAVIGATIONAL;тинькофф войти в банк;891;6506;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;85123;banks_finance;login;uk
+NAVIGATIONAL;дамумед жамбылская область войти;999;1017;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;32178;regional_public;login;en
+NAVIGATIONAL;кинопоиск войти в аккаунт;925;1951;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;32780;software_online;login;uk
+NAVIGATIONAL;джимаил ru почта войти;927;1464;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;34471;software_online;login;ru
+NAVIGATIONAL;фейсбук войти;946;7801;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;145;social_media;login;uk
+NAVIGATIONAL;битрикс войти;958;5623;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;130;software_online;login;en
+NAVIGATIONAL;войти в банк тинькофф;828;5951;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;86665;banks_finance;login;ru
+NAVIGATIONAL;азино777 официальный сайт вход с компьютера мобильная версия;1159;1279;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;236384;telecom_internet;login;en
+NAVIGATIONAL;агропромбанк онлайн авторизация;916;1021;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;4384;banks_finance;login;ru
+NAVIGATIONAL;outlook почта войти;826;3795;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;9149;software_online;login;uk
+NAVIGATIONAL;wildberries ru официальный сайт войти;850;2265;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;103555;marketplaces_retail;login;en
+NAVIGATIONAL;личный военнослужащего кабинет вход министерство обороны;843;5872;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;202853;state_services;login;uk
+NAVIGATIONAL;джимаил почта ru войти;770;1176;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;41327;software_online;login;ru
+NAVIGATIONAL;айклауд почта войти;766;2524;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;7658;software_online;login;en
+NAVIGATIONAL;войти почта айклауд;747;2519;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;25270;software_online;login;ru
+NAVIGATIONAL;почта электронная войти;613;34220;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;21724;software_online;login;uk
+NAVIGATIONAL;rambler почта войти;697;3114;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;5079;software_online;login;en
+NAVIGATIONAL;rambler ru почта войти;681;1356;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;34271;software_online;login;ru
+NAVIGATIONAL;тикток войти;721;4255;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;152;social_media;login;uk
+NAVIGATIONAL;не могу войти в госуслуги;640;8061;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;104527;state_services;login;uk
+NAVIGATIONAL;электронная почта войти;576;33637;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;6626;software_online;login;en
+NAVIGATIONAL;тендер 32 официальный сайт брянской области войти;833;833;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;217799;regional_public;login;ru
+NAVIGATIONAL;пфдо кбр портал войти;659;1088;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;34326;software_online;login;en
+NAVIGATIONAL;почта outlook войти;644;3839;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;7889;software_online;login;uk
+NAVIGATIONAL;instagram com войти;678;1325;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;5023;social_media;login;ru
+NAVIGATIONAL;почта среда войти;679;1171;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;11424;software_online;login;en
+NAVIGATIONAL;среда почта войти;679;1171;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;6986;software_online;login;ru
+NAVIGATIONAL;азино777 официальный сайт вход с телефона зеркало мобильная версия;889;890;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;244951;telecom_internet;login;uk
+NAVIGATIONAL;microsoft войти;624;8431;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;186;software_online;login;en
+NAVIGATIONAL;mailru ru почта войти;640;642;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;34429;software_online;login;uk
+NAVIGATIONAL;ютуб войти;595;10284;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;191;social_media;login;ru
+NAVIGATIONAL;мэйл ру почта войти;598;1234;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;38997;software_online;login;en
+NAVIGATIONAL;почта мэйл ру войти;590;1173;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;51661;software_online;login;ru
+NAVIGATIONAL;owa mos ru почта войти;601;2050;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;123739;software_online;login;uk
+NAVIGATIONAL;почта аутлук войти;590;2364;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;8182;software_online;login;en
+NAVIGATIONAL;войти инстаграмм моя страница;578;914;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;92929;social_media;login;uk
+NAVIGATIONAL;почта rambler ru войти;556;1187;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;82059;software_online;login;ru
+NAVIGATIONAL;почта мейл ру войти;484;7054;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;36274;software_online;login;en
+NAVIGATIONAL;аутлук почта войти;554;2385;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;10333;software_online;login;uk
+NAVIGATIONAL;сетевой город образование волгоградской области войти;630;855;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;179086;education;login;ru
+NAVIGATIONAL;джимаил com почта войти;543;992;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;45505;software_online;login;en
+NAVIGATIONAL;поинт вб войти;575;950;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;11774;marketplaces_retail;login;uk
+NAVIGATIONAL;почта джимаил com войти;534;987;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;51817;software_online;login;ru
+NAVIGATIONAL;почта icloud войти;545;1882;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;12641;software_online;login;uk
+NAVIGATIONAL;roblox войти в аккаунт;481;2501;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;36463;social_media;login;en
+NAVIGATIONAL;дискорд войти через браузер;494;674;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;38496;social_media;login;ru
+NAVIGATIONAL;войти в аккаунт телеграмм;422;6164;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;78322;social_media;login;en
+NAVIGATIONAL;россельхознадзор меркурий войти;487;1657;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;6366;banks_finance;login;ru
+NAVIGATIONAL;войти по номеру карты в альфа банк;539;2131;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;233306;banks_finance;login;uk
+NAVIGATIONAL;гас управление официальный сайт вход;470;2215;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;106622;regional_public;login;en
+NAVIGATIONAL;facebook моя страница войти;387;2687;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;39216;social_media;login;uk
+NAVIGATIONAL;париматч официальный сайт вход;400;988;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;38956;sports_leisure;login;ru
+NAVIGATIONAL;vk hr tek войти;366;1627;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;40109;social_media;login;en
+NAVIGATIONAL;discord войти;397;1129;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;228;social_media;login;uk
+NAVIGATIONAL;ютуб главная страница войти на свою страницу;440;505;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;218903;social_media;login;ru
+NAVIGATIONAL;whatsapp web войти;378;619;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;7802;social_media;login;en
+NAVIGATIONAL;youtube com главная страница войти;378;416;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;109316;social_media;login;uk
+NAVIGATIONAL;войти в аккаунт ютуб;303;3549;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;74337;social_media;login;ru
+NAVIGATIONAL;войти в ютуб аккаунт;303;3549;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;89903;social_media;login;en
+NAVIGATIONAL;гасу управление официальный сайт вход;370;378;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;109779;regional_public;login;uk
+NAVIGATIONAL;войти в профиль авито;312;1621;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;85161;marketplaces_retail;login;ru
+NAVIGATIONAL;авито профиль войти;311;2427;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;9393;marketplaces_retail;login;en
+NAVIGATIONAL;мтс горячая линия связь с оператором;17397;38429;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177299;telecom_internet;support_contacts;ru
+NAVIGATIONAL;мегафон горячая линия связь с оператором;11854;22290;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177338;telecom_internet;support_contacts;en
+NAVIGATIONAL;билайн горячая линия связь с оператором;9724;19544;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177279;telecom_internet;support_contacts;uk
+NAVIGATIONAL;ростелеком горячая линия для физических лиц бесплатная;9327;16303;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;217005;telecom_internet;support_contacts;ru
+NAVIGATIONAL;мтс горячая линия с мобильного связь с оператором бесплатно;8324;14172;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;245802;telecom_internet;support_contacts;en
+NAVIGATIONAL;горячая линия пенсионного фонда;5032;92537;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;29488;state_services;support_contacts;uk
+NAVIGATIONAL;горячая линия делимобиль;5198;11371;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;4478;telecom_internet;support_contacts;ru
+NAVIGATIONAL;почта горячая линия почта россии;4795;32381;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;114345;transport_travel;support_contacts;en
+NAVIGATIONAL;горячая линия пятерочки;3712;30712;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;2250;marketplaces_retail;support_contacts;uk
+NAVIGATIONAL;горячая линия ростелекома;2550;310095;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;2725;telecom_internet;support_contacts;uk
+NAVIGATIONAL;ростелеком горячая линия номер телефона;2832;31569;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;103112;telecom_internet;support_contacts;en
+NAVIGATIONAL;социальный фонд россии горячая линия;3041;8045;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;101454;state_services;support_contacts;ru
+NAVIGATIONAL;мегафон горячая линия с мобильного;2722;16540;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;123420;telecom_internet;support_contacts;ru
+NAVIGATIONAL;т2 горячая линия с мобильного;2733;5130;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;101529;telecom_internet;support_contacts;uk
+NAVIGATIONAL;йота горячая линия связь с оператором;2807;4046;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;177568;telecom_internet;support_contacts;en
+NAVIGATIONAL;таттелеком горячая линия;2306;6104;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;2996;telecom_internet;support_contacts;uk
+NAVIGATIONAL;горячая линия министерства обороны;1983;12856;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;30803;state_services;support_contacts;en
+NAVIGATIONAL;горячая линия макс мессенджер;1812;4518;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;31815;social_media;support_contacts;ru
+NAVIGATIONAL;вб банк горячая линия;1758;5038;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;31520;marketplaces_retail;support_contacts;en
+NAVIGATIONAL;горячая линия минздрава;1594;36323;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;3303;health;support_contacts;ru
+NAVIGATIONAL;банк вб горячая линия;1702;4791;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;82524;marketplaces_retail;support_contacts;uk
+NAVIGATIONAL;минздрав горячая линия;1557;36193;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;4173;health;support_contacts;ru
+NAVIGATIONAL;согаз горячая линия 88003330888;1726;1996;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;30986;housing_utilities;support_contacts;uk
+NAVIGATIONAL;горячая линия билайна;1324;141560;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;3711;telecom_internet;support_contacts;en
+NAVIGATIONAL;теле2 горячая линия с мобильного;1442;5887;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;102230;telecom_internet;support_contacts;ru
+NAVIGATIONAL;телеком сервис воронеж горячая линия;1497;3050;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;102424;telecom_internet;support_contacts;uk
+NAVIGATIONAL;мфц горячая линия москва телефон;1445;4851;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;102071;state_services;support_contacts;en
+NAVIGATIONAL;россети горячая линия московская область;1427;2788;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;102557;telecom_internet;support_contacts;ru
+NAVIGATIONAL;туту ру горячая линия;1260;5039;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;33916;transport_travel;support_contacts;uk
+NAVIGATIONAL;домашний интернет билайн горячая линия;1335;3431;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;145563;telecom_internet;support_contacts;en
+NAVIGATIONAL;туту горячая линия;1189;8931;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;4979;transport_travel;support_contacts;ru
+NAVIGATIONAL;теле 2 служба поддержки;1216;2340;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;37806;regional_public;support_contacts;uk
+NAVIGATIONAL;оператор йота горячая линия;1094;9022;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;40926;telecom_internet;support_contacts;en
+NAVIGATIONAL;согаз горячая линия дмс;1113;3177;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;39187;housing_utilities;support_contacts;ru
+NAVIGATIONAL;написать в телеграм без добавления в контакты;1407;1516;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;217407;social_media;support_contacts;en
+NAVIGATIONAL;горячая линия перекресток;1139;3952;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;6698;marketplaces_retail;support_contacts;uk
+NAVIGATIONAL;йота оператор горячая линия;991;8713;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;48333;telecom_internet;support_contacts;ru
+NAVIGATIONAL;горячая линия сфр номер телефона;1058;8414;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;151661;state_services;support_contacts;uk
+NAVIGATIONAL;номер телефона сфр горячая линия;1058;8414;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;118032;state_services;support_contacts;en
+NAVIGATIONAL;вайлдберриз горячая линия вайлдберриз бесплатный телефон;1121;6795;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;190507;marketplaces_retail;support_contacts;en
+NAVIGATIONAL;горячая линия сфр москва;1013;3443;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;42221;state_services;support_contacts;uk
+NAVIGATIONAL;победа горячая линия победа авиакомпания;996;9755;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;113074;transport_travel;support_contacts;ru
+NAVIGATIONAL;горячая линия дмс согаз;951;2906;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;87311;housing_utilities;support_contacts;en
+NAVIGATIONAL;банк вайлдберриз горячая линия;944;2729;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;78171;marketplaces_retail;support_contacts;ru
+NAVIGATIONAL;горячая линия министерства здравоохранения;799;20328;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;33066;state_services;support_contacts;uk
+NAVIGATIONAL;электросети горячая линия;877;13576;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;8486;telecom_internet;support_contacts;uk
+NAVIGATIONAL;apple служба поддержки;938;3837;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;22483;regional_public;support_contacts;ru
+NAVIGATIONAL;написать в ватсап без добавления в контакты;1131;1507;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;217594;social_media;support_contacts;en
+NAVIGATIONAL;горячая линия пятерочка для покупателей;877;3952;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;112984;marketplaces_retail;support_contacts;ru
+NAVIGATIONAL;авито горячая линия связь с оператором;1019;1105;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;178353;marketplaces_retail;support_contacts;en
+NAVIGATIONAL;к телеком горячая линия;808;2219;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;34464;telecom_internet;support_contacts;uk
+NAVIGATIONAL;телефон губернатора тульской области горячая линия;929;1830;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;209874;regional_public;support_contacts;ru
+NAVIGATIONAL;теле2 горячая линия с оператором;803;5558;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;103602;telecom_internet;support_contacts;en
+NAVIGATIONAL;магнит горячая линия для покупателей;825;3347;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;112280;marketplaces_retail;support_contacts;uk
+NAVIGATIONAL;горячая линия аксенова в крыму номер телефона круглосуточно с мобильного;1108;1314;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;247933;telecom_internet;support_contacts;ru
+NAVIGATIONAL;горячая линия здравоохранения;635;36092;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;5282;health;support_contacts;uk
+NAVIGATIONAL;мфц днр горячая линия;718;1810;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;55563;state_services;support_contacts;en
+NAVIGATIONAL;т2 оператор горячая линия;671;4347;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;43325;telecom_internet;support_contacts;ru
+NAVIGATIONAL;горячая линия пятерочки номер телефона;718;2945;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;105441;marketplaces_retail;support_contacts;en
+NAVIGATIONAL;пенсионный горячая линия;559;93045;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;7144;state_services;support_contacts;uk
+NAVIGATIONAL;горячая линия почта россии 88005500770;735;1445;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;146281;transport_travel;support_contacts;en
+NAVIGATIONAL;номер телефона пятерочки горячая линия;693;3015;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;127940;marketplaces_retail;support_contacts;uk
+NAVIGATIONAL;контур логистика горячая линия;666;2007;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;36681;transport_travel;support_contacts;ru
+NAVIGATIONAL;служба поддержки бравл старс;697;993;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;33684;regional_public;support_contacts;en
+NAVIGATIONAL;россети горячая линия номер телефона;708;2125;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;105519;telecom_internet;support_contacts;uk
+NAVIGATIONAL;горячая линия социального фонда;568;20496;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;35075;state_services;support_contacts;ru
+NAVIGATIONAL;номер телефона россети горячая линия;689;1994;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;130106;telecom_internet;support_contacts;ru
+NAVIGATIONAL;магнит горячая линия телефон бесплатно для покупателей;765;1740;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;233746;marketplaces_retail;support_contacts;en
+NAVIGATIONAL;москва пенсионный фонд горячая линия;649;2685;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;163421;state_services;support_contacts;uk
+NAVIGATIONAL;служба поддержки эпл;650;1832;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;5171;regional_public;support_contacts;ru
+NAVIGATIONAL;роспотребнадзора горячая линия;566;11530;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;25937;state_services;support_contacts;en
+NAVIGATIONAL;горячая линия т2 позвонить оператору;678;758;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;106509;telecom_internet;support_contacts;uk
+NAVIGATIONAL;министерство здравоохранения горячая линия;509;19851;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;37718;state_services;support_contacts;ru
+NAVIGATIONAL;такси максим горячая линия;606;1312;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;47598;transport_travel;support_contacts;uk
+NAVIGATIONAL;авито горячая линия 88006000001;589;1549;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;34825;marketplaces_retail;support_contacts;en
+NAVIGATIONAL;интерсвязь горячая линия;607;2293;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;6857;telecom_internet;support_contacts;en
+NAVIGATIONAL;м видео горячая линия 88006007775 позвонить;701;716;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;182363;marketplaces_retail;support_contacts;ru
+NAVIGATIONAL;теле2 горячая линия оператор;521;7799;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;79619;telecom_internet;support_contacts;uk
+NAVIGATIONAL;горячая линия мотив свердловская область;637;1018;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;128031;regional_public;support_contacts;uk
+NAVIGATIONAL;номер телефона сдэк горячая линия;592;2727;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;134898;transport_travel;support_contacts;en
+NAVIGATIONAL;горячая линия спортмастер 880077777771 позвонить;644;646;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;141143;marketplaces_retail;support_contacts;ru
+NAVIGATIONAL;спортмастер позвонить горячая линия 880077777771;644;646;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;153216;marketplaces_retail;support_contacts;uk
+NAVIGATIONAL;горячая линия сдэк номер телефона;582;2661;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;162941;transport_travel;support_contacts;en
+NAVIGATIONAL;оператор теле2 горячая линия;501;7191;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;44713;telecom_internet;support_contacts;ru
+NAVIGATIONAL;горячая линия для сотрудников магнит;597;1411;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;154399;marketplaces_retail;support_contacts;uk
+NAVIGATIONAL;горячая линия магнит для сотрудников;597;1411;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;110858;marketplaces_retail;support_contacts;ru
+NAVIGATIONAL;номер телефона теле2 горячая линия;563;2771;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;124923;telecom_internet;support_contacts;en
+NAVIGATIONAL;горячая линия авиакомпании победа;479;10623;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;37248;transport_travel;support_contacts;ru
+NAVIGATIONAL;согаз мед горячая линия;534;2010;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;38020;housing_utilities;support_contacts;uk
+NAVIGATIONAL;м видео позвонить горячая линия 88006007775;655;662;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;196973;marketplaces_retail;support_contacts;en
+NAVIGATIONAL;позвонить м видео горячая линия 88006007775;655;662;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;206092;marketplaces_retail;support_contacts;uk
+NAVIGATIONAL;горячая линия сфр московская область;574;1696;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;125913;state_services;support_contacts;ru
+NAVIGATIONAL;позвонить аэрофлот горячая линия;544;1352;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;83123;transport_travel;support_contacts;en
+NAVIGATIONAL;телефон поддержки лемана про горячая линия;650;679;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;208047;marketplaces_retail;support_contacts;ru
+NAVIGATIONAL;горячая линия теле2 номер телефона;550;2699;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;115302;telecom_internet;support_contacts;en
+NAVIGATIONAL;мфц горячая линия санкт петербург;561;2004;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;116185;state_services;support_contacts;uk
+NAVIGATIONAL;максим горячая линия такси;537;1285;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;87660;transport_travel;support_contacts;uk
+NAVIGATIONAL;горячая линия dns;549;2180;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;15976;marketplaces_retail;support_contacts;ru
+NAVIGATIONAL;телефон газпромнефть горячая линия бесплатно;556;1670;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;152392;housing_utilities;support_contacts;en
+NAVIGATIONAL;горячая линия рос телеком;550;679;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;35516;telecom_internet;support_contacts;uk
+NAVIGATIONAL;бургер кинг служба поддержки;532;1090;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;66947;regional_public;support_contacts;en
+NAVIGATIONAL;горячая линия леруа;507;5684;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;18653;marketplaces_retail;support_contacts;ru
+NAVIGATIONAL;телефон авито поддержки горячая линия;512;4193;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;156824;marketplaces_retail;support_contacts;en
+NAVIGATIONAL;таттелеком летай горячая линия;523;930;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;79522;telecom_internet;support_contacts;ru
+NAVIGATIONAL;горячая линия т2 связь с оператором;612;642;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;202171;telecom_internet;support_contacts;uk
+NAVIGATIONAL;связь с оператором т2 горячая линия;612;642;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;210207;telecom_internet;support_contacts;ru
+NAVIGATIONAL;т2 горячая линия с оператором связь;612;642;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;207074;telecom_internet;support_contacts;en
+NAVIGATIONAL;аэрофлот горячая линия позвонить;511;1260;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;90799;transport_travel;support_contacts;uk
+NAVIGATIONAL;номер телефона горячая линия пенсионного фонда;508;10124;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;213236;state_services;support_contacts;ru
+NAVIGATIONAL;сфр горячая линия по больничным листам;569;1044;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;179655;state_services;support_contacts;en
+NAVIGATIONAL;ask ivi ru служба поддержки;540;646;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;105383;regional_public;support_contacts;uk
+NAVIGATIONAL;номер телефона дом ру горячая линия;524;2687;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;196634;telecom_internet;support_contacts;ru
+NAVIGATIONAL;горячая линия департамент здравоохранения москвы;496;2241;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;163987;health;support_contacts;en
+NAVIGATIONAL;россетти горячая линия;495;2247;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;8575;housing_utilities;support_contacts;uk
+NAVIGATIONAL;электросети горячая линия сочи;487;963;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;91312;telecom_internet;support_contacts;en
+NAVIGATIONAL;вб горячая линия валдберис;471;1057;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;36767;marketplaces_retail;support_contacts;uk
+NAVIGATIONAL;номер телефона пенсионный фонд горячая линия;461;10124;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;193915;state_services;support_contacts;ru
+NAVIGATIONAL;летай таттелеком горячая линия;473;843;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;80928;telecom_internet;support_contacts;uk
+NAVIGATIONAL;горячая линия теле2 бесплатная;404;7943;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;39491;telecom_internet;support_contacts;en
+NAVIGATIONAL;горячая линия сибирские сети;450;1435;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;64581;telecom_internet;support_contacts;ru
+NAVIGATIONAL;сургутнефтегаз горячая линия;466;1578;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;11601;housing_utilities;support_contacts;ru
+NAVIGATIONAL;оператор т2 горячая линия;413;3284;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;49424;telecom_internet;support_contacts;uk
+NAVIGATIONAL;бесплатная горячая линия теле2;388;7906;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;93938;telecom_internet;support_contacts;en
+NAVIGATIONAL;азс газпромнефть горячая линия телефон бесплатно;527;553;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;204643;housing_utilities;support_contacts;ru
+NAVIGATIONAL;горячая линия сфр краснодарский край;465;1097;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;143490;state_services;support_contacts;en
+NAVIGATIONAL;горячая линия т 2 с мобильного;516;589;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;194584;telecom_internet;support_contacts;uk
+NAVIGATIONAL;рокет телеком горячая линия;425;1251;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;44667;telecom_internet;support_contacts;ru
+NAVIGATIONAL;минздрав краснодарского края горячая линия;435;1828;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;109003;health;support_contacts;en
+NAVIGATIONAL;сочи электросети горячая линия;426;858;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;88813;telecom_internet;support_contacts;uk
+NAVIGATIONAL;сдэк позвонить горячая линия сдэк;430;1909;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;147046;transport_travel;support_contacts;ru
+NAVIGATIONAL;контакты социальная сеть;401;5205;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;7253;state_services;support_contacts;uk
+NAVIGATIONAL;магнит косметик горячая линия;411;1084;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;58276;marketplaces_retail;support_contacts;en
+NAVIGATIONAL;горячая линия сфр днр;404;1011;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;49138;state_services;support_contacts;ru
+NAVIGATIONAL;горячая линия мфц номер телефона;385;3661;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;153141;state_services;support_contacts;en
+NAVIGATIONAL;горячая линия номер телефона мфц;385;3661;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;167115;state_services;support_contacts;uk
+NAVIGATIONAL;теле2 горячая линия бесплатно;340;8459;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;44373;telecom_internet;support_contacts;en
+NAVIGATIONAL;газпром горячая линия заправка;370;2033;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;87651;housing_utilities;support_contacts;ru
+NAVIGATIONAL;сфр горячая линия по пособиям;385;2730;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;109128;state_services;support_contacts;uk
+NAVIGATIONAL;горячая линия авито поддержка телефон бесплатно;432;1128;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;207221;marketplaces_retail;support_contacts;uk
+NAVIGATIONAL;авито служба поддержки номер телефона;398;1378;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;162414;marketplaces_retail;support_contacts;en
+NAVIGATIONAL;мфц горячая линия московская область;386;1906;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;112672;state_services;support_contacts;ru
+NAVIGATIONAL;аэрофлот горячая линия с мобильного;400;936;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;108689;transport_travel;support_contacts;ru
+NAVIGATIONAL;горячая линия мфц московской области;378;1852;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;115265;state_services;support_contacts;en
+NAVIGATIONAL;горячая линия для сотрудников пятерочки;380;1626;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;145395;marketplaces_retail;support_contacts;uk
+NAVIGATIONAL;горячая линия пятерочки для сотрудников;380;1626;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;114714;marketplaces_retail;support_contacts;ru
+NAVIGATIONAL;горячая линия по больничным листам сфр;424;815;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;209216;state_services;support_contacts;en
+NAVIGATIONAL;вк контакты моя страница;334;3820;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;41755;social_media;support_contacts;uk
+NAVIGATIONAL;айфон служба поддержки;372;1927;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;26940;regional_public;support_contacts;en
+NAVIGATIONAL;мах служба поддержки;387;1049;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;19582;regional_public;support_contacts;ru
+NAVIGATIONAL;днс горячая линия бесплатно телефон;359;2960;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;116075;marketplaces_retail;support_contacts;uk
+NAVIGATIONAL;сайт здоровье дона рф официальный запись к врачу;5642;6483;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;241180;health;named_site;uk
+NAVIGATIONAL;сайт энергосбыт луганск официальный лнр;2680;2770;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;149824;housing_utilities;named_site;en
+NAVIGATIONAL;победа сайт авиакомпании официальный;1374;265212;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;84132;transport_travel;named_site;ru
+NAVIGATIONAL;сайт вконтакте официальный;1619;6299;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;23281;social_media;named_site;ru
+NAVIGATIONAL;сайт толмачево новосибирск официальный аэропорт;1665;2756;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;151375;transport_travel;named_site;uk
+NAVIGATIONAL;сайт живика аптека официальный;1374;9655;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;78722;health;named_site;en
+NAVIGATIONAL;сайт рт ру ростелеком официальный;1513;3289;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;142194;telecom_internet;named_site;ru
+NAVIGATIONAL;снежная королева сайт интернет магазин официальный;1553;3407;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;203641;marketplaces_retail;named_site;en
+NAVIGATIONAL;сайт мфц ростов на дону официальный;1601;1925;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;204724;state_services;named_site;uk
+NAVIGATIONAL;фиолетто анапа сайт отель официальный;1499;1530;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;102777;tourism_hotels;named_site;ru
+NAVIGATIONAL;сайт купибилет авиабилеты официальный;1357;2173;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;83496;transport_travel;named_site;en
+NAVIGATIONAL;сайт мешок ру официальный интернет аукцион;1500;1849;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;185862;telecom_internet;named_site;uk
+NAVIGATIONAL;проверка авто сайт гибдд официальный;1229;7029;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;159058;state_services;named_site;ru
+NAVIGATIONAL;сайт с7 авиакомпания официальный;1214;2273;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;65618;transport_travel;named_site;uk
+NAVIGATIONAL;сайт даля луганск официальный университет;1241;4387;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;129408;education;named_site;en
+NAVIGATIONAL;сайт про докторов ростов на дону официальный;1457;1989;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;232299;health;named_site;ru
+NAVIGATIONAL;сайт уфаводоканал официальный уфа;1201;1506;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;83521;housing_utilities;named_site;uk
+NAVIGATIONAL;сайт фармленд екатеринбург официальный;1025;4157;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;86995;health;named_site;en
+NAVIGATIONAL;сайт росбилет ру официальный;1056;2285;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;87023;transport_travel;named_site;en
+NAVIGATIONAL;сайт фармленд официальный;947;27422;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;19637;health;named_site;uk
+NAVIGATIONAL;сайт лобачевского нижний новгород официальный;887;26819;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;160216;regional_public;named_site;ru
+NAVIGATIONAL;сайт мфц калининград официальный;992;1154;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;86486;state_services;named_site;ru
+NAVIGATIONAL;сайт кинотеатр ру официальный;983;1271;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;86718;culture_media;named_site;uk
+NAVIGATIONAL;сайт ростовводоканал ростов на дону официальный;1070;1527;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;206057;housing_utilities;named_site;en
+NAVIGATIONAL;сайт янтарьэнергосбыт калининград официальный;934;1402;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;81557;housing_utilities;named_site;ru
+NAVIGATIONAL;нижнеивкино сайт санаторий официальный;903;1081;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;89119;health;named_site;uk
+NAVIGATIONAL;сайт автовокзал краснодар 1 официальный;914;1632;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;157179;transport_travel;named_site;en
+NAVIGATIONAL;сайт витрина тв телемагазин официальный;904;1305;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;162991;marketplaces_retail;named_site;ru
+NAVIGATIONAL;сайт авторадио официальный;845;3114;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;22824;culture_media;named_site;en
+NAVIGATIONAL;сайт большого театра официальный;635;55871;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;39831;culture_media;named_site;uk
+NAVIGATIONAL;зипкидс сайт одежды официальный;827;831;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;32876;transport_travel;named_site;uk
+NAVIGATIONAL;сайт кижи музей заповедник официальный;859;995;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;159900;culture_media;named_site;ru
+NAVIGATIONAL;alo сайт одежда официальный;751;1970;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;82227;transport_travel;named_site;en
+NAVIGATIONAL;сайт корал клуб официальный;754;1741;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;90782;sports_leisure;named_site;en
+NAVIGATIONAL;сайт репетитор ру официальный;735;1044;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;82960;education;named_site;uk
+NAVIGATIONAL;дфу университет официальный владивосток сайт;779;825;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;103752;education;named_site;ru
+NAVIGATIONAL;сайт невис аптека официальный;658;3409;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;89060;health;named_site;ru
+NAVIGATIONAL;сайт тетрика официальный онлайн школа;760;843;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;158805;education;named_site;uk
+NAVIGATIONAL;сайт футбол на куличках официальный;710;1877;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;158439;sports_leisure;named_site;en
+NAVIGATIONAL;сайт южный ветер авиакомпания официальный на русском;815;1180;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;232651;transport_travel;named_site;ru
+NAVIGATIONAL;сайт леомакс интернет магазин официальный;642;3247;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;153504;marketplaces_retail;named_site;uk
+NAVIGATIONAL;сайт аэропорт южно сахалинск официальный;692;873;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;161595;transport_travel;named_site;en
+NAVIGATIONAL;сайт спбгуптд в санкт петербурге официальный;736;891;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;207860;education;named_site;en
+NAVIGATIONAL;сайт пттк пермь официальный;636;989;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;78587;telecom_internet;named_site;ru
+NAVIGATIONAL;лайм сайт одежды официальный;543;9396;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;35536;transport_travel;named_site;uk
+NAVIGATIONAL;сайт вальдберис магазин интернет магазин официальный;664;1726;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;182027;marketplaces_retail;named_site;ru
+NAVIGATIONAL;сайт иптд нижний новгород официальный;652;724;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;153573;regional_public;named_site;en
+NAVIGATIONAL;сайт сгпи железноводск официальный;582;1127;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;90830;transport_travel;named_site;uk
+NAVIGATIONAL;сайт аэропорта сочи официальный;441;57737;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;85084;transport_travel;named_site;ru
+NAVIGATIONAL;сайт радио спутник официальный;576;1052;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;86451;culture_media;named_site;uk
+NAVIGATIONAL;сайт аптеки апрель официальный;441;53986;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;85845;health;named_site;en
+NAVIGATIONAL;сайт семена алтая официальный интернет магазин;633;1653;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;205255;marketplaces_retail;named_site;en
+NAVIGATIONAL;днм сайт днс интернет магазин официальный;653;912;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;179020;marketplaces_retail;named_site;uk
+NAVIGATIONAL;сайт s7 airlines авиакомпания официальный;579;1992;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;158754;transport_travel;named_site;ru
+NAVIGATIONAL;сайт сахатранснефтегаз официальный якутск;573;740;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;88793;housing_utilities;named_site;uk
+NAVIGATIONAL;сайт алоэ аптека официальный;529;2344;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;92241;health;named_site;ru
+NAVIGATIONAL;сайт сзкэо издательство официальный;557;744;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;90444;culture_media;named_site;en
+NAVIGATIONAL;сайт днс екатеринбург официальный;545;1024;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;87734;marketplaces_retail;named_site;ru
+NAVIGATIONAL;сайт омскводоканал официальный омск;550;695;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;90473;housing_utilities;named_site;en
+NAVIGATIONAL;сайт водоканал иркутск официальный;525;1219;NAVIGATIONAL/bukvarix_NAVIGATIONAL.csv;86219;housing_utilities;named_site;uk
