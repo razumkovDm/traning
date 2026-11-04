@@ -1,0 +1,224 @@
+{
+  "class": "LOCAL",
+  "original_count": 900,
+  "kept_original": 668,
+  "replaced": 232,
+  "final_count": 900,
+  "source_rows": 50723,
+  "source_file": "LOCAL/bukvarix_LOCAL.csv",
+  "cohort_counts": {
+    "ru": 300,
+    "en": 300,
+    "uk": 300
+  },
+  "cohort_region_specific": {
+    "ru": 195,
+    "en": 43,
+    "uk": 42
+  },
+  "topic_counts": {
+    "address_culture": 18,
+    "address_education": 13,
+    "address_hotel": 7,
+    "address_leisure": 10,
+    "address_medical": 18,
+    "address_other_named": 8,
+    "address_parcel": 14,
+    "address_public": 10,
+    "address_retail": 14,
+    "address_transport": 28,
+    "directions": 90,
+    "landmark_map": 40,
+    "near_auto": 62,
+    "near_banks": 55,
+    "near_beauty": 44,
+    "near_dental": 6,
+    "near_education": 9,
+    "near_fitness": 16,
+    "near_food_drink": 42,
+    "near_home_services": 25,
+    "near_hotels": 13,
+    "near_leisure": 19,
+    "near_medical": 51,
+    "near_parcel": 43,
+    "near_parking": 1,
+    "near_pets": 18,
+    "near_public": 20,
+    "near_retail": 72,
+    "near_transport": 24,
+    "transit_city": 110
+  },
+  "topic_quota_adjustments": {
+    "near_dental": -4,
+    "near_leisure": -10,
+    "near_fitness": -4,
+    "near_hotels": -13,
+    "near_education": -6,
+    "near_auto": 10,
+    "near_parcel": 5,
+    "near_banks": 8,
+    "near_retail": 9,
+    "near_medical": 3,
+    "near_beauty": 2
+  },
+  "topic_by_language": {
+    "address_culture": {
+      "ru": 6,
+      "uk": 6,
+      "en": 6
+    },
+    "address_education": {
+      "ru": 4,
+      "uk": 4,
+      "en": 5
+    },
+    "address_hotel": {
+      "ru": 3,
+      "uk": 2,
+      "en": 2
+    },
+    "address_leisure": {
+      "ru": 3,
+      "uk": 4,
+      "en": 3
+    },
+    "address_medical": {
+      "ru": 6,
+      "uk": 6,
+      "en": 6
+    },
+    "address_other_named": {
+      "ru": 3,
+      "uk": 2,
+      "en": 3
+    },
+    "address_parcel": {
+      "ru": 5,
+      "uk": 5,
+      "en": 4
+    },
+    "address_public": {
+      "ru": 3,
+      "uk": 4,
+      "en": 3
+    },
+    "address_retail": {
+      "ru": 4,
+      "uk": 5,
+      "en": 5
+    },
+    "address_transport": {
+      "ru": 10,
+      "uk": 9,
+      "en": 9
+    },
+    "directions": {
+      "ru": 30,
+      "uk": 30,
+      "en": 30
+    },
+    "landmark_map": {
+      "ru": 13,
+      "uk": 13,
+      "en": 14
+    },
+    "near_auto": {
+      "ru": 20,
+      "uk": 21,
+      "en": 21
+    },
+    "near_banks": {
+      "ru": 19,
+      "uk": 18,
+      "en": 18
+    },
+    "near_beauty": {
+      "ru": 15,
+      "uk": 14,
+      "en": 15
+    },
+    "near_dental": {
+      "ru": 2,
+      "uk": 2,
+      "en": 2
+    },
+    "near_education": {
+      "ru": 3,
+      "uk": 3,
+      "en": 3
+    },
+    "near_fitness": {
+      "ru": 5,
+      "uk": 6,
+      "en": 5
+    },
+    "near_food_drink": {
+      "ru": 14,
+      "uk": 14,
+      "en": 14
+    },
+    "near_home_services": {
+      "ru": 8,
+      "uk": 9,
+      "en": 8
+    },
+    "near_hotels": {
+      "ru": 4,
+      "uk": 4,
+      "en": 5
+    },
+    "near_leisure": {
+      "ru": 7,
+      "uk": 6,
+      "en": 6
+    },
+    "near_medical": {
+      "ru": 17,
+      "uk": 17,
+      "en": 17
+    },
+    "near_parcel": {
+      "ru": 14,
+      "uk": 14,
+      "en": 15
+    },
+    "near_parking": {
+      "ru": 0,
+      "uk": 1,
+      "en": 0
+    },
+    "near_pets": {
+      "ru": 6,
+      "uk": 6,
+      "en": 6
+    },
+    "near_public": {
+      "ru": 7,
+      "uk": 6,
+      "en": 7
+    },
+    "near_retail": {
+      "ru": 24,
+      "uk": 24,
+      "en": 24
+    },
+    "near_transport": {
+      "ru": 8,
+      "uk": 8,
+      "en": 8
+    },
+    "transit_city": {
+      "ru": 37,
+      "uk": 37,
+      "en": 36
+    }
+  },
+  "group_style_counts": {
+    "address": 140,
+    "directions": 90,
+    "map_lookup": 40,
+    "near_me": 520,
+    "city_transit_route": 110
+  },
+  "potential_translation_caveat": "Many addresses, Russian city names, transit lines: translate intent-bearing words, preserve proper nouns, mark unnatural translations for review."
+}
