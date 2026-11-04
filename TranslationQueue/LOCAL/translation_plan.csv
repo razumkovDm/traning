@@ -1,0 +1,901 @@
+id;source_text;source_language;target_language;action;topic_group;intent_style;exact_frequency;broad_frequency;source_file;source_record;review_status;routing_reason;original_row_id;region_specific
+LOC-0001;адрес музей фаберже в санкт петербурге;ru;ru;KEEP_RU;address_culture;address;898;1857;LOCAL/bukvarix_LOCAL.csv;42873;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;580;yes
+LOC-0002;адрес вднх;ru;uk;TRANSLATE_UK;address_culture;address;728;7773;LOCAL/bukvarix_LOCAL.csv;877;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;583;no
+LOC-0003;адрес втб арена;ru;ru;KEEP_RU;address_culture;address;675;1473;LOCAL/bukvarix_LOCAL.csv;11078;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;582;yes
+LOC-0004;зоопарк пермь новый адрес;ru;ru;KEEP_RU;address_culture;address;444;1014;LOCAL/bukvarix_LOCAL.csv;16728;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;584;yes
+LOC-0005;музей фаберже адрес;ru;en;TRANSLATE_EN;address_culture;address;444;2848;LOCAL/bukvarix_LOCAL.csv;3138;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0006;эрмитаж адрес;ru;uk;TRANSLATE_UK;address_culture;address;440;3808;LOCAL/bukvarix_LOCAL.csv;349;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0007;эрмитаж санкт петербург адрес;ru;ru;KEEP_RU;address_culture;address;427;928;LOCAL/bukvarix_LOCAL.csv;16386;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;585;yes
+LOC-0008;театр современник адрес;ru;en;TRANSLATE_EN;address_culture;address;419;888;LOCAL/bukvarix_LOCAL.csv;3453;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0009;зоопарк адрес екатеринбург;ru;ru;KEEP_RU;address_culture;address;414;1505;LOCAL/bukvarix_LOCAL.csv;11357;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;588;yes
+LOC-0010;вахтангова театр адрес;ru;uk;TRANSLATE_UK;address_culture;address;399;1207;LOCAL/bukvarix_LOCAL.csv;10731;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0011;адрес екатеринбург арена;ru;ru;KEEP_RU;address_culture;address;392;933;LOCAL/bukvarix_LOCAL.csv;11378;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;590;yes
+LOC-0012;ривьера казань аквапарк адрес;ru;en;TRANSLATE_EN;address_culture;address;389;580;LOCAL/bukvarix_LOCAL.csv;21931;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";587;yes
+LOC-0013;ска арена адрес санкт петербург;ru;uk;TRANSLATE_UK;address_culture;address;379;549;LOCAL/bukvarix_LOCAL.csv;35575;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";591;yes
+LOC-0014;зоопарк адрес санкт петербург;ru;uk;TRANSLATE_UK;address_culture;address;370;1550;LOCAL/bukvarix_LOCAL.csv;25481;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";589;yes
+LOC-0015;адрес геленджик арена;ru;en;TRANSLATE_EN;address_culture;address;362;491;LOCAL/bukvarix_LOCAL.csv;10266;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;593;no
+LOC-0016;театр эстрады адрес;ru;en;TRANSLATE_EN;address_culture;address;362;1236;LOCAL/bukvarix_LOCAL.csv;3378;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0017;адрес большой театр;ru;uk;TRANSLATE_UK;address_culture;address;333;2223;LOCAL/bukvarix_LOCAL.csv;12122;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0018;санкт петербург русский музей адрес;ru;en;TRANSLATE_EN;address_culture;address;323;846;LOCAL/bukvarix_LOCAL.csv;36292;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";597;yes
+LOC-0019;школа 63 липецк адрес;ru;ru;KEEP_RU;address_education;address;3260;3931;LOCAL/bukvarix_LOCAL.csv;13546;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;567;yes
+LOC-0020;ранхигс адрес;ru;en;TRANSLATE_EN;address_education;address;1115;16727;LOCAL/bukvarix_LOCAL.csv;140;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;569;no
+LOC-0021;школа 1409 адрес;ru;en;TRANSLATE_EN;address_education;address;1093;3566;LOCAL/bukvarix_LOCAL.csv;2664;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;568;no
+LOC-0022;рудн адрес;ru;uk;TRANSLATE_UK;address_education;address;1055;5183;LOCAL/bukvarix_LOCAL.csv;160;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;570;no
+LOC-0023;57 школа чебоксары адрес;ru;ru;KEEP_RU;address_education;address;494;560;LOCAL/bukvarix_LOCAL.csv;15868;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;571;yes
+LOC-0024;школа 48 воронеж адрес;ru;ru;KEEP_RU;address_education;address;463;542;LOCAL/bukvarix_LOCAL.csv;15635;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;572;yes
+LOC-0025;ранхигс колледж адрес;ru;uk;TRANSLATE_UK;address_education;address;415;2849;LOCAL/bukvarix_LOCAL.csv;4899;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;579;no
+LOC-0026;47 школа нижний новгород адрес;ru;ru;KEEP_RU;address_education;address;399;477;LOCAL/bukvarix_LOCAL.csv;34795;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;573;yes
+LOC-0027;финансовый университет при правительстве рф адрес;ru;uk;TRANSLATE_UK;address_education;address;382;2960;LOCAL/bukvarix_LOCAL.csv;39069;REPLACEMENT_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";;yes
+LOC-0028;университет синергия адрес;ru;en;TRANSLATE_EN;address_education;address;380;3942;LOCAL/bukvarix_LOCAL.csv;4009;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0029;51 школа калуга адрес;ru;en;TRANSLATE_EN;address_education;address;369;484;LOCAL/bukvarix_LOCAL.csv;18549;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";574;yes
+LOC-0030;сеченовский университет адрес;ru;en;TRANSLATE_EN;address_education;address;360;2033;LOCAL/bukvarix_LOCAL.csv;3333;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0031;школа поколение краснодар адрес;ru;uk;TRANSLATE_UK;address_education;address;328;470;LOCAL/bukvarix_LOCAL.csv;15346;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";576;yes
+LOC-0032;октябрьская гостиница санкт петербург адрес;ru;ru;KEEP_RU;address_hotel;address;196;299;LOCAL/bukvarix_LOCAL.csv;37401;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;647;yes
+LOC-0033;санкт петербург отель адрес;ru;ru;KEEP_RU;address_hotel;address;155;4593;LOCAL/bukvarix_LOCAL.csv;26086;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;648;yes
+LOC-0034;гостиница санкт петербург адрес;ru;ru;KEEP_RU;address_hotel;address;120;3552;LOCAL/bukvarix_LOCAL.csv;18666;REPLACEMENT_RULE_CHECKED;Russia/CIS-specific destination assigned RU;;yes
+LOC-0035;отель гранд анапа адрес;ru;uk;TRANSLATE_UK;address_hotel;address;114;190;LOCAL/bukvarix_LOCAL.csv;28783;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";649;yes
+LOC-0036;фиолето анапа адрес отель;ru;uk;TRANSLATE_UK;address_hotel;address;112;143;LOCAL/bukvarix_LOCAL.csv;23544;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";650;yes
+LOC-0037;санкт петербург гостиница россия адрес;ru;en;TRANSLATE_EN;address_hotel;address;105;184;LOCAL/bukvarix_LOCAL.csv;37594;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";652;yes
+LOC-0038;зенит анапа отель адрес;ru;en;TRANSLATE_EN;address_hotel;address;101;145;LOCAL/bukvarix_LOCAL.csv;26614;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";651;yes
+LOC-0039;адрес парк галицкого в краснодаре;ru;ru;KEEP_RU;address_leisure;address;2163;3736;LOCAL/bukvarix_LOCAL.csv;34199;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;636;yes
+LOC-0040;сочи парк адрес;ru;ru;KEEP_RU;address_leisure;address;779;3861;LOCAL/bukvarix_LOCAL.csv;2793;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;638;yes
+LOC-0041;парк сосенки в царицыно адрес;ru;en;TRANSLATE_EN;address_leisure;address;683;980;LOCAL/bukvarix_LOCAL.csv;30315;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;642;no
+LOC-0042;адрес парк патриот;ru;uk;TRANSLATE_UK;address_leisure;address;609;2396;LOCAL/bukvarix_LOCAL.csv;11244;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0043;парк гулливер донецк адрес;ru;en;TRANSLATE_EN;address_leisure;address;467;732;LOCAL/bukvarix_LOCAL.csv;14618;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0044;санкт петербург ботанический сад адрес;ru;ru;KEEP_RU;address_leisure;address;457;1375;LOCAL/bukvarix_LOCAL.csv;36588;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;644;yes
+LOC-0045;исторический сквер екатеринбург адрес;ru;uk;TRANSLATE_UK;address_leisure;address;447;563;LOCAL/bukvarix_LOCAL.csv;14355;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";643;yes
+LOC-0046;адрес мазапарк казань;ru;en;TRANSLATE_EN;address_leisure;address;444;558;LOCAL/bukvarix_LOCAL.csv;10750;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";645;yes
+LOC-0047;парк 300 летия санкт петербурга адрес;ru;uk;TRANSLATE_UK;address_leisure;address;375;545;LOCAL/bukvarix_LOCAL.csv;39058;REPLACEMENT_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";;yes
+LOC-0048;адрес парк горького;ru;uk;TRANSLATE_UK;address_leisure;address;322;2560;LOCAL/bukvarix_LOCAL.csv;10892;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0049;уфа больница 22 адрес;ru;ru;KEEP_RU;address_medical;address;498;748;LOCAL/bukvarix_LOCAL.csv;24090;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;551;yes
+LOC-0050;бсмп 2 адрес ростов на дону;ru;ru;KEEP_RU;address_medical;address;401;624;LOCAL/bukvarix_LOCAL.csv;43085;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;553;yes
+LOC-0051;больница мариинская санкт петербург адрес;ru;ru;KEEP_RU;address_medical;address;365;689;LOCAL/bukvarix_LOCAL.csv;36524;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;554;yes
+LOC-0052;33 больница нижний новгород адрес;ru;ru;KEEP_RU;address_medical;address;336;514;LOCAL/bukvarix_LOCAL.csv;32472;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;556;yes
+LOC-0053;областная больница ростов на дону 2 адрес;ru;ru;KEEP_RU;address_medical;address;328;621;LOCAL/bukvarix_LOCAL.csv;47429;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;564;yes
+LOC-0054;областная больница адрес челябинск;ru;ru;KEEP_RU;address_medical;address;303;950;LOCAL/bukvarix_LOCAL.csv;26146;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;559;yes
+LOC-0055;екатеринбург 23 больница адрес;ru;uk;TRANSLATE_UK;address_medical;address;300;587;LOCAL/bukvarix_LOCAL.csv;26496;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";560;yes
+LOC-0056;саратов 3 советская больница адрес;ru;en;TRANSLATE_EN;address_medical;address;297;547;LOCAL/bukvarix_LOCAL.csv;36078;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";562;yes
+LOC-0057;рдкб уфа адрес детская больница;ru;en;TRANSLATE_EN;address_medical;address;281;334;LOCAL/bukvarix_LOCAL.csv;31095;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";563;yes
+LOC-0058;адрес бсмп красноярск;ru;uk;TRANSLATE_UK;address_medical;address;249;480;LOCAL/bukvarix_LOCAL.csv;11018;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";565;yes
+LOC-0059;покровская больница санкт петербург адрес;ru;uk;TRANSLATE_UK;address_medical;address;239;404;LOCAL/bukvarix_LOCAL.csv;31226;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";566;yes
+LOC-0060;краснодар 5 роддом адрес;ru;en;TRANSLATE_EN;address_medical;address;234;345;LOCAL/bukvarix_LOCAL.csv;24767;REPLACEMENT_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";;yes
+LOC-0061;25 больница волгоград адрес;ru;en;TRANSLATE_EN;address_medical;address;217;413;LOCAL/bukvarix_LOCAL.csv;16691;REPLACEMENT_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";;yes
+LOC-0062;елизаветинская больница санкт петербург адрес;ru;uk;TRANSLATE_UK;address_medical;address;213;438;LOCAL/bukvarix_LOCAL.csv;31903;REPLACEMENT_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";;yes
+LOC-0063;калуга бсмп адрес;ru;uk;TRANSLATE_UK;address_medical;address;201;365;LOCAL/bukvarix_LOCAL.csv;10762;REPLACEMENT_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";;yes
+LOC-0064;ростов на дону 20 больница адрес;ru;en;TRANSLATE_EN;address_medical;address;196;485;LOCAL/bukvarix_LOCAL.csv;43811;REPLACEMENT_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";;yes
+LOC-0065;электроника больница воронеж адрес;ru;uk;TRANSLATE_UK;address_medical;address;195;408;LOCAL/bukvarix_LOCAL.csv;25218;REPLACEMENT_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";;yes
+LOC-0066;бсмп воронеж адрес;ru;en;TRANSLATE_EN;address_medical;address;182;623;LOCAL/bukvarix_LOCAL.csv;5984;REPLACEMENT_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";;yes
+LOC-0067;юсуповский дворец в санкт петербурге адрес;ru;ru;KEEP_RU;address_other_named;address;558;1096;LOCAL/bukvarix_LOCAL.csv;38942;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;653;yes
+LOC-0068;дворец впечатлений казань адрес;ru;ru;KEEP_RU;address_other_named;address;458;660;LOCAL/bukvarix_LOCAL.csv;14475;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;654;yes
+LOC-0069;юсуповский дворец адрес;ru;uk;TRANSLATE_UK;address_other_named;address;275;1851;LOCAL/bukvarix_LOCAL.csv;3921;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;656;no
+LOC-0070;уфа дворец борьбы адрес;ru;ru;KEEP_RU;address_other_named;address;247;388;LOCAL/bukvarix_LOCAL.csv;23815;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;655;yes
+LOC-0071;дворец на яузе адрес;ru;en;TRANSLATE_EN;address_other_named;address;204;449;LOCAL/bukvarix_LOCAL.csv;15913;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;660;no
+LOC-0072;спортивный квартал архангел михаил екатеринбург адрес;ru;en;TRANSLATE_EN;address_other_named;address;172;211;LOCAL/bukvarix_LOCAL.csv;39862;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";659;yes
+LOC-0073;адрес дворец молодежи екатеринбург;ru;uk;TRANSLATE_UK;address_other_named;address;167;266;LOCAL/bukvarix_LOCAL.csv;28326;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";657;yes
+LOC-0074;адрес дворец молодежи уфа;ru;en;TRANSLATE_EN;address_other_named;address;148;205;LOCAL/bukvarix_LOCAL.csv;28354;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";658;yes
+LOC-0075;склад вб краснодар адрес;ru;ru;KEEP_RU;address_parcel;address;2262;5802;LOCAL/bukvarix_LOCAL.csv;13624;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;612;yes
+LOC-0076;электросталь вб склад адрес;ru;uk;TRANSLATE_UK;address_parcel;address;1874;2685;LOCAL/bukvarix_LOCAL.csv;14206;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;615;no
+LOC-0077;вайлдберриз склад пенза адрес;ru;en;TRANSLATE_EN;address_parcel;address;1836;3780;LOCAL/bukvarix_LOCAL.csv;18528;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;613;no
+LOC-0078;склад вб волгоград адрес;ru;ru;KEEP_RU;address_parcel;address;1433;2398;LOCAL/bukvarix_LOCAL.csv;13762;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;614;yes
+LOC-0079;адрес сдэк;ru;uk;TRANSLATE_UK;address_parcel;address;1325;229507;LOCAL/bukvarix_LOCAL.csv;102;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;620;no
+LOC-0080;оренбург склад озон адрес;ru;ru;KEEP_RU;address_parcel;address;935;1568;LOCAL/bukvarix_LOCAL.csv;18268;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;618;yes
+LOC-0081;рязань вб склад адрес;ru;ru;KEEP_RU;address_parcel;address;753;1684;LOCAL/bukvarix_LOCAL.csv;18206;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;622;yes
+LOC-0082;склад вб воронеж адрес;ru;ru;KEEP_RU;address_parcel;address;701;1227;LOCAL/bukvarix_LOCAL.csv;14471;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;624;yes
+LOC-0083;петровское озон склад адрес;ru;en;TRANSLATE_EN;address_parcel;address;693;782;LOCAL/bukvarix_LOCAL.csv;20868;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0084;склад валберис пенза адрес;ru;uk;TRANSLATE_UK;address_parcel;address;692;1033;LOCAL/bukvarix_LOCAL.csv;14024;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";625;yes
+LOC-0085;озон склад гривно адрес;ru;uk;TRANSLATE_UK;address_parcel;address;564;788;LOCAL/bukvarix_LOCAL.csv;22847;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0086;склад озон краснодар адрес на карте;ru;en;TRANSLATE_EN;address_parcel;address;517;812;LOCAL/bukvarix_LOCAL.csv;38933;REPLACEMENT_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";;yes
+LOC-0087;адрес сдэк луганск;ru;en;TRANSLATE_EN;address_parcel;address;448;1663;LOCAL/bukvarix_LOCAL.csv;10588;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0088;адрес озон;ru;uk;TRANSLATE_UK;address_parcel;address;276;118447;LOCAL/bukvarix_LOCAL.csv;1189;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0089;адрес мфц;ru;ru;KEEP_RU;address_public;address;649;143973;LOCAL/bukvarix_LOCAL.csv;915;REPLACEMENT_RULE_CHECKED;Russia/CIS-specific destination assigned RU;;yes
+LOC-0090;верховный суд рф адрес;ru;ru;KEEP_RU;address_public;address;599;2460;LOCAL/bukvarix_LOCAL.csv;14112;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;627;yes
+LOC-0091;фнс россии адрес;ru;ru;KEEP_RU;address_public;address;368;3648;LOCAL/bukvarix_LOCAL.csv;3558;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;633;yes
+LOC-0092;арбитражный суд краснодарского края адрес;ru;uk;TRANSLATE_UK;address_public;address;367;585;LOCAL/bukvarix_LOCAL.csv;30705;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";628;yes
+LOC-0093;адрес арбитражный суд свердловской области;ru;en;TRANSLATE_EN;address_public;address;354;715;LOCAL/bukvarix_LOCAL.csv;37365;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;634;no
+LOC-0094;арбитражный суд орловской области официальный сайт адрес;ru;uk;TRANSLATE_UK;address_public;address;334;334;LOCAL/bukvarix_LOCAL.csv;44563;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0095;адрес арбитражный суд ростовской области;ru;en;TRANSLATE_EN;address_public;address;308;556;LOCAL/bukvarix_LOCAL.csv;37238;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";630;yes
+LOC-0096;арбитражный суд нижегородской области адрес;ru;uk;TRANSLATE_UK;address_public;address;285;439;LOCAL/bukvarix_LOCAL.csv;30966;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0097;арбитражный суд самарской области адрес;ru;en;TRANSLATE_EN;address_public;address;267;375;LOCAL/bukvarix_LOCAL.csv;31074;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";632;yes
+LOC-0098;адрес фнс;ru;uk;TRANSLATE_UK;address_public;address;211;21041;LOCAL/bukvarix_LOCAL.csv;1772;REPLACEMENT_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";;yes
+LOC-0099;челябинск золотое яблоко адрес;ru;ru;KEEP_RU;address_retail;address;404;574;LOCAL/bukvarix_LOCAL.csv;21814;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;599;yes
+LOC-0100;лемана про нижний новгород адрес;ru;ru;KEEP_RU;address_retail;address;315;427;LOCAL/bukvarix_LOCAL.csv;31077;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;601;yes
+LOC-0101;казань мега адрес;ru;ru;KEEP_RU;address_retail;address;308;849;LOCAL/bukvarix_LOCAL.csv;10265;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;603;yes
+LOC-0102;самара золотое яблоко адрес;ru;ru;KEEP_RU;address_retail;address;289;555;LOCAL/bukvarix_LOCAL.csv;20666;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;602;yes
+LOC-0103;тц белая дача адрес;ru;uk;TRANSLATE_UK;address_retail;address;287;793;LOCAL/bukvarix_LOCAL.csv;15083;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0104;адрес галерея краснодар;ru;en;TRANSLATE_EN;address_retail;address;285;914;LOCAL/bukvarix_LOCAL.csv;9829;REPLACEMENT_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";;yes
+LOC-0105;авиапарк тц адрес;ru;uk;TRANSLATE_UK;address_retail;address;284;791;LOCAL/bukvarix_LOCAL.csv;7958;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0106;казань золотое яблоко адрес;ru;uk;TRANSLATE_UK;address_retail;address;277;786;LOCAL/bukvarix_LOCAL.csv;23464;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";604;yes
+LOC-0107;иркутск золотое яблоко адрес;ru;en;TRANSLATE_EN;address_retail;address;272;451;LOCAL/bukvarix_LOCAL.csv;22726;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";606;yes
+LOC-0108;золотое яблоко краснодар адрес;ru;uk;TRANSLATE_UK;address_retail;address;264;738;LOCAL/bukvarix_LOCAL.csv;15546;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";607;yes
+LOC-0109;уфа золотое яблоко адрес;ru;en;TRANSLATE_EN;address_retail;address;252;579;LOCAL/bukvarix_LOCAL.csv;24009;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";608;yes
+LOC-0110;тц галерея санкт петербург адрес;ru;en;TRANSLATE_EN;address_retail;address;251;387;LOCAL/bukvarix_LOCAL.csv;31404;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";611;yes
+LOC-0111;ярославль золотое яблоко адрес;ru;en;TRANSLATE_EN;address_retail;address;238;597;LOCAL/bukvarix_LOCAL.csv;22308;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;609;no
+LOC-0112;геленджик золотое яблоко адрес;ru;uk;TRANSLATE_UK;address_retail;address;234;544;LOCAL/bukvarix_LOCAL.csv;24109;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;610;no
+LOC-0113;сочи аэропорт адрес;ru;ru;KEEP_RU;address_transport;address;790;1892;LOCAL/bukvarix_LOCAL.csv;7470;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;522;yes
+LOC-0114;жд вокзал анапа адрес;ru;ru;KEEP_RU;address_transport;address;789;1280;LOCAL/bukvarix_LOCAL.csv;14389;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;521;yes
+LOC-0115;самара жд вокзал адрес;ru;ru;KEEP_RU;address_transport;address;628;1229;LOCAL/bukvarix_LOCAL.csv;16847;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;523;yes
+LOC-0116;новороссийск жд вокзал адрес;ru;uk;TRANSLATE_UK;address_transport;address;579;1277;LOCAL/bukvarix_LOCAL.csv;16150;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;524;no
+LOC-0117;уфа жд вокзал адрес;ru;ru;KEEP_RU;address_transport;address;561;961;LOCAL/bukvarix_LOCAL.csv;17711;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;525;yes
+LOC-0118;шереметьево аэропорт адрес;ru;en;TRANSLATE_EN;address_transport;address;530;1699;LOCAL/bukvarix_LOCAL.csv;7891;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;539;no
+LOC-0119;жд вокзал екатеринбург адрес;ru;ru;KEEP_RU;address_transport;address;507;1242;LOCAL/bukvarix_LOCAL.csv;14624;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;526;yes
+LOC-0120;сочи жд вокзал адрес;ru;ru;KEEP_RU;address_transport;address;493;996;LOCAL/bukvarix_LOCAL.csv;17597;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;527;yes
+LOC-0121;адрес симферополь жд вокзал;ru;uk;TRANSLATE_UK;address_transport;address;479;1029;LOCAL/bukvarix_LOCAL.csv;26389;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;528;no
+LOC-0122;краснодар аэропорт адрес;ru;ru;KEEP_RU;address_transport;address;463;1261;LOCAL/bukvarix_LOCAL.csv;7608;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;531;yes
+LOC-0123;главный автовокзал ростов на дону адрес;ru;ru;KEEP_RU;address_transport;address;452;760;LOCAL/bukvarix_LOCAL.csv;39430;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;533;yes
+LOC-0124;столичный автовокзал казань адрес;ru;ru;KEEP_RU;address_transport;address;450;599;LOCAL/bukvarix_LOCAL.csv;20340;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;529;yes
+LOC-0125;адрес жд вокзал адлер;ru;ru;KEEP_RU;address_transport;address;446;935;LOCAL/bukvarix_LOCAL.csv;22714;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;530;yes
+LOC-0126;саратов автовокзал адрес;ru;en;TRANSLATE_EN;address_transport;address;426;1124;LOCAL/bukvarix_LOCAL.csv;8073;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";532;yes
+LOC-0127;пермь автовокзал адрес;ru;en;TRANSLATE_EN;address_transport;address;412;939;LOCAL/bukvarix_LOCAL.csv;7738;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";534;yes
+LOC-0128;вокзал воронеж 1 адрес жд;ru;uk;TRANSLATE_UK;address_transport;address;400;775;LOCAL/bukvarix_LOCAL.csv;36711;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";535;yes
+LOC-0129;казанский вокзал адрес;ru;uk;TRANSLATE_UK;address_transport;address;400;1974;LOCAL/bukvarix_LOCAL.csv;3227;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";536;yes
+LOC-0130;казань аэропорт адрес;ru;en;TRANSLATE_EN;address_transport;address;388;961;LOCAL/bukvarix_LOCAL.csv;7994;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";537;yes
+LOC-0131;автовокзал пригородный ростов на дону адрес;ru;uk;TRANSLATE_UK;address_transport;address;380;701;LOCAL/bukvarix_LOCAL.csv;41590;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";543;yes
+LOC-0132;краснодар вокзал краснодар 1 адрес;ru;en;TRANSLATE_EN;address_transport;address;378;883;LOCAL/bukvarix_LOCAL.csv;37650;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";540;yes
+LOC-0133;южный автовокзал уфа адрес;ru;uk;TRANSLATE_UK;address_transport;address;358;571;LOCAL/bukvarix_LOCAL.csv;16239;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";538;yes
+LOC-0134;южный автовокзал екатеринбург адрес;ru;en;TRANSLATE_EN;address_transport;address;343;587;LOCAL/bukvarix_LOCAL.csv;15761;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";541;yes
+LOC-0135;тюмень жд вокзал адрес;ru;uk;TRANSLATE_UK;address_transport;address;341;605;LOCAL/bukvarix_LOCAL.csv;20632;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";542;yes
+LOC-0136;ростов жд вокзал адрес главный;ru;en;TRANSLATE_EN;address_transport;address;329;990;LOCAL/bukvarix_LOCAL.csv;36698;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";546;yes
+LOC-0137;красноярск жд вокзал адрес;ru;en;TRANSLATE_EN;address_transport;address;322;684;LOCAL/bukvarix_LOCAL.csv;21983;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";544;yes
+LOC-0138;новосибирск жд вокзал адрес;ru;uk;TRANSLATE_UK;address_transport;address;321;1158;LOCAL/bukvarix_LOCAL.csv;21151;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";545;yes
+LOC-0139;центральный автовокзал воронеж адрес;ru;en;TRANSLATE_EN;address_transport;address;297;541;LOCAL/bukvarix_LOCAL.csv;17431;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";547;yes
+LOC-0140;жд вокзал ижевск адрес;ru;uk;TRANSLATE_UK;address_transport;address;290;444;LOCAL/bukvarix_LOCAL.csv;16016;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";548;yes
+LOC-0141;как добраться до петергофа из санкт петербурга самостоятельно;ru;ru;KEEP_RU;directions;directions;4083;5663;LOCAL/bukvarix_LOCAL.csv;47991;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;772;yes
+LOC-0142;как добраться до петергофа;ru;en;TRANSLATE_EN;directions;directions;3667;25061;LOCAL/bukvarix_LOCAL.csv;13460;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;771;no
+LOC-0143;как добраться до шереметьево;ru;uk;TRANSLATE_UK;directions;directions;2974;68304;LOCAL/bukvarix_LOCAL.csv;13514;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;773;no
+LOC-0144;как добраться до советской улицы;ru;en;TRANSLATE_EN;directions;directions;2656;3144;LOCAL/bukvarix_LOCAL.csv;30157;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;774;no
+LOC-0145;как добраться до петергофа из санкт петербурга;ru;ru;KEEP_RU;directions;directions;2401;9645;LOCAL/bukvarix_LOCAL.csv;44311;REPLACEMENT_RULE_CHECKED;Russia/CIS-specific destination assigned RU;;yes
+LOC-0146;как добраться до аэропорта шереметьево;ru;uk;TRANSLATE_UK;directions;directions;1480;20272;LOCAL/bukvarix_LOCAL.csv;30209;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;776;no
+LOC-0147;как добраться до абхазии;ru;en;TRANSLATE_EN;directions;directions;1457;17659;LOCAL/bukvarix_LOCAL.csv;13645;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;775;no
+LOC-0148;как добраться из тбилиси в батуми;ru;uk;TRANSLATE_UK;directions;directions;1279;1813;LOCAL/bukvarix_LOCAL.csv;38880;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;778;no
+LOC-0149;с шереметьево до казанского вокзала как добраться;ru;ru;KEEP_RU;directions;directions;1266;3040;LOCAL/bukvarix_LOCAL.csv;46433;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;781;yes
+LOC-0150;как добраться до кронштадта из санкт петербурга;ru;ru;KEEP_RU;directions;directions;1251;2652;LOCAL/bukvarix_LOCAL.csv;44329;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;782;yes
+LOC-0151;голубые озера татарстан как добраться;ru;en;TRANSLATE_EN;directions;directions;1172;1229;LOCAL/bukvarix_LOCAL.csv;30215;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;779;no
+LOC-0152;парк хуамин как добраться;ru;uk;TRANSLATE_UK;directions;directions;1099;4170;LOCAL/bukvarix_LOCAL.csv;13766;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;777;no
+LOC-0153;с ярославского вокзала до шереметьево как добраться;ru;en;TRANSLATE_EN;directions;directions;1030;2100;LOCAL/bukvarix_LOCAL.csv;46199;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;791;no
+LOC-0154;ксения петербургская как добраться в питере;ru;ru;KEEP_RU;directions;directions;1023;1276;LOCAL/bukvarix_LOCAL.csv;38832;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;788;yes
+LOC-0155;как добраться до калининграда;ru;en;TRANSLATE_EN;directions;directions;1015;19119;LOCAL/bukvarix_LOCAL.csv;13786;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;780;no
+LOC-0156;как добраться до аэропорта внуково;ru;uk;TRANSLATE_UK;directions;directions;1014;12690;LOCAL/bukvarix_LOCAL.csv;30238;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;785;no
+LOC-0157;как добраться до аэропорта домодедово;ru;en;TRANSLATE_EN;directions;directions;994;10178;LOCAL/bukvarix_LOCAL.csv;30286;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;786;no
+LOC-0158;аптекарский огород как добраться;ru;uk;TRANSLATE_UK;directions;directions;983;2257;LOCAL/bukvarix_LOCAL.csv;13794;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;783;no
+LOC-0159;дивеевский монастырь как добраться;ru;en;TRANSLATE_EN;directions;directions;918;1385;LOCAL/bukvarix_LOCAL.csv;13831;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;787;no
+LOC-0160;с шереметьево до павелецкого вокзала как добраться;ru;uk;TRANSLATE_UK;directions;directions;913;1995;LOCAL/bukvarix_LOCAL.csv;46720;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;794;no
+LOC-0161;как добраться до геленджика;ru;uk;TRANSLATE_UK;directions;directions;872;19360;LOCAL/bukvarix_LOCAL.csv;13861;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;789;no
+LOC-0162;сочи геленджик как добраться;ru;ru;KEEP_RU;directions;directions;857;3490;LOCAL/bukvarix_LOCAL.csv;14210;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;790;yes
+LOC-0163;как добраться из выборга до санкт петербурга;ru;ru;KEEP_RU;directions;directions;828;1555;LOCAL/bukvarix_LOCAL.csv;47010;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;802;yes
+LOC-0164;усадьба архангельское как добраться;ru;en;TRANSLATE_EN;directions;directions;812;2311;LOCAL/bukvarix_LOCAL.csv;13987;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;792;no
+LOC-0165;как добраться до геленджика на поезде;ru;uk;TRANSLATE_UK;directions;directions;776;3210;LOCAL/bukvarix_LOCAL.csv;38901;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0166;как добраться с восточного вокзала до шереметьево;ru;en;TRANSLATE_EN;directions;directions;760;2072;LOCAL/bukvarix_LOCAL.csv;44557;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0167;с ленинградского вокзала до шереметьево как добраться;ru;uk;TRANSLATE_UK;directions;directions;742;1560;LOCAL/bukvarix_LOCAL.csv;46332;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;809;no
+LOC-0168;музей заповедник царицыно как добраться;ru;en;TRANSLATE_EN;directions;directions;727;1484;LOCAL/bukvarix_LOCAL.csv;30325;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;797;no
+LOC-0169;зеленый театр вднх как добраться;ru;en;TRANSLATE_EN;directions;directions;721;1201;LOCAL/bukvarix_LOCAL.csv;30326;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;798;no
+LOC-0170;как добраться до крыма;ru;uk;TRANSLATE_UK;directions;directions;689;10442;LOCAL/bukvarix_LOCAL.csv;14023;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;795;no
+LOC-0171;как добраться до садовода;ru;en;TRANSLATE_EN;directions;directions;674;6204;LOCAL/bukvarix_LOCAL.csv;14013;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;796;no
+LOC-0172;как добраться из калининграда в зеленоградск;ru;uk;TRANSLATE_UK;directions;directions;664;1381;LOCAL/bukvarix_LOCAL.csv;38926;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;812;no
+LOC-0173;как добраться до архыза;ru;en;TRANSLATE_EN;directions;directions;660;3951;LOCAL/bukvarix_LOCAL.csv;14017;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;800;no
+LOC-0174;краснодар геленджик как добраться;ru;ru;KEEP_RU;directions;directions;660;2593;LOCAL/bukvarix_LOCAL.csv;14237;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;801;yes
+LOC-0175;как добраться до дивеево;ru;uk;TRANSLATE_UK;directions;directions;654;7509;LOCAL/bukvarix_LOCAL.csv;14026;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0176;из питера до петергофа как добраться;ru;ru;KEEP_RU;directions;directions;652;1304;LOCAL/bukvarix_LOCAL.csv;42588;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;815;yes
+LOC-0177;с шереметьево до курского вокзала как добраться;ru;en;TRANSLATE_EN;directions;directions;646;1323;LOCAL/bukvarix_LOCAL.csv;46884;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;820;no
+LOC-0178;как добраться из шереметьево в домодедово;ru;uk;TRANSLATE_UK;directions;directions;645;1064;LOCAL/bukvarix_LOCAL.csv;39532;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;817;no
+LOC-0179;с шереметьево до киевского вокзала как добраться;ru;en;TRANSLATE_EN;directions;directions;643;1549;LOCAL/bukvarix_LOCAL.csv;47072;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;821;no
+LOC-0180;парк зарядье как добраться;ru;uk;TRANSLATE_UK;directions;directions;634;2780;LOCAL/bukvarix_LOCAL.csv;14071;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;803;no
+LOC-0181;остров мечты парк развлечений как добраться;ru;en;TRANSLATE_EN;directions;directions;620;672;LOCAL/bukvarix_LOCAL.csv;38885;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;818;no
+LOC-0182;крепость орешек как добраться;ru;uk;TRANSLATE_UK;directions;directions;613;2790;LOCAL/bukvarix_LOCAL.csv;14109;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;805;no
+LOC-0183;как добраться до анапы;ru;ru;KEEP_RU;directions;directions;610;14921;LOCAL/bukvarix_LOCAL.csv;14070;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;806;yes
+LOC-0184;царское село как добраться из санкт петербурга;ru;ru;KEEP_RU;directions;directions;609;3079;LOCAL/bukvarix_LOCAL.csv;44392;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;826;yes
+LOC-0185;патриот парк как добраться;ru;uk;TRANSLATE_UK;directions;directions;605;5802;LOCAL/bukvarix_LOCAL.csv;25112;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;808;no
+LOC-0186;как добраться из шереметьево до метро;ru;en;TRANSLATE_EN;directions;directions;597;2234;LOCAL/bukvarix_LOCAL.csv;39262;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0187;как добраться от и до в екатеринбурге;ru;ru;KEEP_RU;directions;directions;585;1358;LOCAL/bukvarix_LOCAL.csv;44402;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;833;yes
+LOC-0188;как добраться из аэропорта сочи в сочи;ru;ru;KEEP_RU;directions;directions;582;1577;LOCAL/bukvarix_LOCAL.csv;46929;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;835;yes
+LOC-0189;остров мечты как добраться;ru;uk;TRANSLATE_UK;directions;directions;581;4587;LOCAL/bukvarix_LOCAL.csv;14121;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;810;no
+LOC-0190;оптина пустынь как добраться;ru;en;TRANSLATE_EN;directions;directions;571;2737;LOCAL/bukvarix_LOCAL.csv;14114;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;811;no
+LOC-0191;как добраться до внуково;ru;en;TRANSLATE_EN;directions;directions;566;24662;LOCAL/bukvarix_LOCAL.csv;14140;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;813;no
+LOC-0192;как добраться до алтая;ru;uk;TRANSLATE_UK;directions;directions;563;4398;LOCAL/bukvarix_LOCAL.csv;14150;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;814;no
+LOC-0193;как добраться до валаама;ru;en;TRANSLATE_EN;directions;directions;552;3147;LOCAL/bukvarix_LOCAL.csv;14155;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;816;no
+LOC-0194;как добраться из сочи в абхазию;ru;ru;KEEP_RU;directions;directions;543;1189;LOCAL/bukvarix_LOCAL.csv;39178;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;831;yes
+LOC-0195;из минска в гродно как добраться;ru;ru;KEEP_RU;directions;directions;541;913;LOCAL/bukvarix_LOCAL.csv;40367;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;834;yes
+LOC-0196;нижний новгород дивеево как добраться;ru;ru;KEEP_RU;directions;directions;532;2630;LOCAL/bukvarix_LOCAL.csv;30472;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;824;yes
+LOC-0197;как добраться до байкала;ru;uk;TRANSLATE_UK;directions;directions;521;4641;LOCAL/bukvarix_LOCAL.csv;14194;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;819;no
+LOC-0198;казань голубые озера как добраться;ru;ru;KEEP_RU;directions;directions;505;1515;LOCAL/bukvarix_LOCAL.csv;32301;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;829;yes
+LOC-0199;как добраться до домодедово;ru;en;TRANSLATE_EN;directions;directions;500;23322;LOCAL/bukvarix_LOCAL.csv;14235;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;822;no
+LOC-0200;из пулково в санкт петербург как добраться;ru;ru;KEEP_RU;directions;directions;499;1699;LOCAL/bukvarix_LOCAL.csv;45794;REPLACEMENT_RULE_CHECKED;Russia/CIS-specific destination assigned RU;;yes
+LOC-0201;нижегородская канатная дорога как добраться;ru;uk;TRANSLATE_UK;directions;directions;497;552;LOCAL/bukvarix_LOCAL.csv;30437;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;836;no
+LOC-0202;из минска в брест как добраться;ru;ru;KEEP_RU;directions;directions;488;883;LOCAL/bukvarix_LOCAL.csv;40695;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;845;yes
+LOC-0203;финский залив санкт петербург как добраться;ru;ru;KEEP_RU;directions;directions;487;992;LOCAL/bukvarix_LOCAL.csv;38973;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;846;yes
+LOC-0204;шереметьево внуково как добраться;ru;uk;TRANSLATE_UK;directions;directions;484;4208;LOCAL/bukvarix_LOCAL.csv;15289;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;825;no
+LOC-0205;как добраться из калининграда в светлогорск;ru;en;TRANSLATE_EN;directions;directions;483;1027;LOCAL/bukvarix_LOCAL.csv;39096;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;849;no
+LOC-0206;как добраться до кронштадта;ru;uk;TRANSLATE_UK;directions;directions;481;5671;LOCAL/bukvarix_LOCAL.csv;14272;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0207;как добраться на вднх на метро;ru;en;TRANSLATE_EN;directions;directions;470;5436;LOCAL/bukvarix_LOCAL.csv;43065;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;853;no
+LOC-0208;соловецкие острова как добраться;ru;en;TRANSLATE_EN;directions;directions;469;1797;LOCAL/bukvarix_LOCAL.csv;14282;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;828;no
+LOC-0209;как добраться севкабель порт;ru;uk;TRANSLATE_UK;directions;directions;467;1560;LOCAL/bukvarix_LOCAL.csv;26639;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;830;no
+LOC-0210;третьяковская галерея как добраться;ru;en;TRANSLATE_EN;directions;directions;464;3284;LOCAL/bukvarix_LOCAL.csv;14316;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;832;no
+LOC-0211;как добраться до царского села;ru;uk;TRANSLATE_UK;directions;directions;461;3395;LOCAL/bukvarix_LOCAL.csv;30474;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;843;no
+LOC-0212;ксения петербургская как добраться в санкт петербурге;ru;ru;KEEP_RU;directions;directions;453;2028;LOCAL/bukvarix_LOCAL.csv;44473;REPLACEMENT_RULE_CHECKED;Russia/CIS-specific destination assigned RU;;yes
+LOC-0213;усадьба кусково как добраться;ru;uk;TRANSLATE_UK;directions;directions;448;3205;LOCAL/bukvarix_LOCAL.csv;14703;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;837;no
+LOC-0214;покровское стрешнево усадьба как добраться;ru;en;TRANSLATE_EN;directions;directions;445;950;LOCAL/bukvarix_LOCAL.csv;36293;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;850;no
+LOC-0215;геленджик анапа как добраться;ru;ru;KEEP_RU;directions;directions;444;2061;LOCAL/bukvarix_LOCAL.csv;15350;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;838;yes
+LOC-0216;как добраться до карелии;ru;en;TRANSLATE_EN;directions;directions;441;3962;LOCAL/bukvarix_LOCAL.csv;14374;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;839;no
+LOC-0217;как добраться до кабардинки;ru;uk;TRANSLATE_UK;directions;directions;437;5974;LOCAL/bukvarix_LOCAL.csv;14384;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;840;no
+LOC-0218;как добраться аэропорт жуковский;ru;en;TRANSLATE_EN;directions;directions;436;5905;LOCAL/bukvarix_LOCAL.csv;25110;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;841;no
+LOC-0219;как добраться до суздаля;ru;uk;TRANSLATE_UK;directions;directions;434;3649;LOCAL/bukvarix_LOCAL.csv;14358;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;842;no
+LOC-0220;шанхай пекин как добраться;ru;uk;TRANSLATE_UK;directions;directions;423;1826;LOCAL/bukvarix_LOCAL.csv;18164;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;844;no
+LOC-0221;суздаль владимир как добраться;ru;en;TRANSLATE_EN;directions;directions;415;1669;LOCAL/bukvarix_LOCAL.csv;24070;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;848;no
+LOC-0222;янтарный калининград как добраться;ru;uk;TRANSLATE_UK;directions;directions;411;2867;LOCAL/bukvarix_LOCAL.csv;21019;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;851;no
+LOC-0223;как добраться до дагестана;ru;ru;KEEP_RU;directions;directions;399;2746;LOCAL/bukvarix_LOCAL.csv;14474;RETAINED_RULE_CHECKED;Universal local-search wording, kept RU;854;no
+LOC-0224;кремль в измайлово как добраться;ru;ru;KEEP_RU;directions;directions;395;527;LOCAL/bukvarix_LOCAL.csv;30593;RETAINED_RULE_CHECKED;Universal local-search wording, kept RU;860;no
+LOC-0225;как добраться до ейска;ru;ru;KEEP_RU;directions;directions;390;5148;LOCAL/bukvarix_LOCAL.csv;14494;RETAINED_RULE_CHECKED;Universal local-search wording, kept RU;855;no
+LOC-0226;елагин остров как добраться;ru;ru;KEEP_RU;directions;directions;385;1201;LOCAL/bukvarix_LOCAL.csv;14510;RETAINED_RULE_CHECKED;Universal local-search wording, kept RU;856;no
+LOC-0227;парк малевича как добраться;ru;ru;KEEP_RU;directions;directions;372;983;LOCAL/bukvarix_LOCAL.csv;14564;RETAINED_RULE_CHECKED;Universal local-search wording, kept RU;858;no
+LOC-0228;сортавала петрозаводск как добраться;ru;ru;KEEP_RU;directions;directions;372;1337;LOCAL/bukvarix_LOCAL.csv;20927;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;859;yes
+LOC-0229;как добраться до кисловодска;ru;ru;KEEP_RU;directions;directions;363;8038;LOCAL/bukvarix_LOCAL.csv;14588;REPLACEMENT_RULE_CHECKED;Universal local-search wording, kept RU;;no
+LOC-0230;как добраться на общественном транспорте;ru;ru;KEEP_RU;directions;directions;331;66827;LOCAL/bukvarix_LOCAL.csv;30814;REPLACEMENT_RULE_CHECKED;Universal local-search wording, kept RU;;no
+LOC-0231;автобусы на карте;ru;uk;TRANSLATE_UK;landmark_map;map_lookup;5127;338762;LOCAL/bukvarix_LOCAL.csv;2249;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0232;мцд 4 схема станций на карте;ru;ru;KEEP_RU;landmark_map;map_lookup;2517;3191;LOCAL/bukvarix_LOCAL.csv;38771;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;861;yes
+LOC-0233;мцк схема станций на карте;ru;ru;KEEP_RU;landmark_map;map_lookup;1969;2665;LOCAL/bukvarix_LOCAL.csv;30166;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;862;yes
+LOC-0234;рублево архангельская линия на карте метро;ru;en;TRANSLATE_EN;landmark_map;map_lookup;1635;2965;LOCAL/bukvarix_LOCAL.csv;41560;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;864;no
+LOC-0235;бкл схема станций на карте;ru;ru;KEEP_RU;landmark_map;map_lookup;1590;2005;LOCAL/bukvarix_LOCAL.csv;30195;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;863;yes
+LOC-0236;метро санкт петербурга схема на карте;ru;ru;KEEP_RU;landmark_map;map_lookup;1311;4319;LOCAL/bukvarix_LOCAL.csv;39755;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;866;yes
+LOC-0237;сочи парк на карте сочи;ru;ru;KEEP_RU;landmark_map;map_lookup;1270;2869;LOCAL/bukvarix_LOCAL.csv;35256;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;865;yes
+LOC-0238;банкоматы втб на карте;ru;ru;KEEP_RU;landmark_map;map_lookup;1095;28736;LOCAL/bukvarix_LOCAL.csv;14044;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;867;yes
+LOC-0239;аптека на карте;ru;en;TRANSLATE_EN;landmark_map;map_lookup;990;63857;LOCAL/bukvarix_LOCAL.csv;2636;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;868;no
+LOC-0240;метро питера схема в санкт петербурге на карте со станциями;ru;ru;KEEP_RU;landmark_map;map_lookup;978;1077;LOCAL/bukvarix_LOCAL.csv;50478;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;881;yes
+LOC-0241;парк 300 летия санкт петербурга на карте;ru;ru;KEEP_RU;landmark_map;map_lookup;955;1304;LOCAL/bukvarix_LOCAL.csv;44347;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;874;yes
+LOC-0242;парк галицкого в краснодаре на карте;ru;ru;KEEP_RU;landmark_map;map_lookup;941;1966;LOCAL/bukvarix_LOCAL.csv;38834;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;872;yes
+LOC-0243;метро звенигородская на карте метро;ru;uk;TRANSLATE_UK;landmark_map;map_lookup;884;2735;LOCAL/bukvarix_LOCAL.csv;36346;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;871;no
+LOC-0244;санкт петербург вокзал ладожский на карте;ru;ru;KEEP_RU;landmark_map;map_lookup;867;2117;LOCAL/bukvarix_LOCAL.csv;42518;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;875;yes
+LOC-0245;метро котельники на карте;ru;en;TRANSLATE_EN;landmark_map;map_lookup;863;2776;LOCAL/bukvarix_LOCAL.csv;14047;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;869;no
+LOC-0246;внуково аэропорт на карте;ru;uk;TRANSLATE_UK;landmark_map;map_lookup;830;2866;LOCAL/bukvarix_LOCAL.csv;14831;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;870;no
+LOC-0247;банкоматы сбербанка на карте;ru;uk;TRANSLATE_UK;landmark_map;map_lookup;798;61413;LOCAL/bukvarix_LOCAL.csv;13919;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;873;no
+LOC-0248;вднх на карте;ru;en;TRANSLATE_EN;landmark_map;map_lookup;793;11980;LOCAL/bukvarix_LOCAL.csv;2728;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;877;no
+LOC-0249;шереметьево аэропорт на карте;ru;en;TRANSLATE_EN;landmark_map;map_lookup;737;5087;LOCAL/bukvarix_LOCAL.csv;15178;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;876;no
+LOC-0250;банкомат альфа банк рядом со мной на карте;ru;uk;TRANSLATE_UK;landmark_map;map_lookup;669;2502;LOCAL/bukvarix_LOCAL.csv;48027;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0251;ховрино метро на карте метро;ru;en;TRANSLATE_EN;landmark_map;map_lookup;653;2355;LOCAL/bukvarix_LOCAL.csv;36106;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;883;no
+LOC-0252;октябрьская площадь екатеринбург на карте;ru;ru;KEEP_RU;landmark_map;map_lookup;617;665;LOCAL/bukvarix_LOCAL.csv;30351;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;885;yes
+LOC-0253;парк галицкого на карте;ru;uk;TRANSLATE_UK;landmark_map;map_lookup;611;5067;LOCAL/bukvarix_LOCAL.csv;14067;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;882;no
+LOC-0254;банкоматы тинькофф на карте;ru;en;TRANSLATE_EN;landmark_map;map_lookup;590;16298;LOCAL/bukvarix_LOCAL.csv;14403;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;884;no
+LOC-0255;тюмень комарово парк на карте;ru;ru;KEEP_RU;landmark_map;map_lookup;589;826;LOCAL/bukvarix_LOCAL.csv;35307;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;891;yes
+LOC-0256;пляж касабланка лазаревское на карте;ru;uk;TRANSLATE_UK;landmark_map;map_lookup;584;722;LOCAL/bukvarix_LOCAL.csv;30458;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0257;сочи жд вокзал на карте;ru;ru;KEEP_RU;landmark_map;map_lookup;577;1114;LOCAL/bukvarix_LOCAL.csv;31551;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;892;yes
+LOC-0258;саларьево метро на карте;ru;uk;TRANSLATE_UK;landmark_map;map_lookup;562;2084;LOCAL/bukvarix_LOCAL.csv;16932;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;886;no
+LOC-0259;банкоматы т банк на карте;ru;en;TRANSLATE_EN;landmark_map;map_lookup;557;9347;LOCAL/bukvarix_LOCAL.csv;31191;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;895;no
+LOC-0260;селигерская на карте метро;ru;uk;TRANSLATE_UK;landmark_map;map_lookup;557;1379;LOCAL/bukvarix_LOCAL.csv;23277;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;888;no
+LOC-0261;тбанк банкоматы на карте;ru;en;TRANSLATE_EN;landmark_map;map_lookup;552;2620;LOCAL/bukvarix_LOCAL.csv;16429;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;890;no
+LOC-0262;метро домодедовская на карте метро;ru;en;TRANSLATE_EN;landmark_map;map_lookup;549;1600;LOCAL/bukvarix_LOCAL.csv;35843;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;900;no
+LOC-0263;бирюлевская линия метро на карте;ru;uk;TRANSLATE_UK;landmark_map;map_lookup;538;1562;LOCAL/bukvarix_LOCAL.csv;30409;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0264;метро владыкино на карте;ru;uk;TRANSLATE_UK;landmark_map;map_lookup;523;891;LOCAL/bukvarix_LOCAL.csv;14370;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;893;no
+LOC-0265;жуковский аэропорт на карте;ru;en;TRANSLATE_EN;landmark_map;map_lookup;521;1295;LOCAL/bukvarix_LOCAL.csv;16354;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;894;no
+LOC-0266;сбер банкоматы на карте;ru;en;TRANSLATE_EN;landmark_map;map_lookup;514;14373;LOCAL/bukvarix_LOCAL.csv;15677;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;896;no
+LOC-0267;сочи аэропорт на карте;ru;en;TRANSLATE_EN;landmark_map;map_lookup;514;1192;LOCAL/bukvarix_LOCAL.csv;20319;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";897;yes
+LOC-0268;аэропорты на карте россии;ru;uk;TRANSLATE_UK;landmark_map;map_lookup;513;1542;LOCAL/bukvarix_LOCAL.csv;17260;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;898;no
+LOC-0269;павелецкий вокзал на карте;ru;uk;TRANSLATE_UK;landmark_map;map_lookup;477;3462;LOCAL/bukvarix_LOCAL.csv;14271;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0270;трамвай на карте;ru;en;TRANSLATE_EN;landmark_map;map_lookup;340;35338;LOCAL/bukvarix_LOCAL.csv;3448;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0271;заправки рядом;ru;uk;TRANSLATE_UK;near_auto;near_me;6175;63363;LOCAL/bukvarix_LOCAL.csv;18;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;87;no
+LOC-0272;шиномонтаж рядом;ru;en;TRANSLATE_EN;near_auto;near_me;3573;18703;LOCAL/bukvarix_LOCAL.csv;49;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;89;no
+LOC-0273;автосервис рядом со мной;ru;en;TRANSLATE_EN;near_auto;near_me;3407;13684;LOCAL/bukvarix_LOCAL.csv;13483;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;88;no
+LOC-0274;эвакуатор рядом со мной;ru;uk;TRANSLATE_UK;near_auto;near_me;2083;6192;LOCAL/bukvarix_LOCAL.csv;13564;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;90;no
+LOC-0275;автозапчасти рядом;ru;uk;TRANSLATE_UK;near_auto;near_me;1942;11859;LOCAL/bukvarix_LOCAL.csv;66;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;92;no
+LOC-0276;автосервис рядом со мной на карте;ru;en;TRANSLATE_EN;near_auto;near_me;1910;6454;LOCAL/bukvarix_LOCAL.csv;38785;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0277;эвакуатор рядом со мной недорого;ru;en;TRANSLATE_EN;near_auto;near_me;1800;3054;LOCAL/bukvarix_LOCAL.csv;30183;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;91;no
+LOC-0278;лукойл заправка рядом;ru;uk;TRANSLATE_UK;near_auto;near_me;1639;7224;LOCAL/bukvarix_LOCAL.csv;2886;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;93;no
+LOC-0279;автомойка рядом;ru;en;TRANSLATE_EN;near_auto;near_me;1568;11050;LOCAL/bukvarix_LOCAL.csv;92;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;94;no
+LOC-0280;роснефть азс на карте рядом со мной;ru;uk;TRANSLATE_UK;near_auto;near_me;1238;1933;LOCAL/bukvarix_LOCAL.csv;44610;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;95;no
+LOC-0281;роснефть заправки на карте рядом со мной;ru;en;TRANSLATE_EN;near_auto;near_me;1203;2483;LOCAL/bukvarix_LOCAL.csv;44396;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;96;no
+LOC-0282;автозапчасти рядом со мной на карте;ru;uk;TRANSLATE_UK;near_auto;near_me;1155;3167;LOCAL/bukvarix_LOCAL.csv;38828;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0283;автомагазин рядом;ru;en;TRANSLATE_EN;near_auto;near_me;1006;5704;LOCAL/bukvarix_LOCAL.csv;148;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;333;no
+LOC-0284;автозаправки рядом со мной на карте;ru;uk;TRANSLATE_UK;near_auto;near_me;757;1528;LOCAL/bukvarix_LOCAL.csv;38854;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;98;no
+LOC-0285;азс рядом со мной на карте ближайшие заправки;ru;uk;TRANSLATE_UK;near_auto;near_me;744;1175;LOCAL/bukvarix_LOCAL.csv;48012;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;100;no
+LOC-0286;сто рядом;ru;en;TRANSLATE_EN;near_auto;near_me;717;6987;LOCAL/bukvarix_LOCAL.csv;238;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;99;no
+LOC-0287;автомойка рядом со мной на карте;ru;uk;TRANSLATE_UK;near_auto;near_me;701;2442;LOCAL/bukvarix_LOCAL.csv;38878;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0288;заправка бензина рядом со мной на карте;ru;en;TRANSLATE_EN;near_auto;near_me;653;1920;LOCAL/bukvarix_LOCAL.csv;44374;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;101;no
+LOC-0289;заправки татнефть на карте рядом со мной;ru;en;TRANSLATE_EN;near_auto;near_me;589;1056;LOCAL/bukvarix_LOCAL.csv;44904;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;102;no
+LOC-0290;азс рядом со мной;ru;uk;TRANSLATE_UK;near_auto;near_me;572;4623;LOCAL/bukvarix_LOCAL.csv;14107;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0291;заправка кондиционера в автомобиле рядом со мной на карте;ru;uk;TRANSLATE_UK;near_auto;near_me;568;612;LOCAL/bukvarix_LOCAL.csv;49670;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;105;no
+LOC-0292;заправка газпром рядом;ru;en;TRANSLATE_EN;near_auto;near_me;480;1722;LOCAL/bukvarix_LOCAL.csv;3207;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;103;no
+LOC-0293;заправка газовая рядом;ru;uk;TRANSLATE_UK;near_auto;near_me;469;3762;LOCAL/bukvarix_LOCAL.csv;11679;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;104;no
+LOC-0294;грузовой шиномонтаж рядом;ru;en;TRANSLATE_EN;near_auto;near_me;461;1447;LOCAL/bukvarix_LOCAL.csv;3572;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;106;no
+LOC-0295;автомагазин рядом со мной на карте;ru;uk;TRANSLATE_UK;near_auto;near_me;450;1554;LOCAL/bukvarix_LOCAL.csv;38980;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0296;заправка роснефть ближайшая на карте ко мне;ru;en;TRANSLATE_EN;near_auto;near_me;445;682;LOCAL/bukvarix_LOCAL.csv;44458;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0297;татнефть азс на карте рядом со мной;ru;en;TRANSLATE_EN;near_auto;near_me;410;576;LOCAL/bukvarix_LOCAL.csv;45274;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;109;no
+LOC-0298;заправка ближайшая от меня на карте показать;ru;uk;TRANSLATE_UK;near_auto;near_me;402;1079;LOCAL/bukvarix_LOCAL.csv;46562;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0299;бензозаправки рядом со мной на карте;ru;en;TRANSLATE_EN;near_auto;near_me;387;641;LOCAL/bukvarix_LOCAL.csv;39046;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;108;no
+LOC-0300;роснефть рядом со мной;ru;uk;TRANSLATE_UK;near_auto;near_me;358;6329;LOCAL/bukvarix_LOCAL.csv;14620;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0301;заправка кондиционера в автомобиле рядом;ru;uk;TRANSLATE_UK;near_auto;near_me;343;1540;LOCAL/bukvarix_LOCAL.csv;30723;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0302;автомойка самообслуживания рядом;ru;en;TRANSLATE_EN;near_auto;near_me;337;1338;LOCAL/bukvarix_LOCAL.csv;3499;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;113;no
+LOC-0303;сто на карте рядом со мной;ru;uk;TRANSLATE_UK;near_auto;near_me;337;786;LOCAL/bukvarix_LOCAL.csv;42747;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0304;заправка газпромнефть ближайшая рядом со мной;ru;en;TRANSLATE_EN;near_auto;near_me;335;673;LOCAL/bukvarix_LOCAL.csv;39132;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;112;no
+LOC-0305;магазин автозапчастей рядом со мной;ru;en;TRANSLATE_EN;near_auto;near_me;327;2416;LOCAL/bukvarix_LOCAL.csv;30780;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;110;no
+LOC-0306;заправка газовых баллонов рядом со мной на карте;ru;en;TRANSLATE_EN;near_auto;near_me;274;783;LOCAL/bukvarix_LOCAL.csv;48142;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;116;no
+LOC-0307;лукойл рядом со мной;ru;uk;TRANSLATE_UK;near_auto;near_me;274;4978;LOCAL/bukvarix_LOCAL.csv;15066;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0308;заправка картриджей для принтера рядом со мной;ru;uk;TRANSLATE_UK;near_auto;near_me;267;802;LOCAL/bukvarix_LOCAL.csv;44724;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;115;no
+LOC-0309;азс роснефть на карте рядом со мной ближайшие заправки;ru;en;TRANSLATE_EN;near_auto;near_me;244;253;LOCAL/bukvarix_LOCAL.csv;49735;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;122;no
+LOC-0310;ближайшие заправки от моего местоположения на карте;ru;uk;TRANSLATE_UK;near_auto;near_me;243;363;LOCAL/bukvarix_LOCAL.csv;44781;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;121;no
+LOC-0311;заправки поблизости;ru;uk;TRANSLATE_UK;near_auto;near_me;238;1998;LOCAL/bukvarix_LOCAL.csv;591;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0312;пропан заправка рядом;ru;en;TRANSLATE_EN;near_auto;near_me;235;2917;LOCAL/bukvarix_LOCAL.csv;5714;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;117;no
+LOC-0313;шиномонтаж поблизости;ru;ru;KEEP_RU;near_auto;near_me;207;509;LOCAL/bukvarix_LOCAL.csv;702;REPLACEMENT_RULE_CHECKED;Universal local-search wording, kept RU;;no
+LOC-0314;эвакуатор рядом со мной вызвать;ru;ru;KEEP_RU;near_auto;near_me;206;295;LOCAL/bukvarix_LOCAL.csv;37741;RETAINED_RULE_CHECKED;Universal local-search wording, kept RU;118;no
+LOC-0315;шиномонтаж круглосуточно рядом со мной на карте;ru;ru;KEEP_RU;near_auto;near_me;201;361;LOCAL/bukvarix_LOCAL.csv;46592;RETAINED_RULE_CHECKED;Universal local-search wording, kept RU;123;no
+LOC-0316;автосервис екатеринбург рядом со мной;ru;ru;KEEP_RU;near_auto;near_me;186;243;LOCAL/bukvarix_LOCAL.csv;32318;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;120;yes
+LOC-0317;заправка азс ближайшая местоположение от меня на карте;ru;ru;KEEP_RU;near_auto;near_me;177;196;LOCAL/bukvarix_LOCAL.csv;48312;RETAINED_RULE_CHECKED;Universal local-search wording, kept RU;134;no
+LOC-0318;заправка татнефть ближайшая на карте от меня;ru;ru;KEEP_RU;near_auto;near_me;177;296;LOCAL/bukvarix_LOCAL.csv;45056;REPLACEMENT_RULE_CHECKED;Universal local-search wording, kept RU;;no
+LOC-0319;лукойл азс на карте рядом со мной;ru;ru;KEEP_RU;near_auto;near_me;176;393;LOCAL/bukvarix_LOCAL.csv;46555;RETAINED_RULE_CHECKED;Universal local-search wording, kept RU;126;no
+LOC-0320;метан заправка рядом;ru;ru;KEEP_RU;near_auto;near_me;167;565;LOCAL/bukvarix_LOCAL.csv;8728;RETAINED_RULE_CHECKED;Universal local-search wording, kept RU;127;no
+LOC-0321;газовая заправка рядом со мной на карте пропан;ru;ru;KEEP_RU;near_auto;near_me;163;699;LOCAL/bukvarix_LOCAL.csv;49043;REPLACEMENT_RULE_CHECKED;Universal local-search wording, kept RU;;no
+LOC-0322;шиномонтаж рядом со мной выездной;ru;ru;KEEP_RU;near_auto;near_me;160;388;LOCAL/bukvarix_LOCAL.csv;34023;RETAINED_RULE_CHECKED;Universal local-search wording, kept RU;125;no
+LOC-0323;заправка тебойл рядом со мной на карте;ru;ru;KEEP_RU;near_auto;near_me;151;195;LOCAL/bukvarix_LOCAL.csv;45252;RETAINED_RULE_CHECKED;Universal local-search wording, kept RU;133;no
+LOC-0324;рядом газ заправка;ru;ru;KEEP_RU;near_auto;near_me;151;2216;LOCAL/bukvarix_LOCAL.csv;11694;RETAINED_RULE_CHECKED;Universal local-search wording, kept RU;132;no
+LOC-0325;газ пропан заправка рядом со мной на карте;ru;ru;KEEP_RU;near_auto;near_me;150;177;LOCAL/bukvarix_LOCAL.csv;48910;RETAINED_RULE_CHECKED;Universal local-search wording, kept RU;136;no
+LOC-0326;автозаправки рядом со мной;ru;ru;KEEP_RU;near_auto;near_me;123;1970;LOCAL/bukvarix_LOCAL.csv;17870;REPLACEMENT_RULE_CHECKED;Universal local-search wording, kept RU;;no
+LOC-0327;заправка автокондиционеров рядом со мной;ru;ru;KEEP_RU;near_auto;near_me;119;628;LOCAL/bukvarix_LOCAL.csv;33032;RETAINED_RULE_CHECKED;Universal local-search wording, kept RU;135;no
+LOC-0328;шиномонтаж 24 часа рядом;ru;ru;KEEP_RU;near_auto;near_me;119;423;LOCAL/bukvarix_LOCAL.csv;18742;RETAINED_RULE_CHECKED;Universal local-search wording, kept RU;137;no
+LOC-0329;шиномонтаж ближайший ко мне;ru;ru;KEEP_RU;near_auto;near_me;119;247;LOCAL/bukvarix_LOCAL.csv;19740;REPLACEMENT_RULE_CHECKED;Universal local-search wording, kept RU;;no
+LOC-0330;газпромнефть азс на карте рядом со мной;ru;ru;KEEP_RU;near_auto;near_me;118;259;LOCAL/bukvarix_LOCAL.csv;46566;REPLACEMENT_RULE_CHECKED;Universal local-search wording, kept RU;;no
+LOC-0331;шиномонтаж рядом со мной ближайший для легковых;ru;ru;KEEP_RU;near_auto;near_me;106;292;LOCAL/bukvarix_LOCAL.csv;47189;REPLACEMENT_RULE_CHECKED;Universal local-search wording, kept RU;;no
+LOC-0332;заправка картриджей краснодар рядом со мной;ru;ru;KEEP_RU;near_auto;near_me;101;158;LOCAL/bukvarix_LOCAL.csv;41156;REPLACEMENT_RULE_CHECKED;Russia/CIS-specific destination assigned RU;;yes
+LOC-0333;банкомат сбербанка рядом со мной;ru;en;TRANSLATE_EN;near_banks;near_me;8311;28354;LOCAL/bukvarix_LOCAL.csv;30134;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;229;no
+LOC-0334;сбербанк рядом со мной;ru;ru;KEEP_RU;near_banks;near_me;4287;45142;LOCAL/bukvarix_LOCAL.csv;13471;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;230;yes
+LOC-0335;банкомат рядом;ru;uk;TRANSLATE_UK;near_banks;near_me;4269;130627;LOCAL/bukvarix_LOCAL.csv;32;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;231;no
+LOC-0336;втб банкомат рядом со мной;ru;ru;KEEP_RU;near_banks;near_me;2926;11036;LOCAL/bukvarix_LOCAL.csv;30290;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;232;yes
+LOC-0337;тинькофф банкомат рядом;ru;uk;TRANSLATE_UK;near_banks;near_me;2063;7328;LOCAL/bukvarix_LOCAL.csv;3196;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;233;no
+LOC-0338;банкомат альфа банк рядом;ru;en;TRANSLATE_EN;near_banks;near_me;1898;9904;LOCAL/bukvarix_LOCAL.csv;13664;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;234;no
+LOC-0339;ближайший банк втб;ru;ru;KEEP_RU;near_banks;near_me;1546;10642;LOCAL/bukvarix_LOCAL.csv;2774;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;236;yes
+LOC-0340;банкомат сбер рядом;ru;uk;TRANSLATE_UK;near_banks;near_me;1474;7903;LOCAL/bukvarix_LOCAL.csv;2646;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;237;no
+LOC-0341;отделение сбербанка рядом со мной на карте;ru;en;TRANSLATE_EN;near_banks;near_me;1165;2647;LOCAL/bukvarix_LOCAL.csv;44330;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;239;no
+LOC-0342;втб рядом;ru;ru;KEEP_RU;near_banks;near_me;1044;35962;LOCAL/bukvarix_LOCAL.csv;151;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;240;yes
+LOC-0343;сбербанк ближайший офис;ru;ru;KEEP_RU;near_banks;near_me;740;3649;LOCAL/bukvarix_LOCAL.csv;4141;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;241;yes
+LOC-0344;поблизости сбербанк;ru;ru;KEEP_RU;near_banks;near_me;544;2583;LOCAL/bukvarix_LOCAL.csv;1958;REPLACEMENT_RULE_CHECKED;Russia/CIS-specific destination assigned RU;;yes
+LOC-0345;ближайший сбербанк от меня;ru;ru;KEEP_RU;near_banks;near_me;541;3074;LOCAL/bukvarix_LOCAL.csv;14216;REPLACEMENT_RULE_CHECKED;Russia/CIS-specific destination assigned RU;;yes
+LOC-0346;офис втб рядом со мной на карте;ru;ru;KEEP_RU;near_banks;near_me;534;1308;LOCAL/bukvarix_LOCAL.csv;44466;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;245;yes
+LOC-0347;обмен валюты рядом;ru;en;TRANSLATE_EN;near_banks;near_me;527;3304;LOCAL/bukvarix_LOCAL.csv;2942;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;244;no
+LOC-0348;ближайший офис альфа банк;ru;uk;TRANSLATE_UK;near_banks;near_me;493;2947;LOCAL/bukvarix_LOCAL.csv;18454;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;243;no
+LOC-0349;ближайший банк;ru;en;TRANSLATE_EN;near_banks;near_me;491;53701;LOCAL/bukvarix_LOCAL.csv;317;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0350;совкомбанк рядом;ru;uk;TRANSLATE_UK;near_banks;near_me;443;5228;LOCAL/bukvarix_LOCAL.csv;329;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;249;no
+LOC-0351;отделение втб рядом со мной на карте;ru;ru;KEEP_RU;near_banks;near_me;434;1249;LOCAL/bukvarix_LOCAL.csv;44503;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;248;yes
+LOC-0352;банкомат газпромбанк рядом;ru;ru;KEEP_RU;near_banks;near_me;403;2474;LOCAL/bukvarix_LOCAL.csv;3335;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;250;yes
+LOC-0353;банкомат поблизости;ru;en;TRANSLATE_EN;near_banks;near_me;389;3964;LOCAL/bukvarix_LOCAL.csv;377;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0354;альфа банк рядом со мной на карте;ru;uk;TRANSLATE_UK;near_banks;near_me;387;4234;LOCAL/bukvarix_LOCAL.csv;44529;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0355;банкомат псб рядом;ru;en;TRANSLATE_EN;near_banks;near_me;363;1672;LOCAL/bukvarix_LOCAL.csv;4390;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;252;no
+LOC-0356;отделение банка втб рядом со мной ближайшее;ru;ru;KEEP_RU;near_banks;near_me;345;598;LOCAL/bukvarix_LOCAL.csv;47430;REPLACEMENT_RULE_CHECKED;Russia/CIS-specific destination assigned RU;;yes
+LOC-0357;банкомат озон рядом со мной;ru;uk;TRANSLATE_UK;near_banks;near_me;292;1307;LOCAL/bukvarix_LOCAL.csv;35254;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;69;no
+LOC-0358;банкомат тбанк рядом со мной;ru;uk;TRANSLATE_UK;near_banks;near_me;284;1004;LOCAL/bukvarix_LOCAL.csv;31307;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0359;сбербанк терминал рядом;ru;ru;KEEP_RU;near_banks;near_me;271;1696;LOCAL/bukvarix_LOCAL.csv;4589;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;254;yes
+LOC-0360;банкомат ближайший ко мне;ru;en;TRANSLATE_EN;near_banks;near_me;259;926;LOCAL/bukvarix_LOCAL.csv;15917;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0361;втб рядом со мной на карте отделение банка;ru;ru;KEEP_RU;near_banks;near_me;217;520;LOCAL/bukvarix_LOCAL.csv;48807;REPLACEMENT_RULE_CHECKED;Russia/CIS-specific destination assigned RU;;yes
+LOC-0362;офис втб банка ближайший от меня;ru;ru;KEEP_RU;near_banks;near_me;210;373;LOCAL/bukvarix_LOCAL.csv;40465;REPLACEMENT_RULE_CHECKED;Russia/CIS-specific destination assigned RU;;yes
+LOC-0363;россельхозбанк банкомат рядом;ru;uk;TRANSLATE_UK;near_banks;near_me;206;1061;LOCAL/bukvarix_LOCAL.csv;10378;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;256;no
+LOC-0364;обменник рядом;ru;en;TRANSLATE_EN;near_banks;near_me;193;1823;LOCAL/bukvarix_LOCAL.csv;755;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0365;совкомбанк рядом со мной на карте;ru;en;TRANSLATE_EN;near_banks;near_me;193;1155;LOCAL/bukvarix_LOCAL.csv;39936;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0366;ближайший банк псб;ru;uk;TRANSLATE_UK;near_banks;near_me;189;1971;LOCAL/bukvarix_LOCAL.csv;7244;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0367;альфа банк поблизости;ru;en;TRANSLATE_EN;near_banks;near_me;185;799;LOCAL/bukvarix_LOCAL.csv;4912;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0368;офис сбербанка рядом со мной на карте режим работы;ru;uk;TRANSLATE_UK;near_banks;near_me;183;200;LOCAL/bukvarix_LOCAL.csv;49794;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;266;no
+LOC-0369;банкомат круглосуточно рядом;ru;uk;TRANSLATE_UK;near_banks;near_me;173;2075;LOCAL/bukvarix_LOCAL.csv;5343;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;261;no
+LOC-0370;банкомат каспи рядом;ru;en;TRANSLATE_EN;near_banks;near_me;171;342;LOCAL/bukvarix_LOCAL.csv;9546;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;262;no
+LOC-0371;ближайший совкомбанк офис;ru;en;TRANSLATE_EN;near_banks;near_me;171;995;LOCAL/bukvarix_LOCAL.csv;12615;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;263;no
+LOC-0372;втб терминал рядом со мной;ru;ru;KEEP_RU;near_banks;near_me;165;544;LOCAL/bukvarix_LOCAL.csv;33078;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;259;yes
+LOC-0373;банкомат райффайзен банка рядом со мной;ru;uk;TRANSLATE_UK;near_banks;near_me;155;246;LOCAL/bukvarix_LOCAL.csv;40079;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;265;no
+LOC-0374;газпромбанк рядом со мной;ru;ru;KEEP_RU;near_banks;near_me;155;2604;LOCAL/bukvarix_LOCAL.csv;16806;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;258;yes
+LOC-0375;банкомат альфабанк рядом со мной;ru;en;TRANSLATE_EN;near_banks;near_me;154;578;LOCAL/bukvarix_LOCAL.csv;33448;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0376;отделение альфа банка рядом;ru;uk;TRANSLATE_UK;near_banks;near_me;150;2161;LOCAL/bukvarix_LOCAL.csv;16939;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;264;no
+LOC-0377;ближайший альфа банк от меня;ru;en;TRANSLATE_EN;near_banks;near_me;145;944;LOCAL/bukvarix_LOCAL.csv;32471;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0378;ближайший тинькофф банк;ru;uk;TRANSLATE_UK;near_banks;near_me;143;1299;LOCAL/bukvarix_LOCAL.csv;7954;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;270;no
+LOC-0379;ближайший банк мтс;ru;uk;TRANSLATE_UK;near_banks;near_me;139;879;LOCAL/bukvarix_LOCAL.csv;11269;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0380;офис отп банк ближайший;ru;en;TRANSLATE_EN;near_banks;near_me;138;510;LOCAL/bukvarix_LOCAL.csv;20500;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;267;no
+LOC-0381;альфа банк рядом со мной отделение ближайшее;ru;en;TRANSLATE_EN;near_banks;near_me;137;437;LOCAL/bukvarix_LOCAL.csv;45638;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0382;банкомат 24 часа рядом;ru;uk;TRANSLATE_UK;near_banks;near_me;137;515;LOCAL/bukvarix_LOCAL.csv;18316;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;268;no
+LOC-0383;банкомат совкомбанк рядом;ru;en;TRANSLATE_EN;near_banks;near_me;134;1197;LOCAL/bukvarix_LOCAL.csv;8404;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;273;no
+LOC-0384;ближайший банк солидарность;ru;uk;TRANSLATE_UK;near_banks;near_me;124;836;LOCAL/bukvarix_LOCAL.csv;7293;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0385;ближайший офис газпромбанк;ru;ru;KEEP_RU;near_banks;near_me;123;851;LOCAL/bukvarix_LOCAL.csv;11188;REPLACEMENT_RULE_CHECKED;Russia/CIS-specific destination assigned RU;;yes
+LOC-0386;россельхозбанк рядом со мной;ru;ru;KEEP_RU;near_banks;near_me;122;1087;LOCAL/bukvarix_LOCAL.csv;17936;RETAINED_RULE_CHECKED;Universal local-search wording, kept RU;269;no
+LOC-0387;сбербанкомат рядом со мной;ru;ru;KEEP_RU;near_banks;near_me;108;153;LOCAL/bukvarix_LOCAL.csv;18758;RETAINED_RULE_CHECKED;Universal local-search wording, kept RU;275;no
+LOC-0388;парикмахерская рядом;ru;en;TRANSLATE_EN;near_beauty;near_me;41214;100371;LOCAL/bukvarix_LOCAL.csv;2;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;187;no
+LOC-0389;маникюр рядом со мной;ru;uk;TRANSLATE_UK;near_beauty;near_me;4821;16994;LOCAL/bukvarix_LOCAL.csv;13455;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;188;no
+LOC-0390;барбершоп рядом;ru;en;TRANSLATE_EN;near_beauty;near_me;3769;8910;LOCAL/bukvarix_LOCAL.csv;22;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;189;no
+LOC-0391;салон красоты рядом;ru;uk;TRANSLATE_UK;near_beauty;near_me;2659;15111;LOCAL/bukvarix_LOCAL.csv;2360;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;190;no
+LOC-0392;педикюр рядом со мной;ru;uk;TRANSLATE_UK;near_beauty;near_me;1919;8786;LOCAL/bukvarix_LOCAL.csv;13565;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;191;no
+LOC-0393;педикюр рядом со мной на карте;ru;en;TRANSLATE_EN;near_beauty;near_me;1773;2804;LOCAL/bukvarix_LOCAL.csv;38779;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0394;мужская парикмахерская рядом;ru;en;TRANSLATE_EN;near_beauty;near_me;1738;7130;LOCAL/bukvarix_LOCAL.csv;4291;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;192;no
+LOC-0395;маникюр рядом со мной на карте;ru;uk;TRANSLATE_UK;near_beauty;near_me;1655;3792;LOCAL/bukvarix_LOCAL.csv;38788;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0396;солярий рядом со мной на карте;ru;uk;TRANSLATE_UK;near_beauty;near_me;1576;2445;LOCAL/bukvarix_LOCAL.csv;38790;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;193;no
+LOC-0397;солярий рядом со мной;ru;en;TRANSLATE_EN;near_beauty;near_me;1151;5584;LOCAL/bukvarix_LOCAL.csv;13731;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0398;рядом массаж;ru;uk;TRANSLATE_UK;near_beauty;near_me;1044;11053;LOCAL/bukvarix_LOCAL.csv;1049;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;194;no
+LOC-0399;женская парикмахерская рядом со мной на карте;ru;en;TRANSLATE_EN;near_beauty;near_me;717;1465;LOCAL/bukvarix_LOCAL.csv;47075;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;196;no
+LOC-0400;наращивание ресниц рядом со мной;ru;en;TRANSLATE_EN;near_beauty;near_me;688;2412;LOCAL/bukvarix_LOCAL.csv;30314;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;195;no
+LOC-0401;барбершоп рядом со мной на карте;ru;uk;TRANSLATE_UK;near_beauty;near_me;579;1144;LOCAL/bukvarix_LOCAL.csv;38938;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0402;маникюр онлайн запись рядом со мной;ru;en;TRANSLATE_EN;near_beauty;near_me;305;443;LOCAL/bukvarix_LOCAL.csv;42433;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;199;no
+LOC-0403;маникюр сделать рядом со мной;ru;uk;TRANSLATE_UK;near_beauty;near_me;289;1045;LOCAL/bukvarix_LOCAL.csv;34954;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;198;no
+LOC-0404;салон маникюра рядом со мной;ru;en;TRANSLATE_EN;near_beauty;near_me;279;1434;LOCAL/bukvarix_LOCAL.csv;30997;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;200;no
+LOC-0405;парикмахерская рядом со мной мужская стрижка на карте;ru;uk;TRANSLATE_UK;near_beauty;near_me;219;387;LOCAL/bukvarix_LOCAL.csv;49501;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;210;no
+LOC-0406;парикмахерская рядом эконом;ru;uk;TRANSLATE_UK;near_beauty;near_me;216;1275;LOCAL/bukvarix_LOCAL.csv;12137;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;203;no
+LOC-0407;парикмахерская рядом со мной краснодар;ru;ru;KEEP_RU;near_beauty;near_me;210;440;LOCAL/bukvarix_LOCAL.csv;35550;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;201;yes
+LOC-0408;парикмахерская рядом казань;ru;ru;KEEP_RU;near_beauty;near_me;209;793;LOCAL/bukvarix_LOCAL.csv;8947;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;206;yes
+LOC-0409;маникюр педикюр рядом со мной;ru;en;TRANSLATE_EN;near_beauty;near_me;205;1104;LOCAL/bukvarix_LOCAL.csv;32099;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;202;no
+LOC-0410;лазерная эпиляция рядом со мной;ru;en;TRANSLATE_EN;near_beauty;near_me;198;592;LOCAL/bukvarix_LOCAL.csv;31704;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0411;парикмахерская рядом детская;ru;uk;TRANSLATE_UK;near_beauty;near_me;196;689;LOCAL/bukvarix_LOCAL.csv;9888;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;209;no
+LOC-0412;барбер шоп рядом со мной;ru;uk;TRANSLATE_UK;near_beauty;near_me;192;212;LOCAL/bukvarix_LOCAL.csv;31650;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0413;уфа парикмахерская рядом со мной;ru;ru;KEEP_RU;near_beauty;near_me;191;364;LOCAL/bukvarix_LOCAL.csv;36396;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;204;yes
+LOC-0414;парикмахерская рядом ижевск;ru;ru;KEEP_RU;near_beauty;near_me;188;555;LOCAL/bukvarix_LOCAL.csv;12656;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;211;yes
+LOC-0415;парикмахерская минск рядом;ru;ru;KEEP_RU;near_beauty;near_me;183;447;LOCAL/bukvarix_LOCAL.csv;4858;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;213;yes
+LOC-0416;парикмахерская омск рядом со мной;ru;ru;KEEP_RU;near_beauty;near_me;180;335;LOCAL/bukvarix_LOCAL.csv;33987;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;207;yes
+LOC-0417;педикюр сделать рядом со мной;ru;en;TRANSLATE_EN;near_beauty;near_me;178;531;LOCAL/bukvarix_LOCAL.csv;36131;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;208;no
+LOC-0418;салон парикмахерская рядом со мной на карте;ru;uk;TRANSLATE_UK;near_beauty;near_me;176;438;LOCAL/bukvarix_LOCAL.csv;45048;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;216;no
+LOC-0419;тюмень парикмахерская рядом со мной;ru;ru;KEEP_RU;near_beauty;near_me;164;334;LOCAL/bukvarix_LOCAL.csv;36840;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;212;yes
+LOC-0420;парикмахерская рядом со мной челябинск;ru;ru;KEEP_RU;near_beauty;near_me;159;330;LOCAL/bukvarix_LOCAL.csv;32704;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;215;yes
+LOC-0421;записаться на маникюр онлайн рядом со мной;ru;en;TRANSLATE_EN;near_beauty;near_me;156;205;LOCAL/bukvarix_LOCAL.csv;45505;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;222;no
+LOC-0422;тайский массаж рядом;ru;en;TRANSLATE_EN;near_beauty;near_me;154;454;LOCAL/bukvarix_LOCAL.csv;5455;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;219;no
+LOC-0423;маникюрный салон рядом со мной на карте;ru;uk;TRANSLATE_UK;near_beauty;near_me;137;222;LOCAL/bukvarix_LOCAL.csv;45367;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;227;no
+LOC-0424;парикмахерская рядом со мной красноярск;ru;ru;KEEP_RU;near_beauty;near_me;136;313;LOCAL/bukvarix_LOCAL.csv;35389;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;220;yes
+LOC-0425;косметология рядом со мной;ru;en;TRANSLATE_EN;near_beauty;near_me;134;445;LOCAL/bukvarix_LOCAL.csv;17544;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;217;no
+LOC-0426;солярий екатеринбург рядом со мной;ru;ru;KEEP_RU;near_beauty;near_me;134;158;LOCAL/bukvarix_LOCAL.csv;33025;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;221;yes
+LOC-0427;парикмахерская рядом со мной новосибирск;ru;ru;KEEP_RU;near_beauty;near_me;124;225;LOCAL/bukvarix_LOCAL.csv;36561;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;223;yes
+LOC-0428;солярий тюмень рядом со мной;ru;ru;KEEP_RU;near_beauty;near_me;123;145;LOCAL/bukvarix_LOCAL.csv;33070;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;224;yes
+LOC-0429;ламинирование ресниц рядом со мной;ru;ru;KEEP_RU;near_beauty;near_me;122;382;LOCAL/bukvarix_LOCAL.csv;32892;RETAINED_RULE_CHECKED;Universal local-search wording, kept RU;225;no
+LOC-0430;ресницы сделать рядом со мной;ru;ru;KEEP_RU;near_beauty;near_me;122;316;LOCAL/bukvarix_LOCAL.csv;36462;RETAINED_RULE_CHECKED;Universal local-search wording, kept RU;226;no
+LOC-0431;парикмахерская рядом со мной барнаул;ru;ru;KEEP_RU;near_beauty;near_me;116;176;LOCAL/bukvarix_LOCAL.csv;36334;RETAINED_RULE_CHECKED;Universal local-search wording, kept RU;228;no
+LOC-0432;стоматология рядом;ru;uk;TRANSLATE_UK;near_dental;near_me;4145;27990;LOCAL/bukvarix_LOCAL.csv;21;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;2;no
+LOC-0433;стоматология рядом со мной показать на карте;ru;en;TRANSLATE_EN;near_dental;near_me;597;1264;LOCAL/bukvarix_LOCAL.csv;44391;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0434;детская стоматология рядом;ru;uk;TRANSLATE_UK;near_dental;near_me;288;1692;LOCAL/bukvarix_LOCAL.csv;4443;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;4;no
+LOC-0435;стоматология краснодар рядом со мной;ru;ru;KEEP_RU;near_dental;near_me;140;264;LOCAL/bukvarix_LOCAL.csv;35440;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;6;yes
+LOC-0436;стоматология доктор рядом минск;ru;ru;KEEP_RU;near_dental;near_me;135;178;LOCAL/bukvarix_LOCAL.csv;26902;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;7;yes
+LOC-0437;стоматология рядом со мной недорого;ru;en;TRANSLATE_EN;near_dental;near_me;117;944;LOCAL/bukvarix_LOCAL.csv;33121;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;9;no
+LOC-0438;автошкола рядом;ru;uk;TRANSLATE_UK;near_education;near_me;386;2563;LOCAL/bukvarix_LOCAL.csv;366;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;482;no
+LOC-0439;школа рядом;ru;uk;TRANSLATE_UK;near_education;near_me;317;46463;LOCAL/bukvarix_LOCAL.csv;459;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;485;no
+LOC-0440;детский сад рядом;ru;en;TRANSLATE_EN;near_education;near_me;239;8474;LOCAL/bukvarix_LOCAL.csv;4225;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;487;no
+LOC-0441;школы рядом со мной на карте;ru;en;TRANSLATE_EN;near_education;near_me;199;811;LOCAL/bukvarix_LOCAL.csv;39638;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;489;no
+LOC-0442;колледжи рядом со мной;ru;uk;TRANSLATE_UK;near_education;near_me;161;1416;LOCAL/bukvarix_LOCAL.csv;16621;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;490;no
+LOC-0443;колледжи после 9 класса рядом со мной;ru;en;TRANSLATE_EN;near_education;near_me;134;470;LOCAL/bukvarix_LOCAL.csv;47708;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;494;no
+LOC-0444;садик рядом со мной;ru;ru;KEEP_RU;near_education;near_me;133;832;LOCAL/bukvarix_LOCAL.csv;17528;RETAINED_RULE_CHECKED;Universal local-search wording, kept RU;492;no
+LOC-0445;детский сад частный рядом со мной;ru;ru;KEEP_RU;near_education;near_me;109;257;LOCAL/bukvarix_LOCAL.csv;42678;RETAINED_RULE_CHECKED;Universal local-search wording, kept RU;495;no
+LOC-0446;автошкола рядом со мной на карте;ru;ru;KEEP_RU;near_education;near_me;103;199;LOCAL/bukvarix_LOCAL.csv;41106;REPLACEMENT_RULE_CHECKED;Universal local-search wording, kept RU;;no
+LOC-0447;рядом сауна;ru;uk;TRANSLATE_UK;near_fitness;near_me;1132;7854;LOCAL/bukvarix_LOCAL.csv;1323;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0448;спортзал рядом;ru;uk;TRANSLATE_UK;near_fitness;near_me;683;4202;LOCAL/bukvarix_LOCAL.csv;230;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;412;no
+LOC-0449;тренажерный зал рядом;ru;en;TRANSLATE_EN;near_fitness;near_me;539;3067;LOCAL/bukvarix_LOCAL.csv;2941;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;414;no
+LOC-0450;фитнес рядом со мной;ru;uk;TRANSLATE_UK;near_fitness;near_me;458;3313;LOCAL/bukvarix_LOCAL.csv;14303;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;413;no
+LOC-0451;фитнес клуб рядом со мной;ru;en;TRANSLATE_EN;near_fitness;near_me;450;1418;LOCAL/bukvarix_LOCAL.csv;30495;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;416;no
+LOC-0452;сауна рядом со мной с бассейном;ru;en;TRANSLATE_EN;near_fitness;near_me;404;892;LOCAL/bukvarix_LOCAL.csv;39086;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;417;no
+LOC-0453;фитнес рядом со мной на карте;ru;uk;TRANSLATE_UK;near_fitness;near_me;272;1037;LOCAL/bukvarix_LOCAL.csv;39348;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0454;спортзал рядом со мной на карте;ru;en;TRANSLATE_EN;near_fitness;near_me;193;413;LOCAL/bukvarix_LOCAL.csv;39673;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0455;фитнес клуб рядом со мной показать на карте;ru;uk;TRANSLATE_UK;near_fitness;near_me;174;234;LOCAL/bukvarix_LOCAL.csv;48329;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0456;тренажерный зал рядом со мной на карте;ru;uk;TRANSLATE_UK;near_fitness;near_me;148;412;LOCAL/bukvarix_LOCAL.csv;45261;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0457;йога рядом со мной;ru;en;TRANSLATE_EN;near_fitness;near_me;143;550;LOCAL/bukvarix_LOCAL.csv;17233;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0458;бассейны рядом со мной;ru;ru;KEEP_RU;near_fitness;near_me;142;5949;LOCAL/bukvarix_LOCAL.csv;17169;REPLACEMENT_RULE_CHECKED;Universal local-search wording, kept RU;;no
+LOC-0459;сауна рядом со мной цена;ru;ru;KEEP_RU;near_fitness;near_me;139;263;LOCAL/bukvarix_LOCAL.csv;32482;REPLACEMENT_RULE_CHECKED;Universal local-search wording, kept RU;;no
+LOC-0460;баня сауна рядом;ru;ru;KEEP_RU;near_fitness;near_me;128;764;LOCAL/bukvarix_LOCAL.csv;8457;REPLACEMENT_RULE_CHECKED;Universal local-search wording, kept RU;;no
+LOC-0461;спортзалы рядом;ru;ru;KEEP_RU;near_fitness;near_me;121;4202;LOCAL/bukvarix_LOCAL.csv;1126;RETAINED_RULE_CHECKED;Universal local-search wording, kept RU;427;no
+LOC-0462;фитнес зал рядом;ru;ru;KEEP_RU;near_fitness;near_me;108;875;LOCAL/bukvarix_LOCAL.csv;7260;RETAINED_RULE_CHECKED;Universal local-search wording, kept RU;428;no
+LOC-0463;кафе рядом со мной;ru;uk;TRANSLATE_UK;near_food_drink;near_me;7656;19453;LOCAL/bukvarix_LOCAL.csv;13433;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;276;no
+LOC-0464;столовая рядом;ru;en;TRANSLATE_EN;near_food_drink;near_me;3728;32510;LOCAL/bukvarix_LOCAL.csv;24;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;277;no
+LOC-0465;шаурма рядом;ru;en;TRANSLATE_EN;near_food_drink;near_me;3720;12633;LOCAL/bukvarix_LOCAL.csv;19;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;278;no
+LOC-0466;кафе рядом со мной на карте;ru;uk;TRANSLATE_UK;near_food_drink;near_me;2409;5551;LOCAL/bukvarix_LOCAL.csv;38776;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0467;где поесть рядом;ru;en;TRANSLATE_EN;near_food_drink;near_me;1752;21099;LOCAL/bukvarix_LOCAL.csv;2477;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;280;no
+LOC-0468;рестораны рядом со мной;ru;uk;TRANSLATE_UK;near_food_drink;near_me;1704;8209;LOCAL/bukvarix_LOCAL.csv;13618;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;279;no
+LOC-0469;суши рядом;ru;en;TRANSLATE_EN;near_food_drink;near_me;1381;11670;LOCAL/bukvarix_LOCAL.csv;106;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;282;no
+LOC-0470;кофейня рядом;ru;uk;TRANSLATE_UK;near_food_drink;near_me;1264;8350;LOCAL/bukvarix_LOCAL.csv;121;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;283;no
+LOC-0471;столовая рядом со мной на карте;ru;uk;TRANSLATE_UK;near_food_drink;near_me;1185;3344;LOCAL/bukvarix_LOCAL.csv;38811;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0472;покушать рядом;ru;en;TRANSLATE_EN;near_food_drink;near_me;995;12698;LOCAL/bukvarix_LOCAL.csv;159;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;284;no
+LOC-0473;кофе рядом;ru;uk;TRANSLATE_UK;near_food_drink;near_me;961;9378;LOCAL/bukvarix_LOCAL.csv;171;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;286;no
+LOC-0474;бургер кинг рядом;ru;en;TRANSLATE_EN;near_food_drink;near_me;918;4874;LOCAL/bukvarix_LOCAL.csv;2652;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;285;no
+LOC-0475;пицца рядом;ru;uk;TRANSLATE_UK;near_food_drink;near_me;870;12495;LOCAL/bukvarix_LOCAL.csv;194;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;287;no
+LOC-0476;роллы рядом;ru;en;TRANSLATE_EN;near_food_drink;near_me;705;7872;LOCAL/bukvarix_LOCAL.csv;229;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;288;no
+LOC-0477;кафе поблизости;ru;en;TRANSLATE_EN;near_food_drink;near_me;643;2943;LOCAL/bukvarix_LOCAL.csv;243;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0478;рестораны рядом со мной на карте;ru;uk;TRANSLATE_UK;near_food_drink;near_me;562;2280;LOCAL/bukvarix_LOCAL.csv;38909;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0479;пекарня рядом;ru;uk;TRANSLATE_UK;near_food_drink;near_me;539;3573;LOCAL/bukvarix_LOCAL.csv;264;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;291;no
+LOC-0480;камчатка рядом смоленск суши;ru;en;TRANSLATE_EN;near_food_drink;near_me;537;564;LOCAL/bukvarix_LOCAL.csv;25552;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;289;no
+LOC-0481;пиццерия рядом;ru;uk;TRANSLATE_UK;near_food_drink;near_me;505;3620;LOCAL/bukvarix_LOCAL.csv;286;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;292;no
+LOC-0482;покушать рядом со мной на карте;ru;en;TRANSLATE_EN;near_food_drink;near_me;462;802;LOCAL/bukvarix_LOCAL.csv;38982;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0483;шаурма рядом со мной на карте;ru;uk;TRANSLATE_UK;near_food_drink;near_me;455;977;LOCAL/bukvarix_LOCAL.csv;39005;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0484;суши рядом со мной на карте;ru;en;TRANSLATE_EN;near_food_drink;near_me;407;805;LOCAL/bukvarix_LOCAL.csv;39077;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0485;камчатка рядом роллы смоленск;ru;uk;TRANSLATE_UK;near_food_drink;near_me;406;496;LOCAL/bukvarix_LOCAL.csv;22628;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;293;no
+LOC-0486;кафе и рестораны рядом;ru;en;TRANSLATE_EN;near_food_drink;near_me;335;6075;LOCAL/bukvarix_LOCAL.csv;15131;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;294;no
+LOC-0487;додо пицца рядом;ru;uk;TRANSLATE_UK;near_food_drink;near_me;326;2952;LOCAL/bukvarix_LOCAL.csv;3548;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;295;no
+LOC-0488;кофейня рядом со мной на карте;ru;en;TRANSLATE_EN;near_food_drink;near_me;282;488;LOCAL/bukvarix_LOCAL.csv;39269;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0489;кофе рядом со мной на карте;ru;en;TRANSLATE_EN;near_food_drink;near_me;241;411;LOCAL/bukvarix_LOCAL.csv;39472;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0490;рядом халяль кафе;ru;uk;TRANSLATE_UK;near_food_drink;near_me;233;952;LOCAL/bukvarix_LOCAL.csv;12791;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;296;no
+LOC-0491;пицца рядом со мной на карте;ru;ru;KEEP_RU;near_food_drink;near_me;230;783;LOCAL/bukvarix_LOCAL.csv;39509;REPLACEMENT_RULE_CHECKED;Universal local-search wording, kept RU;;no
+LOC-0492;ближайшее кафе рядом со мной;ru;ru;KEEP_RU;near_food_drink;near_me;212;856;LOCAL/bukvarix_LOCAL.csv;31428;REPLACEMENT_RULE_CHECKED;Universal local-search wording, kept RU;;no
+LOC-0493;пицца на заказ с доставкой рядом со мной;ru;ru;KEEP_RU;near_food_drink;near_me;181;277;LOCAL/bukvarix_LOCAL.csv;49202;RETAINED_RULE_CHECKED;Universal local-search wording, kept RU;302;no
+LOC-0494;кондитерская рядом со мной;ru;ru;KEEP_RU;near_food_drink;near_me;180;726;LOCAL/bukvarix_LOCAL.csv;16231;RETAINED_RULE_CHECKED;Universal local-search wording, kept RU;298;no
+LOC-0495;ресторан грузинский рядом;ru;ru;KEEP_RU;near_food_drink;near_me;171;1773;LOCAL/bukvarix_LOCAL.csv;13130;RETAINED_RULE_CHECKED;Universal local-search wording, kept RU;301;no
+LOC-0496;ближайший бургер кинг от моего местоположения;ru;ru;KEEP_RU;near_food_drink;near_me;151;225;LOCAL/bukvarix_LOCAL.csv;40130;RETAINED_RULE_CHECKED;Universal local-search wording, kept RU;306;no
+LOC-0497;шаурма с доставкой рядом со мной;ru;ru;KEEP_RU;near_food_drink;near_me;147;479;LOCAL/bukvarix_LOCAL.csv;41987;RETAINED_RULE_CHECKED;Universal local-search wording, kept RU;303;no
+LOC-0498;суши с доставкой рядом со мной;ru;ru;KEEP_RU;near_food_drink;near_me;143;797;LOCAL/bukvarix_LOCAL.csv;41983;RETAINED_RULE_CHECKED;Universal local-search wording, kept RU;304;no
+LOC-0499;шаурмечная рядом;ru;ru;KEEP_RU;near_food_drink;near_me;142;554;LOCAL/bukvarix_LOCAL.csv;975;RETAINED_RULE_CHECKED;Universal local-search wording, kept RU;309;no
+LOC-0500;роллы суши рядом;ru;ru;KEEP_RU;near_food_drink;near_me;135;1528;LOCAL/bukvarix_LOCAL.csv;10578;RETAINED_RULE_CHECKED;Universal local-search wording, kept RU;308;no
+LOC-0501;роллы рядом со мной с доставкой;ru;ru;KEEP_RU;near_food_drink;near_me;121;1177;LOCAL/bukvarix_LOCAL.csv;40936;RETAINED_RULE_CHECKED;Universal local-search wording, kept RU;311;no
+LOC-0502;кафе рядом со мной на карте санкт петербурга;ru;ru;KEEP_RU;near_food_drink;near_me;117;201;LOCAL/bukvarix_LOCAL.csv;48606;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;316;yes
+LOC-0503;где можно покушать рядом;ru;ru;KEEP_RU;near_food_drink;near_me;114;1862;LOCAL/bukvarix_LOCAL.csv;20436;RETAINED_RULE_CHECKED;Universal local-search wording, kept RU;312;no
+LOC-0504;столовая кафе рядом;ru;ru;KEEP_RU;near_food_drink;near_me;105;2506;LOCAL/bukvarix_LOCAL.csv;10297;RETAINED_RULE_CHECKED;Universal local-search wording, kept RU;315;no
+LOC-0505;ателье рядом;ru;en;TRANSLATE_EN;near_home_services;near_me;2267;15088;LOCAL/bukvarix_LOCAL.csv;57;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;457;no
+LOC-0506;ателье рядом со мной на карте;ru;uk;TRANSLATE_UK;near_home_services;near_me;1522;2634;LOCAL/bukvarix_LOCAL.csv;38798;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;458;no
+LOC-0507;ломбард рядом;ru;en;TRANSLATE_EN;near_home_services;near_me;1481;8502;LOCAL/bukvarix_LOCAL.csv;98;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;460;no
+LOC-0508;магазин сантехники рядом;ru;uk;TRANSLATE_UK;near_home_services;near_me;1281;7215;LOCAL/bukvarix_LOCAL.csv;2540;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;328;no
+LOC-0509;ремонт обуви рядом;ru;uk;TRANSLATE_UK;near_home_services;near_me;1208;6599;LOCAL/bukvarix_LOCAL.csv;2548;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;461;no
+LOC-0510;ремонт телефонов рядом со мной;ru;en;TRANSLATE_EN;near_home_services;near_me;1206;6273;LOCAL/bukvarix_LOCAL.csv;30230;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0511;копицентр рядом;ru;en;TRANSLATE_EN;near_home_services;near_me;1110;3870;LOCAL/bukvarix_LOCAL.csv;134;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0512;сантехника рядом;ru;uk;TRANSLATE_UK;near_home_services;near_me;730;10440;LOCAL/bukvarix_LOCAL.csv;211;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;463;no
+LOC-0513;фотоателье рядом со мной на карте;ru;en;TRANSLATE_EN;near_home_services;near_me;568;799;LOCAL/bukvarix_LOCAL.csv;38904;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;465;no
+LOC-0514;ателье рядом по ремонту одежды рядом со мной;ru;uk;TRANSLATE_UK;near_home_services;near_me;488;1658;LOCAL/bukvarix_LOCAL.csv;49280;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;467;no
+LOC-0515;ксерокс рядом;ru;en;TRANSLATE_EN;near_home_services;near_me;465;2733;LOCAL/bukvarix_LOCAL.csv;312;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0516;химчистка рядом;ru;uk;TRANSLATE_UK;near_home_services;near_me;429;3574;LOCAL/bukvarix_LOCAL.csv;346;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;468;no
+LOC-0517;мастерская ювелирная рядом со мной;ru;uk;TRANSLATE_UK;near_home_services;near_me;380;1745;LOCAL/bukvarix_LOCAL.csv;35771;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0518;ломбард рядом со мной на карте;ru;en;TRANSLATE_EN;near_home_services;near_me;377;769;LOCAL/bukvarix_LOCAL.csv;39094;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0519;веломастерская рядом со мной на карте;ru;uk;TRANSLATE_UK;near_home_services;near_me;356;585;LOCAL/bukvarix_LOCAL.csv;39104;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0520;ремонт одежды рядом со мной на карте;ru;en;TRANSLATE_EN;near_home_services;near_me;333;1379;LOCAL/bukvarix_LOCAL.csv;44562;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0521;ломбард золото сдать рядом со мной;ru;uk;TRANSLATE_UK;near_home_services;near_me;239;273;LOCAL/bukvarix_LOCAL.csv;42377;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;469;no
+LOC-0522;сантехника рядом со мной на карте;ru;ru;KEEP_RU;near_home_services;near_me;229;2229;LOCAL/bukvarix_LOCAL.csv;39501;REPLACEMENT_RULE_CHECKED;Universal local-search wording, kept RU;;no
+LOC-0523;ремонт бытовой техники рядом;ru;ru;KEEP_RU;near_home_services;near_me;211;1336;LOCAL/bukvarix_LOCAL.csv;15717;RETAINED_RULE_CHECKED;Universal local-search wording, kept RU;470;no
+LOC-0524;прачечная рядом;ru;ru;KEEP_RU;near_home_services;near_me;204;2216;LOCAL/bukvarix_LOCAL.csv;703;RETAINED_RULE_CHECKED;Universal local-search wording, kept RU;471;no
+LOC-0525;фотосалон рядом;ru;ru;KEEP_RU;near_home_services;near_me;192;1529;LOCAL/bukvarix_LOCAL.csv;764;RETAINED_RULE_CHECKED;Universal local-search wording, kept RU;472;no
+LOC-0526;прачечная самообслуживания рядом со мной;ru;ru;KEEP_RU;near_home_services;near_me;139;696;LOCAL/bukvarix_LOCAL.csv;32515;RETAINED_RULE_CHECKED;Universal local-search wording, kept RU;474;no
+LOC-0527;ателье рядом со мной краснодар;ru;ru;KEEP_RU;near_home_services;near_me;121;175;LOCAL/bukvarix_LOCAL.csv;35626;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;476;yes
+LOC-0528;телемастерская ремонт телевизоров рядом со мной;ru;ru;KEEP_RU;near_home_services;near_me;119;144;LOCAL/bukvarix_LOCAL.csv;40687;RETAINED_RULE_CHECKED;Universal local-search wording, kept RU;478;no
+LOC-0529;ателье рязань рядом;ru;ru;KEEP_RU;near_home_services;near_me;101;197;LOCAL/bukvarix_LOCAL.csv;7243;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;480;yes
+LOC-0530;гостиница рядом со мной;ru;en;TRANSLATE_EN;near_hotels;near_me;1477;4759;LOCAL/bukvarix_LOCAL.csv;13650;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0531;хостел рядом со мной;ru;en;TRANSLATE_EN;near_hotels;near_me;590;1627;LOCAL/bukvarix_LOCAL.csv;14122;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0532;отель рядом со мной;ru;uk;TRANSLATE_UK;near_hotels;near_me;481;2160;LOCAL/bukvarix_LOCAL.csv;14283;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0533;отели рядом с парком галицкого в краснодаре;ru;ru;KEEP_RU;near_hotels;near_me;469;1376;LOCAL/bukvarix_LOCAL.csv;44743;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;441;yes
+LOC-0534;отели рядом с шереметьево;ru;en;TRANSLATE_EN;near_hotels;near_me;388;2469;LOCAL/bukvarix_LOCAL.csv;14532;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;440;no
+LOC-0535;гостиница рядом с шереметьево;ru;uk;TRANSLATE_UK;near_hotels;near_me;349;2507;LOCAL/bukvarix_LOCAL.csv;14667;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;442;no
+LOC-0536;гостиница рядом со мной недорого на сутки;ru;uk;TRANSLATE_UK;near_hotels;near_me;268;535;LOCAL/bukvarix_LOCAL.csv;44708;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;453;no
+LOC-0537;гостиницы краснодар рядом с парком галицкого;ru;ru;KEEP_RU;near_hotels;near_me;240;1723;LOCAL/bukvarix_LOCAL.csv;42171;REPLACEMENT_RULE_CHECKED;Russia/CIS-specific destination assigned RU;;yes
+LOC-0538;гостиница рядом со мной недорого;ru;en;TRANSLATE_EN;near_hotels;near_me;161;1010;LOCAL/bukvarix_LOCAL.csv;32119;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0539;гостиницы рядом со мной на карте;ru;uk;TRANSLATE_UK;near_hotels;near_me;153;573;LOCAL/bukvarix_LOCAL.csv;40100;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0540;отели в кисловодске недорого рядом с парком;ru;en;TRANSLATE_EN;near_hotels;near_me;138;261;LOCAL/bukvarix_LOCAL.csv;45343;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0541;отели рядом с парком галицкого;ru;ru;KEEP_RU;near_hotels;near_me;134;2434;LOCAL/bukvarix_LOCAL.csv;32649;REPLACEMENT_RULE_CHECKED;Universal local-search wording, kept RU;;no
+LOC-0542;отели рядом со мной на карте;ru;ru;KEEP_RU;near_hotels;near_me;106;369;LOCAL/bukvarix_LOCAL.csv;41193;REPLACEMENT_RULE_CHECKED;Universal local-search wording, kept RU;;no
+LOC-0543;кинотеатр рядом;ru;uk;TRANSLATE_UK;near_leisure;near_me;890;16470;LOCAL/bukvarix_LOCAL.csv;181;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;382;no
+LOC-0544;церковь рядом;ru;en;TRANSLATE_EN;near_leisure;near_me;432;16129;LOCAL/bukvarix_LOCAL.csv;326;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;386;no
+LOC-0545;рядом бильярд;ru;en;TRANSLATE_EN;near_leisure;near_me;381;1441;LOCAL/bukvarix_LOCAL.csv;1993;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;388;no
+LOC-0546;библиотека рядом;ru;uk;TRANSLATE_UK;near_leisure;near_me;362;7480;LOCAL/bukvarix_LOCAL.csv;390;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;391;no
+LOC-0547;аквапарк рядом;ru;uk;TRANSLATE_UK;near_leisure;near_me;355;15034;LOCAL/bukvarix_LOCAL.csv;408;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;392;no
+LOC-0548;парк рядом;ru;en;TRANSLATE_EN;near_leisure;near_me;351;97447;LOCAL/bukvarix_LOCAL.csv;433;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;393;no
+LOC-0549;храм рядом со мной;ru;uk;TRANSLATE_UK;near_leisure;near_me;280;1429;LOCAL/bukvarix_LOCAL.csv;14996;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;390;no
+LOC-0550;зоопарк рядом со мной;ru;en;TRANSLATE_EN;near_leisure;near_me;186;524;LOCAL/bukvarix_LOCAL.csv;16090;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;398;no
+LOC-0551;библиотека рядом со мной на карте;ru;en;TRANSLATE_EN;near_leisure;near_me;174;384;LOCAL/bukvarix_LOCAL.csv;39861;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0552;кинотеатр рядом со мной на карте;ru;uk;TRANSLATE_UK;near_leisure;near_me;154;452;LOCAL/bukvarix_LOCAL.csv;40218;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0553;библиотека детская рядом со мной;ru;en;TRANSLATE_EN;near_leisure;near_me;143;257;LOCAL/bukvarix_LOCAL.csv;35439;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;403;no
+LOC-0554;церковь рядом со мной на карте;ru;uk;TRANSLATE_UK;near_leisure;near_me;141;463;LOCAL/bukvarix_LOCAL.csv;40406;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0555;аквапарк ближайший от меня;ru;ru;KEEP_RU;near_leisure;near_me;135;291;LOCAL/bukvarix_LOCAL.csv;26050;REPLACEMENT_RULE_CHECKED;Universal local-search wording, kept RU;;no
+LOC-0556;ближайший кинотеатр от меня;ru;ru;KEEP_RU;near_leisure;near_me;134;342;LOCAL/bukvarix_LOCAL.csv;19781;REPLACEMENT_RULE_CHECKED;Universal local-search wording, kept RU;;no
+LOC-0557;зоопарк контактный рядом;ru;ru;KEEP_RU;near_leisure;near_me;119;817;LOCAL/bukvarix_LOCAL.csv;13321;RETAINED_RULE_CHECKED;Universal local-search wording, kept RU;405;no
+LOC-0558;аквапарк рядом со мной на карте;ru;ru;KEEP_RU;near_leisure;near_me;113;200;LOCAL/bukvarix_LOCAL.csv;40781;REPLACEMENT_RULE_CHECKED;Universal local-search wording, kept RU;;no
+LOC-0559;храм рядом со мной на карте;ru;ru;KEEP_RU;near_leisure;near_me;113;451;LOCAL/bukvarix_LOCAL.csv;40797;REPLACEMENT_RULE_CHECKED;Universal local-search wording, kept RU;;no
+LOC-0560;ближайший парк аттракционов;ru;ru;KEEP_RU;near_leisure;near_me;107;705;LOCAL/bukvarix_LOCAL.csv;6847;RETAINED_RULE_CHECKED;Universal local-search wording, kept RU;408;no
+LOC-0561;кинотеатр поблизости;ru;ru;KEEP_RU;near_leisure;near_me;101;472;LOCAL/bukvarix_LOCAL.csv;1374;REPLACEMENT_RULE_CHECKED;Universal local-search wording, kept RU;;no
+LOC-0562;аптека рядом;ru;uk;TRANSLATE_UK;near_medical;near_me;19620;115293;LOCAL/bukvarix_LOCAL.csv;5;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;139;no
+LOC-0563;круглосуточная аптека рядом;ru;en;TRANSLATE_EN;near_medical;near_me;4282;19119;LOCAL/bukvarix_LOCAL.csv;2335;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;140;no
+LOC-0564;травмпункт рядом;ru;en;TRANSLATE_EN;near_medical;near_me;2677;11857;LOCAL/bukvarix_LOCAL.csv;40;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;141;no
+LOC-0565;доктор рядом;ru;uk;TRANSLATE_UK;near_medical;near_me;2118;15922;LOCAL/bukvarix_LOCAL.csv;58;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;143;no
+LOC-0566;травмпункт взрослый рядом со мной;ru;uk;TRANSLATE_UK;near_medical;near_me;2028;3699;LOCAL/bukvarix_LOCAL.csv;35032;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;142;no
+LOC-0567;аптека 24 часа рядом;ru;en;TRANSLATE_EN;near_medical;near_me;1556;3848;LOCAL/bukvarix_LOCAL.csv;13652;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;144;no
+LOC-0568;поликлиника рядом;ru;en;TRANSLATE_EN;near_medical;near_me;792;16353;LOCAL/bukvarix_LOCAL.csv;225;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;146;no
+LOC-0569;аптека поблизости;ru;uk;TRANSLATE_UK;near_medical;near_me;750;3983;LOCAL/bukvarix_LOCAL.csv;212;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0570;доктор рядом саратов;ru;ru;KEEP_RU;near_medical;near_me;578;1686;LOCAL/bukvarix_LOCAL.csv;2875;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;149;yes
+LOC-0571;доктор рядом саратов перспективная;ru;ru;KEEP_RU;near_medical;near_me;507;890;LOCAL/bukvarix_LOCAL.csv;14222;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;150;yes
+LOC-0572;аптека поблизости от меня;ru;uk;TRANSLATE_UK;near_medical;near_me;466;824;LOCAL/bukvarix_LOCAL.csv;14290;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0573;детский травмпункт рядом;ru;en;TRANSLATE_EN;near_medical;near_me;403;1304;LOCAL/bukvarix_LOCAL.csv;6612;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;151;no
+LOC-0574;апрель рядом со мной аптека;ru;uk;TRANSLATE_UK;near_medical;near_me;334;745;LOCAL/bukvarix_LOCAL.csv;36224;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;152;no
+LOC-0575;клиника рядом;ru;en;TRANSLATE_EN;near_medical;near_me;328;28956;LOCAL/bukvarix_LOCAL.csv;455;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;156;no
+LOC-0576;доктор рядом хабаровск;ru;ru;KEEP_RU;near_medical;near_me;327;831;LOCAL/bukvarix_LOCAL.csv;3521;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;153;yes
+LOC-0577;рядом больница;ru;en;TRANSLATE_EN;near_medical;near_me;315;24447;LOCAL/bukvarix_LOCAL.csv;1988;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;158;no
+LOC-0578;аптека рядом с моим местоположением;ru;uk;TRANSLATE_UK;near_medical;near_me;305;896;LOCAL/bukvarix_LOCAL.csv;30927;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;155;no
+LOC-0579;доктор рядом томск;ru;en;TRANSLATE_EN;near_medical;near_me;295;915;LOCAL/bukvarix_LOCAL.csv;3783;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;157;no
+LOC-0580;узи рядом со мной;ru;uk;TRANSLATE_UK;near_medical;near_me;262;2902;LOCAL/bukvarix_LOCAL.csv;15134;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;154;no
+LOC-0581;детская поликлиника рядом;ru;en;TRANSLATE_EN;near_medical;near_me;257;2507;LOCAL/bukvarix_LOCAL.csv;4541;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;161;no
+LOC-0582;сдать анализы рядом со мной;ru;uk;TRANSLATE_UK;near_medical;near_me;244;1938;LOCAL/bukvarix_LOCAL.csv;31314;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0583;доктор рядом курган;ru;en;TRANSLATE_EN;near_medical;near_me;238;727;LOCAL/bukvarix_LOCAL.csv;4432;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;163;no
+LOC-0584;дежурная аптека рядом;ru;uk;TRANSLATE_UK;near_medical;near_me;233;1008;LOCAL/bukvarix_LOCAL.csv;4386;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;164;no
+LOC-0585;ночная аптека рядом со мной;ru;uk;TRANSLATE_UK;near_medical;near_me;202;526;LOCAL/bukvarix_LOCAL.csv;32665;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;165;no
+LOC-0586;аптека рядом со мной открыто;ru;en;TRANSLATE_EN;near_medical;near_me;195;409;LOCAL/bukvarix_LOCAL.csv;31647;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0587;взрослая поликлиника рядом со мной;ru;en;TRANSLATE_EN;near_medical;near_me;186;977;LOCAL/bukvarix_LOCAL.csv;35562;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;166;no
+LOC-0588;круглосуточный травмпункт рядом со мной взрослый;ru;uk;TRANSLATE_UK;near_medical;near_me;181;385;LOCAL/bukvarix_LOCAL.csv;44158;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;168;no
+LOC-0589;чехов доктор рядом;ru;uk;TRANSLATE_UK;near_medical;near_me;181;479;LOCAL/bukvarix_LOCAL.csv;11127;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;169;no
+LOC-0590;доктор рядом официальный сайт;ru;en;TRANSLATE_EN;near_medical;near_me;159;957;LOCAL/bukvarix_LOCAL.csv;16687;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0591;офтальмолог рядом со мной;ru;uk;TRANSLATE_UK;near_medical;near_me;156;673;LOCAL/bukvarix_LOCAL.csv;16785;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0592;доктор рядом томск 79 гвардейской;ru;en;TRANSLATE_EN;near_medical;near_me;150;285;LOCAL/bukvarix_LOCAL.csv;32243;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;170;no
+LOC-0593;медцентр рядом;ru;uk;TRANSLATE_UK;near_medical;near_me;149;2013;LOCAL/bukvarix_LOCAL.csv;944;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;174;no
+LOC-0594;рядом лаборатория;ru;en;TRANSLATE_EN;near_medical;near_me;148;3759;LOCAL/bukvarix_LOCAL.csv;2146;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;175;no
+LOC-0595;врачи рядом;ru;en;TRANSLATE_EN;near_medical;near_me;146;10961;LOCAL/bukvarix_LOCAL.csv;948;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0596;ближайший травмпункт от меня;ru;uk;TRANSLATE_UK;near_medical;near_me;144;296;LOCAL/bukvarix_LOCAL.csv;17435;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0597;доктор рядом саратов перспективная телефон;ru;ru;KEEP_RU;near_medical;near_me;144;248;LOCAL/bukvarix_LOCAL.csv;32642;REPLACEMENT_RULE_CHECKED;Russia/CIS-specific destination assigned RU;;yes
+LOC-0598;дежурная аптека рядом со мной круглосуточная;ru;en;TRANSLATE_EN;near_medical;near_me;138;320;LOCAL/bukvarix_LOCAL.csv;40885;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;172;no
+LOC-0599;клиника доктор рядом;ru;uk;TRANSLATE_UK;near_medical;near_me;138;1256;LOCAL/bukvarix_LOCAL.csv;7939;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;173;no
+LOC-0600;вет аптека рядом со мной;ru;ru;KEEP_RU;near_medical;near_me;132;184;LOCAL/bukvarix_LOCAL.csv;32662;RETAINED_RULE_CHECKED;Universal local-search wording, kept RU;171;no
+LOC-0601;аптека столички рядом;ru;ru;KEEP_RU;near_medical;near_me;130;1285;LOCAL/bukvarix_LOCAL.csv;6368;RETAINED_RULE_CHECKED;Universal local-search wording, kept RU;176;no
+LOC-0602;доктор рядом дальнереченск;ru;ru;KEEP_RU;near_medical;near_me;118;337;LOCAL/bukvarix_LOCAL.csv;6708;RETAINED_RULE_CHECKED;Universal local-search wording, kept RU;179;no
+LOC-0603;дыхательная гимнастика после ковида доктор рядом;ru;ru;KEEP_RU;near_medical;near_me;118;119;LOCAL/bukvarix_LOCAL.csv;40668;RETAINED_RULE_CHECKED;Universal local-search wording, kept RU;180;no
+LOC-0604;круглосуточная аптека рядом с моим местоположением;ru;ru;KEEP_RU;near_medical;near_me;115;231;LOCAL/bukvarix_LOCAL.csv;40744;REPLACEMENT_RULE_CHECKED;Universal local-search wording, kept RU;;no
+LOC-0605;сдать анализы рядом со мной на карте;ru;ru;KEEP_RU;near_medical;near_me;114;384;LOCAL/bukvarix_LOCAL.csv;45988;REPLACEMENT_RULE_CHECKED;Universal local-search wording, kept RU;;no
+LOC-0606;аптека 24 часа рядом со мной круглосуточно;ru;ru;KEEP_RU;near_medical;near_me;111;220;LOCAL/bukvarix_LOCAL.csv;45721;RETAINED_RULE_CHECKED;Universal local-search wording, kept RU;182;no
+LOC-0607;доктор рядом курган официальный сайт;ru;ru;KEEP_RU;near_medical;near_me;107;147;LOCAL/bukvarix_LOCAL.csv;33450;REPLACEMENT_RULE_CHECKED;Universal local-search wording, kept RU;;no
+LOC-0608;доктор рядом хабаровск официальный сайт на калинина;ru;ru;KEEP_RU;near_medical;near_me;107;107;LOCAL/bukvarix_LOCAL.csv;45791;REPLACEMENT_RULE_CHECKED;Russia/CIS-specific destination assigned RU;;yes
+LOC-0609;зооаптека рядом со мной на карте;ru;ru;KEEP_RU;near_medical;near_me;105;158;LOCAL/bukvarix_LOCAL.csv;41047;RETAINED_RULE_CHECKED;Universal local-search wording, kept RU;181;no
+LOC-0610;лаборатория для сдачи анализов рядом со мной;ru;ru;KEEP_RU;near_medical;near_me;102;192;LOCAL/bukvarix_LOCAL.csv;46446;RETAINED_RULE_CHECKED;Universal local-search wording, kept RU;184;no
+LOC-0611;аптека круглая суточная рядом со мной;ru;ru;KEEP_RU;near_medical;near_me;100;112;LOCAL/bukvarix_LOCAL.csv;41173;RETAINED_RULE_CHECKED;Universal local-search wording, kept RU;183;no
+LOC-0612;узи рядом со мной на карте;ru;ru;KEEP_RU;near_medical;near_me;100;357;LOCAL/bukvarix_LOCAL.csv;41171;REPLACEMENT_RULE_CHECKED;Universal local-search wording, kept RU;;no
+LOC-0613;сдэк рядом;ru;uk;TRANSLATE_UK;near_parcel;near_me;2871;20913;LOCAL/bukvarix_LOCAL.csv;39;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;49;no
+LOC-0614;озон рядом;ru;en;TRANSLATE_EN;near_parcel;near_me;1577;25231;LOCAL/bukvarix_LOCAL.csv;90;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;53;no
+LOC-0615;почта россии рядом;ru;ru;KEEP_RU;near_parcel;near_me;1421;9924;LOCAL/bukvarix_LOCAL.csv;2529;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;54;yes
+LOC-0616;пункт выдачи озон рядом со мной;ru;uk;TRANSLATE_UK;near_parcel;near_me;553;3934;LOCAL/bukvarix_LOCAL.csv;40925;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;56;no
+LOC-0617;почта россии рядом со мной на карте;ru;ru;KEEP_RU;near_parcel;near_me;501;1391;LOCAL/bukvarix_LOCAL.csv;44469;REPLACEMENT_RULE_CHECKED;Russia/CIS-specific destination assigned RU;;yes
+LOC-0618;сдэк ближайший пункт;ru;en;TRANSLATE_EN;near_parcel;near_me;449;4615;LOCAL/bukvarix_LOCAL.csv;3721;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;64;no
+LOC-0619;яндекс маркет рядом со мной;ru;en;TRANSLATE_EN;near_parcel;near_me;407;2033;LOCAL/bukvarix_LOCAL.csv;30556;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;63;no
+LOC-0620;отделение почты россии рядом со мной;ru;uk;TRANSLATE_UK;near_parcel;near_me;406;1315;LOCAL/bukvarix_LOCAL.csv;39019;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;66;no
+LOC-0621;сдэк ближайший пункт ко мне;ru;uk;TRANSLATE_UK;near_parcel;near_me;384;1021;LOCAL/bukvarix_LOCAL.csv;30694;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0622;вайлдберриз рядом со мной;ru;en;TRANSLATE_EN;near_parcel;near_me;349;1956;LOCAL/bukvarix_LOCAL.csv;14642;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;65;no
+LOC-0623;сдэк рядом со мной на карте;ru;en;TRANSLATE_EN;near_parcel;near_me;345;2373;LOCAL/bukvarix_LOCAL.csv;39150;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0624;озон рядом со мной пункт выдачи на карте;ru;uk;TRANSLATE_UK;near_parcel;near_me;330;1101;LOCAL/bukvarix_LOCAL.csv;49267;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0625;ближайший ко мне сдэк пункт выдачи;ru;en;TRANSLATE_EN;near_parcel;near_me;314;408;LOCAL/bukvarix_LOCAL.csv;43718;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;70;no
+LOC-0626;режим работы озон пункт выдачи рядом со мной;ru;uk;TRANSLATE_UK;near_parcel;near_me;309;343;LOCAL/bukvarix_LOCAL.csv;48171;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;73;no
+LOC-0627;рядом со мной валберис;ru;ru;KEEP_RU;near_parcel;near_me;308;1727;LOCAL/bukvarix_LOCAL.csv;26935;REPLACEMENT_RULE_CHECKED;Russia/CIS-specific destination assigned RU;;yes
+LOC-0628;почтовое отделение рядом со мной на карте;ru;uk;TRANSLATE_UK;near_parcel;near_me;296;614;LOCAL/bukvarix_LOCAL.csv;44631;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;72;no
+LOC-0629;озон рядом со мной пункт;ru;en;TRANSLATE_EN;near_parcel;near_me;295;5220;LOCAL/bukvarix_LOCAL.csv;31277;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;68;no
+LOC-0630;почтовое отделение рядом;ru;en;TRANSLATE_EN;near_parcel;near_me;277;3118;LOCAL/bukvarix_LOCAL.csv;3788;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0631;отделение почты рядом со мной на карте;ru;uk;TRANSLATE_UK;near_parcel;near_me;239;831;LOCAL/bukvarix_LOCAL.csv;44794;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;74;no
+LOC-0632;отделение почты рядом;ru;en;TRANSLATE_EN;near_parcel;near_me;206;3716;LOCAL/bukvarix_LOCAL.csv;4458;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0633;сдэк поблизости;ru;uk;TRANSLATE_UK;near_parcel;near_me;195;632;LOCAL/bukvarix_LOCAL.csv;747;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0634;ближайший от меня сдэк;ru;en;TRANSLATE_EN;near_parcel;near_me;173;517;LOCAL/bukvarix_LOCAL.csv;27810;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0635;озон поблизости;ru;uk;TRANSLATE_UK;near_parcel;near_me;172;745;LOCAL/bukvarix_LOCAL.csv;824;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0636;яндекс маркет ближайший пункт выдачи;ru;uk;TRANSLATE_UK;near_parcel;near_me;170;952;LOCAL/bukvarix_LOCAL.csv;34496;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;76;no
+LOC-0637;почта россии рядом со мной адреса;ru;ru;KEEP_RU;near_parcel;near_me;167;905;LOCAL/bukvarix_LOCAL.csv;40394;REPLACEMENT_RULE_CHECKED;Russia/CIS-specific destination assigned RU;;yes
+LOC-0638;яндекс доставка пункт выдачи рядом со мной;ru;en;TRANSLATE_EN;near_parcel;near_me;160;424;LOCAL/bukvarix_LOCAL.csv;46556;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;78;no
+LOC-0639;яндекс маркет на карте пункты выдачи рядом со мной;ru;uk;TRANSLATE_UK;near_parcel;near_me;157;358;LOCAL/bukvarix_LOCAL.csv;50260;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0640;пункты озон на карте рядом со мной;ru;en;TRANSLATE_EN;near_parcel;near_me;154;1439;LOCAL/bukvarix_LOCAL.csv;46532;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0641;озон на карте рядом со мной;ru;en;TRANSLATE_EN;near_parcel;near_me;151;2693;LOCAL/bukvarix_LOCAL.csv;44110;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0642;вайлдберриз рядом со мной на карте;ru;uk;TRANSLATE_UK;near_parcel;near_me;141;715;LOCAL/bukvarix_LOCAL.csv;40339;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0643;ближайший озон от меня;ru;en;TRANSLATE_EN;near_parcel;near_me;139;468;LOCAL/bukvarix_LOCAL.csv;17344;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0644;сдэк краснодар адреса рядом со мной;ru;ru;KEEP_RU;near_parcel;near_me;139;193;LOCAL/bukvarix_LOCAL.csv;40296;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;79;yes
+LOC-0645;пункт яндекс маркет рядом со мной;ru;uk;TRANSLATE_UK;near_parcel;near_me;135;1152;LOCAL/bukvarix_LOCAL.csv;40382;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;80;no
+LOC-0646;рядом валберис со мной на карте;ru;ru;KEEP_RU;near_parcel;near_me;134;557;LOCAL/bukvarix_LOCAL.csv;43288;REPLACEMENT_RULE_CHECKED;Russia/CIS-specific destination assigned RU;;yes
+LOC-0647;валберис пункт выдачи рядом со мной;ru;ru;KEEP_RU;near_parcel;near_me;119;766;LOCAL/bukvarix_LOCAL.csv;44014;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;82;yes
+LOC-0648;пункты выдачи вайлдберриз на карте рядом со мной;ru;en;TRANSLATE_EN;near_parcel;near_me;118;408;LOCAL/bukvarix_LOCAL.csv;49164;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;85;no
+LOC-0649;ближайший пункт выдачи сдэк;ru;ru;KEEP_RU;near_parcel;near_me;116;1715;LOCAL/bukvarix_LOCAL.csv;20482;REPLACEMENT_RULE_CHECKED;Universal local-search wording, kept RU;;no
+LOC-0650;пункт выдачи яндекс рядом;ru;ru;KEEP_RU;near_parcel;near_me;114;2277;LOCAL/bukvarix_LOCAL.csv;23569;RETAINED_RULE_CHECKED;Universal local-search wording, kept RU;81;no
+LOC-0651;ближайший вб пункт выдачи от меня;ru;ru;KEEP_RU;near_parcel;near_me;107;129;LOCAL/bukvarix_LOCAL.csv;41854;RETAINED_RULE_CHECKED;Universal local-search wording, kept RU;86;no
+LOC-0652;вб рядом со мной пункт выдачи на карте;ru;ru;KEEP_RU;near_parcel;near_me;106;186;LOCAL/bukvarix_LOCAL.csv;48833;REPLACEMENT_RULE_CHECKED;Universal local-search wording, kept RU;;no
+LOC-0653;ближайший ко мне сдэк;ru;ru;KEEP_RU;near_parcel;near_me;105;1326;LOCAL/bukvarix_LOCAL.csv;23872;REPLACEMENT_RULE_CHECKED;Universal local-search wording, kept RU;;no
+LOC-0654;ближайший сортировочный центр wildberries;ru;ru;KEEP_RU;near_parcel;near_me;104;356;LOCAL/bukvarix_LOCAL.csv;19328;RETAINED_RULE_CHECKED;Universal local-search wording, kept RU;84;no
+LOC-0655;яндекс доставка пункт выдачи рядом со мной на карте;ru;ru;KEEP_RU;near_parcel;near_me;103;158;LOCAL/bukvarix_LOCAL.csv;50086;REPLACEMENT_RULE_CHECKED;Universal local-search wording, kept RU;;no
+LOC-0656;парковка рядом;ru;uk;TRANSLATE_UK;near_parking;near_me;116;22008;LOCAL/bukvarix_LOCAL.csv;1159;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;520;no
+LOC-0657;зоомагазин рядом;ru;uk;TRANSLATE_UK;near_pets;near_me;2406;10671;LOCAL/bukvarix_LOCAL.csv;50;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;11;no
+LOC-0658;ветклиника рядом;ru;en;TRANSLATE_EN;near_pets;near_me;2002;10185;LOCAL/bukvarix_LOCAL.csv;51;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;12;no
+LOC-0659;ветеринарная клиника рядом;ru;uk;TRANSLATE_UK;near_pets;near_me;1729;9017;LOCAL/bukvarix_LOCAL.csv;2427;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;13;no
+LOC-0660;ветклиника рядом со мной на карте;ru;en;TRANSLATE_EN;near_pets;near_me;1457;2739;LOCAL/bukvarix_LOCAL.csv;38804;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;14;no
+LOC-0661;зоомагазин рядом со мной на карте;ru;en;TRANSLATE_EN;near_pets;near_me;1454;2491;LOCAL/bukvarix_LOCAL.csv;38795;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;15;no
+LOC-0662;вет клиника рядом со мной;ru;uk;TRANSLATE_UK;near_pets;near_me;743;876;LOCAL/bukvarix_LOCAL.csv;30289;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;145;no
+LOC-0663;ветаптека рядом;ru;uk;TRANSLATE_UK;near_pets;near_me;685;3207;LOCAL/bukvarix_LOCAL.csv;228;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;147;no
+LOC-0664;ветеренарная клиника рядом;ru;en;TRANSLATE_EN;near_pets;near_me;603;1139;LOCAL/bukvarix_LOCAL.csv;2844;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;148;no
+LOC-0665;ветеринарная аптека рядом;ru;en;TRANSLATE_EN;near_pets;near_me;432;1472;LOCAL/bukvarix_LOCAL.csv;3157;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;18;no
+LOC-0666;груминг рядом;ru;uk;TRANSLATE_UK;near_pets;near_me;290;2223;LOCAL/bukvarix_LOCAL.csv;500;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;19;no
+LOC-0667;зоотовары рядом;ru;en;TRANSLATE_EN;near_pets;near_me;212;692;LOCAL/bukvarix_LOCAL.csv;680;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;20;no
+LOC-0668;груминг рядом со мной для собак;ru;uk;TRANSLATE_UK;near_pets;near_me;171;320;LOCAL/bukvarix_LOCAL.csv;41273;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;22;no
+LOC-0669;ветклиника рядом зеленоград;ru;ru;KEEP_RU;near_pets;near_me;147;267;LOCAL/bukvarix_LOCAL.csv;8179;RETAINED_RULE_CHECKED;Universal local-search wording, kept RU;23;no
+LOC-0670;ветеринарка рядом со мной на карте;ru;ru;KEEP_RU;near_pets;near_me;122;169;LOCAL/bukvarix_LOCAL.csv;40593;RETAINED_RULE_CHECKED;Universal local-search wording, kept RU;24;no
+LOC-0671;ветеринар рядом;ru;ru;KEEP_RU;near_pets;near_me;119;928;LOCAL/bukvarix_LOCAL.csv;1135;RETAINED_RULE_CHECKED;Universal local-search wording, kept RU;28;no
+LOC-0672;магазин для животных зоомагазин рядом со мной;ru;ru;KEEP_RU;near_pets;near_me;118;122;LOCAL/bukvarix_LOCAL.csv;45622;RETAINED_RULE_CHECKED;Universal local-search wording, kept RU;26;no
+LOC-0673;ветклиника краснодар рядом;ru;ru;KEEP_RU;near_pets;near_me;114;320;LOCAL/bukvarix_LOCAL.csv;6513;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;25;yes
+LOC-0674;ветклиника круглосуточная рядом;ru;ru;KEEP_RU;near_pets;near_me;111;647;LOCAL/bukvarix_LOCAL.csv;9789;RETAINED_RULE_CHECKED;Universal local-search wording, kept RU;27;no
+LOC-0675;нотариус рядом со мной;ru;en;TRANSLATE_EN;near_public;near_me;7934;19604;LOCAL/bukvarix_LOCAL.csv;13435;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;29;no
+LOC-0676;мфц рядом;ru;ru;KEEP_RU;near_public;near_me;2380;18096;LOCAL/bukvarix_LOCAL.csv;65;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;32;yes
+LOC-0677;натариус или нотариус рядом со мной на карте;ru;uk;TRANSLATE_UK;near_public;near_me;1251;1327;LOCAL/bukvarix_LOCAL.csv;48002;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;35;no
+LOC-0678;нотариус рядом со мной на карте;ru;uk;TRANSLATE_UK;near_public;near_me;851;4759;LOCAL/bukvarix_LOCAL.csv;38848;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0679;мфц рядом со мной на карте;ru;ru;KEEP_RU;near_public;near_me;764;2324;LOCAL/bukvarix_LOCAL.csv;38857;REPLACEMENT_RULE_CHECKED;Russia/CIS-specific destination assigned RU;;yes
+LOC-0680;нотариус краснодар рядом со мной;ru;ru;KEEP_RU;near_public;near_me;599;953;LOCAL/bukvarix_LOCAL.csv;30451;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;36;yes
+LOC-0681;нотариус ростов на дону рядом со мной;ru;ru;KEEP_RU;near_public;near_me;439;496;LOCAL/bukvarix_LOCAL.csv;44511;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;38;yes
+LOC-0682;нотариальная контора рядом со мной показать;ru;en;TRANSLATE_EN;near_public;near_me;329;432;LOCAL/bukvarix_LOCAL.csv;39152;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0683;пенсионный фонд ближайший;ru;uk;TRANSLATE_UK;near_public;near_me;301;1780;LOCAL/bukvarix_LOCAL.csv;9261;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;41;no
+LOC-0684;нотариус ближайший от меня;ru;en;TRANSLATE_EN;near_public;near_me;286;916;LOCAL/bukvarix_LOCAL.csv;23487;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0685;загс рядом со мной ближайший;ru;en;TRANSLATE_EN;near_public;near_me;200;368;LOCAL/bukvarix_LOCAL.csv;35387;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;44;no
+LOC-0686;отделение полиции рядом со мной;ru;uk;TRANSLATE_UK;near_public;near_me;195;709;LOCAL/bukvarix_LOCAL.csv;31603;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;45;no
+LOC-0687;ближайшее мфц рядом со мной;ru;ru;KEEP_RU;near_public;near_me;187;2278;LOCAL/bukvarix_LOCAL.csv;31699;REPLACEMENT_RULE_CHECKED;Russia/CIS-specific destination assigned RU;;yes
+LOC-0688;налоговая рядом со мной;ru;uk;TRANSLATE_UK;near_public;near_me;184;760;LOCAL/bukvarix_LOCAL.csv;16214;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0689;отдел полиции ближайший;ru;en;TRANSLATE_EN;near_public;near_me;182;1880;LOCAL/bukvarix_LOCAL.csv;11346;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0690;нотариус поблизости;ru;uk;TRANSLATE_UK;near_public;near_me;168;500;LOCAL/bukvarix_LOCAL.csv;938;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0691;ближайший военкомат;ru;en;TRANSLATE_EN;near_public;near_me;164;2178;LOCAL/bukvarix_LOCAL.csv;1031;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;47;no
+LOC-0692;опорный пункт полиции рядом со мной;ru;en;TRANSLATE_EN;near_public;near_me;152;273;LOCAL/bukvarix_LOCAL.csv;40104;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0693;мфц поблизости;ru;ru;KEEP_RU;near_public;near_me;132;423;LOCAL/bukvarix_LOCAL.csv;1125;REPLACEMENT_RULE_CHECKED;Russia/CIS-specific destination assigned RU;;yes
+LOC-0694;нотариус рядом со мной новосибирск;ru;ru;KEEP_RU;near_public;near_me;132;167;LOCAL/bukvarix_LOCAL.csv;33075;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;48;yes
+LOC-0695;пятерочка рядом;ru;ru;KEEP_RU;near_retail;near_me;5812;38913;LOCAL/bukvarix_LOCAL.csv;33;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;318;yes
+LOC-0696;магазин строительный рядом;ru;uk;TRANSLATE_UK;near_retail;near_me;4214;14633;LOCAL/bukvarix_LOCAL.csv;5664;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;320;no
+LOC-0697;магазины рядом со мной;ru;en;TRANSLATE_EN;near_retail;near_me;3552;133048;LOCAL/bukvarix_LOCAL.csv;13475;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0698;магнит рядом;ru;ru;KEEP_RU;near_retail;near_me;3552;33110;LOCAL/bukvarix_LOCAL.csv;45;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;321;yes
+LOC-0699;магазин рыболовный рядом;ru;uk;TRANSLATE_UK;near_retail;near_me;3220;10956;LOCAL/bukvarix_LOCAL.csv;4687;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;322;no
+LOC-0700;магазин круглосуточный рядом;ru;en;TRANSLATE_EN;near_retail;near_me;3094;19046;LOCAL/bukvarix_LOCAL.csv;2937;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;323;no
+LOC-0701;фикс прайс рядом;ru;uk;TRANSLATE_UK;near_retail;near_me;2938;15698;LOCAL/bukvarix_LOCAL.csv;2320;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;325;no
+LOC-0702;цветы рядом со мной;ru;uk;TRANSLATE_UK;near_retail;near_me;2480;10106;LOCAL/bukvarix_LOCAL.csv;13494;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;324;no
+LOC-0703;магазины рядом со мной на карте;ru;en;TRANSLATE_EN;near_retail;near_me;1738;48220;LOCAL/bukvarix_LOCAL.csv;38784;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0704;магнит косметик рядом;ru;ru;KEEP_RU;near_retail;near_me;1703;7123;LOCAL/bukvarix_LOCAL.csv;2471;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;326;yes
+LOC-0705;цветочный магазин рядом;ru;uk;TRANSLATE_UK;near_retail;near_me;1680;10132;LOCAL/bukvarix_LOCAL.csv;2452;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;327;no
+LOC-0706;пятерочка рядом со мной на карте;ru;ru;KEEP_RU;near_retail;near_me;1527;4126;LOCAL/bukvarix_LOCAL.csv;38803;REPLACEMENT_RULE_CHECKED;Russia/CIS-specific destination assigned RU;;yes
+LOC-0707;красное белое рядом;ru;en;TRANSLATE_EN;near_retail;near_me;1188;12446;LOCAL/bukvarix_LOCAL.csv;2547;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;329;no
+LOC-0708;продуктовый магазин рядом;ru;en;TRANSLATE_EN;near_retail;near_me;1139;13350;LOCAL/bukvarix_LOCAL.csv;2709;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;330;no
+LOC-0709;цветы рядом со мной на карте;ru;uk;TRANSLATE_UK;near_retail;near_me;1132;3642;LOCAL/bukvarix_LOCAL.csv;38825;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0710;хозяйственный магазин рядом;ru;en;TRANSLATE_EN;near_retail;near_me;1038;5114;LOCAL/bukvarix_LOCAL.csv;2599;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;331;no
+LOC-0711;пятерочка магазин рядом;ru;ru;KEEP_RU;near_retail;near_me;901;8445;LOCAL/bukvarix_LOCAL.csv;4306;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;334;yes
+LOC-0712;магазин продуктов рядом;ru;uk;TRANSLATE_UK;near_retail;near_me;858;22650;LOCAL/bukvarix_LOCAL.csv;2750;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;336;no
+LOC-0713;чижик рядом со мной;ru;en;TRANSLATE_EN;near_retail;near_me;820;2913;LOCAL/bukvarix_LOCAL.csv;13916;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;332;no
+LOC-0714;магазин рядом со мной 24 часа;ru;uk;TRANSLATE_UK;near_retail;near_me;791;1859;LOCAL/bukvarix_LOCAL.csv;42075;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;337;no
+LOC-0715;рядом магазин одежды;ru;en;TRANSLATE_EN;near_retail;near_me;754;8671;LOCAL/bukvarix_LOCAL.csv;9765;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;339;no
+LOC-0716;табачный магазин рядом;ru;uk;TRANSLATE_UK;near_retail;near_me;731;2769;LOCAL/bukvarix_LOCAL.csv;2777;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;340;no
+LOC-0717;цветочный рядом;ru;en;TRANSLATE_EN;near_retail;near_me;665;15854;LOCAL/bukvarix_LOCAL.csv;232;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;345;no
+LOC-0718;рядом магнит магазин;ru;ru;KEEP_RU;near_retail;near_me;639;6871;LOCAL/bukvarix_LOCAL.csv;11152;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;344;yes
+LOC-0719;пятерочка режим работы рядом со мной;ru;ru;KEEP_RU;near_retail;near_me;624;2974;LOCAL/bukvarix_LOCAL.csv;39027;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;343;yes
+LOC-0720;магазин светофор рядом;ru;uk;TRANSLATE_UK;near_retail;near_me;599;3286;LOCAL/bukvarix_LOCAL.csv;3450;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;346;no
+LOC-0721;магазины поблизости;ru;uk;TRANSLATE_UK;near_retail;near_me;554;13256;LOCAL/bukvarix_LOCAL.csv;266;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0722;магазин электроники рядом;ru;en;TRANSLATE_EN;near_retail;near_me;538;1913;LOCAL/bukvarix_LOCAL.csv;2919;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;347;no
+LOC-0723;перекресток рядом;ru;en;TRANSLATE_EN;near_retail;near_me;529;5210;LOCAL/bukvarix_LOCAL.csv;270;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;348;no
+LOC-0724;магазин фикс прайс на карте рядом со мной;ru;uk;TRANSLATE_UK;near_retail;near_me;528;1452;LOCAL/bukvarix_LOCAL.csv;48070;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;349;no
+LOC-0725;магнит рядом со мной на карте;ru;ru;KEEP_RU;near_retail;near_me;516;3116;LOCAL/bukvarix_LOCAL.csv;38950;REPLACEMENT_RULE_CHECKED;Russia/CIS-specific destination assigned RU;;yes
+LOC-0726;чижик на карте рядом со мной;ru;uk;TRANSLATE_UK;near_retail;near_me;493;1514;LOCAL/bukvarix_LOCAL.csv;41958;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0727;магазин цветов рядом;ru;en;TRANSLATE_EN;near_retail;near_me;460;4615;LOCAL/bukvarix_LOCAL.csv;3021;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;350;no
+LOC-0728;ближайший магазин чижик;ru;uk;TRANSLATE_UK;near_retail;near_me;449;2009;LOCAL/bukvarix_LOCAL.csv;3515;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;351;no
+LOC-0729;канцелярский магазин рядом;ru;en;TRANSLATE_EN;near_retail;near_me;443;1350;LOCAL/bukvarix_LOCAL.csv;3059;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;352;no
+LOC-0730;лента рядом;ru;en;TRANSLATE_EN;near_retail;near_me;416;7311;LOCAL/bukvarix_LOCAL.csv;355;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;355;no
+LOC-0731;магнит рядом режим работы;ru;ru;KEEP_RU;near_retail;near_me;371;1971;LOCAL/bukvarix_LOCAL.csv;22107;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;353;yes
+LOC-0732;пятерочка поблизости;ru;ru;KEEP_RU;near_retail;near_me;367;1029;LOCAL/bukvarix_LOCAL.csv;416;REPLACEMENT_RULE_CHECKED;Russia/CIS-specific destination assigned RU;;yes
+LOC-0733;мясной магазин рядом;ru;uk;TRANSLATE_UK;near_retail;near_me;343;1676;LOCAL/bukvarix_LOCAL.csv;3482;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;357;no
+LOC-0734;супермаркет рядом;ru;uk;TRANSLATE_UK;near_retail;near_me;342;4687;LOCAL/bukvarix_LOCAL.csv;441;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;359;no
+LOC-0735;фикспрайс рядом со мной;ru;en;TRANSLATE_EN;near_retail;near_me;336;536;LOCAL/bukvarix_LOCAL.csv;14707;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0736;магазин пятерочка режим работы рядом со мной;ru;ru;KEEP_RU;near_retail;near_me;335;1024;LOCAL/bukvarix_LOCAL.csv;44581;REPLACEMENT_RULE_CHECKED;Russia/CIS-specific destination assigned RU;;yes
+LOC-0737;магазин ближайший от меня;ru;en;TRANSLATE_EN;near_retail;near_me;318;5853;LOCAL/bukvarix_LOCAL.csv;20002;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0738;рынок строительный рядом со мной на карте;ru;uk;TRANSLATE_UK;near_retail;near_me;312;437;LOCAL/bukvarix_LOCAL.csv;46987;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;362;no
+LOC-0739;пивной магазин рядом;ru;en;TRANSLATE_EN;near_retail;near_me;308;1453;LOCAL/bukvarix_LOCAL.csv;3649;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;360;no
+LOC-0740;электронные сигареты магазин рядом;ru;uk;TRANSLATE_UK;near_retail;near_me;296;757;LOCAL/bukvarix_LOCAL.csv;14915;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0741;рыбаловный магазин рядом;ru;uk;TRANSLATE_UK;near_retail;near_me;290;490;LOCAL/bukvarix_LOCAL.csv;3764;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;363;no
+LOC-0742;рыбный магазин рядом;ru;en;TRANSLATE_EN;near_retail;near_me;287;1278;LOCAL/bukvarix_LOCAL.csv;3771;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;364;no
+LOC-0743;вело магазины рядом;ru;uk;TRANSLATE_UK;near_retail;near_me;280;527;LOCAL/bukvarix_LOCAL.csv;3801;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;366;no
+LOC-0744;магнит поблизости;ru;ru;KEEP_RU;near_retail;near_me;267;1141;LOCAL/bukvarix_LOCAL.csv;552;REPLACEMENT_RULE_CHECKED;Russia/CIS-specific destination assigned RU;;yes
+LOC-0745;рядом строй магазин;ru;en;TRANSLATE_EN;near_retail;near_me;262;1019;LOCAL/bukvarix_LOCAL.csv;12463;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;367;no
+LOC-0746;ткани магазин рядом;ru;en;TRANSLATE_EN;near_retail;near_me;254;2281;LOCAL/bukvarix_LOCAL.csv;9781;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;369;no
+LOC-0747;магазин электрики рядом;ru;uk;TRANSLATE_UK;near_retail;near_me;253;1437;LOCAL/bukvarix_LOCAL.csv;3991;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;370;no
+LOC-0748;магазин ночной рядом со мной;ru;en;TRANSLATE_EN;near_retail;near_me;251;1231;LOCAL/bukvarix_LOCAL.csv;36430;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;365;no
+LOC-0749;магазин для рыбалки рядом;ru;uk;TRANSLATE_UK;near_retail;near_me;241;1495;LOCAL/bukvarix_LOCAL.csv;15547;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;368;no
+LOC-0750;крепеж магазин рядом;ru;en;TRANSLATE_EN;near_retail;near_me;238;1351;LOCAL/bukvarix_LOCAL.csv;6698;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;372;no
+LOC-0751;график работы пятерочки рядом со мной;ru;uk;TRANSLATE_UK;near_retail;near_me;237;742;LOCAL/bukvarix_LOCAL.csv;39426;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;371;no
+LOC-0752;рыбацкий магазин рядом;ru;en;TRANSLATE_EN;near_retail;near_me;226;911;LOCAL/bukvarix_LOCAL.csv;4197;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;374;no
+LOC-0753;авто магазин рядом;ru;uk;TRANSLATE_UK;near_retail;near_me;219;1144;LOCAL/bukvarix_LOCAL.csv;4381;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;375;no
+LOC-0754;книжный магазин рядом;ru;en;TRANSLATE_EN;near_retail;near_me;217;1617;LOCAL/bukvarix_LOCAL.csv;4316;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;376;no
+LOC-0755;fix price рядом;ru;ru;KEEP_RU;near_retail;near_me;215;1043;LOCAL/bukvarix_LOCAL.csv;4463;REPLACEMENT_RULE_CHECKED;Universal local-search wording, kept RU;;no
+LOC-0756;магазин техники рядом;ru;ru;KEEP_RU;near_retail;near_me;214;2732;LOCAL/bukvarix_LOCAL.csv;4376;RETAINED_RULE_CHECKED;Universal local-search wording, kept RU;378;no
+LOC-0757;режим работы фикс прайс рядом;ru;ru;KEEP_RU;near_retail;near_me;213;610;LOCAL/bukvarix_LOCAL.csv;32160;RETAINED_RULE_CHECKED;Universal local-search wording, kept RU;379;no
+LOC-0758;соколов ближайший магазин;ru;ru;KEEP_RU;near_retail;near_me;209;924;LOCAL/bukvarix_LOCAL.csv;10459;RETAINED_RULE_CHECKED;Universal local-search wording, kept RU;380;no
+LOC-0759;магазин табак рядом со мной;ru;ru;KEEP_RU;near_retail;near_me;208;657;LOCAL/bukvarix_LOCAL.csv;32481;RETAINED_RULE_CHECKED;Universal local-search wording, kept RU;373;no
+LOC-0760;магазины открытые рядом;ru;ru;KEEP_RU;near_retail;near_me;203;1604;LOCAL/bukvarix_LOCAL.csv;9262;REPLACEMENT_RULE_CHECKED;Universal local-search wording, kept RU;;no
+LOC-0761;ближайший лемана про магазин;ru;ru;KEEP_RU;near_retail;near_me;199;587;LOCAL/bukvarix_LOCAL.csv;20976;RETAINED_RULE_CHECKED;Universal local-search wording, kept RU;377;no
+LOC-0762;график работы магазина магнит рядом со мной;ru;ru;KEEP_RU;near_retail;near_me;198;305;LOCAL/bukvarix_LOCAL.csv;46163;REPLACEMENT_RULE_CHECKED;Russia/CIS-specific destination assigned RU;;yes
+LOC-0763;строительный рядом;ru;ru;KEEP_RU;near_retail;near_me;196;20956;LOCAL/bukvarix_LOCAL.csv;739;REPLACEMENT_RULE_CHECKED;Universal local-search wording, kept RU;;no
+LOC-0764;золотое яблоко ближайший магазин;ru;ru;KEEP_RU;near_retail;near_me;175;1171;LOCAL/bukvarix_LOCAL.csv;19869;REPLACEMENT_RULE_CHECKED;Universal local-search wording, kept RU;;no
+LOC-0765;ашан рядом со мной;ru;ru;KEEP_RU;near_retail;near_me;174;799;LOCAL/bukvarix_LOCAL.csv;16327;REPLACEMENT_RULE_CHECKED;Universal local-search wording, kept RU;;no
+LOC-0766;косметика рядом со мной;ru;ru;KEEP_RU;near_retail;near_me;121;3553;LOCAL/bukvarix_LOCAL.csv;18222;REPLACEMENT_RULE_CHECKED;Universal local-search wording, kept RU;;no
+LOC-0767;рядом метро;ru;uk;TRANSLATE_UK;near_transport;near_me;1682;323517;LOCAL/bukvarix_LOCAL.csv;1453;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0768;фетхие аэропорт ближайший;ru;uk;TRANSLATE_UK;near_transport;near_me;577;1127;LOCAL/bukvarix_LOCAL.csv;3280;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;496;no
+LOC-0769;мармарис ближайший аэропорт;ru;en;TRANSLATE_EN;near_transport;near_me;500;1285;LOCAL/bukvarix_LOCAL.csv;5394;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;497;no
+LOC-0770;остров мечты какое рядом метро;ru;en;TRANSLATE_EN;near_transport;near_me;317;671;LOCAL/bukvarix_LOCAL.csv;37509;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;498;no
+LOC-0771;ближайший аэропорт к анапе;ru;ru;KEEP_RU;near_transport;near_me;265;711;LOCAL/bukvarix_LOCAL.csv;15512;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;499;yes
+LOC-0772;каппадокия ближайший аэропорт;ru;uk;TRANSLATE_UK;near_transport;near_me;246;477;LOCAL/bukvarix_LOCAL.csv;9544;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;500;no
+LOC-0773;ближайший аэропорт байкал;ru;uk;TRANSLATE_UK;near_transport;near_me;236;748;LOCAL/bukvarix_LOCAL.csv;12805;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;501;no
+LOC-0774;вокзал восточный какое метро рядом;ru;en;TRANSLATE_EN;near_transport;near_me;226;1213;LOCAL/bukvarix_LOCAL.csv;34850;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;502;no
+LOC-0775;ближайший открытый аэропорт к ростову на дону;ru;ru;KEEP_RU;near_transport;near_me;217;389;LOCAL/bukvarix_LOCAL.csv;47388;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;512;yes
+LOC-0776;каш ближайший аэропорт;ru;en;TRANSLATE_EN;near_transport;near_me;215;1095;LOCAL/bukvarix_LOCAL.csv;6314;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;504;no
+LOC-0777;минеральные воды парковка рядом с аэропортом;ru;uk;TRANSLATE_UK;near_transport;near_me;210;379;LOCAL/bukvarix_LOCAL.csv;42887;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;508;no
+LOC-0778;метро рядом фуд сити;ru;uk;TRANSLATE_UK;near_transport;near_me;209;600;LOCAL/bukvarix_LOCAL.csv;28142;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;503;no
+LOC-0779;аэропорт кисловодск ближайший;ru;en;TRANSLATE_EN;near_transport;near_me;196;483;LOCAL/bukvarix_LOCAL.csv;12844;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;506;no
+LOC-0780;стоянка внуково рядом с аэропортом;ru;en;TRANSLATE_EN;near_transport;near_me;195;459;LOCAL/bukvarix_LOCAL.csv;31766;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;507;no
+LOC-0781;архыз ближайший аэропорт;ru;uk;TRANSLATE_UK;near_transport;near_me;190;387;LOCAL/bukvarix_LOCAL.csv;8184;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;509;no
+LOC-0782;кемер аэропорт ближайший;ru;uk;TRANSLATE_UK;near_transport;near_me;188;728;LOCAL/bukvarix_LOCAL.csv;6720;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;510;no
+LOC-0783;метро с красной площадью рядом;ru;en;TRANSLATE_EN;near_transport;near_me;187;988;LOCAL/bukvarix_LOCAL.csv;37207;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;511;no
+LOC-0784;казанский вокзал метро какое рядом;ru;ru;KEEP_RU;near_transport;near_me;182;556;LOCAL/bukvarix_LOCAL.csv;34365;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;513;yes
+LOC-0785;кушадасы аэропорт ближайший;ru;en;TRANSLATE_EN;near_transport;near_me;179;331;LOCAL/bukvarix_LOCAL.csv;7861;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;514;no
+LOC-0786;ближайший аэропорт бодрум;ru;ru;KEEP_RU;near_transport;near_me;167;456;LOCAL/bukvarix_LOCAL.csv;13043;RETAINED_RULE_CHECKED;Universal local-search wording, kept RU;515;no
+LOC-0787;метро рядом с метро кантемировская;ru;ru;KEEP_RU;near_transport;near_me;157;600;LOCAL/bukvarix_LOCAL.csv;37829;RETAINED_RULE_CHECKED;Universal local-search wording, kept RU;519;no
+LOC-0788;исаакиевский собор метро рядом;ru;ru;KEEP_RU;near_transport;near_me;153;516;LOCAL/bukvarix_LOCAL.csv;16988;RETAINED_RULE_CHECKED;Universal local-search wording, kept RU;516;no
+LOC-0789;ближайший к ростову аэропорт;ru;ru;KEEP_RU;near_transport;near_me;152;1383;LOCAL/bukvarix_LOCAL.csv;25691;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;517;yes
+LOC-0790;патриаршие пруды метро рядом;ru;ru;KEEP_RU;near_transport;near_me;152;394;LOCAL/bukvarix_LOCAL.csv;16904;RETAINED_RULE_CHECKED;Universal local-search wording, kept RU;518;no
+LOC-0791;98 автобус севастополь маршрут;ru;ru;KEEP_RU;transit_city;city_transit_route;2192;4395;LOCAL/bukvarix_LOCAL.csv;13823;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;661;yes
+LOC-0792;маршрут 47 автобуса иваново;ru;en;TRANSLATE_EN;transit_city;city_transit_route;1925;3623;LOCAL/bukvarix_LOCAL.csv;13708;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0793;14 маршрут автобуса;ru;uk;TRANSLATE_UK;transit_city;city_transit_route;1178;19266;LOCAL/bukvarix_LOCAL.csv;8370;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0794;61 троллейбус маршрут чебоксары;ru;ru;KEEP_RU;transit_city;city_transit_route;846;3197;LOCAL/bukvarix_LOCAL.csv;23082;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;662;yes
+LOC-0795;воронеж маршрут автобуса 95;ru;ru;KEEP_RU;transit_city;city_transit_route;826;1618;LOCAL/bukvarix_LOCAL.csv;23374;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;663;yes
+LOC-0796;93 автобус маршрут самара;ru;ru;KEEP_RU;transit_city;city_transit_route;798;2209;LOCAL/bukvarix_LOCAL.csv;24686;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;664;yes
+LOC-0797;маршрут трамвая 7;ru;en;TRANSLATE_EN;transit_city;city_transit_route;784;11213;LOCAL/bukvarix_LOCAL.csv;2983;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0798;маршрут 22 автобуса ижевск;ru;ru;KEEP_RU;transit_city;city_transit_route;770;1676;LOCAL/bukvarix_LOCAL.csv;13998;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;665;yes
+LOC-0799;оренбург маршрут автобуса 10;ru;ru;KEEP_RU;transit_city;city_transit_route;738;1992;LOCAL/bukvarix_LOCAL.csv;23748;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;666;yes
+LOC-0800;маршрут 21 автобуса дзержинск;ru;ru;KEEP_RU;transit_city;city_transit_route;732;1661;LOCAL/bukvarix_LOCAL.csv;14129;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;667;yes
+LOC-0801;45 автобус маршрут казань;ru;ru;KEEP_RU;transit_city;city_transit_route;726;2448;LOCAL/bukvarix_LOCAL.csv;22757;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;668;yes
+LOC-0802;трамвай 6 маршрут;ru;uk;TRANSLATE_UK;transit_city;city_transit_route;714;9890;LOCAL/bukvarix_LOCAL.csv;3403;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0803;76 автобус санкт петербург маршрут;ru;ru;KEEP_RU;transit_city;city_transit_route;710;1463;LOCAL/bukvarix_LOCAL.csv;36586;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;671;yes
+LOC-0804;55 автобус волгоград маршрут;ru;ru;KEEP_RU;transit_city;city_transit_route;663;1726;LOCAL/bukvarix_LOCAL.csv;14443;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;669;yes
+LOC-0805;64 автобус екатеринбург маршрут;ru;ru;KEEP_RU;transit_city;city_transit_route;663;1520;LOCAL/bukvarix_LOCAL.csv;14404;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;670;yes
+LOC-0806;маршрут 10 троллейбуса;ru;en;TRANSLATE_EN;transit_city;city_transit_route;656;9466;LOCAL/bukvarix_LOCAL.csv;3171;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0807;маршрут 78 автобус саратов;ru;ru;KEEP_RU;transit_city;city_transit_route;623;2171;LOCAL/bukvarix_LOCAL.csv;24828;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;672;yes
+LOC-0808;трамвай 5 краснодар маршрут;ru;ru;KEEP_RU;transit_city;city_transit_route;621;2049;LOCAL/bukvarix_LOCAL.csv;14647;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;673;yes
+LOC-0809;трамвай 3 санкт петербург маршрут;ru;ru;KEEP_RU;transit_city;city_transit_route;615;2254;LOCAL/bukvarix_LOCAL.csv;30393;REPLACEMENT_RULE_CHECKED;Russia/CIS-specific destination assigned RU;;yes
+LOC-0810;маршрут 31 петрозаводск автобуса;ru;ru;KEEP_RU;transit_city;city_transit_route;578;1623;LOCAL/bukvarix_LOCAL.csv;25896;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;674;yes
+LOC-0811;череповец маршрут автобуса 9;ru;en;TRANSLATE_EN;transit_city;city_transit_route;576;1249;LOCAL/bukvarix_LOCAL.csv;24834;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0812;тольятти маршрут автобуса 2;ru;ru;KEEP_RU;transit_city;city_transit_route;563;1165;LOCAL/bukvarix_LOCAL.csv;23098;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;675;yes
+LOC-0813;трамвай 3 саратов маршрут;ru;ru;KEEP_RU;transit_city;city_transit_route;559;1925;LOCAL/bukvarix_LOCAL.csv;15146;REPLACEMENT_RULE_CHECKED;Russia/CIS-specific destination assigned RU;;yes
+LOC-0814;10 маршрут автобуса пермь;ru;ru;KEEP_RU;transit_city;city_transit_route;536;1489;LOCAL/bukvarix_LOCAL.csv;26113;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;676;yes
+LOC-0815;трамвай 5 казань маршрут;ru;ru;KEEP_RU;transit_city;city_transit_route;525;1573;LOCAL/bukvarix_LOCAL.csv;15475;REPLACEMENT_RULE_CHECKED;Russia/CIS-specific destination assigned RU;;yes
+LOC-0816;маршрут автобуса 33 иркутск;ru;ru;KEEP_RU;transit_city;city_transit_route;510;548;LOCAL/bukvarix_LOCAL.csv;24747;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;677;yes
+LOC-0817;пенза маршрут 130 автобуса;ru;uk;TRANSLATE_UK;transit_city;city_transit_route;493;1670;LOCAL/bukvarix_LOCAL.csv;24698;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;679;no
+LOC-0818;троллейбус 3 казань маршрут;ru;ru;KEEP_RU;transit_city;city_transit_route;483;992;LOCAL/bukvarix_LOCAL.csv;14965;REPLACEMENT_RULE_CHECKED;Russia/CIS-specific destination assigned RU;;yes
+LOC-0819;маршрут автобуса 5 архангельск;ru;uk;TRANSLATE_UK;transit_city;city_transit_route;482;1297;LOCAL/bukvarix_LOCAL.csv;19716;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;680;no
+LOC-0820;маршрут 10 автобуса набережные челны;ru;en;TRANSLATE_EN;transit_city;city_transit_route;476;1229;LOCAL/bukvarix_LOCAL.csv;30811;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;683;no
+LOC-0821;краснодар маршрут трамвая 5;ru;ru;KEEP_RU;transit_city;city_transit_route;464;1849;LOCAL/bukvarix_LOCAL.csv;24303;REPLACEMENT_RULE_CHECKED;Russia/CIS-specific destination assigned RU;;yes
+LOC-0822;краснодар троллейбус 7 маршрут;ru;ru;KEEP_RU;transit_city;city_transit_route;451;1246;LOCAL/bukvarix_LOCAL.csv;21421;REPLACEMENT_RULE_CHECKED;Russia/CIS-specific destination assigned RU;;yes
+LOC-0823;тамбов маршрут автобуса 50;ru;uk;TRANSLATE_UK;transit_city;city_transit_route;451;1039;LOCAL/bukvarix_LOCAL.csv;25140;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;681;no
+LOC-0824;электробус 15 волгоград маршрут;ru;ru;KEEP_RU;transit_city;city_transit_route;450;1123;LOCAL/bukvarix_LOCAL.csv;14960;REPLACEMENT_RULE_CHECKED;Russia/CIS-specific destination assigned RU;;yes
+LOC-0825;15а волгоград маршрут троллейбус;ru;ru;KEEP_RU;transit_city;city_transit_route;446;852;LOCAL/bukvarix_LOCAL.csv;25734;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;682;yes
+LOC-0826;13 автобус чебоксары маршрут;ru;ru;KEEP_RU;transit_city;city_transit_route;445;891;LOCAL/bukvarix_LOCAL.csv;15863;REPLACEMENT_RULE_CHECKED;Russia/CIS-specific destination assigned RU;;yes
+LOC-0827;4 троллейбус петрозаводск маршрут;ru;ru;KEEP_RU;transit_city;city_transit_route;423;811;LOCAL/bukvarix_LOCAL.csv;22187;REPLACEMENT_RULE_CHECKED;Russia/CIS-specific destination assigned RU;;yes
+LOC-0828;уфа 51 автобус маршрут;ru;ru;KEEP_RU;transit_city;city_transit_route;407;1513;LOCAL/bukvarix_LOCAL.csv;23747;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;684;yes
+LOC-0829;ярославль автобус 8 маршрут;ru;en;TRANSLATE_EN;transit_city;city_transit_route;400;1310;LOCAL/bukvarix_LOCAL.csv;26360;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;685;no
+LOC-0830;маршрут 17 автобус рязань;ru;ru;KEEP_RU;transit_city;city_transit_route;396;1056;LOCAL/bukvarix_LOCAL.csv;26397;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;686;yes
+LOC-0831;7 троллейбус челябинск маршрут;ru;ru;KEEP_RU;transit_city;city_transit_route;392;909;LOCAL/bukvarix_LOCAL.csv;20260;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;687;yes
+LOC-0832;маршрут 105 троллейбус пенза;ru;uk;TRANSLATE_UK;transit_city;city_transit_route;383;954;LOCAL/bukvarix_LOCAL.csv;27306;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0833;саратов маршрут трамвая 3;ru;ru;KEEP_RU;transit_city;city_transit_route;378;1845;LOCAL/bukvarix_LOCAL.csv;24182;REPLACEMENT_RULE_CHECKED;Russia/CIS-specific destination assigned RU;;yes
+LOC-0834;2 трамвай нижний новгород маршрут;ru;ru;KEEP_RU;transit_city;city_transit_route;371;951;LOCAL/bukvarix_LOCAL.csv;36601;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;696;yes
+LOC-0835;краснодар маршрут 10 автобуса;ru;ru;KEEP_RU;transit_city;city_transit_route;371;1034;LOCAL/bukvarix_LOCAL.csv;23768;REPLACEMENT_RULE_CHECKED;Russia/CIS-specific destination assigned RU;;yes
+LOC-0836;маршрут 31 автобуса брянск;ru;en;TRANSLATE_EN;transit_city;city_transit_route;369;1320;LOCAL/bukvarix_LOCAL.csv;14903;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;688;no
+LOC-0837;маршрут автобуса 71 хабаровск;ru;ru;KEEP_RU;transit_city;city_transit_route;369;775;LOCAL/bukvarix_LOCAL.csv;22554;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;689;yes
+LOC-0838;нефтекамск автобус 9 маршрут;ru;uk;TRANSLATE_UK;transit_city;city_transit_route;362;1101;LOCAL/bukvarix_LOCAL.csv;27649;REPLACEMENT_RULE_CHECKED;Universal local-search wording, balanced by topic;;no
+LOC-0839;22 трамвай ульяновск маршрут;ru;en;TRANSLATE_EN;transit_city;city_transit_route;361;940;LOCAL/bukvarix_LOCAL.csv;18806;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;690;no
+LOC-0840;маршрут 10 трамвая ижевск;ru;ru;KEEP_RU;transit_city;city_transit_route;360;896;LOCAL/bukvarix_LOCAL.csv;15126;REPLACEMENT_RULE_CHECKED;Russia/CIS-specific destination assigned RU;;yes
+LOC-0841;483 автобус челябинск маршрут расписание;ru;ru;KEEP_RU;transit_city;city_transit_route;353;463;LOCAL/bukvarix_LOCAL.csv;30704;RETAINED_RULE_CHECKED;Russia/CIS-specific destination assigned RU;701;yes
+LOC-0842;маршрут 9 троллейбуса ижевск;ru;ru;KEEP_RU;transit_city;city_transit_route;349;894;LOCAL/bukvarix_LOCAL.csv;15016;REPLACEMENT_RULE_CHECKED;Russia/CIS-specific destination assigned RU;;yes
+LOC-0843;автобус 23 саранск маршрут;ru;en;TRANSLATE_EN;transit_city;city_transit_route;347;1095;LOCAL/bukvarix_LOCAL.csv;21917;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;694;no
+LOC-0844;маршрут 1 автобуса вологда;ru;uk;TRANSLATE_UK;transit_city;city_transit_route;347;1228;LOCAL/bukvarix_LOCAL.csv;17571;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;695;no
+LOC-0845;белгород маршрут 33 автобуса;ru;en;TRANSLATE_EN;transit_city;city_transit_route;340;790;LOCAL/bukvarix_LOCAL.csv;26446;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;698;no
+LOC-0846;550 автобус сочи маршрут;ru;uk;TRANSLATE_UK;transit_city;city_transit_route;328;908;LOCAL/bukvarix_LOCAL.csv;18595;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";700;yes
+LOC-0847;14 трамвай екатеринбург маршрут;ru;en;TRANSLATE_EN;transit_city;city_transit_route;325;1229;LOCAL/bukvarix_LOCAL.csv;17450;REPLACEMENT_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";;yes
+LOC-0848;трамвай 3 калининград маршрут;ru;uk;TRANSLATE_UK;transit_city;city_transit_route;321;1007;LOCAL/bukvarix_LOCAL.csv;16140;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;702;no
+LOC-0849;28 маршрут троллейбус екатеринбург;ru;uk;TRANSLATE_UK;transit_city;city_transit_route;320;1003;LOCAL/bukvarix_LOCAL.csv;26395;REPLACEMENT_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";;yes
+LOC-0850;83 автобус маршрут тула;ru;en;TRANSLATE_EN;transit_city;city_transit_route;320;932;LOCAL/bukvarix_LOCAL.csv;25730;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;703;no
+LOC-0851;мурманск маршрут автобуса 18;ru;uk;TRANSLATE_UK;transit_city;city_transit_route;316;503;LOCAL/bukvarix_LOCAL.csv;27454;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;704;no
+LOC-0852;маршрут автобуса 45 омск;ru;en;TRANSLATE_EN;transit_city;city_transit_route;313;1482;LOCAL/bukvarix_LOCAL.csv;23087;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";705;yes
+LOC-0853;маршрут автобуса 18 сургут;ru;uk;TRANSLATE_UK;transit_city;city_transit_route;308;787;LOCAL/bukvarix_LOCAL.csv;20901;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;706;no
+LOC-0854;киров маршрут автобуса 2;ru;en;TRANSLATE_EN;transit_city;city_transit_route;307;888;LOCAL/bukvarix_LOCAL.csv;25144;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;707;no
+LOC-0855;автобус 92 ростов на дону маршрут онлайн;ru;uk;TRANSLATE_UK;transit_city;city_transit_route;306;347;LOCAL/bukvarix_LOCAL.csv;46203;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";716;yes
+LOC-0856;нижний новгород 45 автобус маршрут;ru;en;TRANSLATE_EN;transit_city;city_transit_route;300;1177;LOCAL/bukvarix_LOCAL.csv;37330;REPLACEMENT_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";;yes
+LOC-0857;маршрут 7 трамвай барнаул;ru;en;TRANSLATE_EN;transit_city;city_transit_route;298;828;LOCAL/bukvarix_LOCAL.csv;25943;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;708;no
+LOC-0858;маршрут автобуса 11 томск;ru;uk;TRANSLATE_UK;transit_city;city_transit_route;286;624;LOCAL/bukvarix_LOCAL.csv;23491;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;709;no
+LOC-0859;маршрут 50 автобуса красноярск;ru;uk;TRANSLATE_UK;transit_city;city_transit_route;282;904;LOCAL/bukvarix_LOCAL.csv;16389;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";710;yes
+LOC-0860;автобус 40 ростов на дону маршрут;ru;en;TRANSLATE_EN;transit_city;city_transit_route;279;891;LOCAL/bukvarix_LOCAL.csv;40895;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";717;yes
+LOC-0861;автобус 211 маршрут остановки и расписание санкт петербург;ru;uk;TRANSLATE_UK;transit_city;city_transit_route;269;295;LOCAL/bukvarix_LOCAL.csv;48152;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";729;yes
+LOC-0862;маршрут нижний новгород автобус 40 с остановками;ru;en;TRANSLATE_EN;transit_city;city_transit_route;264;451;LOCAL/bukvarix_LOCAL.csv;47774;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";726;yes
+LOC-0863;смоленск маршрут автобуса 50;ru;uk;TRANSLATE_UK;transit_city;city_transit_route;264;911;LOCAL/bukvarix_LOCAL.csv;28444;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;712;no
+LOC-0864;троллейбус 10а волгоград маршрут;ru;uk;TRANSLATE_UK;transit_city;city_transit_route;248;682;LOCAL/bukvarix_LOCAL.csv;17766;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";714;yes
+LOC-0865;троллейбус 24 новосибирск маршрут;ru;en;TRANSLATE_EN;transit_city;city_transit_route;229;648;LOCAL/bukvarix_LOCAL.csv;17001;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";719;yes
+LOC-0866;ставрополь маршрут троллейбуса 4;ru;en;TRANSLATE_EN;transit_city;city_transit_route;226;682;LOCAL/bukvarix_LOCAL.csv;23299;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;720;no
+LOC-0867;94 автобус маршрут курган;ru;en;TRANSLATE_EN;transit_city;city_transit_route;221;526;LOCAL/bukvarix_LOCAL.csv;28590;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;721;no
+LOC-0868;автобус 84 екатеринбург маршрут остановки и расписание;ru;uk;TRANSLATE_UK;transit_city;city_transit_route;217;217;LOCAL/bukvarix_LOCAL.csv;44863;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";737;yes
+LOC-0869;псков маршрут автобуса 55;ru;uk;TRANSLATE_UK;transit_city;city_transit_route;217;476;LOCAL/bukvarix_LOCAL.csv;28218;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;722;no
+LOC-0870;магнитогорск маршрут автобуса 65;ru;uk;TRANSLATE_UK;transit_city;city_transit_route;212;826;LOCAL/bukvarix_LOCAL.csv;23589;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;724;no
+LOC-0871;маршрут автобуса 3 кострома;ru;en;TRANSLATE_EN;transit_city;city_transit_route;206;604;LOCAL/bukvarix_LOCAL.csv;21372;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;727;no
+LOC-0872;тюмень маршрут автобуса 2;ru;en;TRANSLATE_EN;transit_city;city_transit_route;206;505;LOCAL/bukvarix_LOCAL.csv;27457;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";728;yes
+LOC-0873;ростов на дону автобус 85а маршрут;ru;uk;TRANSLATE_UK;transit_city;city_transit_route;198;495;LOCAL/bukvarix_LOCAL.csv;42662;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";738;yes
+LOC-0874;109 автобус анапа сукко маршрут расписание;ru;en;TRANSLATE_EN;transit_city;city_transit_route;197;224;LOCAL/bukvarix_LOCAL.csv;42065;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";741;yes
+LOC-0875;маршрут троллейбуса 1 чита;ru;uk;TRANSLATE_UK;transit_city;city_transit_route;195;606;LOCAL/bukvarix_LOCAL.csv;18499;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;730;no
+LOC-0876;маршрут 117 автобуса астрахань;ru;en;TRANSLATE_EN;transit_city;city_transit_route;194;408;LOCAL/bukvarix_LOCAL.csv;17322;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;731;no
+LOC-0877;автобус 21 самара маршрут остановки и расписание;ru;uk;TRANSLATE_UK;transit_city;city_transit_route;190;191;LOCAL/bukvarix_LOCAL.csv;44979;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";751;yes
+LOC-0878;калуга маршрут 4 автобуса;ru;en;TRANSLATE_EN;transit_city;city_transit_route;189;395;LOCAL/bukvarix_LOCAL.csv;26835;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";733;yes
+LOC-0879;маршрут автобуса 15 владивосток;ru;uk;TRANSLATE_UK;transit_city;city_transit_route;176;549;LOCAL/bukvarix_LOCAL.csv;21263;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";735;yes
+LOC-0880;маршрут автобуса 5 геленджик;ru;uk;TRANSLATE_UK;transit_city;city_transit_route;172;627;LOCAL/bukvarix_LOCAL.csv;20766;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;736;no
+LOC-0881;5 троллейбус симферополь маршрут;ru;en;TRANSLATE_EN;transit_city;city_transit_route;169;319;LOCAL/bukvarix_LOCAL.csv;23167;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;739;no
+LOC-0882;маршрут автобуса 30 благовещенск;ru;en;TRANSLATE_EN;transit_city;city_transit_route;169;278;LOCAL/bukvarix_LOCAL.csv;24145;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;740;no
+LOC-0883;трамвай 5 уфа маршрут онлайн;ru;uk;TRANSLATE_UK;transit_city;city_transit_route;169;267;LOCAL/bukvarix_LOCAL.csv;35136;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";749;yes
+LOC-0884;челябинск автобус 17а маршрут;ru;en;TRANSLATE_EN;transit_city;city_transit_route;167;422;LOCAL/bukvarix_LOCAL.csv;27130;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";742;yes
+LOC-0885;15 маршрут автобуса сыктывкар;ru;uk;TRANSLATE_UK;transit_city;city_transit_route;166;412;LOCAL/bukvarix_LOCAL.csv;29066;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;743;no
+LOC-0886;23 автобус маршрут владимир;ru;en;TRANSLATE_EN;transit_city;city_transit_route;164;367;LOCAL/bukvarix_LOCAL.csv;27498;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;744;no
+LOC-0887;маршрут 114 автобуса анапа;ru;uk;TRANSLATE_UK;transit_city;city_transit_route;164;755;LOCAL/bukvarix_LOCAL.csv;20725;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";745;yes
+LOC-0888;18 трамвай нижний новгород маршрут онлайн;ru;en;TRANSLATE_EN;transit_city;city_transit_route;157;157;LOCAL/bukvarix_LOCAL.csv;40101;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";758;yes
+LOC-0889;маршрут 10к троллейбуса севастополь;ru;en;TRANSLATE_EN;transit_city;city_transit_route;150;331;LOCAL/bukvarix_LOCAL.csv;20779;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";752;yes
+LOC-0890;маршрут 401 автобуса дзержинск нижний новгород;ru;uk;TRANSLATE_UK;transit_city;city_transit_route;146;277;LOCAL/bukvarix_LOCAL.csv;40343;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";767;yes
+LOC-0891;тверь автобус 208 маршрут;ru;uk;TRANSLATE_UK;transit_city;city_transit_route;142;402;LOCAL/bukvarix_LOCAL.csv;24906;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";755;yes
+LOC-0892;автобус 39а тула маршрут расписание;ru;uk;TRANSLATE_UK;transit_city;city_transit_route;139;143;LOCAL/bukvarix_LOCAL.csv;35058;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;763;no
+LOC-0893;маршрут 87 автобуса новокузнецк;ru;uk;TRANSLATE_UK;transit_city;city_transit_route;138;292;LOCAL/bukvarix_LOCAL.csv;18453;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;756;no
+LOC-0894;курск маршрут автобуса 46;ru;en;TRANSLATE_EN;transit_city;city_transit_route;133;502;LOCAL/bukvarix_LOCAL.csv;28606;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;759;no
+LOC-0895;маршрут автобуса 338 балашиха;ru;uk;TRANSLATE_UK;transit_city;city_transit_route;131;365;LOCAL/bukvarix_LOCAL.csv;26039;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;760;no
+LOC-0896;маршрут автобуса 55 нижнекамск;ru;en;TRANSLATE_EN;transit_city;city_transit_route;131;344;LOCAL/bukvarix_LOCAL.csv;24041;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;761;no
+LOC-0897;автобус 7п йошкар ола маршрут;ru;en;TRANSLATE_EN;transit_city;city_transit_route;130;323;LOCAL/bukvarix_LOCAL.csv;33649;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;770;no
+LOC-0898;маршрут 14а автобуса челябинск;ru;en;TRANSLATE_EN;transit_city;city_transit_route;130;295;LOCAL/bukvarix_LOCAL.csv;19729;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";762;yes
+LOC-0899;зеленоград маршрут автобуса 32;ru;uk;TRANSLATE_UK;transit_city;city_transit_route;125;417;LOCAL/bukvarix_LOCAL.csv;26545;RETAINED_RULE_CHECKED;Universal local-search wording, balanced by topic;766;no
+LOC-0900;маршрут 535 автобуса адлер;ru;uk;TRANSLATE_UK;transit_city;city_transit_route;121;467;LOCAL/bukvarix_LOCAL.csv;19771;RETAINED_RULE_CHECKED;"Named place/service; translate natural location phrasing without changing place identity";769;yes
