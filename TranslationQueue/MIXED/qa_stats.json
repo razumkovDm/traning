@@ -1,0 +1,100 @@
+{
+  "source_file": "MIXED/bukvarix_MIXED.csv",
+  "source_csv_records": 126191,
+  "original_rows": 900,
+  "retained_original": 710,
+  "replacements": 190,
+  "final_rows": 900,
+  "unique_normalized_queries": 900,
+  "original_language": "ru",
+  "translated_rows": 0,
+  "target_languages": {
+    "ru": 300,
+    "uk": 300,
+    "en": 300
+  },
+  "intent_distribution": {
+    "NAVIGATIONAL+TRANSACTIONAL/tickets": 100,
+    "NAVIGATIONAL+TRANSACTIONAL/shopping": 85,
+    "NAVIGATIONAL+COMMERCIAL/reviews": 90,
+    "LOCAL+COMMERCIAL/choices": 120,
+    "LOCAL+TRANSACTIONAL/shopping": 110,
+    "INFORMATIONAL+TRANSACTIONAL/schedule_ticket": 100,
+    "INFORMATIONAL+COMMERCIAL/specs_price": 150,
+    "INFORMATIONAL+COMMERCIAL/medicine_instructions_price": 18,
+    "COMMERCIAL+TRANSACTIONAL/reviews_buy": 70,
+    "COMMERCIAL+TRANSACTIONAL/ranking_buy": 42,
+    "LOCAL+INFORMATIONAL/hours_price": 15
+  },
+  "intent_language_distribution": {
+    "NAVIGATIONAL+TRANSACTIONAL/tickets": {
+      "ru": 34,
+      "uk": 33,
+      "en": 33
+    },
+    "NAVIGATIONAL+TRANSACTIONAL/shopping": {
+      "ru": 28,
+      "uk": 29,
+      "en": 28
+    },
+    "NAVIGATIONAL+COMMERCIAL/reviews": {
+      "ru": 30,
+      "uk": 30,
+      "en": 30
+    },
+    "LOCAL+COMMERCIAL/choices": {
+      "uk": 40,
+      "en": 40,
+      "ru": 40
+    },
+    "LOCAL+TRANSACTIONAL/shopping": {
+      "ru": 37,
+      "uk": 36,
+      "en": 37
+    },
+    "INFORMATIONAL+TRANSACTIONAL/schedule_ticket": {
+      "uk": 34,
+      "en": 33,
+      "ru": 33
+    },
+    "INFORMATIONAL+COMMERCIAL/specs_price": {
+      "ru": 50,
+      "uk": 50,
+      "en": 50
+    },
+    "INFORMATIONAL+COMMERCIAL/medicine_instructions_price": {
+      "ru": 6,
+      "uk": 6,
+      "en": 6
+    },
+    "COMMERCIAL+TRANSACTIONAL/reviews_buy": {
+      "ru": 23,
+      "uk": 23,
+      "en": 24
+    },
+    "COMMERCIAL+TRANSACTIONAL/ranking_buy": {
+      "ru": 14,
+      "uk": 14,
+      "en": 14
+    },
+    "LOCAL+INFORMATIONAL/hours_price": {
+      "uk": 5,
+      "ru": 5,
+      "en": 5
+    }
+  },
+  "replacement_reasons": {
+    "weak_mixed_intent": 62,
+    "same_subject_overflow": 70,
+    "unsafe_or_low_value": 8,
+    "quota": 50
+  },
+  "source_provenance_verified": 900,
+  "exact_duplicates": 0,
+  "near_similar_pairs_token_overlap_ge_0_90": 14,
+  "regional_context_in_uk_en_queue": 273,
+  "collected_at_known": false,
+  "method": "Rules, raw-source verification, brand/topic caps, near-duplicate screening; not an independent human gold-label review",
+  "sha256_original_900_csv": "cf10906347c932f9b82d92a4e8e894eb71ae535d31118fb310a50d6c9d825cec",
+  "sha256_cleaned_900_csv": "66aa350d4ec802b5e40f0667f5698444e89d5aac066216399ebabcc15b7b1cc6"
+}
