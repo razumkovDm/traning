@@ -95,6 +95,15 @@
   "regional_context_in_uk_en_queue": 273,
   "collected_at_known": false,
   "method": "Rules, raw-source verification, brand/topic caps, near-duplicate screening; not an independent human gold-label review",
-  "sha256_original_900_csv": "cf10906347c932f9b82d92a4e8e894eb71ae535d31118fb310a50d6c9d825cec",
-  "sha256_cleaned_900_csv": "66aa350d4ec802b5e40f0667f5698444e89d5aac066216399ebabcc15b7b1cc6"
+  "sha256_original_900_csv": "50af7bd884bd9b9e44eabc69437f0445b2de39db092043ea264935763e96f8aa",
+  "sha256_cleaned_900_csv": "f8b87fc982df46b5c80de90c78d4555d234288eceeee706cff06f231beeeb77c",
+  "published_github_line_endings": "LF, without trailing newline",
+  "cross_class_exact_overlaps": 0,
+  "cross_class_checked_against": [
+    "INFORMATIONAL",
+    "COMMERCIAL",
+    "TRANSACTIONAL",
+    "NAVIGATIONAL",
+    "LOCAL"
+  ]
 }
